@@ -237,6 +237,7 @@ fig_contagios_mundo = graficar(fig, titulo,xtitulo,ytitulo,'itera',0,'tiempo')#p
 
 ########### Initiate the app
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+githublink='https://github.com/LoretoSanchez/Covid19'
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 app.title='Covid-19 Kudaw'
@@ -251,7 +252,7 @@ app.layout = html.Div(children=[
     ),
     html.A('Code on Github', href=githublink),
     html.Br(),
-    html.A('Data Source', href=sourceurl),
+    #html.A('Data Source', href=sourceurl),
     ]
 )
 
