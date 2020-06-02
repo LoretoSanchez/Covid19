@@ -14,6 +14,10 @@ import chart_studio
 import chart_studio.plotly as py
 import chart_studio.tools as tls
 
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+
 username = 'LoreChile'
 api_key = 'NIIlk6BYFSCK5383WlEe'
 
