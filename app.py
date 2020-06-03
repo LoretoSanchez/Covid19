@@ -172,7 +172,7 @@ fig.update_layout(xaxis_title=xtitulo,yaxis_title=ytitulo,
 #fig_contagios_mundo = graficar(fig, titulo,xtitulo,ytitulo,'itera',0,'tiempo')#px.colors.qualitative.Alphabet[p]
 
 ########### Define your variables
-tabtitle='covid-19'
+tabtitle='Covid-19'
 myheading='Covid-19 en Chile y el Mundo'
 #label1='IBU'
 #label2='ABV'
