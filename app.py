@@ -1,111 +1,28 @@
-import pandas as pd
-import numpy as np
-#import cufflinks as cf
-import plotly
-import plotly.graph_objs as go
-import plotly.express as px
-from datetime import datetime,timedelta
-
-from scipy.optimize import curve_fit
-import sklearn.metrics as sklm
-from scipy.optimize import fsolve
-
-import chart_studio
-import chart_studio.plotly as py
-import chart_studio.tools as tls
-
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+import plotly.graph_objs as go
 
-username = 'LoreChile'
-api_key = 'NIIlk6BYFSCK5383WlEe'
+import pandas as pd
+import numpy as np
+import plotly
+#import plotly.graph_objs as go
+import plotly.express as px
+from datetime import datetime,timedelta
 
-chart_studio.tools.set_credentials_file(username=username, api_key=api_key)
+#from scipy.optimize import curve_fit
+#import sklearn.metrics as sklm
+#from scipy.optimize import fsolve
 
+#import chart_studio
+#import chart_studio.plotly as py
+#import chart_studio.tools as tls
+ 
 #########################################################################################
-# Función de gráfico 
-def graficar(fig, titulo,xtitulo,ytitulo,tipo,dff,ejex):
-    
-    if ejex == 'tiempo':
-        updatemenus = list([
-            dict(active=1,
-                 buttons=list([
-                    dict(label='Log',
-                         method='update',
-                         args=[{'visible': [True, True]},
-                               {'title': titulo+', escala logarítmica',
-                                'yaxis': {'type': 'log','title':ytitulo},}]),
-                    dict(label='Lineal',
-                         method='update',
-                         args=[{'visible': [True, True]},
-                               {'title': titulo+', escala lineal',
-                                'yaxis': {'type': 'linear','title':ytitulo},}])]),
-                    direction="down",pad={"r": 0, "t": 0},showactive=True,
-                    x=-0.16,xanchor="left",y=1.05,yanchor="top")])
-   
-    elif ejex == 'num':
-        updatemenus = list([
-            dict(active=1,
-                 buttons=list([
-                    dict(label='Log',
-                         method='update',
-                         args=[{'visible': [True, True]},
-                               {'title': titulo+', escala logarítmica',
-                                'yaxis': {'type': 'log','title':ytitulo},
-                                'xaxis': {'type': 'log','title':xtitulo}}]),
-                    dict(label='Lineal',
-                         method='update',
-                         args=[{'visible': [True, True]},
-                               {'title': titulo+', escala lineal',
-                                'yaxis': {'type': 'linear','title':ytitulo},
-                                'xaxis': {'type': 'linear','title':xtitulo}}])]),
-                    direction="down",pad={"r": 0, "t": 0},showactive=True,
-                    x=-0.16,xanchor="left",y=1.05,yanchor="top")])  
-    
-    elif ejex == 'lin_log':
-        updatemenus = list([
-            dict(active=1,
-                 buttons=list([
-                    dict(label='Log',
-                         method='update',
-                         args=[{'visible': [True, True]},
-                               {'title': titulo+' (escala logarítmica)',
-                                'yaxis': {'type': 'linear','title':ytitulo},
-                                'xaxis': {'type': 'log','title':xtitulo}}]),
-                    dict(label='Lineal',
-                         method='update',
-                         args=[{'visible': [True, True]},
-                               {'title': titulo+' (escala lineal)',
-                                'yaxis': {'type': 'linear','title':ytitulo},
-                                'xaxis': {'type': 'linear','title':xtitulo}}])]),
-                    direction="down",
-                    pad={"r": 0, "t": 0},
-                    showactive=True,
-                    x=-0.16,
-                    xanchor="left",
-                    y=1.05,
-            yanchor="top")])        
-        
-        
-    fig.layout = dict(updatemenus=updatemenus,title=titulo+', escala lineal')
-    
-    if tipo=='dframe':
-        layout = dict(updatemenus=updatemenus,title=titulo+', escala lineal')
-        fig = dff.iplot(asFigure=True,layout=layout)
-    
-    fig.update_layout(xaxis_title=xtitulo,yaxis_title=ytitulo,
-                      font=dict(family="Courier New, monospace",size=12,color="#7f7f7f"))
-    
-    return fig
-    #fig.show()
-#########################################################################################
-
 paises = ['Chile','China','USA','Spain','Italy','Germany','UK','South Korea','Brazil','Argentina','Peru',
         'Ecuador','New Zealand','Australia']
 
 #########################################################################################
-
 # paletas de coloresplotly discretos:
 category10 = ["#1f77b4","#ff7f0e","#2ca02c","#d62728","#9467bd","#8c564b","#e377c2","#7f7f7f","#bcbd22","#17becf"]
 dark2 = ["#1b9e77","#d95f02","#7570b3","#e7298a","#66a61e","#e6ab02","#a6761d","#666666"]
@@ -178,7 +95,6 @@ df_regiones = df_lee.copy()
 df_chile = df_lee.loc[df_lee['Region'] == 'Chile'].reset_index(drop = True)
 df_chile.rename(columns={"Region": "Pais"}, inplace =True)
 df_chile['Fecha']= pd.to_datetime(df_chile['Fecha'])
-#df_chile.tail(2)
 
 # Función que lee archivos csv con datos internacionales y genera dataframes por país
 df_lee = pd.read_csv('paises.csv', sep=',')
@@ -203,7 +119,6 @@ for p in paises2:
 
 df_paises['Spain']['Contagios']=df_paises2['Spain']['Contagios']
 #########################################################################################
-
 # Generación de un diccionario con los dataframes de casos confirmados de los distintos  
 # países con día 0 como el día en que superaron los 100 contagiados.
 dic_df_conf_int = dict()
@@ -233,38 +148,56 @@ for i,p in enumerate(paises):
 titulo = 'Número de Casos Confirmados Internacionales'
 xtitulo = "Fecha"
 ytitulo = 'Casos Confirmados'
-fig_contagios_mundo = graficar(fig, titulo,xtitulo,ytitulo,'itera',0,'tiempo')#px.colors.qualitative.Alphabet[p]
-#cases_int_time = fig
-#fig.show()
-#py.plot(cases_int_time, filename = 'Casos en el tiempo', auto_open=False)
+
+updatemenus = list([
+    dict(active=1,
+         buttons=list([
+            dict(label='Log',
+                 method='update',
+                 args=[{'visible': [True, True]},
+                       {'title': titulo+', escala logarítmica',
+                        'yaxis': {'type': 'log','title':ytitulo},}]),
+            dict(label='Lineal',
+                 method='update',
+                 args=[{'visible': [True, True]},
+                       {'title': titulo+', escala lineal',
+                        'yaxis': {'type': 'linear','title':ytitulo},}])]),
+            direction="down",pad={"r": 0, "t": 0},showactive=True,
+            x=-0.16,xanchor="left",y=1.05,yanchor="top")])
+ 
+fig.layout = dict(updatemenus=updatemenus,title=titulo+', escala lineal') 
+fig.update_layout(xaxis_title=xtitulo,yaxis_title=ytitulo,
+                      font=dict(family="Courier New, monospace",size=12,color="#7f7f7f"))
+
+#fig_contagios_mundo = graficar(fig, titulo,xtitulo,ytitulo,'itera',0,'tiempo')#px.colors.qualitative.Alphabet[p]
+
+########### Define your variables
+tabtitle='Covid-19'
+myheading='Covid-19 en Chile y el Mundo'
+#label1='IBU'
+#label2='ABV'
+#githublink='https://github.com/austinlasseter/flying-dog-beers'
+#sourceurl='https://www.flyingdog.com/beers/'
 
 
 ########### Initiate the app
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-githublink='https://github.com/LoretoSanchez/Covid19'
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
-app.title='Covid-19 Kudaw'
-
+app.title=tabtitle
 
 ########### Set up the layout
 app.layout = html.Div(children=[
     html.H1(myheading),
     dcc.Graph(
-        id='contagios_mundo',
-        figure=fig_contagios_mundo
+        id='plot1',
+        figure=fig
     ),
-    html.A('Code on Github', href=githublink),
-    html.Br(),
+    #html.A('Code on Github', href=githublink),
+    #html.Br(),
     #html.A('Data Source', href=sourceurl),
     ]
 )
-
-
-
-
-
-
 
 if __name__ == '__main__':
     app.run_server()
