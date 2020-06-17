@@ -9,6 +9,8 @@ import plotly
 #import plotly.graph_objs as go
 import plotly.express as px
 from datetime import datetime,timedelta
+import re
+
 
 #from scipy.optimize import curve_fit
 #import sklearn.metrics as sklm
@@ -19,16 +21,18 @@ from datetime import datetime,timedelta
 #import chart_studio.tools as tls
  
 #########################################################################################
+"""
 paises = ['Chile','China','USA','Spain','Italy','Germany','UK','South Korea','Brazil','Argentina','Peru',
         'Ecuador','New Zealand','Australia']
-
+"""
 #########################################################################################
 # paletas de coloresplotly discretos:
 category10 = ["#1f77b4","#ff7f0e","#2ca02c","#d62728","#9467bd","#8c564b","#e377c2","#7f7f7f","#bcbd22","#17becf"]
 dark2 = ["#1b9e77","#d95f02","#7570b3","#e7298a","#66a61e","#e6ab02","#a6761d","#666666"]
 tableau10 = ["#4e79a7","#f28e2c","#e15759","#76b7b2","#59a14f","#edc949","#af7aa1","#ff9da7","#9c755f","#bab0ab"]
-
-# Generador de colores para graficar
+#########################################################################################
+#### Generador de colores para graficar  ################################################
+#########################################################################################
 from typing import Iterable, Tuple
 import colorsys
 import itertools
@@ -86,8 +90,61 @@ def ncolores (n):
     pycolores.extend(clrs)
     return pycolores
 
+
+##############################################################################################################
+### Otras funciones ##########################################################################################
+##############################################################################################################
+def get_populations():
+    """ Load the information that we have about countries """
+    pop = pd.read_csv('data/countryInfo.txt', sep='\t', skiprows=50)
+    return pop
+
+def normalize_by_population2(tidy_df):
+    """ Normalize by population the column "Contagios" of a dataframe with
+        lines being the country ISO
+    """
+    pop = get_populations()
+
+    pop0 = pop.set_index('ISO3')['Population']
+    contagios = df_recent.set_index('iso')['Contagios']
+    divisor=contagios.copy()
+    for idx,i in enumerate(df_recent['iso']):
+        divisor[idx] = pop0[i]
+
+    normalized_values = (df_recent.set_index('iso')['Contagios']
+                         / divisor)
+
+    # NAs appeared because we don't have data for all entries of the pop
+    # table
+    normalized_values = normalized_values.dropna()
+    assert len(normalized_values) == len(tidy_df),\
+        ("Not every country in the given dataframe was found in our "
+         "database of populations")
+    return normalized_values
+
+
+
+##############################################################################################################
+### Otros ####################################################################################################
+##############################################################################################################
+
+URL_COUNTRY_ISO = (
+    "https://raw.githubusercontent.com/LoretoSanchez/Covid19/"
+    "master/countries_codes_and_coordinates.csv"
+)
+pd.set_option('display.max_rows', None)
+df_iso = pd.read_csv(URL_COUNTRY_ISO)[['Country','Alpha-3 code']]
+df_iso.set_index('Country', inplace=True)
+df_iso
+
+
+
+
+
 #########################################################################################
-# Datos Covid-19 Internacionales
+### Datos Covid-19 Internacionales ######################################################
+#########################################################################################
+
 
 # Función que lee archivos csv con datos de Chile
 df_lee = pd.read_csv('chile.csv', sep=',')
@@ -97,12 +154,17 @@ df_chile.rename(columns={"Region": "Pais"}, inplace =True)
 df_chile['Fecha']= pd.to_datetime(df_chile['Fecha'])
 
 # Función que lee archivos csv con datos internacionales y genera dataframes por país
-df_lee = pd.read_csv('paises.csv', sep=',')
-
 # datos desde JHU (Johns Hopkins University)
+df_lee = pd.read_csv('paises_all.csv', sep=',')
+df_lee['Fecha']= pd.to_datetime(df_lee['Fecha'])
+paises = df_lee['Pais'].unique()
+paises.sort()
+idx = np.where(paises == 'Chile')
+paises2 = np.delete(paises, idx)
+
 df_paises = dict()
 df_paises['Chile'] = df_chile# datos de confirmados de minsal
-for p in paises[1:]:
+for p in paises2:
     df_tmp = df_lee.loc[df_lee['Pais'] == p].reset_index(drop=True)
     df_tmp['Fecha']= pd.to_datetime(df_tmp['Fecha'])
     df_paises[p]=df_tmp
@@ -116,9 +178,12 @@ for p in paises2:
     df_tmp = df_lee2.loc[df_lee2['Pais'] == p].reset_index(drop=True)
     df_tmp['Fecha']= pd.to_datetime(df_tmp['Fecha'])
     df_paises2[p]=df_tmp
-
+    
 df_paises['Spain']['Contagios']=df_paises2['Spain']['Contagios']
+
+
 #########################################################################################
+"""
 # Generación de un diccionario con los dataframes de casos confirmados de los distintos  
 # países con día 0 como el día en que superaron los 100 contagiados.
 dic_df_conf_int = dict()
@@ -170,6 +235,52 @@ fig.update_layout(xaxis_title=xtitulo,yaxis_title=ytitulo,
                       font=dict(family="Courier New, monospace",size=12,color="#7f7f7f"))
 
 #fig_contagios_mundo = graficar(fig, titulo,xtitulo,ytitulo,'itera',0,'tiempo')#px.colors.qualitative.Alphabet[p]
+"""
+#########################################################################################
+###  Agrega códigos ISO a dataframe para poder graficar el mapa #########################
+#########################################################################################
+df_recent = df_lee[df_lee['Fecha']==df_lee['Fecha'][len(df_lee)-1]]
+del df_recent['Fecha']
+df_recent.reset_index(inplace=True,drop=True)
+df_recent = df_recent.sort_values(by=['Pais'])
+#df_recent.rename(columns={"Contagios": "value"}, inplace =True)
+#genera lista con código iso para cada pais en ['paises']
+countries = df_recent['Pais'].to_list()
+iso =[]
+for p in countries:
+    iso0 = df_iso['Alpha-3 code'][p]
+    iso0=iso0.strip()
+    iso0 = iso0.strip('"')
+    iso.append(iso0)
+df_recent['iso'] = iso
+
+
+#########################################################################################
+### Mapa mundial con número de contagios acumulados por país   ##########################
+#########################################################################################
+# Se normalizan los casos por 100k habitantes  
+       
+normalized_values = normalize_by_population2(df_recent)  
+df_recent['normalizado'] = (1.e5 * normalized_values).values
+df_recent['normalizado'] = df_recent['normalizado'].round(decimals=2)         
+df_recent['log_normalizado'] = np.log10(df_recent['Contagios'])
+fig_map = px.choropleth(df_recent, locations='iso',hover_name="Pais",
+                        color='log_normalizado',color_continuous_scale='Plasma_r',#"reds",
+                        hover_data={'iso':False,
+                                    'Pais':False,
+                                    'Contagios':True,
+                                    'normalizado':':.2f',
+                                    'log_normalizado':False,
+                                     'Muertos':True},
+                        labels={'Contagios':'casos confirmados',
+                                'normalizado':'casos por 100k hab.',
+                                'Muertos':'fallecidos'
+                               
+                        })
+fig_map.update_layout(coloraxis_showscale=False)
+#fig_map.show()
+
+
 
 ########### Define your variables
 tabtitle='Covid-19'
@@ -191,13 +302,19 @@ app.layout = html.Div(children=[
     html.H1(myheading),
     dcc.Graph(
         id='plot1',
-        figure=fig
-    ),
+        style={"height": 700},
+        figure=fig_map
+        ),
     #html.A('Code on Github', href=githublink),
     #html.Br(),
     #html.A('Data Source', href=sourceurl),
     ]
+
 )
+# set the sizing of the parent div
+
+
+
 
 if __name__ == '__main__':
     app.run_server()
