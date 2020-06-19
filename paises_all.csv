@@ -2321,8 +2321,8 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-04-15,Belarus,3728,36,203
 2020-04-16,Belarus,4204,40,203
 2020-04-17,Belarus,4779,42,342
-2020-04-18,Belarus,4779,45,342
-2020-04-19,Belarus,4779,47,494
+2020-04-18,Belarus,5297,45,342
+2020-04-19,Belarus,5807,47,494
 2020-04-20,Belarus,6264,51,514
 2020-04-21,Belarus,6723,55,577
 2020-04-22,Belarus,7281,58,769
@@ -5810,304 +5810,304 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Comoros,197,3,127
 2020-06-17,Comoros,197,3,127
 2020-06-18,Comoros,210,5,129
-2020-01-22,Congo (Brazzaville),0,0,0
-2020-01-23,Congo (Brazzaville),0,0,0
-2020-01-24,Congo (Brazzaville),0,0,0
-2020-01-25,Congo (Brazzaville),0,0,0
-2020-01-26,Congo (Brazzaville),0,0,0
-2020-01-27,Congo (Brazzaville),0,0,0
-2020-01-28,Congo (Brazzaville),0,0,0
-2020-01-29,Congo (Brazzaville),0,0,0
-2020-01-30,Congo (Brazzaville),0,0,0
-2020-01-31,Congo (Brazzaville),0,0,0
-2020-02-01,Congo (Brazzaville),0,0,0
-2020-02-02,Congo (Brazzaville),0,0,0
-2020-02-03,Congo (Brazzaville),0,0,0
-2020-02-04,Congo (Brazzaville),0,0,0
-2020-02-05,Congo (Brazzaville),0,0,0
-2020-02-06,Congo (Brazzaville),0,0,0
-2020-02-07,Congo (Brazzaville),0,0,0
-2020-02-08,Congo (Brazzaville),0,0,0
-2020-02-09,Congo (Brazzaville),0,0,0
-2020-02-10,Congo (Brazzaville),0,0,0
-2020-02-11,Congo (Brazzaville),0,0,0
-2020-02-12,Congo (Brazzaville),0,0,0
-2020-02-13,Congo (Brazzaville),0,0,0
-2020-02-14,Congo (Brazzaville),0,0,0
-2020-02-15,Congo (Brazzaville),0,0,0
-2020-02-16,Congo (Brazzaville),0,0,0
-2020-02-17,Congo (Brazzaville),0,0,0
-2020-02-18,Congo (Brazzaville),0,0,0
-2020-02-19,Congo (Brazzaville),0,0,0
-2020-02-20,Congo (Brazzaville),0,0,0
-2020-02-21,Congo (Brazzaville),0,0,0
-2020-02-22,Congo (Brazzaville),0,0,0
-2020-02-23,Congo (Brazzaville),0,0,0
-2020-02-24,Congo (Brazzaville),0,0,0
-2020-02-25,Congo (Brazzaville),0,0,0
-2020-02-26,Congo (Brazzaville),0,0,0
-2020-02-27,Congo (Brazzaville),0,0,0
-2020-02-28,Congo (Brazzaville),0,0,0
-2020-02-29,Congo (Brazzaville),0,0,0
-2020-03-01,Congo (Brazzaville),0,0,0
-2020-03-02,Congo (Brazzaville),0,0,0
-2020-03-03,Congo (Brazzaville),0,0,0
-2020-03-04,Congo (Brazzaville),0,0,0
-2020-03-05,Congo (Brazzaville),0,0,0
-2020-03-06,Congo (Brazzaville),0,0,0
-2020-03-07,Congo (Brazzaville),0,0,0
-2020-03-08,Congo (Brazzaville),0,0,0
-2020-03-09,Congo (Brazzaville),0,0,0
-2020-03-10,Congo (Brazzaville),0,0,0
-2020-03-11,Congo (Brazzaville),0,0,0
-2020-03-12,Congo (Brazzaville),0,0,0
-2020-03-13,Congo (Brazzaville),0,0,0
-2020-03-14,Congo (Brazzaville),0,0,0
-2020-03-15,Congo (Brazzaville),1,0,0
-2020-03-16,Congo (Brazzaville),1,0,0
-2020-03-17,Congo (Brazzaville),1,0,0
-2020-03-18,Congo (Brazzaville),1,0,0
-2020-03-19,Congo (Brazzaville),3,0,0
-2020-03-20,Congo (Brazzaville),3,0,0
-2020-03-21,Congo (Brazzaville),3,0,0
-2020-03-22,Congo (Brazzaville),3,0,0
-2020-03-23,Congo (Brazzaville),4,0,0
-2020-03-24,Congo (Brazzaville),4,0,0
-2020-03-25,Congo (Brazzaville),4,0,0
-2020-03-26,Congo (Brazzaville),4,0,0
-2020-03-27,Congo (Brazzaville),4,0,0
-2020-03-28,Congo (Brazzaville),4,0,0
-2020-03-29,Congo (Brazzaville),19,0,0
-2020-03-30,Congo (Brazzaville),19,0,0
-2020-03-31,Congo (Brazzaville),19,0,0
-2020-04-01,Congo (Brazzaville),19,0,0
-2020-04-02,Congo (Brazzaville),22,2,2
-2020-04-03,Congo (Brazzaville),22,2,2
-2020-04-04,Congo (Brazzaville),22,2,2
-2020-04-05,Congo (Brazzaville),45,5,2
-2020-04-06,Congo (Brazzaville),45,5,2
-2020-04-07,Congo (Brazzaville),45,5,2
-2020-04-08,Congo (Brazzaville),45,5,2
-2020-04-09,Congo (Brazzaville),60,5,5
-2020-04-10,Congo (Brazzaville),60,5,5
-2020-04-11,Congo (Brazzaville),60,5,5
-2020-04-12,Congo (Brazzaville),60,5,5
-2020-04-13,Congo (Brazzaville),60,5,5
-2020-04-14,Congo (Brazzaville),60,5,5
-2020-04-15,Congo (Brazzaville),117,5,11
-2020-04-16,Congo (Brazzaville),117,5,11
-2020-04-17,Congo (Brazzaville),143,6,11
-2020-04-18,Congo (Brazzaville),143,6,11
-2020-04-19,Congo (Brazzaville),143,6,11
-2020-04-20,Congo (Brazzaville),160,6,16
-2020-04-21,Congo (Brazzaville),165,6,16
-2020-04-22,Congo (Brazzaville),186,6,16
-2020-04-23,Congo (Brazzaville),186,6,16
-2020-04-24,Congo (Brazzaville),200,6,19
-2020-04-25,Congo (Brazzaville),200,6,19
-2020-04-26,Congo (Brazzaville),200,6,19
-2020-04-27,Congo (Brazzaville),200,6,19
-2020-04-28,Congo (Brazzaville),207,8,19
-2020-04-29,Congo (Brazzaville),207,8,19
-2020-04-30,Congo (Brazzaville),220,9,19
-2020-05-01,Congo (Brazzaville),229,9,25
-2020-05-02,Congo (Brazzaville),229,9,25
-2020-05-03,Congo (Brazzaville),229,9,25
-2020-05-04,Congo (Brazzaville),236,10,26
-2020-05-05,Congo (Brazzaville),236,10,26
-2020-05-06,Congo (Brazzaville),264,10,30
-2020-05-07,Congo (Brazzaville),264,10,30
-2020-05-08,Congo (Brazzaville),274,10,33
-2020-05-09,Congo (Brazzaville),274,10,33
-2020-05-10,Congo (Brazzaville),274,10,33
-2020-05-11,Congo (Brazzaville),333,11,53
-2020-05-12,Congo (Brazzaville),333,11,53
-2020-05-13,Congo (Brazzaville),333,11,53
-2020-05-14,Congo (Brazzaville),391,15,87
-2020-05-15,Congo (Brazzaville),391,15,87
-2020-05-16,Congo (Brazzaville),391,15,87
-2020-05-17,Congo (Brazzaville),391,15,87
-2020-05-18,Congo (Brazzaville),412,15,110
-2020-05-19,Congo (Brazzaville),420,15,132
-2020-05-20,Congo (Brazzaville),420,15,132
-2020-05-21,Congo (Brazzaville),469,16,137
-2020-05-22,Congo (Brazzaville),469,16,137
-2020-05-23,Congo (Brazzaville),487,16,147
-2020-05-24,Congo (Brazzaville),487,16,147
-2020-05-25,Congo (Brazzaville),487,16,147
-2020-05-26,Congo (Brazzaville),487,16,147
-2020-05-27,Congo (Brazzaville),571,19,161
-2020-05-28,Congo (Brazzaville),571,19,161
-2020-05-29,Congo (Brazzaville),571,19,161
-2020-05-30,Congo (Brazzaville),571,19,161
-2020-05-31,Congo (Brazzaville),611,20,179
-2020-06-01,Congo (Brazzaville),611,20,179
-2020-06-02,Congo (Brazzaville),611,20,179
-2020-06-03,Congo (Brazzaville),611,20,179
-2020-06-04,Congo (Brazzaville),611,20,179
-2020-06-05,Congo (Brazzaville),635,20,182
-2020-06-06,Congo (Brazzaville),683,22,210
-2020-06-07,Congo (Brazzaville),683,22,210
-2020-06-08,Congo (Brazzaville),683,22,210
-2020-06-09,Congo (Brazzaville),728,24,221
-2020-06-10,Congo (Brazzaville),728,24,221
-2020-06-11,Congo (Brazzaville),728,24,221
-2020-06-12,Congo (Brazzaville),728,24,221
-2020-06-13,Congo (Brazzaville),728,24,221
-2020-06-14,Congo (Brazzaville),728,24,221
-2020-06-15,Congo (Brazzaville),883,27,391
-2020-06-16,Congo (Brazzaville),883,27,391
-2020-06-17,Congo (Brazzaville),883,27,391
-2020-06-18,Congo (Brazzaville),883,27,391
-2020-01-22,Congo (Kinshasa),0,0,0
-2020-01-23,Congo (Kinshasa),0,0,0
-2020-01-24,Congo (Kinshasa),0,0,0
-2020-01-25,Congo (Kinshasa),0,0,0
-2020-01-26,Congo (Kinshasa),0,0,0
-2020-01-27,Congo (Kinshasa),0,0,0
-2020-01-28,Congo (Kinshasa),0,0,0
-2020-01-29,Congo (Kinshasa),0,0,0
-2020-01-30,Congo (Kinshasa),0,0,0
-2020-01-31,Congo (Kinshasa),0,0,0
-2020-02-01,Congo (Kinshasa),0,0,0
-2020-02-02,Congo (Kinshasa),0,0,0
-2020-02-03,Congo (Kinshasa),0,0,0
-2020-02-04,Congo (Kinshasa),0,0,0
-2020-02-05,Congo (Kinshasa),0,0,0
-2020-02-06,Congo (Kinshasa),0,0,0
-2020-02-07,Congo (Kinshasa),0,0,0
-2020-02-08,Congo (Kinshasa),0,0,0
-2020-02-09,Congo (Kinshasa),0,0,0
-2020-02-10,Congo (Kinshasa),0,0,0
-2020-02-11,Congo (Kinshasa),0,0,0
-2020-02-12,Congo (Kinshasa),0,0,0
-2020-02-13,Congo (Kinshasa),0,0,0
-2020-02-14,Congo (Kinshasa),0,0,0
-2020-02-15,Congo (Kinshasa),0,0,0
-2020-02-16,Congo (Kinshasa),0,0,0
-2020-02-17,Congo (Kinshasa),0,0,0
-2020-02-18,Congo (Kinshasa),0,0,0
-2020-02-19,Congo (Kinshasa),0,0,0
-2020-02-20,Congo (Kinshasa),0,0,0
-2020-02-21,Congo (Kinshasa),0,0,0
-2020-02-22,Congo (Kinshasa),0,0,0
-2020-02-23,Congo (Kinshasa),0,0,0
-2020-02-24,Congo (Kinshasa),0,0,0
-2020-02-25,Congo (Kinshasa),0,0,0
-2020-02-26,Congo (Kinshasa),0,0,0
-2020-02-27,Congo (Kinshasa),0,0,0
-2020-02-28,Congo (Kinshasa),0,0,0
-2020-02-29,Congo (Kinshasa),0,0,0
-2020-03-01,Congo (Kinshasa),0,0,0
-2020-03-02,Congo (Kinshasa),0,0,0
-2020-03-03,Congo (Kinshasa),0,0,0
-2020-03-04,Congo (Kinshasa),0,0,0
-2020-03-05,Congo (Kinshasa),0,0,0
-2020-03-06,Congo (Kinshasa),0,0,0
-2020-03-07,Congo (Kinshasa),0,0,0
-2020-03-08,Congo (Kinshasa),0,0,0
-2020-03-09,Congo (Kinshasa),0,0,0
-2020-03-10,Congo (Kinshasa),0,0,0
-2020-03-11,Congo (Kinshasa),1,0,0
-2020-03-12,Congo (Kinshasa),1,0,0
-2020-03-13,Congo (Kinshasa),2,0,0
-2020-03-14,Congo (Kinshasa),2,0,0
-2020-03-15,Congo (Kinshasa),2,0,0
-2020-03-16,Congo (Kinshasa),2,0,0
-2020-03-17,Congo (Kinshasa),3,0,0
-2020-03-18,Congo (Kinshasa),4,0,0
-2020-03-19,Congo (Kinshasa),14,0,0
-2020-03-20,Congo (Kinshasa),18,0,0
-2020-03-21,Congo (Kinshasa),23,1,0
-2020-03-22,Congo (Kinshasa),30,1,0
-2020-03-23,Congo (Kinshasa),36,1,0
-2020-03-24,Congo (Kinshasa),45,2,0
-2020-03-25,Congo (Kinshasa),48,2,0
-2020-03-26,Congo (Kinshasa),51,3,0
-2020-03-27,Congo (Kinshasa),51,3,2
-2020-03-28,Congo (Kinshasa),65,6,2
-2020-03-29,Congo (Kinshasa),65,6,2
-2020-03-30,Congo (Kinshasa),81,8,2
-2020-03-31,Congo (Kinshasa),98,8,2
-2020-04-01,Congo (Kinshasa),109,9,3
-2020-04-02,Congo (Kinshasa),134,13,3
-2020-04-03,Congo (Kinshasa),134,13,3
-2020-04-04,Congo (Kinshasa),154,18,3
-2020-04-05,Congo (Kinshasa),154,18,3
-2020-04-06,Congo (Kinshasa),161,18,5
-2020-04-07,Congo (Kinshasa),180,18,9
-2020-04-08,Congo (Kinshasa),180,18,9
-2020-04-09,Congo (Kinshasa),180,18,9
-2020-04-10,Congo (Kinshasa),215,20,13
-2020-04-11,Congo (Kinshasa),223,20,16
-2020-04-12,Congo (Kinshasa),234,20,16
-2020-04-13,Congo (Kinshasa),235,20,17
-2020-04-14,Congo (Kinshasa),241,20,20
-2020-04-15,Congo (Kinshasa),254,21,21
-2020-04-16,Congo (Kinshasa),267,22,23
-2020-04-17,Congo (Kinshasa),287,23,25
-2020-04-18,Congo (Kinshasa),307,25,26
-2020-04-19,Congo (Kinshasa),327,25,26
-2020-04-20,Congo (Kinshasa),332,25,27
-2020-04-21,Congo (Kinshasa),350,25,35
-2020-04-22,Congo (Kinshasa),359,25,45
-2020-04-23,Congo (Kinshasa),377,25,47
-2020-04-24,Congo (Kinshasa),394,25,48
-2020-04-25,Congo (Kinshasa),416,28,49
-2020-04-26,Congo (Kinshasa),442,28,50
-2020-04-27,Congo (Kinshasa),459,28,50
-2020-04-28,Congo (Kinshasa),471,30,56
-2020-04-29,Congo (Kinshasa),491,30,59
-2020-04-30,Congo (Kinshasa),572,31,73
-2020-05-01,Congo (Kinshasa),604,32,75
-2020-05-02,Congo (Kinshasa),674,33,75
-2020-05-03,Congo (Kinshasa),674,33,75
-2020-05-04,Congo (Kinshasa),682,34,80
-2020-05-05,Congo (Kinshasa),705,34,90
-2020-05-06,Congo (Kinshasa),797,35,92
-2020-05-07,Congo (Kinshasa),863,36,103
-2020-05-08,Congo (Kinshasa),937,39,130
-2020-05-09,Congo (Kinshasa),937,39,130
-2020-05-10,Congo (Kinshasa),991,41,136
-2020-05-11,Congo (Kinshasa),1024,41,141
-2020-05-12,Congo (Kinshasa),1102,44,146
-2020-05-13,Congo (Kinshasa),1169,50,148
-2020-05-14,Congo (Kinshasa),1242,50,157
-2020-05-15,Congo (Kinshasa),1298,50,212
-2020-05-16,Congo (Kinshasa),1455,61,270
-2020-05-17,Congo (Kinshasa),1455,61,270
-2020-05-18,Congo (Kinshasa),1538,61,272
-2020-05-19,Congo (Kinshasa),1629,61,290
-2020-05-20,Congo (Kinshasa),1731,61,302
-2020-05-21,Congo (Kinshasa),1835,61,303
-2020-05-22,Congo (Kinshasa),1945,63,312
-2020-05-23,Congo (Kinshasa),2025,63,312
-2020-05-24,Congo (Kinshasa),2141,63,317
-2020-05-25,Congo (Kinshasa),2297,67,337
-2020-05-26,Congo (Kinshasa),2403,68,340
-2020-05-27,Congo (Kinshasa),2546,68,365
-2020-05-28,Congo (Kinshasa),2660,69,381
-2020-05-29,Congo (Kinshasa),2833,69,400
-2020-05-30,Congo (Kinshasa),2966,69,428
-2020-05-31,Congo (Kinshasa),3070,72,448
-2020-06-01,Congo (Kinshasa),3195,72,454
-2020-06-02,Congo (Kinshasa),3326,72,482
-2020-06-03,Congo (Kinshasa),3495,75,492
-2020-06-04,Congo (Kinshasa),3644,78,495
-2020-06-05,Congo (Kinshasa),3764,81,512
-2020-06-06,Congo (Kinshasa),3878,82,537
-2020-06-07,Congo (Kinshasa),4016,85,537
-2020-06-08,Congo (Kinshasa),4106,88,537
-2020-06-09,Congo (Kinshasa),4259,90,539
-2020-06-10,Congo (Kinshasa),4390,96,565
-2020-06-11,Congo (Kinshasa),4515,98,567
-2020-06-12,Congo (Kinshasa),4637,101,580
-2020-06-13,Congo (Kinshasa),4724,106,595
-2020-06-14,Congo (Kinshasa),4778,107,600
-2020-06-15,Congo (Kinshasa),4837,112,613
-2020-06-16,Congo (Kinshasa),4974,112,628
-2020-06-17,Congo (Kinshasa),5100,115,640
-2020-06-18,Congo (Kinshasa),5283,117,685
+2020-01-22,Congo,0,0,0
+2020-01-23,Congo,0,0,0
+2020-01-24,Congo,0,0,0
+2020-01-25,Congo,0,0,0
+2020-01-26,Congo,0,0,0
+2020-01-27,Congo,0,0,0
+2020-01-28,Congo,0,0,0
+2020-01-29,Congo,0,0,0
+2020-01-30,Congo,0,0,0
+2020-01-31,Congo,0,0,0
+2020-02-01,Congo,0,0,0
+2020-02-02,Congo,0,0,0
+2020-02-03,Congo,0,0,0
+2020-02-04,Congo,0,0,0
+2020-02-05,Congo,0,0,0
+2020-02-06,Congo,0,0,0
+2020-02-07,Congo,0,0,0
+2020-02-08,Congo,0,0,0
+2020-02-09,Congo,0,0,0
+2020-02-10,Congo,0,0,0
+2020-02-11,Congo,0,0,0
+2020-02-12,Congo,0,0,0
+2020-02-13,Congo,0,0,0
+2020-02-14,Congo,0,0,0
+2020-02-15,Congo,0,0,0
+2020-02-16,Congo,0,0,0
+2020-02-17,Congo,0,0,0
+2020-02-18,Congo,0,0,0
+2020-02-19,Congo,0,0,0
+2020-02-20,Congo,0,0,0
+2020-02-21,Congo,0,0,0
+2020-02-22,Congo,0,0,0
+2020-02-23,Congo,0,0,0
+2020-02-24,Congo,0,0,0
+2020-02-25,Congo,0,0,0
+2020-02-26,Congo,0,0,0
+2020-02-27,Congo,0,0,0
+2020-02-28,Congo,0,0,0
+2020-02-29,Congo,0,0,0
+2020-03-01,Congo,0,0,0
+2020-03-02,Congo,0,0,0
+2020-03-03,Congo,0,0,0
+2020-03-04,Congo,0,0,0
+2020-03-05,Congo,0,0,0
+2020-03-06,Congo,0,0,0
+2020-03-07,Congo,0,0,0
+2020-03-08,Congo,0,0,0
+2020-03-09,Congo,0,0,0
+2020-03-10,Congo,0,0,0
+2020-03-11,Congo,0,0,0
+2020-03-12,Congo,0,0,0
+2020-03-13,Congo,0,0,0
+2020-03-14,Congo,0,0,0
+2020-03-15,Congo,1,0,0
+2020-03-16,Congo,1,0,0
+2020-03-17,Congo,1,0,0
+2020-03-18,Congo,1,0,0
+2020-03-19,Congo,3,0,0
+2020-03-20,Congo,3,0,0
+2020-03-21,Congo,3,0,0
+2020-03-22,Congo,3,0,0
+2020-03-23,Congo,4,0,0
+2020-03-24,Congo,4,0,0
+2020-03-25,Congo,4,0,0
+2020-03-26,Congo,4,0,0
+2020-03-27,Congo,4,0,0
+2020-03-28,Congo,4,0,0
+2020-03-29,Congo,19,0,0
+2020-03-30,Congo,19,0,0
+2020-03-31,Congo,19,0,0
+2020-04-01,Congo,19,0,0
+2020-04-02,Congo,22,2,2
+2020-04-03,Congo,22,2,2
+2020-04-04,Congo,22,2,2
+2020-04-05,Congo,45,5,2
+2020-04-06,Congo,45,5,2
+2020-04-07,Congo,45,5,2
+2020-04-08,Congo,45,5,2
+2020-04-09,Congo,60,5,5
+2020-04-10,Congo,60,5,5
+2020-04-11,Congo,60,5,5
+2020-04-12,Congo,60,5,5
+2020-04-13,Congo,60,5,5
+2020-04-14,Congo,60,5,5
+2020-04-15,Congo,117,5,11
+2020-04-16,Congo,117,5,11
+2020-04-17,Congo,143,6,11
+2020-04-18,Congo,143,6,11
+2020-04-19,Congo,143,6,11
+2020-04-20,Congo,160,6,16
+2020-04-21,Congo,165,6,16
+2020-04-22,Congo,186,6,16
+2020-04-23,Congo,186,6,16
+2020-04-24,Congo,200,6,19
+2020-04-25,Congo,200,6,19
+2020-04-26,Congo,200,6,19
+2020-04-27,Congo,200,6,19
+2020-04-28,Congo,207,8,19
+2020-04-29,Congo,207,8,19
+2020-04-30,Congo,220,9,19
+2020-05-01,Congo,229,9,25
+2020-05-02,Congo,229,9,25
+2020-05-03,Congo,229,9,25
+2020-05-04,Congo,236,10,26
+2020-05-05,Congo,236,10,26
+2020-05-06,Congo,264,10,30
+2020-05-07,Congo,264,10,30
+2020-05-08,Congo,274,10,33
+2020-05-09,Congo,274,10,33
+2020-05-10,Congo,274,10,33
+2020-05-11,Congo,333,11,53
+2020-05-12,Congo,333,11,53
+2020-05-13,Congo,333,11,53
+2020-05-14,Congo,391,15,87
+2020-05-15,Congo,391,15,87
+2020-05-16,Congo,391,15,87
+2020-05-17,Congo,391,15,87
+2020-05-18,Congo,412,15,110
+2020-05-19,Congo,420,15,132
+2020-05-20,Congo,420,15,132
+2020-05-21,Congo,469,16,137
+2020-05-22,Congo,469,16,137
+2020-05-23,Congo,487,16,147
+2020-05-24,Congo,487,16,147
+2020-05-25,Congo,487,16,147
+2020-05-26,Congo,487,16,147
+2020-05-27,Congo,571,19,161
+2020-05-28,Congo,571,19,161
+2020-05-29,Congo,571,19,161
+2020-05-30,Congo,571,19,161
+2020-05-31,Congo,611,20,179
+2020-06-01,Congo,611,20,179
+2020-06-02,Congo,611,20,179
+2020-06-03,Congo,611,20,179
+2020-06-04,Congo,611,20,179
+2020-06-05,Congo,635,20,182
+2020-06-06,Congo,683,22,210
+2020-06-07,Congo,683,22,210
+2020-06-08,Congo,683,22,210
+2020-06-09,Congo,728,24,221
+2020-06-10,Congo,728,24,221
+2020-06-11,Congo,728,24,221
+2020-06-12,Congo,728,24,221
+2020-06-13,Congo,728,24,221
+2020-06-14,Congo,728,24,221
+2020-06-15,Congo,883,27,391
+2020-06-16,Congo,883,27,391
+2020-06-17,Congo,883,27,391
+2020-06-18,Congo,883,27,391
+2020-01-22,"Congo, Democratic Republic of the",0,0,0
+2020-01-23,"Congo, Democratic Republic of the",0,0,0
+2020-01-24,"Congo, Democratic Republic of the",0,0,0
+2020-01-25,"Congo, Democratic Republic of the",0,0,0
+2020-01-26,"Congo, Democratic Republic of the",0,0,0
+2020-01-27,"Congo, Democratic Republic of the",0,0,0
+2020-01-28,"Congo, Democratic Republic of the",0,0,0
+2020-01-29,"Congo, Democratic Republic of the",0,0,0
+2020-01-30,"Congo, Democratic Republic of the",0,0,0
+2020-01-31,"Congo, Democratic Republic of the",0,0,0
+2020-02-01,"Congo, Democratic Republic of the",0,0,0
+2020-02-02,"Congo, Democratic Republic of the",0,0,0
+2020-02-03,"Congo, Democratic Republic of the",0,0,0
+2020-02-04,"Congo, Democratic Republic of the",0,0,0
+2020-02-05,"Congo, Democratic Republic of the",0,0,0
+2020-02-06,"Congo, Democratic Republic of the",0,0,0
+2020-02-07,"Congo, Democratic Republic of the",0,0,0
+2020-02-08,"Congo, Democratic Republic of the",0,0,0
+2020-02-09,"Congo, Democratic Republic of the",0,0,0
+2020-02-10,"Congo, Democratic Republic of the",0,0,0
+2020-02-11,"Congo, Democratic Republic of the",0,0,0
+2020-02-12,"Congo, Democratic Republic of the",0,0,0
+2020-02-13,"Congo, Democratic Republic of the",0,0,0
+2020-02-14,"Congo, Democratic Republic of the",0,0,0
+2020-02-15,"Congo, Democratic Republic of the",0,0,0
+2020-02-16,"Congo, Democratic Republic of the",0,0,0
+2020-02-17,"Congo, Democratic Republic of the",0,0,0
+2020-02-18,"Congo, Democratic Republic of the",0,0,0
+2020-02-19,"Congo, Democratic Republic of the",0,0,0
+2020-02-20,"Congo, Democratic Republic of the",0,0,0
+2020-02-21,"Congo, Democratic Republic of the",0,0,0
+2020-02-22,"Congo, Democratic Republic of the",0,0,0
+2020-02-23,"Congo, Democratic Republic of the",0,0,0
+2020-02-24,"Congo, Democratic Republic of the",0,0,0
+2020-02-25,"Congo, Democratic Republic of the",0,0,0
+2020-02-26,"Congo, Democratic Republic of the",0,0,0
+2020-02-27,"Congo, Democratic Republic of the",0,0,0
+2020-02-28,"Congo, Democratic Republic of the",0,0,0
+2020-02-29,"Congo, Democratic Republic of the",0,0,0
+2020-03-01,"Congo, Democratic Republic of the",0,0,0
+2020-03-02,"Congo, Democratic Republic of the",0,0,0
+2020-03-03,"Congo, Democratic Republic of the",0,0,0
+2020-03-04,"Congo, Democratic Republic of the",0,0,0
+2020-03-05,"Congo, Democratic Republic of the",0,0,0
+2020-03-06,"Congo, Democratic Republic of the",0,0,0
+2020-03-07,"Congo, Democratic Republic of the",0,0,0
+2020-03-08,"Congo, Democratic Republic of the",0,0,0
+2020-03-09,"Congo, Democratic Republic of the",0,0,0
+2020-03-10,"Congo, Democratic Republic of the",0,0,0
+2020-03-11,"Congo, Democratic Republic of the",1,0,0
+2020-03-12,"Congo, Democratic Republic of the",1,0,0
+2020-03-13,"Congo, Democratic Republic of the",2,0,0
+2020-03-14,"Congo, Democratic Republic of the",2,0,0
+2020-03-15,"Congo, Democratic Republic of the",2,0,0
+2020-03-16,"Congo, Democratic Republic of the",2,0,0
+2020-03-17,"Congo, Democratic Republic of the",3,0,0
+2020-03-18,"Congo, Democratic Republic of the",4,0,0
+2020-03-19,"Congo, Democratic Republic of the",14,0,0
+2020-03-20,"Congo, Democratic Republic of the",18,0,0
+2020-03-21,"Congo, Democratic Republic of the",23,1,0
+2020-03-22,"Congo, Democratic Republic of the",30,1,0
+2020-03-23,"Congo, Democratic Republic of the",36,1,0
+2020-03-24,"Congo, Democratic Republic of the",45,2,0
+2020-03-25,"Congo, Democratic Republic of the",48,2,0
+2020-03-26,"Congo, Democratic Republic of the",51,3,0
+2020-03-27,"Congo, Democratic Republic of the",51,3,2
+2020-03-28,"Congo, Democratic Republic of the",65,6,2
+2020-03-29,"Congo, Democratic Republic of the",65,6,2
+2020-03-30,"Congo, Democratic Republic of the",81,8,2
+2020-03-31,"Congo, Democratic Republic of the",98,8,2
+2020-04-01,"Congo, Democratic Republic of the",109,9,3
+2020-04-02,"Congo, Democratic Republic of the",134,13,3
+2020-04-03,"Congo, Democratic Republic of the",134,13,3
+2020-04-04,"Congo, Democratic Republic of the",154,18,3
+2020-04-05,"Congo, Democratic Republic of the",154,18,3
+2020-04-06,"Congo, Democratic Republic of the",161,18,5
+2020-04-07,"Congo, Democratic Republic of the",180,18,9
+2020-04-08,"Congo, Democratic Republic of the",180,18,9
+2020-04-09,"Congo, Democratic Republic of the",180,18,9
+2020-04-10,"Congo, Democratic Republic of the",215,20,13
+2020-04-11,"Congo, Democratic Republic of the",223,20,16
+2020-04-12,"Congo, Democratic Republic of the",234,20,16
+2020-04-13,"Congo, Democratic Republic of the",235,20,17
+2020-04-14,"Congo, Democratic Republic of the",241,20,20
+2020-04-15,"Congo, Democratic Republic of the",254,21,21
+2020-04-16,"Congo, Democratic Republic of the",267,22,23
+2020-04-17,"Congo, Democratic Republic of the",287,23,25
+2020-04-18,"Congo, Democratic Republic of the",307,25,26
+2020-04-19,"Congo, Democratic Republic of the",327,25,26
+2020-04-20,"Congo, Democratic Republic of the",332,25,27
+2020-04-21,"Congo, Democratic Republic of the",350,25,35
+2020-04-22,"Congo, Democratic Republic of the",359,25,45
+2020-04-23,"Congo, Democratic Republic of the",377,25,47
+2020-04-24,"Congo, Democratic Republic of the",394,25,48
+2020-04-25,"Congo, Democratic Republic of the",416,28,49
+2020-04-26,"Congo, Democratic Republic of the",442,28,50
+2020-04-27,"Congo, Democratic Republic of the",459,28,50
+2020-04-28,"Congo, Democratic Republic of the",471,30,56
+2020-04-29,"Congo, Democratic Republic of the",491,30,59
+2020-04-30,"Congo, Democratic Republic of the",572,31,73
+2020-05-01,"Congo, Democratic Republic of the",604,32,75
+2020-05-02,"Congo, Democratic Republic of the",674,33,75
+2020-05-03,"Congo, Democratic Republic of the",674,33,75
+2020-05-04,"Congo, Democratic Republic of the",682,34,80
+2020-05-05,"Congo, Democratic Republic of the",705,34,90
+2020-05-06,"Congo, Democratic Republic of the",797,35,92
+2020-05-07,"Congo, Democratic Republic of the",863,36,103
+2020-05-08,"Congo, Democratic Republic of the",937,39,130
+2020-05-09,"Congo, Democratic Republic of the",937,39,130
+2020-05-10,"Congo, Democratic Republic of the",991,41,136
+2020-05-11,"Congo, Democratic Republic of the",1024,41,141
+2020-05-12,"Congo, Democratic Republic of the",1102,44,146
+2020-05-13,"Congo, Democratic Republic of the",1169,50,148
+2020-05-14,"Congo, Democratic Republic of the",1242,50,157
+2020-05-15,"Congo, Democratic Republic of the",1298,50,212
+2020-05-16,"Congo, Democratic Republic of the",1455,61,270
+2020-05-17,"Congo, Democratic Republic of the",1455,61,270
+2020-05-18,"Congo, Democratic Republic of the",1538,61,272
+2020-05-19,"Congo, Democratic Republic of the",1629,61,290
+2020-05-20,"Congo, Democratic Republic of the",1731,61,302
+2020-05-21,"Congo, Democratic Republic of the",1835,61,303
+2020-05-22,"Congo, Democratic Republic of the",1945,63,312
+2020-05-23,"Congo, Democratic Republic of the",2025,63,312
+2020-05-24,"Congo, Democratic Republic of the",2141,63,317
+2020-05-25,"Congo, Democratic Republic of the",2297,67,337
+2020-05-26,"Congo, Democratic Republic of the",2403,68,340
+2020-05-27,"Congo, Democratic Republic of the",2546,68,365
+2020-05-28,"Congo, Democratic Republic of the",2660,69,381
+2020-05-29,"Congo, Democratic Republic of the",2833,69,400
+2020-05-30,"Congo, Democratic Republic of the",2966,69,428
+2020-05-31,"Congo, Democratic Republic of the",3070,72,448
+2020-06-01,"Congo, Democratic Republic of the",3195,72,454
+2020-06-02,"Congo, Democratic Republic of the",3326,72,482
+2020-06-03,"Congo, Democratic Republic of the",3495,75,492
+2020-06-04,"Congo, Democratic Republic of the",3644,78,495
+2020-06-05,"Congo, Democratic Republic of the",3764,81,512
+2020-06-06,"Congo, Democratic Republic of the",3878,82,537
+2020-06-07,"Congo, Democratic Republic of the",4016,85,537
+2020-06-08,"Congo, Democratic Republic of the",4106,88,537
+2020-06-09,"Congo, Democratic Republic of the",4259,90,539
+2020-06-10,"Congo, Democratic Republic of the",4390,96,565
+2020-06-11,"Congo, Democratic Republic of the",4515,98,567
+2020-06-12,"Congo, Democratic Republic of the",4637,101,580
+2020-06-13,"Congo, Democratic Republic of the",4724,106,595
+2020-06-14,"Congo, Democratic Republic of the",4778,107,600
+2020-06-15,"Congo, Democratic Republic of the",4837,112,613
+2020-06-16,"Congo, Democratic Republic of the",4974,112,628
+2020-06-17,"Congo, Democratic Republic of the",5100,115,640
+2020-06-18,"Congo, Democratic Republic of the",5283,117,685
 2020-01-22,Costa Rica,0,0,0
 2020-01-23,Costa Rica,0,0,0
 2020-01-24,Costa Rica,0,0,0
@@ -6257,155 +6257,6 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Costa Rica,1796,12,794
 2020-06-17,Costa Rica,1871,12,899
 2020-06-18,Costa Rica,1939,12,937
-2020-01-22,Cote d'Ivoire,0,0,0
-2020-01-23,Cote d'Ivoire,0,0,0
-2020-01-24,Cote d'Ivoire,0,0,0
-2020-01-25,Cote d'Ivoire,0,0,0
-2020-01-26,Cote d'Ivoire,0,0,0
-2020-01-27,Cote d'Ivoire,0,0,0
-2020-01-28,Cote d'Ivoire,0,0,0
-2020-01-29,Cote d'Ivoire,0,0,0
-2020-01-30,Cote d'Ivoire,0,0,0
-2020-01-31,Cote d'Ivoire,0,0,0
-2020-02-01,Cote d'Ivoire,0,0,0
-2020-02-02,Cote d'Ivoire,0,0,0
-2020-02-03,Cote d'Ivoire,0,0,0
-2020-02-04,Cote d'Ivoire,0,0,0
-2020-02-05,Cote d'Ivoire,0,0,0
-2020-02-06,Cote d'Ivoire,0,0,0
-2020-02-07,Cote d'Ivoire,0,0,0
-2020-02-08,Cote d'Ivoire,0,0,0
-2020-02-09,Cote d'Ivoire,0,0,0
-2020-02-10,Cote d'Ivoire,0,0,0
-2020-02-11,Cote d'Ivoire,0,0,0
-2020-02-12,Cote d'Ivoire,0,0,0
-2020-02-13,Cote d'Ivoire,0,0,0
-2020-02-14,Cote d'Ivoire,0,0,0
-2020-02-15,Cote d'Ivoire,0,0,0
-2020-02-16,Cote d'Ivoire,0,0,0
-2020-02-17,Cote d'Ivoire,0,0,0
-2020-02-18,Cote d'Ivoire,0,0,0
-2020-02-19,Cote d'Ivoire,0,0,0
-2020-02-20,Cote d'Ivoire,0,0,0
-2020-02-21,Cote d'Ivoire,0,0,0
-2020-02-22,Cote d'Ivoire,0,0,0
-2020-02-23,Cote d'Ivoire,0,0,0
-2020-02-24,Cote d'Ivoire,0,0,0
-2020-02-25,Cote d'Ivoire,0,0,0
-2020-02-26,Cote d'Ivoire,0,0,0
-2020-02-27,Cote d'Ivoire,0,0,0
-2020-02-28,Cote d'Ivoire,0,0,0
-2020-02-29,Cote d'Ivoire,0,0,0
-2020-03-01,Cote d'Ivoire,0,0,0
-2020-03-02,Cote d'Ivoire,0,0,0
-2020-03-03,Cote d'Ivoire,0,0,0
-2020-03-04,Cote d'Ivoire,0,0,0
-2020-03-05,Cote d'Ivoire,0,0,0
-2020-03-06,Cote d'Ivoire,0,0,0
-2020-03-07,Cote d'Ivoire,0,0,0
-2020-03-08,Cote d'Ivoire,0,0,0
-2020-03-09,Cote d'Ivoire,0,0,0
-2020-03-10,Cote d'Ivoire,0,0,0
-2020-03-11,Cote d'Ivoire,1,0,0
-2020-03-12,Cote d'Ivoire,1,0,0
-2020-03-13,Cote d'Ivoire,1,0,0
-2020-03-14,Cote d'Ivoire,1,0,0
-2020-03-15,Cote d'Ivoire,1,0,0
-2020-03-16,Cote d'Ivoire,1,0,0
-2020-03-17,Cote d'Ivoire,5,0,1
-2020-03-18,Cote d'Ivoire,6,0,1
-2020-03-19,Cote d'Ivoire,9,0,1
-2020-03-20,Cote d'Ivoire,9,0,1
-2020-03-21,Cote d'Ivoire,14,0,1
-2020-03-22,Cote d'Ivoire,14,0,1
-2020-03-23,Cote d'Ivoire,25,0,1
-2020-03-24,Cote d'Ivoire,73,0,2
-2020-03-25,Cote d'Ivoire,80,0,3
-2020-03-26,Cote d'Ivoire,96,0,3
-2020-03-27,Cote d'Ivoire,101,0,3
-2020-03-28,Cote d'Ivoire,101,0,3
-2020-03-29,Cote d'Ivoire,165,1,4
-2020-03-30,Cote d'Ivoire,168,1,6
-2020-03-31,Cote d'Ivoire,179,1,7
-2020-04-01,Cote d'Ivoire,190,1,9
-2020-04-02,Cote d'Ivoire,194,1,15
-2020-04-03,Cote d'Ivoire,218,1,19
-2020-04-04,Cote d'Ivoire,245,1,25
-2020-04-05,Cote d'Ivoire,261,3,37
-2020-04-06,Cote d'Ivoire,323,3,41
-2020-04-07,Cote d'Ivoire,349,3,41
-2020-04-08,Cote d'Ivoire,384,3,48
-2020-04-09,Cote d'Ivoire,444,3,52
-2020-04-10,Cote d'Ivoire,444,3,52
-2020-04-11,Cote d'Ivoire,533,4,58
-2020-04-12,Cote d'Ivoire,574,5,85
-2020-04-13,Cote d'Ivoire,626,6,89
-2020-04-14,Cote d'Ivoire,638,6,114
-2020-04-15,Cote d'Ivoire,638,6,114
-2020-04-16,Cote d'Ivoire,654,6,146
-2020-04-17,Cote d'Ivoire,688,6,193
-2020-04-18,Cote d'Ivoire,801,8,239
-2020-04-19,Cote d'Ivoire,847,9,260
-2020-04-20,Cote d'Ivoire,847,9,260
-2020-04-21,Cote d'Ivoire,916,13,303
-2020-04-22,Cote d'Ivoire,952,14,310
-2020-04-23,Cote d'Ivoire,1004,14,359
-2020-04-24,Cote d'Ivoire,1077,14,419
-2020-04-25,Cote d'Ivoire,1077,14,419
-2020-04-26,Cote d'Ivoire,1150,14,468
-2020-04-27,Cote d'Ivoire,1164,14,499
-2020-04-28,Cote d'Ivoire,1183,14,525
-2020-04-29,Cote d'Ivoire,1238,14,557
-2020-04-30,Cote d'Ivoire,1275,14,574
-2020-05-01,Cote d'Ivoire,1333,15,597
-2020-05-02,Cote d'Ivoire,1362,15,622
-2020-05-03,Cote d'Ivoire,1398,17,653
-2020-05-04,Cote d'Ivoire,1432,17,693
-2020-05-05,Cote d'Ivoire,1464,18,701
-2020-05-06,Cote d'Ivoire,1516,18,721
-2020-05-07,Cote d'Ivoire,1571,20,742
-2020-05-08,Cote d'Ivoire,1602,20,754
-2020-05-09,Cote d'Ivoire,1667,21,769
-2020-05-10,Cote d'Ivoire,1700,21,794
-2020-05-11,Cote d'Ivoire,1730,21,818
-2020-05-12,Cote d'Ivoire,1857,21,820
-2020-05-13,Cote d'Ivoire,1912,24,902
-2020-05-14,Cote d'Ivoire,1971,24,930
-2020-05-15,Cote d'Ivoire,2017,24,942
-2020-05-16,Cote d'Ivoire,2061,25,987
-2020-05-17,Cote d'Ivoire,2109,27,1004
-2020-05-18,Cote d'Ivoire,2119,28,1040
-2020-05-19,Cote d'Ivoire,2153,28,1050
-2020-05-20,Cote d'Ivoire,2231,29,1083
-2020-05-21,Cote d'Ivoire,2301,29,1100
-2020-05-22,Cote d'Ivoire,2341,29,1146
-2020-05-23,Cote d'Ivoire,2366,30,1188
-2020-05-24,Cote d'Ivoire,2376,30,1219
-2020-05-25,Cote d'Ivoire,2423,30,1257
-2020-05-26,Cote d'Ivoire,2477,30,1286
-2020-05-27,Cote d'Ivoire,2556,31,1302
-2020-05-28,Cote d'Ivoire,2641,32,1326
-2020-05-29,Cote d'Ivoire,2750,32,1370
-2020-05-30,Cote d'Ivoire,2799,33,1385
-2020-05-31,Cote d'Ivoire,2833,33,1435
-2020-06-01,Cote d'Ivoire,2951,33,1467
-2020-06-02,Cote d'Ivoire,3024,33,1501
-2020-06-03,Cote d'Ivoire,3110,35,1530
-2020-06-04,Cote d'Ivoire,3262,35,1584
-2020-06-05,Cote d'Ivoire,3431,36,1604
-2020-06-06,Cote d'Ivoire,3557,36,1750
-2020-06-07,Cote d'Ivoire,3739,36,1818
-2020-06-08,Cote d'Ivoire,3881,38,1869
-2020-06-09,Cote d'Ivoire,3995,38,2045
-2020-06-10,Cote d'Ivoire,4181,41,2174
-2020-06-11,Cote d'Ivoire,4404,41,2212
-2020-06-12,Cote d'Ivoire,4684,45,2263
-2020-06-13,Cote d'Ivoire,4848,45,2397
-2020-06-14,Cote d'Ivoire,5084,45,2505
-2020-06-15,Cote d'Ivoire,5439,46,2590
-2020-06-16,Cote d'Ivoire,5679,46,2637
-2020-06-17,Cote d'Ivoire,6063,48,2749
-2020-06-18,Cote d'Ivoire,6444,49,2863
 2020-01-22,Croatia,0,0,0
 2020-01-23,Croatia,0,0,0
 2020-01-24,Croatia,0,0,0
@@ -6853,155 +6704,155 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Cyprus,985,18,816
 2020-06-17,Cyprus,985,18,816
 2020-06-18,Cyprus,985,19,818
-2020-01-22,Czechia,0,0,0
-2020-01-23,Czechia,0,0,0
-2020-01-24,Czechia,0,0,0
-2020-01-25,Czechia,0,0,0
-2020-01-26,Czechia,0,0,0
-2020-01-27,Czechia,0,0,0
-2020-01-28,Czechia,0,0,0
-2020-01-29,Czechia,0,0,0
-2020-01-30,Czechia,0,0,0
-2020-01-31,Czechia,0,0,0
-2020-02-01,Czechia,0,0,0
-2020-02-02,Czechia,0,0,0
-2020-02-03,Czechia,0,0,0
-2020-02-04,Czechia,0,0,0
-2020-02-05,Czechia,0,0,0
-2020-02-06,Czechia,0,0,0
-2020-02-07,Czechia,0,0,0
-2020-02-08,Czechia,0,0,0
-2020-02-09,Czechia,0,0,0
-2020-02-10,Czechia,0,0,0
-2020-02-11,Czechia,0,0,0
-2020-02-12,Czechia,0,0,0
-2020-02-13,Czechia,0,0,0
-2020-02-14,Czechia,0,0,0
-2020-02-15,Czechia,0,0,0
-2020-02-16,Czechia,0,0,0
-2020-02-17,Czechia,0,0,0
-2020-02-18,Czechia,0,0,0
-2020-02-19,Czechia,0,0,0
-2020-02-20,Czechia,0,0,0
-2020-02-21,Czechia,0,0,0
-2020-02-22,Czechia,0,0,0
-2020-02-23,Czechia,0,0,0
-2020-02-24,Czechia,0,0,0
-2020-02-25,Czechia,0,0,0
-2020-02-26,Czechia,0,0,0
-2020-02-27,Czechia,0,0,0
-2020-02-28,Czechia,0,0,0
-2020-02-29,Czechia,0,0,0
-2020-03-01,Czechia,3,0,0
-2020-03-02,Czechia,3,0,0
-2020-03-03,Czechia,5,0,0
-2020-03-04,Czechia,8,0,0
-2020-03-05,Czechia,12,0,0
-2020-03-06,Czechia,18,0,0
-2020-03-07,Czechia,19,0,0
-2020-03-08,Czechia,31,0,0
-2020-03-09,Czechia,31,0,0
-2020-03-10,Czechia,41,0,0
-2020-03-11,Czechia,91,0,0
-2020-03-12,Czechia,94,0,0
-2020-03-13,Czechia,141,0,0
-2020-03-14,Czechia,189,0,0
-2020-03-15,Czechia,253,0,0
-2020-03-16,Czechia,298,0,3
-2020-03-17,Czechia,396,0,3
-2020-03-18,Czechia,464,0,3
-2020-03-19,Czechia,694,0,3
-2020-03-20,Czechia,833,0,4
-2020-03-21,Czechia,995,0,6
-2020-03-22,Czechia,1120,1,6
-2020-03-23,Czechia,1236,1,6
-2020-03-24,Czechia,1394,3,10
-2020-03-25,Czechia,1654,6,10
-2020-03-26,Czechia,1925,9,10
-2020-03-27,Czechia,2279,9,11
-2020-03-28,Czechia,2631,11,11
-2020-03-29,Czechia,2817,16,11
-2020-03-30,Czechia,3001,23,25
-2020-03-31,Czechia,3308,31,45
-2020-04-01,Czechia,3508,39,61
-2020-04-02,Czechia,3858,44,67
-2020-04-03,Czechia,4091,53,72
-2020-04-04,Czechia,4472,59,78
-2020-04-05,Czechia,4587,67,96
-2020-04-06,Czechia,4822,78,121
-2020-04-07,Czechia,5017,88,172
-2020-04-08,Czechia,5312,99,233
-2020-04-09,Czechia,5569,112,301
-2020-04-10,Czechia,5732,119,346
-2020-04-11,Czechia,5831,129,411
-2020-04-12,Czechia,5991,138,464
-2020-04-13,Czechia,6059,143,519
-2020-04-14,Czechia,6111,161,642
-2020-04-15,Czechia,6216,166,819
-2020-04-16,Czechia,6433,169,972
-2020-04-17,Czechia,6549,173,1174
-2020-04-18,Czechia,6606,181,1227
-2020-04-19,Czechia,6746,186,1298
-2020-04-20,Czechia,6900,194,1559
-2020-04-21,Czechia,7033,201,1753
-2020-04-22,Czechia,7132,208,1989
-2020-04-23,Czechia,7187,210,2152
-2020-04-24,Czechia,7273,214,2371
-2020-04-25,Czechia,7352,218,2453
-2020-04-26,Czechia,7404,220,2545
-2020-04-27,Czechia,7445,223,2826
-2020-04-28,Czechia,7504,227,2948
-2020-04-29,Czechia,7579,227,3108
-2020-04-30,Czechia,7682,236,3314
-2020-05-01,Czechia,7737,240,3372
-2020-05-02,Czechia,7755,245,3461
-2020-05-03,Czechia,7781,248,3587
-2020-05-04,Czechia,7819,252,3807
-2020-05-05,Czechia,7896,257,4006
-2020-05-06,Czechia,7974,262,4205
-2020-05-07,Czechia,8031,270,4371
-2020-05-08,Czechia,8077,273,4413
-2020-05-09,Czechia,8095,276,4447
-2020-05-10,Czechia,8123,280,4474
-2020-05-11,Czechia,8176,282,4711
-2020-05-12,Czechia,8221,283,4889
-2020-05-13,Czechia,8269,290,5047
-2020-05-14,Czechia,8351,293,5241
-2020-05-15,Czechia,8406,295,5381
-2020-05-16,Czechia,8455,296,5422
-2020-05-17,Czechia,8475,298,5462
-2020-05-18,Czechia,8586,297,5641
-2020-05-19,Czechia,8647,302,5726
-2020-05-20,Czechia,8721,304,5830
-2020-05-21,Czechia,8754,306,5926
-2020-05-22,Czechia,8813,312,6025
-2020-05-23,Czechia,8890,314,6044
-2020-05-24,Czechia,8955,315,6078
-2020-05-25,Czechia,9002,317,6182
-2020-05-26,Czechia,9050,317,6270
-2020-05-27,Czechia,9086,317,6370
-2020-05-28,Czechia,9140,319,6460
-2020-05-29,Czechia,9196,319,6500
-2020-05-30,Czechia,9230,319,6546
-2020-05-31,Czechia,9268,320,6558
-2020-06-01,Czechia,9302,321,6642
-2020-06-02,Czechia,9364,323,6686
-2020-06-03,Czechia,9438,325,6749
-2020-06-04,Czechia,9494,326,6809
-2020-06-05,Czechia,9529,327,6881
-2020-06-06,Czechia,9567,327,6885
-2020-06-07,Czechia,9628,327,6891
-2020-06-08,Czechia,9697,328,6994
-2020-06-09,Czechia,9751,328,7053
-2020-06-10,Czechia,9824,330,7111
-2020-06-11,Czechia,9855,328,7166
-2020-06-12,Czechia,9938,329,7215
-2020-06-13,Czechia,9991,328,7219
-2020-06-14,Czechia,10024,329,7226
-2020-06-15,Czechia,10064,330,7296
-2020-06-16,Czechia,10111,331,7358
-2020-06-17,Czechia,10162,333,7399
-2020-06-18,Czechia,10280,334,7440
+2020-01-22,Czech Republic,0,0,0
+2020-01-23,Czech Republic,0,0,0
+2020-01-24,Czech Republic,0,0,0
+2020-01-25,Czech Republic,0,0,0
+2020-01-26,Czech Republic,0,0,0
+2020-01-27,Czech Republic,0,0,0
+2020-01-28,Czech Republic,0,0,0
+2020-01-29,Czech Republic,0,0,0
+2020-01-30,Czech Republic,0,0,0
+2020-01-31,Czech Republic,0,0,0
+2020-02-01,Czech Republic,0,0,0
+2020-02-02,Czech Republic,0,0,0
+2020-02-03,Czech Republic,0,0,0
+2020-02-04,Czech Republic,0,0,0
+2020-02-05,Czech Republic,0,0,0
+2020-02-06,Czech Republic,0,0,0
+2020-02-07,Czech Republic,0,0,0
+2020-02-08,Czech Republic,0,0,0
+2020-02-09,Czech Republic,0,0,0
+2020-02-10,Czech Republic,0,0,0
+2020-02-11,Czech Republic,0,0,0
+2020-02-12,Czech Republic,0,0,0
+2020-02-13,Czech Republic,0,0,0
+2020-02-14,Czech Republic,0,0,0
+2020-02-15,Czech Republic,0,0,0
+2020-02-16,Czech Republic,0,0,0
+2020-02-17,Czech Republic,0,0,0
+2020-02-18,Czech Republic,0,0,0
+2020-02-19,Czech Republic,0,0,0
+2020-02-20,Czech Republic,0,0,0
+2020-02-21,Czech Republic,0,0,0
+2020-02-22,Czech Republic,0,0,0
+2020-02-23,Czech Republic,0,0,0
+2020-02-24,Czech Republic,0,0,0
+2020-02-25,Czech Republic,0,0,0
+2020-02-26,Czech Republic,0,0,0
+2020-02-27,Czech Republic,0,0,0
+2020-02-28,Czech Republic,0,0,0
+2020-02-29,Czech Republic,0,0,0
+2020-03-01,Czech Republic,3,0,0
+2020-03-02,Czech Republic,3,0,0
+2020-03-03,Czech Republic,5,0,0
+2020-03-04,Czech Republic,8,0,0
+2020-03-05,Czech Republic,12,0,0
+2020-03-06,Czech Republic,18,0,0
+2020-03-07,Czech Republic,19,0,0
+2020-03-08,Czech Republic,31,0,0
+2020-03-09,Czech Republic,31,0,0
+2020-03-10,Czech Republic,41,0,0
+2020-03-11,Czech Republic,91,0,0
+2020-03-12,Czech Republic,94,0,0
+2020-03-13,Czech Republic,141,0,0
+2020-03-14,Czech Republic,189,0,0
+2020-03-15,Czech Republic,253,0,0
+2020-03-16,Czech Republic,298,0,3
+2020-03-17,Czech Republic,396,0,3
+2020-03-18,Czech Republic,464,0,3
+2020-03-19,Czech Republic,694,0,3
+2020-03-20,Czech Republic,833,0,4
+2020-03-21,Czech Republic,995,0,6
+2020-03-22,Czech Republic,1120,1,6
+2020-03-23,Czech Republic,1236,1,6
+2020-03-24,Czech Republic,1394,3,10
+2020-03-25,Czech Republic,1654,6,10
+2020-03-26,Czech Republic,1925,9,10
+2020-03-27,Czech Republic,2279,9,11
+2020-03-28,Czech Republic,2631,11,11
+2020-03-29,Czech Republic,2817,16,11
+2020-03-30,Czech Republic,3001,23,25
+2020-03-31,Czech Republic,3308,31,45
+2020-04-01,Czech Republic,3508,39,61
+2020-04-02,Czech Republic,3858,44,67
+2020-04-03,Czech Republic,4091,53,72
+2020-04-04,Czech Republic,4472,59,78
+2020-04-05,Czech Republic,4587,67,96
+2020-04-06,Czech Republic,4822,78,121
+2020-04-07,Czech Republic,5017,88,172
+2020-04-08,Czech Republic,5312,99,233
+2020-04-09,Czech Republic,5569,112,301
+2020-04-10,Czech Republic,5732,119,346
+2020-04-11,Czech Republic,5831,129,411
+2020-04-12,Czech Republic,5991,138,464
+2020-04-13,Czech Republic,6059,143,519
+2020-04-14,Czech Republic,6111,161,642
+2020-04-15,Czech Republic,6216,166,819
+2020-04-16,Czech Republic,6433,169,972
+2020-04-17,Czech Republic,6549,173,1174
+2020-04-18,Czech Republic,6606,181,1227
+2020-04-19,Czech Republic,6746,186,1298
+2020-04-20,Czech Republic,6900,194,1559
+2020-04-21,Czech Republic,7033,201,1753
+2020-04-22,Czech Republic,7132,208,1989
+2020-04-23,Czech Republic,7187,210,2152
+2020-04-24,Czech Republic,7273,214,2371
+2020-04-25,Czech Republic,7352,218,2453
+2020-04-26,Czech Republic,7404,220,2545
+2020-04-27,Czech Republic,7445,223,2826
+2020-04-28,Czech Republic,7504,227,2948
+2020-04-29,Czech Republic,7579,227,3108
+2020-04-30,Czech Republic,7682,236,3314
+2020-05-01,Czech Republic,7737,240,3372
+2020-05-02,Czech Republic,7755,245,3461
+2020-05-03,Czech Republic,7781,248,3587
+2020-05-04,Czech Republic,7819,252,3807
+2020-05-05,Czech Republic,7896,257,4006
+2020-05-06,Czech Republic,7974,262,4205
+2020-05-07,Czech Republic,8031,270,4371
+2020-05-08,Czech Republic,8077,273,4413
+2020-05-09,Czech Republic,8095,276,4447
+2020-05-10,Czech Republic,8123,280,4474
+2020-05-11,Czech Republic,8176,282,4711
+2020-05-12,Czech Republic,8221,283,4889
+2020-05-13,Czech Republic,8269,290,5047
+2020-05-14,Czech Republic,8351,293,5241
+2020-05-15,Czech Republic,8406,295,5381
+2020-05-16,Czech Republic,8455,296,5422
+2020-05-17,Czech Republic,8475,298,5462
+2020-05-18,Czech Republic,8586,297,5641
+2020-05-19,Czech Republic,8647,302,5726
+2020-05-20,Czech Republic,8721,304,5830
+2020-05-21,Czech Republic,8754,306,5926
+2020-05-22,Czech Republic,8813,312,6025
+2020-05-23,Czech Republic,8890,314,6044
+2020-05-24,Czech Republic,8955,315,6078
+2020-05-25,Czech Republic,9002,317,6182
+2020-05-26,Czech Republic,9050,317,6270
+2020-05-27,Czech Republic,9086,317,6370
+2020-05-28,Czech Republic,9140,319,6460
+2020-05-29,Czech Republic,9196,319,6500
+2020-05-30,Czech Republic,9230,319,6546
+2020-05-31,Czech Republic,9268,320,6558
+2020-06-01,Czech Republic,9302,321,6642
+2020-06-02,Czech Republic,9364,323,6686
+2020-06-03,Czech Republic,9438,325,6749
+2020-06-04,Czech Republic,9494,326,6809
+2020-06-05,Czech Republic,9529,327,6881
+2020-06-06,Czech Republic,9567,327,6885
+2020-06-07,Czech Republic,9628,327,6891
+2020-06-08,Czech Republic,9697,328,6994
+2020-06-09,Czech Republic,9751,328,7053
+2020-06-10,Czech Republic,9824,330,7111
+2020-06-11,Czech Republic,9855,328,7166
+2020-06-12,Czech Republic,9938,329,7215
+2020-06-13,Czech Republic,9991,328,7219
+2020-06-14,Czech Republic,10024,329,7226
+2020-06-15,Czech Republic,10064,330,7296
+2020-06-16,Czech Republic,10111,331,7358
+2020-06-17,Czech Republic,10162,333,7399
+2020-06-18,Czech Republic,10280,334,7440
 2020-01-22,Denmark,0,0,0
 2020-01-23,Denmark,0,0,0
 2020-01-24,Denmark,0,0,0
@@ -7151,155 +7002,6 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Denmark,12450,598,11325
 2020-06-17,Denmark,12494,598,11385
 2020-06-18,Denmark,12544,600,11442
-2020-01-22,Diamond Princess,0,0,0
-2020-01-23,Diamond Princess,0,0,0
-2020-01-24,Diamond Princess,0,0,0
-2020-01-25,Diamond Princess,0,0,0
-2020-01-26,Diamond Princess,0,0,0
-2020-01-27,Diamond Princess,0,0,0
-2020-01-28,Diamond Princess,0,0,0
-2020-01-29,Diamond Princess,0,0,0
-2020-01-30,Diamond Princess,0,0,0
-2020-01-31,Diamond Princess,0,0,0
-2020-02-01,Diamond Princess,0,0,0
-2020-02-02,Diamond Princess,0,0,0
-2020-02-03,Diamond Princess,0,0,0
-2020-02-04,Diamond Princess,0,0,0
-2020-02-05,Diamond Princess,0,0,0
-2020-02-06,Diamond Princess,0,0,0
-2020-02-07,Diamond Princess,61,0,0
-2020-02-08,Diamond Princess,61,0,0
-2020-02-09,Diamond Princess,64,0,0
-2020-02-10,Diamond Princess,135,0,0
-2020-02-11,Diamond Princess,135,0,0
-2020-02-12,Diamond Princess,175,0,0
-2020-02-13,Diamond Princess,175,0,0
-2020-02-14,Diamond Princess,218,0,0
-2020-02-15,Diamond Princess,285,0,0
-2020-02-16,Diamond Princess,355,0,0
-2020-02-17,Diamond Princess,454,0,0
-2020-02-18,Diamond Princess,542,0,0
-2020-02-19,Diamond Princess,621,0,1
-2020-02-20,Diamond Princess,634,2,1
-2020-02-21,Diamond Princess,634,2,1
-2020-02-22,Diamond Princess,634,2,1
-2020-02-23,Diamond Princess,691,3,0
-2020-02-24,Diamond Princess,691,3,0
-2020-02-25,Diamond Princess,691,3,0
-2020-02-26,Diamond Princess,705,4,10
-2020-02-27,Diamond Princess,705,4,10
-2020-02-28,Diamond Princess,705,6,10
-2020-02-29,Diamond Princess,705,6,10
-2020-03-01,Diamond Princess,705,6,10
-2020-03-02,Diamond Princess,705,6,10
-2020-03-03,Diamond Princess,706,6,10
-2020-03-04,Diamond Princess,706,6,10
-2020-03-05,Diamond Princess,706,6,10
-2020-03-06,Diamond Princess,706,6,40
-2020-03-07,Diamond Princess,706,6,40
-2020-03-08,Diamond Princess,706,6,40
-2020-03-09,Diamond Princess,706,6,40
-2020-03-10,Diamond Princess,706,6,40
-2020-03-11,Diamond Princess,706,7,325
-2020-03-12,Diamond Princess,706,7,325
-2020-03-13,Diamond Princess,706,7,325
-2020-03-14,Diamond Princess,706,7,325
-2020-03-15,Diamond Princess,706,7,325
-2020-03-16,Diamond Princess,706,7,325
-2020-03-17,Diamond Princess,706,7,325
-2020-03-18,Diamond Princess,712,7,325
-2020-03-19,Diamond Princess,712,7,325
-2020-03-20,Diamond Princess,712,7,325
-2020-03-21,Diamond Princess,712,8,325
-2020-03-22,Diamond Princess,712,8,325
-2020-03-23,Diamond Princess,712,8,325
-2020-03-24,Diamond Princess,712,10,325
-2020-03-25,Diamond Princess,712,10,587
-2020-03-26,Diamond Princess,712,10,597
-2020-03-27,Diamond Princess,712,10,597
-2020-03-28,Diamond Princess,712,10,597
-2020-03-29,Diamond Princess,712,10,603
-2020-03-30,Diamond Princess,712,10,603
-2020-03-31,Diamond Princess,712,10,603
-2020-04-01,Diamond Princess,712,11,603
-2020-04-02,Diamond Princess,712,11,619
-2020-04-03,Diamond Princess,712,11,619
-2020-04-04,Diamond Princess,712,11,619
-2020-04-05,Diamond Princess,712,11,619
-2020-04-06,Diamond Princess,712,11,619
-2020-04-07,Diamond Princess,712,11,619
-2020-04-08,Diamond Princess,712,11,619
-2020-04-09,Diamond Princess,712,11,619
-2020-04-10,Diamond Princess,712,11,619
-2020-04-11,Diamond Princess,712,11,619
-2020-04-12,Diamond Princess,712,11,619
-2020-04-13,Diamond Princess,712,11,619
-2020-04-14,Diamond Princess,712,12,639
-2020-04-15,Diamond Princess,712,12,639
-2020-04-16,Diamond Princess,712,12,644
-2020-04-17,Diamond Princess,712,13,644
-2020-04-18,Diamond Princess,712,13,644
-2020-04-19,Diamond Princess,712,13,644
-2020-04-20,Diamond Princess,712,13,644
-2020-04-21,Diamond Princess,712,13,644
-2020-04-22,Diamond Princess,712,13,644
-2020-04-23,Diamond Princess,712,13,645
-2020-04-24,Diamond Princess,712,13,645
-2020-04-25,Diamond Princess,712,13,645
-2020-04-26,Diamond Princess,712,13,645
-2020-04-27,Diamond Princess,712,13,645
-2020-04-28,Diamond Princess,712,13,645
-2020-04-29,Diamond Princess,712,13,645
-2020-04-30,Diamond Princess,712,13,645
-2020-05-01,Diamond Princess,712,13,645
-2020-05-02,Diamond Princess,712,13,645
-2020-05-03,Diamond Princess,712,13,645
-2020-05-04,Diamond Princess,712,13,645
-2020-05-05,Diamond Princess,712,13,645
-2020-05-06,Diamond Princess,712,13,645
-2020-05-07,Diamond Princess,712,13,645
-2020-05-08,Diamond Princess,712,13,645
-2020-05-09,Diamond Princess,712,13,645
-2020-05-10,Diamond Princess,712,13,651
-2020-05-11,Diamond Princess,712,13,651
-2020-05-12,Diamond Princess,712,13,651
-2020-05-13,Diamond Princess,712,13,651
-2020-05-14,Diamond Princess,712,13,651
-2020-05-15,Diamond Princess,712,13,651
-2020-05-16,Diamond Princess,712,13,651
-2020-05-17,Diamond Princess,712,13,651
-2020-05-18,Diamond Princess,712,13,651
-2020-05-19,Diamond Princess,712,13,651
-2020-05-20,Diamond Princess,712,13,651
-2020-05-21,Diamond Princess,712,13,651
-2020-05-22,Diamond Princess,712,13,651
-2020-05-23,Diamond Princess,712,13,651
-2020-05-24,Diamond Princess,712,13,651
-2020-05-25,Diamond Princess,712,13,651
-2020-05-26,Diamond Princess,712,13,651
-2020-05-27,Diamond Princess,712,13,651
-2020-05-28,Diamond Princess,712,13,651
-2020-05-29,Diamond Princess,712,13,651
-2020-05-30,Diamond Princess,712,13,651
-2020-05-31,Diamond Princess,712,13,651
-2020-06-01,Diamond Princess,712,13,651
-2020-06-02,Diamond Princess,712,13,651
-2020-06-03,Diamond Princess,712,13,651
-2020-06-04,Diamond Princess,712,13,651
-2020-06-05,Diamond Princess,712,13,651
-2020-06-06,Diamond Princess,712,13,651
-2020-06-07,Diamond Princess,712,13,651
-2020-06-08,Diamond Princess,712,13,651
-2020-06-09,Diamond Princess,712,13,651
-2020-06-10,Diamond Princess,712,13,651
-2020-06-11,Diamond Princess,712,13,651
-2020-06-12,Diamond Princess,712,13,651
-2020-06-13,Diamond Princess,712,13,651
-2020-06-14,Diamond Princess,712,13,651
-2020-06-15,Diamond Princess,712,13,651
-2020-06-16,Diamond Princess,712,13,651
-2020-06-17,Diamond Princess,712,13,651
-2020-06-18,Diamond Princess,712,13,651
 2020-01-22,Djibouti,0,0,0
 2020-01-23,Djibouti,0,0,0
 2020-01-24,Djibouti,0,0,0
@@ -8641,155 +8343,6 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Estonia,1975,69,1728
 2020-06-17,Estonia,1977,69,1743
 2020-06-18,Estonia,1977,69,1748
-2020-01-22,Eswatini,0,0,0
-2020-01-23,Eswatini,0,0,0
-2020-01-24,Eswatini,0,0,0
-2020-01-25,Eswatini,0,0,0
-2020-01-26,Eswatini,0,0,0
-2020-01-27,Eswatini,0,0,0
-2020-01-28,Eswatini,0,0,0
-2020-01-29,Eswatini,0,0,0
-2020-01-30,Eswatini,0,0,0
-2020-01-31,Eswatini,0,0,0
-2020-02-01,Eswatini,0,0,0
-2020-02-02,Eswatini,0,0,0
-2020-02-03,Eswatini,0,0,0
-2020-02-04,Eswatini,0,0,0
-2020-02-05,Eswatini,0,0,0
-2020-02-06,Eswatini,0,0,0
-2020-02-07,Eswatini,0,0,0
-2020-02-08,Eswatini,0,0,0
-2020-02-09,Eswatini,0,0,0
-2020-02-10,Eswatini,0,0,0
-2020-02-11,Eswatini,0,0,0
-2020-02-12,Eswatini,0,0,0
-2020-02-13,Eswatini,0,0,0
-2020-02-14,Eswatini,0,0,0
-2020-02-15,Eswatini,0,0,0
-2020-02-16,Eswatini,0,0,0
-2020-02-17,Eswatini,0,0,0
-2020-02-18,Eswatini,0,0,0
-2020-02-19,Eswatini,0,0,0
-2020-02-20,Eswatini,0,0,0
-2020-02-21,Eswatini,0,0,0
-2020-02-22,Eswatini,0,0,0
-2020-02-23,Eswatini,0,0,0
-2020-02-24,Eswatini,0,0,0
-2020-02-25,Eswatini,0,0,0
-2020-02-26,Eswatini,0,0,0
-2020-02-27,Eswatini,0,0,0
-2020-02-28,Eswatini,0,0,0
-2020-02-29,Eswatini,0,0,0
-2020-03-01,Eswatini,0,0,0
-2020-03-02,Eswatini,0,0,0
-2020-03-03,Eswatini,0,0,0
-2020-03-04,Eswatini,0,0,0
-2020-03-05,Eswatini,0,0,0
-2020-03-06,Eswatini,0,0,0
-2020-03-07,Eswatini,0,0,0
-2020-03-08,Eswatini,0,0,0
-2020-03-09,Eswatini,0,0,0
-2020-03-10,Eswatini,0,0,0
-2020-03-11,Eswatini,0,0,0
-2020-03-12,Eswatini,0,0,0
-2020-03-13,Eswatini,0,0,0
-2020-03-14,Eswatini,1,0,0
-2020-03-15,Eswatini,1,0,0
-2020-03-16,Eswatini,1,0,0
-2020-03-17,Eswatini,1,0,0
-2020-03-18,Eswatini,1,0,0
-2020-03-19,Eswatini,1,0,0
-2020-03-20,Eswatini,1,0,0
-2020-03-21,Eswatini,1,0,0
-2020-03-22,Eswatini,4,0,0
-2020-03-23,Eswatini,4,0,0
-2020-03-24,Eswatini,4,0,0
-2020-03-25,Eswatini,4,0,0
-2020-03-26,Eswatini,6,0,0
-2020-03-27,Eswatini,9,0,0
-2020-03-28,Eswatini,9,0,0
-2020-03-29,Eswatini,9,0,0
-2020-03-30,Eswatini,9,0,0
-2020-03-31,Eswatini,9,0,0
-2020-04-01,Eswatini,9,0,0
-2020-04-02,Eswatini,9,0,0
-2020-04-03,Eswatini,9,0,0
-2020-04-04,Eswatini,9,0,0
-2020-04-05,Eswatini,9,0,0
-2020-04-06,Eswatini,10,0,4
-2020-04-07,Eswatini,10,0,4
-2020-04-08,Eswatini,12,0,7
-2020-04-09,Eswatini,12,0,7
-2020-04-10,Eswatini,12,0,7
-2020-04-11,Eswatini,12,0,7
-2020-04-12,Eswatini,14,0,7
-2020-04-13,Eswatini,15,0,7
-2020-04-14,Eswatini,15,0,8
-2020-04-15,Eswatini,15,0,8
-2020-04-16,Eswatini,16,1,8
-2020-04-17,Eswatini,16,1,8
-2020-04-18,Eswatini,22,1,8
-2020-04-19,Eswatini,22,1,8
-2020-04-20,Eswatini,24,1,8
-2020-04-21,Eswatini,31,1,8
-2020-04-22,Eswatini,31,1,8
-2020-04-23,Eswatini,31,1,8
-2020-04-24,Eswatini,36,1,10
-2020-04-25,Eswatini,56,1,10
-2020-04-26,Eswatini,59,1,10
-2020-04-27,Eswatini,65,1,10
-2020-04-28,Eswatini,71,1,10
-2020-04-29,Eswatini,91,1,10
-2020-04-30,Eswatini,100,1,12
-2020-05-01,Eswatini,106,1,12
-2020-05-02,Eswatini,108,1,12
-2020-05-03,Eswatini,112,1,12
-2020-05-04,Eswatini,116,1,12
-2020-05-05,Eswatini,119,1,12
-2020-05-06,Eswatini,123,2,12
-2020-05-07,Eswatini,153,2,12
-2020-05-08,Eswatini,159,2,12
-2020-05-09,Eswatini,163,2,14
-2020-05-10,Eswatini,172,2,27
-2020-05-11,Eswatini,175,2,28
-2020-05-12,Eswatini,184,2,28
-2020-05-13,Eswatini,187,2,48
-2020-05-14,Eswatini,187,2,51
-2020-05-15,Eswatini,190,2,66
-2020-05-16,Eswatini,202,2,72
-2020-05-17,Eswatini,203,2,73
-2020-05-18,Eswatini,205,2,78
-2020-05-19,Eswatini,208,2,87
-2020-05-20,Eswatini,217,2,97
-2020-05-21,Eswatini,220,2,112
-2020-05-22,Eswatini,225,2,119
-2020-05-23,Eswatini,238,2,119
-2020-05-24,Eswatini,250,2,156
-2020-05-25,Eswatini,256,2,158
-2020-05-26,Eswatini,261,2,164
-2020-05-27,Eswatini,272,2,168
-2020-05-28,Eswatini,279,2,168
-2020-05-29,Eswatini,279,2,168
-2020-05-30,Eswatini,283,2,168
-2020-05-31,Eswatini,285,2,189
-2020-06-01,Eswatini,293,3,194
-2020-06-02,Eswatini,294,3,198
-2020-06-03,Eswatini,295,3,201
-2020-06-04,Eswatini,300,3,201
-2020-06-05,Eswatini,305,3,221
-2020-06-06,Eswatini,322,3,224
-2020-06-07,Eswatini,333,3,225
-2020-06-08,Eswatini,340,3,229
-2020-06-09,Eswatini,371,3,232
-2020-06-10,Eswatini,398,3,236
-2020-06-11,Eswatini,449,3,238
-2020-06-12,Eswatini,472,3,246
-2020-06-13,Eswatini,486,3,247
-2020-06-14,Eswatini,490,4,249
-2020-06-15,Eswatini,506,4,249
-2020-06-16,Eswatini,520,4,259
-2020-06-17,Eswatini,563,4,262
-2020-06-18,Eswatini,586,4,267
 2020-01-22,Ethiopia,0,0,0
 2020-01-23,Ethiopia,0,0,0
 2020-01-24,Ethiopia,0,0,0
@@ -11174,155 +10727,6 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Haiti,4547,80,24
 2020-06-17,Haiti,4688,82,24
 2020-06-18,Haiti,4916,84,24
-2020-01-22,Holy See,0,0,0
-2020-01-23,Holy See,0,0,0
-2020-01-24,Holy See,0,0,0
-2020-01-25,Holy See,0,0,0
-2020-01-26,Holy See,0,0,0
-2020-01-27,Holy See,0,0,0
-2020-01-28,Holy See,0,0,0
-2020-01-29,Holy See,0,0,0
-2020-01-30,Holy See,0,0,0
-2020-01-31,Holy See,0,0,0
-2020-02-01,Holy See,0,0,0
-2020-02-02,Holy See,0,0,0
-2020-02-03,Holy See,0,0,0
-2020-02-04,Holy See,0,0,0
-2020-02-05,Holy See,0,0,0
-2020-02-06,Holy See,0,0,0
-2020-02-07,Holy See,0,0,0
-2020-02-08,Holy See,0,0,0
-2020-02-09,Holy See,0,0,0
-2020-02-10,Holy See,0,0,0
-2020-02-11,Holy See,0,0,0
-2020-02-12,Holy See,0,0,0
-2020-02-13,Holy See,0,0,0
-2020-02-14,Holy See,0,0,0
-2020-02-15,Holy See,0,0,0
-2020-02-16,Holy See,0,0,0
-2020-02-17,Holy See,0,0,0
-2020-02-18,Holy See,0,0,0
-2020-02-19,Holy See,0,0,0
-2020-02-20,Holy See,0,0,0
-2020-02-21,Holy See,0,0,0
-2020-02-22,Holy See,0,0,0
-2020-02-23,Holy See,0,0,0
-2020-02-24,Holy See,0,0,0
-2020-02-25,Holy See,0,0,0
-2020-02-26,Holy See,0,0,0
-2020-02-27,Holy See,0,0,0
-2020-02-28,Holy See,0,0,0
-2020-02-29,Holy See,0,0,0
-2020-03-01,Holy See,0,0,0
-2020-03-02,Holy See,0,0,0
-2020-03-03,Holy See,0,0,0
-2020-03-04,Holy See,0,0,0
-2020-03-05,Holy See,0,0,0
-2020-03-06,Holy See,1,0,0
-2020-03-07,Holy See,1,0,0
-2020-03-08,Holy See,1,0,0
-2020-03-09,Holy See,1,0,0
-2020-03-10,Holy See,1,0,0
-2020-03-11,Holy See,1,0,0
-2020-03-12,Holy See,1,0,0
-2020-03-13,Holy See,1,0,0
-2020-03-14,Holy See,1,0,0
-2020-03-15,Holy See,1,0,0
-2020-03-16,Holy See,1,0,0
-2020-03-17,Holy See,1,0,0
-2020-03-18,Holy See,1,0,0
-2020-03-19,Holy See,1,0,0
-2020-03-20,Holy See,1,0,0
-2020-03-21,Holy See,1,0,0
-2020-03-22,Holy See,1,0,0
-2020-03-23,Holy See,1,0,0
-2020-03-24,Holy See,4,0,0
-2020-03-25,Holy See,4,0,0
-2020-03-26,Holy See,4,0,0
-2020-03-27,Holy See,4,0,0
-2020-03-28,Holy See,6,0,0
-2020-03-29,Holy See,6,0,0
-2020-03-30,Holy See,6,0,0
-2020-03-31,Holy See,6,0,0
-2020-04-01,Holy See,6,0,0
-2020-04-02,Holy See,7,0,0
-2020-04-03,Holy See,7,0,0
-2020-04-04,Holy See,7,0,0
-2020-04-05,Holy See,7,0,0
-2020-04-06,Holy See,7,0,0
-2020-04-07,Holy See,7,0,0
-2020-04-08,Holy See,8,0,2
-2020-04-09,Holy See,8,0,2
-2020-04-10,Holy See,8,0,2
-2020-04-11,Holy See,8,0,2
-2020-04-12,Holy See,8,0,2
-2020-04-13,Holy See,8,0,2
-2020-04-14,Holy See,8,0,2
-2020-04-15,Holy See,8,0,2
-2020-04-16,Holy See,8,0,2
-2020-04-17,Holy See,8,0,2
-2020-04-18,Holy See,8,0,2
-2020-04-19,Holy See,8,0,2
-2020-04-20,Holy See,9,0,2
-2020-04-21,Holy See,9,0,2
-2020-04-22,Holy See,9,0,2
-2020-04-23,Holy See,9,0,2
-2020-04-24,Holy See,9,0,2
-2020-04-25,Holy See,9,0,2
-2020-04-26,Holy See,9,0,2
-2020-04-27,Holy See,9,0,2
-2020-04-28,Holy See,10,0,2
-2020-04-29,Holy See,10,0,2
-2020-04-30,Holy See,11,0,2
-2020-05-01,Holy See,11,0,2
-2020-05-02,Holy See,11,0,2
-2020-05-03,Holy See,11,0,2
-2020-05-04,Holy See,11,0,2
-2020-05-05,Holy See,11,0,2
-2020-05-06,Holy See,12,0,2
-2020-05-07,Holy See,12,0,2
-2020-05-08,Holy See,12,0,2
-2020-05-09,Holy See,12,0,2
-2020-05-10,Holy See,12,0,2
-2020-05-11,Holy See,12,0,2
-2020-05-12,Holy See,12,0,2
-2020-05-13,Holy See,12,0,2
-2020-05-14,Holy See,12,0,2
-2020-05-15,Holy See,12,0,2
-2020-05-16,Holy See,12,0,2
-2020-05-17,Holy See,12,0,2
-2020-05-18,Holy See,12,0,2
-2020-05-19,Holy See,12,0,2
-2020-05-20,Holy See,12,0,2
-2020-05-21,Holy See,12,0,2
-2020-05-22,Holy See,12,0,2
-2020-05-23,Holy See,12,0,2
-2020-05-24,Holy See,12,0,2
-2020-05-25,Holy See,12,0,2
-2020-05-26,Holy See,12,0,2
-2020-05-27,Holy See,12,0,2
-2020-05-28,Holy See,12,0,2
-2020-05-29,Holy See,12,0,2
-2020-05-30,Holy See,12,0,2
-2020-05-31,Holy See,12,0,2
-2020-06-01,Holy See,12,0,2
-2020-06-02,Holy See,12,0,2
-2020-06-03,Holy See,12,0,2
-2020-06-04,Holy See,12,0,2
-2020-06-05,Holy See,12,0,2
-2020-06-06,Holy See,12,0,12
-2020-06-07,Holy See,12,0,12
-2020-06-08,Holy See,12,0,12
-2020-06-09,Holy See,12,0,12
-2020-06-10,Holy See,12,0,12
-2020-06-11,Holy See,12,0,12
-2020-06-12,Holy See,12,0,12
-2020-06-13,Holy See,12,0,12
-2020-06-14,Holy See,12,0,12
-2020-06-15,Holy See,12,0,12
-2020-06-16,Holy See,12,0,12
-2020-06-17,Holy See,12,0,12
-2020-06-18,Holy See,12,0,12
 2020-01-22,Honduras,0,0,0
 2020-01-23,Honduras,0,0,0
 2020-01-24,Honduras,0,0,0
@@ -12708,111 +12112,260 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-03-03,Italy,2502,79,160
 2020-03-04,Italy,3089,107,276
 2020-03-05,Italy,3858,148,414
-2020-03-06,Italy,4636,197,523
-2020-03-07,Italy,5883,233,589
-2020-03-08,Italy,7375,366,622
-2020-03-09,Italy,9172,463,724
-2020-03-10,Italy,10149,631,724
-2020-03-11,Italy,12462,827,1045
-2020-03-12,Italy,15113,1016,1045
-2020-03-13,Italy,17660,1266,1439
-2020-03-14,Italy,21157,1441,1966
-2020-03-15,Italy,24747,1809,2335
-2020-03-16,Italy,27980,2158,2749
-2020-03-17,Italy,31506,2503,2941
-2020-03-18,Italy,35713,2978,4025
-2020-03-19,Italy,41035,3405,4440
-2020-03-20,Italy,47021,4032,4440
-2020-03-21,Italy,53578,4825,6072
-2020-03-22,Italy,59138,5476,7024
-2020-03-23,Italy,63927,6077,7024
-2020-03-24,Italy,69176,6820,8326
-2020-03-25,Italy,74386,7503,9362
-2020-03-26,Italy,80589,8215,10361
-2020-03-27,Italy,86498,9134,10950
-2020-03-28,Italy,92472,10023,12384
-2020-03-29,Italy,97689,10779,13030
-2020-03-30,Italy,101739,11591,14620
-2020-03-31,Italy,105792,12428,15729
-2020-04-01,Italy,110574,13155,16847
-2020-04-02,Italy,115242,13915,18278
-2020-04-03,Italy,119827,14681,19758
-2020-04-04,Italy,124632,15362,20996
-2020-04-05,Italy,128948,15887,21815
-2020-04-06,Italy,132547,16523,22837
-2020-04-07,Italy,135586,17127,24392
-2020-04-08,Italy,139422,17669,26491
-2020-04-09,Italy,143626,18279,28470
-2020-04-10,Italy,147577,18849,30455
-2020-04-11,Italy,152271,19468,32534
-2020-04-12,Italy,156363,19899,34211
-2020-04-13,Italy,159516,20465,35435
-2020-04-14,Italy,162488,21067,37130
-2020-04-15,Italy,165155,21645,38092
-2020-04-16,Italy,168941,22170,40164
-2020-04-17,Italy,172434,22745,42727
-2020-04-18,Italy,175925,23227,44927
-2020-04-19,Italy,178972,23660,47055
-2020-04-20,Italy,181228,24114,48877
-2020-04-21,Italy,183957,24648,51600
-2020-04-22,Italy,187327,25085,54543
-2020-04-23,Italy,189973,25549,57576
-2020-04-24,Italy,192994,25969,60498
-2020-04-25,Italy,195351,26384,63120
-2020-04-26,Italy,197675,26644,64928
-2020-04-27,Italy,199414,26977,66624
-2020-04-28,Italy,201505,27359,68941
-2020-04-29,Italy,203591,27682,71252
-2020-04-30,Italy,205463,27967,75945
-2020-05-01,Italy,207428,28236,78249
-2020-05-02,Italy,209328,28710,79914
-2020-05-03,Italy,210717,28884,81654
-2020-05-04,Italy,211938,29079,82879
-2020-05-05,Italy,213013,29315,85231
-2020-05-06,Italy,214457,29684,93245
-2020-05-07,Italy,215858,29958,96276
-2020-05-08,Italy,217185,30201,99023
-2020-05-09,Italy,218268,30395,103031
-2020-05-10,Italy,219070,30560,105186
-2020-05-11,Italy,219814,30739,106587
-2020-05-12,Italy,221216,30911,109039
-2020-05-13,Italy,222104,31106,112541
-2020-05-14,Italy,223096,31368,115288
-2020-05-15,Italy,223885,31610,120205
-2020-05-16,Italy,224760,31763,122810
-2020-05-17,Italy,225435,31908,125176
-2020-05-18,Italy,225886,32007,127326
-2020-05-19,Italy,226699,32169,129401
-2020-05-20,Italy,227364,32330,132282
-2020-05-21,Italy,228006,32486,134560
-2020-05-22,Italy,228658,32616,136720
-2020-05-23,Italy,229327,32735,138840
-2020-05-24,Italy,229858,32785,140479
-2020-05-25,Italy,230158,32877,141981
-2020-05-26,Italy,230555,32955,144658
-2020-05-27,Italy,231139,33072,147101
-2020-05-28,Italy,231732,33142,150604
-2020-05-29,Italy,232248,33229,152844
-2020-05-30,Italy,232664,33340,155633
-2020-05-31,Italy,232997,33415,157507
-2020-06-01,Italy,233197,33475,158355
-2020-06-02,Italy,233515,33530,160092
-2020-06-03,Italy,233836,33601,160938
-2020-06-04,Italy,234013,33689,161895
-2020-06-05,Italy,234531,33774,163781
-2020-06-06,Italy,234801,33846,165078
-2020-06-07,Italy,234998,33899,165837
-2020-06-08,Italy,235278,33964,166584
-2020-06-09,Italy,235561,34043,168646
-2020-06-10,Italy,235763,34114,169939
-2020-06-11,Italy,236142,34167,171338
-2020-06-12,Italy,236305,34223,173085
-2020-06-13,Italy,236651,34301,174865
-2020-06-14,Italy,236989,34345,176370
-2020-06-15,Italy,237290,34371,177010
-2020-06-16,Italy,237500,34405,178526
-2020-06-17,Italy,237828,34448,179455
-2020-06-18,Italy,238159,34514,180544
+2020-03-06,Italy,4637,197,523
+2020-03-07,Italy,5884,233,589
+2020-03-08,Italy,7376,366,622
+2020-03-09,Italy,9173,463,724
+2020-03-10,Italy,10150,631,724
+2020-03-11,Italy,12463,827,1045
+2020-03-12,Italy,15114,1016,1045
+2020-03-13,Italy,17661,1266,1439
+2020-03-14,Italy,21158,1441,1966
+2020-03-15,Italy,24748,1809,2335
+2020-03-16,Italy,27981,2158,2749
+2020-03-17,Italy,31507,2503,2941
+2020-03-18,Italy,35714,2978,4025
+2020-03-19,Italy,41036,3405,4440
+2020-03-20,Italy,47022,4032,4440
+2020-03-21,Italy,53579,4825,6072
+2020-03-22,Italy,59139,5476,7024
+2020-03-23,Italy,63928,6077,7024
+2020-03-24,Italy,69180,6820,8326
+2020-03-25,Italy,74390,7503,9362
+2020-03-26,Italy,80593,8215,10361
+2020-03-27,Italy,86502,9134,10950
+2020-03-28,Italy,92478,10023,12384
+2020-03-29,Italy,97695,10779,13030
+2020-03-30,Italy,101745,11591,14620
+2020-03-31,Italy,105798,12428,15729
+2020-04-01,Italy,110580,13155,16847
+2020-04-02,Italy,115249,13915,18278
+2020-04-03,Italy,119834,14681,19758
+2020-04-04,Italy,124639,15362,20996
+2020-04-05,Italy,128955,15887,21815
+2020-04-06,Italy,132554,16523,22837
+2020-04-07,Italy,135593,17127,24392
+2020-04-08,Italy,139430,17669,26493
+2020-04-09,Italy,143634,18279,28472
+2020-04-10,Italy,147585,18849,30457
+2020-04-11,Italy,152279,19468,32536
+2020-04-12,Italy,156371,19899,34213
+2020-04-13,Italy,159524,20465,35437
+2020-04-14,Italy,162496,21067,37132
+2020-04-15,Italy,165163,21645,38094
+2020-04-16,Italy,168949,22170,40166
+2020-04-17,Italy,172442,22745,42729
+2020-04-18,Italy,175933,23227,44929
+2020-04-19,Italy,178980,23660,47057
+2020-04-20,Italy,181237,24114,48879
+2020-04-21,Italy,183966,24648,51602
+2020-04-22,Italy,187336,25085,54545
+2020-04-23,Italy,189982,25549,57578
+2020-04-24,Italy,193003,25969,60500
+2020-04-25,Italy,195360,26384,63122
+2020-04-26,Italy,197684,26644,64930
+2020-04-27,Italy,199423,26977,66626
+2020-04-28,Italy,201515,27359,68943
+2020-04-29,Italy,203601,27682,71254
+2020-04-30,Italy,205474,27967,75947
+2020-05-01,Italy,207439,28236,78251
+2020-05-02,Italy,209339,28710,79916
+2020-05-03,Italy,210728,28884,81656
+2020-05-04,Italy,211949,29079,82881
+2020-05-05,Italy,213024,29315,85233
+2020-05-06,Italy,214469,29684,93247
+2020-05-07,Italy,215870,29958,96278
+2020-05-08,Italy,217197,30201,99025
+2020-05-09,Italy,218280,30395,103033
+2020-05-10,Italy,219082,30560,105188
+2020-05-11,Italy,219826,30739,106589
+2020-05-12,Italy,221228,30911,109041
+2020-05-13,Italy,222116,31106,112543
+2020-05-14,Italy,223108,31368,115290
+2020-05-15,Italy,223897,31610,120207
+2020-05-16,Italy,224772,31763,122812
+2020-05-17,Italy,225447,31908,125178
+2020-05-18,Italy,225898,32007,127328
+2020-05-19,Italy,226711,32169,129403
+2020-05-20,Italy,227376,32330,132284
+2020-05-21,Italy,228018,32486,134562
+2020-05-22,Italy,228670,32616,136722
+2020-05-23,Italy,229339,32735,138842
+2020-05-24,Italy,229870,32785,140481
+2020-05-25,Italy,230170,32877,141983
+2020-05-26,Italy,230567,32955,144660
+2020-05-27,Italy,231151,33072,147103
+2020-05-28,Italy,231744,33142,150606
+2020-05-29,Italy,232260,33229,152846
+2020-05-30,Italy,232676,33340,155635
+2020-05-31,Italy,233009,33415,157509
+2020-06-01,Italy,233209,33475,158357
+2020-06-02,Italy,233527,33530,160094
+2020-06-03,Italy,233848,33601,160940
+2020-06-04,Italy,234025,33689,161897
+2020-06-05,Italy,234543,33774,163783
+2020-06-06,Italy,234813,33846,165090
+2020-06-07,Italy,235010,33899,165849
+2020-06-08,Italy,235290,33964,166596
+2020-06-09,Italy,235573,34043,168658
+2020-06-10,Italy,235775,34114,169951
+2020-06-11,Italy,236154,34167,171350
+2020-06-12,Italy,236317,34223,173097
+2020-06-13,Italy,236663,34301,174877
+2020-06-14,Italy,237001,34345,176382
+2020-06-15,Italy,237302,34371,177022
+2020-06-16,Italy,237512,34405,178538
+2020-06-17,Italy,237840,34448,179467
+2020-06-18,Italy,238171,34514,180556
+2020-01-22,Ivory Coast,0,0,0
+2020-01-23,Ivory Coast,0,0,0
+2020-01-24,Ivory Coast,0,0,0
+2020-01-25,Ivory Coast,0,0,0
+2020-01-26,Ivory Coast,0,0,0
+2020-01-27,Ivory Coast,0,0,0
+2020-01-28,Ivory Coast,0,0,0
+2020-01-29,Ivory Coast,0,0,0
+2020-01-30,Ivory Coast,0,0,0
+2020-01-31,Ivory Coast,0,0,0
+2020-02-01,Ivory Coast,0,0,0
+2020-02-02,Ivory Coast,0,0,0
+2020-02-03,Ivory Coast,0,0,0
+2020-02-04,Ivory Coast,0,0,0
+2020-02-05,Ivory Coast,0,0,0
+2020-02-06,Ivory Coast,0,0,0
+2020-02-07,Ivory Coast,0,0,0
+2020-02-08,Ivory Coast,0,0,0
+2020-02-09,Ivory Coast,0,0,0
+2020-02-10,Ivory Coast,0,0,0
+2020-02-11,Ivory Coast,0,0,0
+2020-02-12,Ivory Coast,0,0,0
+2020-02-13,Ivory Coast,0,0,0
+2020-02-14,Ivory Coast,0,0,0
+2020-02-15,Ivory Coast,0,0,0
+2020-02-16,Ivory Coast,0,0,0
+2020-02-17,Ivory Coast,0,0,0
+2020-02-18,Ivory Coast,0,0,0
+2020-02-19,Ivory Coast,0,0,0
+2020-02-20,Ivory Coast,0,0,0
+2020-02-21,Ivory Coast,0,0,0
+2020-02-22,Ivory Coast,0,0,0
+2020-02-23,Ivory Coast,0,0,0
+2020-02-24,Ivory Coast,0,0,0
+2020-02-25,Ivory Coast,0,0,0
+2020-02-26,Ivory Coast,0,0,0
+2020-02-27,Ivory Coast,0,0,0
+2020-02-28,Ivory Coast,0,0,0
+2020-02-29,Ivory Coast,0,0,0
+2020-03-01,Ivory Coast,0,0,0
+2020-03-02,Ivory Coast,0,0,0
+2020-03-03,Ivory Coast,0,0,0
+2020-03-04,Ivory Coast,0,0,0
+2020-03-05,Ivory Coast,0,0,0
+2020-03-06,Ivory Coast,0,0,0
+2020-03-07,Ivory Coast,0,0,0
+2020-03-08,Ivory Coast,0,0,0
+2020-03-09,Ivory Coast,0,0,0
+2020-03-10,Ivory Coast,0,0,0
+2020-03-11,Ivory Coast,1,0,0
+2020-03-12,Ivory Coast,1,0,0
+2020-03-13,Ivory Coast,1,0,0
+2020-03-14,Ivory Coast,1,0,0
+2020-03-15,Ivory Coast,1,0,0
+2020-03-16,Ivory Coast,1,0,0
+2020-03-17,Ivory Coast,5,0,1
+2020-03-18,Ivory Coast,6,0,1
+2020-03-19,Ivory Coast,9,0,1
+2020-03-20,Ivory Coast,9,0,1
+2020-03-21,Ivory Coast,14,0,1
+2020-03-22,Ivory Coast,14,0,1
+2020-03-23,Ivory Coast,25,0,1
+2020-03-24,Ivory Coast,73,0,2
+2020-03-25,Ivory Coast,80,0,3
+2020-03-26,Ivory Coast,96,0,3
+2020-03-27,Ivory Coast,101,0,3
+2020-03-28,Ivory Coast,101,0,3
+2020-03-29,Ivory Coast,165,1,4
+2020-03-30,Ivory Coast,168,1,6
+2020-03-31,Ivory Coast,179,1,7
+2020-04-01,Ivory Coast,190,1,9
+2020-04-02,Ivory Coast,194,1,15
+2020-04-03,Ivory Coast,218,1,19
+2020-04-04,Ivory Coast,245,1,25
+2020-04-05,Ivory Coast,261,3,37
+2020-04-06,Ivory Coast,323,3,41
+2020-04-07,Ivory Coast,349,3,41
+2020-04-08,Ivory Coast,384,3,48
+2020-04-09,Ivory Coast,444,3,52
+2020-04-10,Ivory Coast,444,3,52
+2020-04-11,Ivory Coast,533,4,58
+2020-04-12,Ivory Coast,574,5,85
+2020-04-13,Ivory Coast,626,6,89
+2020-04-14,Ivory Coast,638,6,114
+2020-04-15,Ivory Coast,638,6,114
+2020-04-16,Ivory Coast,654,6,146
+2020-04-17,Ivory Coast,688,6,193
+2020-04-18,Ivory Coast,801,8,239
+2020-04-19,Ivory Coast,847,9,260
+2020-04-20,Ivory Coast,847,9,260
+2020-04-21,Ivory Coast,916,13,303
+2020-04-22,Ivory Coast,952,14,310
+2020-04-23,Ivory Coast,1004,14,359
+2020-04-24,Ivory Coast,1077,14,419
+2020-04-25,Ivory Coast,1077,14,419
+2020-04-26,Ivory Coast,1150,14,468
+2020-04-27,Ivory Coast,1164,14,499
+2020-04-28,Ivory Coast,1183,14,525
+2020-04-29,Ivory Coast,1238,14,557
+2020-04-30,Ivory Coast,1275,14,574
+2020-05-01,Ivory Coast,1333,15,597
+2020-05-02,Ivory Coast,1362,15,622
+2020-05-03,Ivory Coast,1398,17,653
+2020-05-04,Ivory Coast,1432,17,693
+2020-05-05,Ivory Coast,1464,18,701
+2020-05-06,Ivory Coast,1516,18,721
+2020-05-07,Ivory Coast,1571,20,742
+2020-05-08,Ivory Coast,1602,20,754
+2020-05-09,Ivory Coast,1667,21,769
+2020-05-10,Ivory Coast,1700,21,794
+2020-05-11,Ivory Coast,1730,21,818
+2020-05-12,Ivory Coast,1857,21,820
+2020-05-13,Ivory Coast,1912,24,902
+2020-05-14,Ivory Coast,1971,24,930
+2020-05-15,Ivory Coast,2017,24,942
+2020-05-16,Ivory Coast,2061,25,987
+2020-05-17,Ivory Coast,2109,27,1004
+2020-05-18,Ivory Coast,2119,28,1040
+2020-05-19,Ivory Coast,2153,28,1050
+2020-05-20,Ivory Coast,2231,29,1083
+2020-05-21,Ivory Coast,2301,29,1100
+2020-05-22,Ivory Coast,2341,29,1146
+2020-05-23,Ivory Coast,2366,30,1188
+2020-05-24,Ivory Coast,2376,30,1219
+2020-05-25,Ivory Coast,2423,30,1257
+2020-05-26,Ivory Coast,2477,30,1286
+2020-05-27,Ivory Coast,2556,31,1302
+2020-05-28,Ivory Coast,2641,32,1326
+2020-05-29,Ivory Coast,2750,32,1370
+2020-05-30,Ivory Coast,2799,33,1385
+2020-05-31,Ivory Coast,2833,33,1435
+2020-06-01,Ivory Coast,2951,33,1467
+2020-06-02,Ivory Coast,3024,33,1501
+2020-06-03,Ivory Coast,3110,35,1530
+2020-06-04,Ivory Coast,3262,35,1584
+2020-06-05,Ivory Coast,3431,36,1604
+2020-06-06,Ivory Coast,3557,36,1750
+2020-06-07,Ivory Coast,3739,36,1818
+2020-06-08,Ivory Coast,3881,38,1869
+2020-06-09,Ivory Coast,3995,38,2045
+2020-06-10,Ivory Coast,4181,41,2174
+2020-06-11,Ivory Coast,4404,41,2212
+2020-06-12,Ivory Coast,4684,45,2263
+2020-06-13,Ivory Coast,4848,45,2397
+2020-06-14,Ivory Coast,5084,45,2505
+2020-06-15,Ivory Coast,5439,46,2590
+2020-06-16,Ivory Coast,5679,46,2637
+2020-06-17,Ivory Coast,6063,48,2749
+2020-06-18,Ivory Coast,6444,49,2863
 2020-01-22,Jamaica,0,0,0
 2020-01-23,Jamaica,0,0,0
 2020-01-24,Jamaica,0,0,0
@@ -13558,155 +13111,6 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Kenya,3860,105,1328
 2020-06-17,Kenya,4044,107,1353
 2020-06-18,Kenya,4257,117,1459
-2020-01-22,"Korea, South",1,0,0
-2020-01-23,"Korea, South",1,0,0
-2020-01-24,"Korea, South",2,0,0
-2020-01-25,"Korea, South",2,0,0
-2020-01-26,"Korea, South",3,0,0
-2020-01-27,"Korea, South",4,0,0
-2020-01-28,"Korea, South",4,0,0
-2020-01-29,"Korea, South",4,0,0
-2020-01-30,"Korea, South",4,0,0
-2020-01-31,"Korea, South",11,0,0
-2020-02-01,"Korea, South",12,0,0
-2020-02-02,"Korea, South",15,0,0
-2020-02-03,"Korea, South",15,0,0
-2020-02-04,"Korea, South",16,0,0
-2020-02-05,"Korea, South",19,0,0
-2020-02-06,"Korea, South",23,0,0
-2020-02-07,"Korea, South",24,0,1
-2020-02-08,"Korea, South",24,0,1
-2020-02-09,"Korea, South",25,0,3
-2020-02-10,"Korea, South",27,0,3
-2020-02-11,"Korea, South",28,0,3
-2020-02-12,"Korea, South",28,0,7
-2020-02-13,"Korea, South",28,0,7
-2020-02-14,"Korea, South",28,0,7
-2020-02-15,"Korea, South",28,0,9
-2020-02-16,"Korea, South",29,0,9
-2020-02-17,"Korea, South",30,0,10
-2020-02-18,"Korea, South",31,0,12
-2020-02-19,"Korea, South",31,0,12
-2020-02-20,"Korea, South",104,1,16
-2020-02-21,"Korea, South",204,2,16
-2020-02-22,"Korea, South",433,2,16
-2020-02-23,"Korea, South",602,6,18
-2020-02-24,"Korea, South",833,8,18
-2020-02-25,"Korea, South",977,10,22
-2020-02-26,"Korea, South",1261,12,22
-2020-02-27,"Korea, South",1766,13,22
-2020-02-28,"Korea, South",2337,13,22
-2020-02-29,"Korea, South",3150,16,27
-2020-03-01,"Korea, South",3736,17,30
-2020-03-02,"Korea, South",4335,28,30
-2020-03-03,"Korea, South",5186,28,30
-2020-03-04,"Korea, South",5621,35,41
-2020-03-05,"Korea, South",6088,35,41
-2020-03-06,"Korea, South",6593,42,135
-2020-03-07,"Korea, South",7041,44,135
-2020-03-08,"Korea, South",7314,50,118
-2020-03-09,"Korea, South",7478,53,118
-2020-03-10,"Korea, South",7513,54,247
-2020-03-11,"Korea, South",7755,60,288
-2020-03-12,"Korea, South",7869,66,333
-2020-03-13,"Korea, South",7979,66,510
-2020-03-14,"Korea, South",8086,72,510
-2020-03-15,"Korea, South",8162,75,510
-2020-03-16,"Korea, South",8236,75,1137
-2020-03-17,"Korea, South",8320,81,1407
-2020-03-18,"Korea, South",8413,84,1540
-2020-03-19,"Korea, South",8565,91,1540
-2020-03-20,"Korea, South",8652,94,1540
-2020-03-21,"Korea, South",8799,102,1540
-2020-03-22,"Korea, South",8961,111,2909
-2020-03-23,"Korea, South",8961,111,2909
-2020-03-24,"Korea, South",9037,120,3507
-2020-03-25,"Korea, South",9137,126,3730
-2020-03-26,"Korea, South",9241,131,4144
-2020-03-27,"Korea, South",9332,139,4528
-2020-03-28,"Korea, South",9478,144,4811
-2020-03-29,"Korea, South",9583,152,5033
-2020-03-30,"Korea, South",9661,158,5228
-2020-03-31,"Korea, South",9786,162,5408
-2020-04-01,"Korea, South",9887,165,5567
-2020-04-02,"Korea, South",9976,169,5828
-2020-04-03,"Korea, South",10062,174,6021
-2020-04-04,"Korea, South",10156,177,6325
-2020-04-05,"Korea, South",10237,183,6463
-2020-04-06,"Korea, South",10284,186,6598
-2020-04-07,"Korea, South",10331,192,6694
-2020-04-08,"Korea, South",10384,200,6776
-2020-04-09,"Korea, South",10423,204,6973
-2020-04-10,"Korea, South",10450,208,7117
-2020-04-11,"Korea, South",10480,211,7243
-2020-04-12,"Korea, South",10512,214,7368
-2020-04-13,"Korea, South",10537,217,7447
-2020-04-14,"Korea, South",10564,222,7534
-2020-04-15,"Korea, South",10591,225,7616
-2020-04-16,"Korea, South",10613,229,7757
-2020-04-17,"Korea, South",10635,230,7829
-2020-04-18,"Korea, South",10653,232,7937
-2020-04-19,"Korea, South",10661,234,8042
-2020-04-20,"Korea, South",10674,236,8114
-2020-04-21,"Korea, South",10683,237,8213
-2020-04-22,"Korea, South",10694,238,8277
-2020-04-23,"Korea, South",10708,240,8501
-2020-04-24,"Korea, South",10718,240,8635
-2020-04-25,"Korea, South",10728,242,8717
-2020-04-26,"Korea, South",10738,243,8764
-2020-04-27,"Korea, South",10752,244,8854
-2020-04-28,"Korea, South",10761,246,8922
-2020-04-29,"Korea, South",10765,247,9059
-2020-04-30,"Korea, South",10774,248,9072
-2020-05-01,"Korea, South",10780,250,9123
-2020-05-02,"Korea, South",10793,250,9183
-2020-05-03,"Korea, South",10801,252,9217
-2020-05-04,"Korea, South",10804,254,9283
-2020-05-05,"Korea, South",10806,255,9333
-2020-05-06,"Korea, South",10810,256,9419
-2020-05-07,"Korea, South",10822,256,9484
-2020-05-08,"Korea, South",10840,256,9568
-2020-05-09,"Korea, South",10874,256,9610
-2020-05-10,"Korea, South",10909,256,9632
-2020-05-11,"Korea, South",10936,258,9670
-2020-05-12,"Korea, South",10962,259,9695
-2020-05-13,"Korea, South",10991,260,9762
-2020-05-14,"Korea, South",11018,260,9821
-2020-05-15,"Korea, South",11037,262,9851
-2020-05-16,"Korea, South",11050,262,9888
-2020-05-17,"Korea, South",11065,263,9904
-2020-05-18,"Korea, South",11078,263,9938
-2020-05-19,"Korea, South",11110,263,10066
-2020-05-20,"Korea, South",11122,264,10135
-2020-05-21,"Korea, South",11142,264,10162
-2020-05-22,"Korea, South",11165,266,10194
-2020-05-23,"Korea, South",11190,266,10213
-2020-05-24,"Korea, South",11206,267,10226
-2020-05-25,"Korea, South",11225,269,10275
-2020-05-26,"Korea, South",11265,269,10295
-2020-05-27,"Korea, South",11344,269,10340
-2020-05-28,"Korea, South",11402,269,10363
-2020-05-29,"Korea, South",11441,269,10398
-2020-05-30,"Korea, South",11468,270,10405
-2020-05-31,"Korea, South",11503,271,10422
-2020-06-01,"Korea, South",11541,272,10446
-2020-06-02,"Korea, South",11590,273,10467
-2020-06-03,"Korea, South",11629,273,10499
-2020-06-04,"Korea, South",11668,273,10506
-2020-06-05,"Korea, South",11719,273,10531
-2020-06-06,"Korea, South",11776,273,10552
-2020-06-07,"Korea, South",11814,273,10563
-2020-06-08,"Korea, South",11852,274,10589
-2020-06-09,"Korea, South",11902,276,10611
-2020-06-10,"Korea, South",11947,276,10654
-2020-06-11,"Korea, South",12003,277,10669
-2020-06-12,"Korea, South",12051,277,10691
-2020-06-13,"Korea, South",12085,277,10718
-2020-06-14,"Korea, South",12121,277,10730
-2020-06-15,"Korea, South",12155,278,10760
-2020-06-16,"Korea, South",12198,279,10774
-2020-06-17,"Korea, South",12257,280,10800
-2020-06-18,"Korea, South",12306,280,10835
 2020-01-22,Kosovo,0,0,0
 2020-01-23,Kosovo,0,0,0
 2020-01-24,Kosovo,0,0,0
@@ -15495,155 +14899,155 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Luxembourg,4075,110,3933
 2020-06-17,Luxembourg,4085,110,3935
 2020-06-18,Luxembourg,4091,110,3940
-2020-01-22,MS Zaandam,0,0,0
-2020-01-23,MS Zaandam,0,0,0
-2020-01-24,MS Zaandam,0,0,0
-2020-01-25,MS Zaandam,0,0,0
-2020-01-26,MS Zaandam,0,0,0
-2020-01-27,MS Zaandam,0,0,0
-2020-01-28,MS Zaandam,0,0,0
-2020-01-29,MS Zaandam,0,0,0
-2020-01-30,MS Zaandam,0,0,0
-2020-01-31,MS Zaandam,0,0,0
-2020-02-01,MS Zaandam,0,0,0
-2020-02-02,MS Zaandam,0,0,0
-2020-02-03,MS Zaandam,0,0,0
-2020-02-04,MS Zaandam,0,0,0
-2020-02-05,MS Zaandam,0,0,0
-2020-02-06,MS Zaandam,0,0,0
-2020-02-07,MS Zaandam,0,0,0
-2020-02-08,MS Zaandam,0,0,0
-2020-02-09,MS Zaandam,0,0,0
-2020-02-10,MS Zaandam,0,0,0
-2020-02-11,MS Zaandam,0,0,0
-2020-02-12,MS Zaandam,0,0,0
-2020-02-13,MS Zaandam,0,0,0
-2020-02-14,MS Zaandam,0,0,0
-2020-02-15,MS Zaandam,0,0,0
-2020-02-16,MS Zaandam,0,0,0
-2020-02-17,MS Zaandam,0,0,0
-2020-02-18,MS Zaandam,0,0,0
-2020-02-19,MS Zaandam,0,0,0
-2020-02-20,MS Zaandam,0,0,0
-2020-02-21,MS Zaandam,0,0,0
-2020-02-22,MS Zaandam,0,0,0
-2020-02-23,MS Zaandam,0,0,0
-2020-02-24,MS Zaandam,0,0,0
-2020-02-25,MS Zaandam,0,0,0
-2020-02-26,MS Zaandam,0,0,0
-2020-02-27,MS Zaandam,0,0,0
-2020-02-28,MS Zaandam,0,0,0
-2020-02-29,MS Zaandam,0,0,0
-2020-03-01,MS Zaandam,0,0,0
-2020-03-02,MS Zaandam,0,0,0
-2020-03-03,MS Zaandam,0,0,0
-2020-03-04,MS Zaandam,0,0,0
-2020-03-05,MS Zaandam,0,0,0
-2020-03-06,MS Zaandam,0,0,0
-2020-03-07,MS Zaandam,0,0,0
-2020-03-08,MS Zaandam,0,0,0
-2020-03-09,MS Zaandam,0,0,0
-2020-03-10,MS Zaandam,0,0,0
-2020-03-11,MS Zaandam,0,0,0
-2020-03-12,MS Zaandam,0,0,0
-2020-03-13,MS Zaandam,0,0,0
-2020-03-14,MS Zaandam,0,0,0
-2020-03-15,MS Zaandam,0,0,0
-2020-03-16,MS Zaandam,0,0,0
-2020-03-17,MS Zaandam,0,0,0
-2020-03-18,MS Zaandam,0,0,0
-2020-03-19,MS Zaandam,0,0,0
-2020-03-20,MS Zaandam,0,0,0
-2020-03-21,MS Zaandam,0,0,0
-2020-03-22,MS Zaandam,0,0,0
-2020-03-23,MS Zaandam,0,0,0
-2020-03-24,MS Zaandam,0,0,0
-2020-03-25,MS Zaandam,0,0,0
-2020-03-26,MS Zaandam,0,0,0
-2020-03-27,MS Zaandam,0,0,0
-2020-03-28,MS Zaandam,2,0,0
-2020-03-29,MS Zaandam,2,0,0
-2020-03-30,MS Zaandam,2,0,0
-2020-03-31,MS Zaandam,2,0,0
-2020-04-01,MS Zaandam,9,2,0
-2020-04-02,MS Zaandam,9,2,0
-2020-04-03,MS Zaandam,9,2,0
-2020-04-04,MS Zaandam,9,2,0
-2020-04-05,MS Zaandam,9,2,0
-2020-04-06,MS Zaandam,9,2,0
-2020-04-07,MS Zaandam,9,2,0
-2020-04-08,MS Zaandam,9,2,0
-2020-04-09,MS Zaandam,9,2,0
-2020-04-10,MS Zaandam,9,2,0
-2020-04-11,MS Zaandam,9,2,0
-2020-04-12,MS Zaandam,9,2,0
-2020-04-13,MS Zaandam,9,2,0
-2020-04-14,MS Zaandam,9,2,0
-2020-04-15,MS Zaandam,9,2,0
-2020-04-16,MS Zaandam,9,2,0
-2020-04-17,MS Zaandam,9,2,0
-2020-04-18,MS Zaandam,9,2,0
-2020-04-19,MS Zaandam,9,2,0
-2020-04-20,MS Zaandam,9,2,0
-2020-04-21,MS Zaandam,9,2,0
-2020-04-22,MS Zaandam,9,2,0
-2020-04-23,MS Zaandam,9,2,0
-2020-04-24,MS Zaandam,9,2,0
-2020-04-25,MS Zaandam,9,2,0
-2020-04-26,MS Zaandam,9,2,0
-2020-04-27,MS Zaandam,9,2,0
-2020-04-28,MS Zaandam,9,2,0
-2020-04-29,MS Zaandam,9,2,0
-2020-04-30,MS Zaandam,9,2,0
-2020-05-01,MS Zaandam,9,2,0
-2020-05-02,MS Zaandam,9,2,0
-2020-05-03,MS Zaandam,9,2,0
-2020-05-04,MS Zaandam,9,2,0
-2020-05-05,MS Zaandam,9,2,0
-2020-05-06,MS Zaandam,9,2,0
-2020-05-07,MS Zaandam,9,2,0
-2020-05-08,MS Zaandam,9,2,0
-2020-05-09,MS Zaandam,9,2,0
-2020-05-10,MS Zaandam,9,2,0
-2020-05-11,MS Zaandam,9,2,0
-2020-05-12,MS Zaandam,9,2,0
-2020-05-13,MS Zaandam,9,2,0
-2020-05-14,MS Zaandam,9,2,0
-2020-05-15,MS Zaandam,9,2,0
-2020-05-16,MS Zaandam,9,2,0
-2020-05-17,MS Zaandam,9,2,0
-2020-05-18,MS Zaandam,9,2,0
-2020-05-19,MS Zaandam,9,2,0
-2020-05-20,MS Zaandam,9,2,0
-2020-05-21,MS Zaandam,9,2,0
-2020-05-22,MS Zaandam,9,2,0
-2020-05-23,MS Zaandam,9,2,0
-2020-05-24,MS Zaandam,9,2,0
-2020-05-25,MS Zaandam,9,2,0
-2020-05-26,MS Zaandam,9,2,0
-2020-05-27,MS Zaandam,9,2,0
-2020-05-28,MS Zaandam,9,2,0
-2020-05-29,MS Zaandam,9,2,0
-2020-05-30,MS Zaandam,9,2,0
-2020-05-31,MS Zaandam,9,2,0
-2020-06-01,MS Zaandam,9,2,0
-2020-06-02,MS Zaandam,9,2,0
-2020-06-03,MS Zaandam,9,2,0
-2020-06-04,MS Zaandam,9,2,0
-2020-06-05,MS Zaandam,9,2,0
-2020-06-06,MS Zaandam,9,2,0
-2020-06-07,MS Zaandam,9,2,0
-2020-06-08,MS Zaandam,9,2,0
-2020-06-09,MS Zaandam,9,2,0
-2020-06-10,MS Zaandam,9,2,0
-2020-06-11,MS Zaandam,9,2,0
-2020-06-12,MS Zaandam,9,2,0
-2020-06-13,MS Zaandam,9,2,0
-2020-06-14,MS Zaandam,9,2,0
-2020-06-15,MS Zaandam,9,2,0
-2020-06-16,MS Zaandam,9,2,0
-2020-06-17,MS Zaandam,9,2,0
-2020-06-18,MS Zaandam,9,2,0
+2020-01-22,Macedonia,0,0,0
+2020-01-23,Macedonia,0,0,0
+2020-01-24,Macedonia,0,0,0
+2020-01-25,Macedonia,0,0,0
+2020-01-26,Macedonia,0,0,0
+2020-01-27,Macedonia,0,0,0
+2020-01-28,Macedonia,0,0,0
+2020-01-29,Macedonia,0,0,0
+2020-01-30,Macedonia,0,0,0
+2020-01-31,Macedonia,0,0,0
+2020-02-01,Macedonia,0,0,0
+2020-02-02,Macedonia,0,0,0
+2020-02-03,Macedonia,0,0,0
+2020-02-04,Macedonia,0,0,0
+2020-02-05,Macedonia,0,0,0
+2020-02-06,Macedonia,0,0,0
+2020-02-07,Macedonia,0,0,0
+2020-02-08,Macedonia,0,0,0
+2020-02-09,Macedonia,0,0,0
+2020-02-10,Macedonia,0,0,0
+2020-02-11,Macedonia,0,0,0
+2020-02-12,Macedonia,0,0,0
+2020-02-13,Macedonia,0,0,0
+2020-02-14,Macedonia,0,0,0
+2020-02-15,Macedonia,0,0,0
+2020-02-16,Macedonia,0,0,0
+2020-02-17,Macedonia,0,0,0
+2020-02-18,Macedonia,0,0,0
+2020-02-19,Macedonia,0,0,0
+2020-02-20,Macedonia,0,0,0
+2020-02-21,Macedonia,0,0,0
+2020-02-22,Macedonia,0,0,0
+2020-02-23,Macedonia,0,0,0
+2020-02-24,Macedonia,0,0,0
+2020-02-25,Macedonia,0,0,0
+2020-02-26,Macedonia,1,0,0
+2020-02-27,Macedonia,1,0,0
+2020-02-28,Macedonia,1,0,0
+2020-02-29,Macedonia,1,0,0
+2020-03-01,Macedonia,1,0,0
+2020-03-02,Macedonia,1,0,0
+2020-03-03,Macedonia,1,0,0
+2020-03-04,Macedonia,1,0,0
+2020-03-05,Macedonia,1,0,0
+2020-03-06,Macedonia,3,0,0
+2020-03-07,Macedonia,3,0,0
+2020-03-08,Macedonia,3,0,0
+2020-03-09,Macedonia,3,0,0
+2020-03-10,Macedonia,7,0,0
+2020-03-11,Macedonia,7,0,0
+2020-03-12,Macedonia,7,0,0
+2020-03-13,Macedonia,14,0,1
+2020-03-14,Macedonia,14,0,1
+2020-03-15,Macedonia,14,0,1
+2020-03-16,Macedonia,18,0,1
+2020-03-17,Macedonia,26,0,1
+2020-03-18,Macedonia,35,0,1
+2020-03-19,Macedonia,48,0,1
+2020-03-20,Macedonia,67,0,1
+2020-03-21,Macedonia,85,0,1
+2020-03-22,Macedonia,115,1,1
+2020-03-23,Macedonia,136,2,1
+2020-03-24,Macedonia,148,2,1
+2020-03-25,Macedonia,177,3,1
+2020-03-26,Macedonia,201,3,3
+2020-03-27,Macedonia,219,3,3
+2020-03-28,Macedonia,241,4,3
+2020-03-29,Macedonia,259,6,3
+2020-03-30,Macedonia,285,7,12
+2020-03-31,Macedonia,329,9,12
+2020-04-01,Macedonia,354,11,17
+2020-04-02,Macedonia,384,11,17
+2020-04-03,Macedonia,430,12,20
+2020-04-04,Macedonia,483,17,20
+2020-04-05,Macedonia,555,18,23
+2020-04-06,Macedonia,570,23,30
+2020-04-07,Macedonia,599,26,30
+2020-04-08,Macedonia,617,29,35
+2020-04-09,Macedonia,663,30,37
+2020-04-10,Macedonia,711,32,41
+2020-04-11,Macedonia,760,34,41
+2020-04-12,Macedonia,828,34,41
+2020-04-13,Macedonia,854,38,44
+2020-04-14,Macedonia,908,44,86
+2020-04-15,Macedonia,974,45,98
+2020-04-16,Macedonia,1081,46,121
+2020-04-17,Macedonia,1117,49,139
+2020-04-18,Macedonia,1170,49,164
+2020-04-19,Macedonia,1207,51,179
+2020-04-20,Macedonia,1225,54,200
+2020-04-21,Macedonia,1231,55,224
+2020-04-22,Macedonia,1259,56,272
+2020-04-23,Macedonia,1300,56,301
+2020-04-24,Macedonia,1326,57,337
+2020-04-25,Macedonia,1367,59,374
+2020-04-26,Macedonia,1386,61,500
+2020-04-27,Macedonia,1399,65,553
+2020-04-28,Macedonia,1421,71,589
+2020-04-29,Macedonia,1442,73,627
+2020-04-30,Macedonia,1465,77,738
+2020-05-01,Macedonia,1494,81,807
+2020-05-02,Macedonia,1506,82,852
+2020-05-03,Macedonia,1511,84,945
+2020-05-04,Macedonia,1518,85,992
+2020-05-05,Macedonia,1526,86,1013
+2020-05-06,Macedonia,1539,88,1057
+2020-05-07,Macedonia,1572,89,1079
+2020-05-08,Macedonia,1586,90,1099
+2020-05-09,Macedonia,1622,91,1112
+2020-05-10,Macedonia,1642,91,1136
+2020-05-11,Macedonia,1664,91,1200
+2020-05-12,Macedonia,1674,92,1205
+2020-05-13,Macedonia,1694,95,1229
+2020-05-14,Macedonia,1723,95,1235
+2020-05-15,Macedonia,1740,97,1251
+2020-05-16,Macedonia,1762,98,1267
+2020-05-17,Macedonia,1792,101,1293
+2020-05-18,Macedonia,1817,104,1301
+2020-05-19,Macedonia,1839,106,1351
+2020-05-20,Macedonia,1858,110,1367
+2020-05-21,Macedonia,1898,111,1378
+2020-05-22,Macedonia,1921,112,1387
+2020-05-23,Macedonia,1941,113,1411
+2020-05-24,Macedonia,1978,113,1422
+2020-05-25,Macedonia,1999,113,1439
+2020-05-26,Macedonia,2014,116,1453
+2020-05-27,Macedonia,2039,119,1470
+2020-05-28,Macedonia,2077,121,1486
+2020-05-29,Macedonia,2129,126,1516
+2020-05-30,Macedonia,2164,131,1535
+2020-05-31,Macedonia,2226,133,1552
+2020-06-01,Macedonia,2315,140,1569
+2020-06-02,Macedonia,2391,141,1595
+2020-06-03,Macedonia,2492,145,1605
+2020-06-04,Macedonia,2611,147,1621
+2020-06-05,Macedonia,2790,149,1632
+2020-06-06,Macedonia,2915,151,1640
+2020-06-07,Macedonia,3025,153,1646
+2020-06-08,Macedonia,3152,156,1653
+2020-06-09,Macedonia,3239,157,1658
+2020-06-10,Macedonia,3364,164,1664
+2020-06-11,Macedonia,3538,169,1682
+2020-06-12,Macedonia,3701,171,1694
+2020-06-13,Macedonia,3895,179,1705
+2020-06-14,Macedonia,4057,188,1710
+2020-06-15,Macedonia,4157,193,1723
+2020-06-16,Macedonia,4299,201,1757
+2020-06-17,Macedonia,4482,210,1803
+2020-06-18,Macedonia,4664,216,1836
 2020-01-22,Madagascar,0,0,0
 2020-01-23,Madagascar,0,0,0
 2020-01-24,Madagascar,0,0,0
@@ -18922,155 +18326,6 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Nigeria,17148,455,5623
 2020-06-17,Nigeria,17735,469,5967
 2020-06-18,Nigeria,18480,475,6307
-2020-01-22,North Macedonia,0,0,0
-2020-01-23,North Macedonia,0,0,0
-2020-01-24,North Macedonia,0,0,0
-2020-01-25,North Macedonia,0,0,0
-2020-01-26,North Macedonia,0,0,0
-2020-01-27,North Macedonia,0,0,0
-2020-01-28,North Macedonia,0,0,0
-2020-01-29,North Macedonia,0,0,0
-2020-01-30,North Macedonia,0,0,0
-2020-01-31,North Macedonia,0,0,0
-2020-02-01,North Macedonia,0,0,0
-2020-02-02,North Macedonia,0,0,0
-2020-02-03,North Macedonia,0,0,0
-2020-02-04,North Macedonia,0,0,0
-2020-02-05,North Macedonia,0,0,0
-2020-02-06,North Macedonia,0,0,0
-2020-02-07,North Macedonia,0,0,0
-2020-02-08,North Macedonia,0,0,0
-2020-02-09,North Macedonia,0,0,0
-2020-02-10,North Macedonia,0,0,0
-2020-02-11,North Macedonia,0,0,0
-2020-02-12,North Macedonia,0,0,0
-2020-02-13,North Macedonia,0,0,0
-2020-02-14,North Macedonia,0,0,0
-2020-02-15,North Macedonia,0,0,0
-2020-02-16,North Macedonia,0,0,0
-2020-02-17,North Macedonia,0,0,0
-2020-02-18,North Macedonia,0,0,0
-2020-02-19,North Macedonia,0,0,0
-2020-02-20,North Macedonia,0,0,0
-2020-02-21,North Macedonia,0,0,0
-2020-02-22,North Macedonia,0,0,0
-2020-02-23,North Macedonia,0,0,0
-2020-02-24,North Macedonia,0,0,0
-2020-02-25,North Macedonia,0,0,0
-2020-02-26,North Macedonia,1,0,0
-2020-02-27,North Macedonia,1,0,0
-2020-02-28,North Macedonia,1,0,0
-2020-02-29,North Macedonia,1,0,0
-2020-03-01,North Macedonia,1,0,0
-2020-03-02,North Macedonia,1,0,0
-2020-03-03,North Macedonia,1,0,0
-2020-03-04,North Macedonia,1,0,0
-2020-03-05,North Macedonia,1,0,0
-2020-03-06,North Macedonia,3,0,0
-2020-03-07,North Macedonia,3,0,0
-2020-03-08,North Macedonia,3,0,0
-2020-03-09,North Macedonia,3,0,0
-2020-03-10,North Macedonia,7,0,0
-2020-03-11,North Macedonia,7,0,0
-2020-03-12,North Macedonia,7,0,0
-2020-03-13,North Macedonia,14,0,1
-2020-03-14,North Macedonia,14,0,1
-2020-03-15,North Macedonia,14,0,1
-2020-03-16,North Macedonia,18,0,1
-2020-03-17,North Macedonia,26,0,1
-2020-03-18,North Macedonia,35,0,1
-2020-03-19,North Macedonia,48,0,1
-2020-03-20,North Macedonia,67,0,1
-2020-03-21,North Macedonia,85,0,1
-2020-03-22,North Macedonia,115,1,1
-2020-03-23,North Macedonia,136,2,1
-2020-03-24,North Macedonia,148,2,1
-2020-03-25,North Macedonia,177,3,1
-2020-03-26,North Macedonia,201,3,3
-2020-03-27,North Macedonia,219,3,3
-2020-03-28,North Macedonia,241,4,3
-2020-03-29,North Macedonia,259,6,3
-2020-03-30,North Macedonia,285,7,12
-2020-03-31,North Macedonia,329,9,12
-2020-04-01,North Macedonia,354,11,17
-2020-04-02,North Macedonia,384,11,17
-2020-04-03,North Macedonia,430,12,20
-2020-04-04,North Macedonia,483,17,20
-2020-04-05,North Macedonia,555,18,23
-2020-04-06,North Macedonia,570,23,30
-2020-04-07,North Macedonia,599,26,30
-2020-04-08,North Macedonia,617,29,35
-2020-04-09,North Macedonia,663,30,37
-2020-04-10,North Macedonia,711,32,41
-2020-04-11,North Macedonia,760,34,41
-2020-04-12,North Macedonia,828,34,41
-2020-04-13,North Macedonia,854,38,44
-2020-04-14,North Macedonia,908,44,86
-2020-04-15,North Macedonia,974,45,98
-2020-04-16,North Macedonia,1081,46,121
-2020-04-17,North Macedonia,1117,49,139
-2020-04-18,North Macedonia,1170,49,164
-2020-04-19,North Macedonia,1207,51,179
-2020-04-20,North Macedonia,1225,54,200
-2020-04-21,North Macedonia,1231,55,224
-2020-04-22,North Macedonia,1259,56,272
-2020-04-23,North Macedonia,1300,56,301
-2020-04-24,North Macedonia,1326,57,337
-2020-04-25,North Macedonia,1367,59,374
-2020-04-26,North Macedonia,1386,61,500
-2020-04-27,North Macedonia,1399,65,553
-2020-04-28,North Macedonia,1421,71,589
-2020-04-29,North Macedonia,1442,73,627
-2020-04-30,North Macedonia,1465,77,738
-2020-05-01,North Macedonia,1494,81,807
-2020-05-02,North Macedonia,1506,82,852
-2020-05-03,North Macedonia,1511,84,945
-2020-05-04,North Macedonia,1518,85,992
-2020-05-05,North Macedonia,1526,86,1013
-2020-05-06,North Macedonia,1539,88,1057
-2020-05-07,North Macedonia,1572,89,1079
-2020-05-08,North Macedonia,1586,90,1099
-2020-05-09,North Macedonia,1622,91,1112
-2020-05-10,North Macedonia,1642,91,1136
-2020-05-11,North Macedonia,1664,91,1200
-2020-05-12,North Macedonia,1674,92,1205
-2020-05-13,North Macedonia,1694,95,1229
-2020-05-14,North Macedonia,1723,95,1235
-2020-05-15,North Macedonia,1740,97,1251
-2020-05-16,North Macedonia,1762,98,1267
-2020-05-17,North Macedonia,1792,101,1293
-2020-05-18,North Macedonia,1817,104,1301
-2020-05-19,North Macedonia,1839,106,1351
-2020-05-20,North Macedonia,1858,110,1367
-2020-05-21,North Macedonia,1898,111,1378
-2020-05-22,North Macedonia,1921,112,1387
-2020-05-23,North Macedonia,1941,113,1411
-2020-05-24,North Macedonia,1978,113,1422
-2020-05-25,North Macedonia,1999,113,1439
-2020-05-26,North Macedonia,2014,116,1453
-2020-05-27,North Macedonia,2039,119,1470
-2020-05-28,North Macedonia,2077,121,1486
-2020-05-29,North Macedonia,2129,126,1516
-2020-05-30,North Macedonia,2164,131,1535
-2020-05-31,North Macedonia,2226,133,1552
-2020-06-01,North Macedonia,2315,140,1569
-2020-06-02,North Macedonia,2391,141,1595
-2020-06-03,North Macedonia,2492,145,1605
-2020-06-04,North Macedonia,2611,147,1621
-2020-06-05,North Macedonia,2790,149,1632
-2020-06-06,North Macedonia,2915,151,1640
-2020-06-07,North Macedonia,3025,153,1646
-2020-06-08,North Macedonia,3152,156,1653
-2020-06-09,North Macedonia,3239,157,1658
-2020-06-10,North Macedonia,3364,164,1664
-2020-06-11,North Macedonia,3538,169,1682
-2020-06-12,North Macedonia,3701,171,1694
-2020-06-13,North Macedonia,3895,179,1705
-2020-06-14,North Macedonia,4057,188,1710
-2020-06-15,North Macedonia,4157,193,1723
-2020-06-16,North Macedonia,4299,201,1757
-2020-06-17,North Macedonia,4482,210,1803
-2020-06-18,North Macedonia,4664,216,1836
 2020-01-22,Norway,0,0,0
 2020-01-23,Norway,0,0,0
 2020-01-24,Norway,0,0,0
@@ -19518,6 +18773,155 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Pakistan,154760,2975,58437
 2020-06-17,Pakistan,160118,3093,59215
 2020-06-18,Pakistan,165062,3229,61383
+2020-01-22,Palestinian Territory,0,0,0
+2020-01-23,Palestinian Territory,0,0,0
+2020-01-24,Palestinian Territory,0,0,0
+2020-01-25,Palestinian Territory,0,0,0
+2020-01-26,Palestinian Territory,0,0,0
+2020-01-27,Palestinian Territory,0,0,0
+2020-01-28,Palestinian Territory,0,0,0
+2020-01-29,Palestinian Territory,0,0,0
+2020-01-30,Palestinian Territory,0,0,0
+2020-01-31,Palestinian Territory,0,0,0
+2020-02-01,Palestinian Territory,0,0,0
+2020-02-02,Palestinian Territory,0,0,0
+2020-02-03,Palestinian Territory,0,0,0
+2020-02-04,Palestinian Territory,0,0,0
+2020-02-05,Palestinian Territory,0,0,0
+2020-02-06,Palestinian Territory,0,0,0
+2020-02-07,Palestinian Territory,0,0,0
+2020-02-08,Palestinian Territory,0,0,0
+2020-02-09,Palestinian Territory,0,0,0
+2020-02-10,Palestinian Territory,0,0,0
+2020-02-11,Palestinian Territory,0,0,0
+2020-02-12,Palestinian Territory,0,0,0
+2020-02-13,Palestinian Territory,0,0,0
+2020-02-14,Palestinian Territory,0,0,0
+2020-02-15,Palestinian Territory,0,0,0
+2020-02-16,Palestinian Territory,0,0,0
+2020-02-17,Palestinian Territory,0,0,0
+2020-02-18,Palestinian Territory,0,0,0
+2020-02-19,Palestinian Territory,0,0,0
+2020-02-20,Palestinian Territory,0,0,0
+2020-02-21,Palestinian Territory,0,0,0
+2020-02-22,Palestinian Territory,0,0,0
+2020-02-23,Palestinian Territory,0,0,0
+2020-02-24,Palestinian Territory,0,0,0
+2020-02-25,Palestinian Territory,0,0,0
+2020-02-26,Palestinian Territory,0,0,0
+2020-02-27,Palestinian Territory,0,0,0
+2020-02-28,Palestinian Territory,0,0,0
+2020-02-29,Palestinian Territory,0,0,0
+2020-03-01,Palestinian Territory,0,0,0
+2020-03-02,Palestinian Territory,0,0,0
+2020-03-03,Palestinian Territory,0,0,0
+2020-03-04,Palestinian Territory,0,0,0
+2020-03-05,Palestinian Territory,4,0,0
+2020-03-06,Palestinian Territory,7,0,0
+2020-03-07,Palestinian Territory,16,0,0
+2020-03-08,Palestinian Territory,16,0,0
+2020-03-09,Palestinian Territory,19,0,0
+2020-03-10,Palestinian Territory,26,0,0
+2020-03-11,Palestinian Territory,30,0,0
+2020-03-12,Palestinian Territory,30,0,0
+2020-03-13,Palestinian Territory,31,0,0
+2020-03-14,Palestinian Territory,35,0,0
+2020-03-15,Palestinian Territory,38,0,0
+2020-03-16,Palestinian Territory,38,0,0
+2020-03-17,Palestinian Territory,39,0,0
+2020-03-18,Palestinian Territory,41,0,0
+2020-03-19,Palestinian Territory,44,0,0
+2020-03-20,Palestinian Territory,47,0,17
+2020-03-21,Palestinian Territory,48,0,17
+2020-03-22,Palestinian Territory,52,0,17
+2020-03-23,Palestinian Territory,59,0,17
+2020-03-24,Palestinian Territory,59,0,17
+2020-03-25,Palestinian Territory,59,0,17
+2020-03-26,Palestinian Territory,84,1,17
+2020-03-27,Palestinian Territory,91,1,17
+2020-03-28,Palestinian Territory,98,1,18
+2020-03-29,Palestinian Territory,109,1,18
+2020-03-30,Palestinian Territory,116,1,18
+2020-03-31,Palestinian Territory,119,1,18
+2020-04-01,Palestinian Territory,134,1,18
+2020-04-02,Palestinian Territory,161,1,18
+2020-04-03,Palestinian Territory,194,1,21
+2020-04-04,Palestinian Territory,217,1,21
+2020-04-05,Palestinian Territory,237,1,25
+2020-04-06,Palestinian Territory,254,1,24
+2020-04-07,Palestinian Territory,261,1,42
+2020-04-08,Palestinian Territory,263,1,44
+2020-04-09,Palestinian Territory,263,1,44
+2020-04-10,Palestinian Territory,267,2,45
+2020-04-11,Palestinian Territory,268,2,57
+2020-04-12,Palestinian Territory,271,2,58
+2020-04-13,Palestinian Territory,273,2,58
+2020-04-14,Palestinian Territory,284,2,62
+2020-04-15,Palestinian Territory,291,2,63
+2020-04-16,Palestinian Territory,294,2,63
+2020-04-17,Palestinian Territory,307,2,69
+2020-04-18,Palestinian Territory,313,2,69
+2020-04-19,Palestinian Territory,319,2,71
+2020-04-20,Palestinian Territory,329,2,71
+2020-04-21,Palestinian Territory,329,2,71
+2020-04-22,Palestinian Territory,335,2,71
+2020-04-23,Palestinian Territory,336,2,74
+2020-04-24,Palestinian Territory,340,2,81
+2020-04-25,Palestinian Territory,342,2,83
+2020-04-26,Palestinian Territory,342,2,83
+2020-04-27,Palestinian Territory,342,2,83
+2020-04-28,Palestinian Territory,343,2,71
+2020-04-29,Palestinian Territory,344,2,71
+2020-04-30,Palestinian Territory,344,2,76
+2020-05-01,Palestinian Territory,353,2,76
+2020-05-02,Palestinian Territory,353,2,76
+2020-05-03,Palestinian Territory,353,2,77
+2020-05-04,Palestinian Territory,362,2,102
+2020-05-05,Palestinian Territory,371,2,127
+2020-05-06,Palestinian Territory,374,2,174
+2020-05-07,Palestinian Territory,375,2,176
+2020-05-08,Palestinian Territory,375,2,228
+2020-05-09,Palestinian Territory,375,2,228
+2020-05-10,Palestinian Territory,375,2,263
+2020-05-11,Palestinian Territory,375,2,301
+2020-05-12,Palestinian Territory,375,2,308
+2020-05-13,Palestinian Territory,375,2,310
+2020-05-14,Palestinian Territory,375,2,310
+2020-05-15,Palestinian Territory,375,2,315
+2020-05-16,Palestinian Territory,376,2,329
+2020-05-17,Palestinian Territory,381,2,335
+2020-05-18,Palestinian Territory,388,2,337
+2020-05-19,Palestinian Territory,391,2,346
+2020-05-20,Palestinian Territory,398,2,346
+2020-05-21,Palestinian Territory,423,2,346
+2020-05-22,Palestinian Territory,423,2,346
+2020-05-23,Palestinian Territory,423,3,348
+2020-05-24,Palestinian Territory,423,3,357
+2020-05-25,Palestinian Territory,423,3,357
+2020-05-26,Palestinian Territory,429,3,365
+2020-05-27,Palestinian Territory,434,3,365
+2020-05-28,Palestinian Territory,446,3,368
+2020-05-29,Palestinian Territory,446,3,368
+2020-05-30,Palestinian Territory,447,3,368
+2020-05-31,Palestinian Territory,448,3,372
+2020-06-01,Palestinian Territory,449,3,372
+2020-06-02,Palestinian Territory,451,3,372
+2020-06-03,Palestinian Territory,457,3,372
+2020-06-04,Palestinian Territory,464,3,377
+2020-06-05,Palestinian Territory,464,3,377
+2020-06-06,Palestinian Territory,464,3,400
+2020-06-07,Palestinian Territory,472,3,403
+2020-06-08,Palestinian Territory,473,3,404
+2020-06-09,Palestinian Territory,481,3,404
+2020-06-10,Palestinian Territory,485,3,410
+2020-06-11,Palestinian Territory,487,3,410
+2020-06-12,Palestinian Territory,489,3,414
+2020-06-13,Palestinian Territory,489,3,415
+2020-06-14,Palestinian Territory,492,3,415
+2020-06-15,Palestinian Territory,505,3,415
+2020-06-16,Palestinian Territory,514,3,415
+2020-06-17,Palestinian Territory,555,3,415
+2020-06-18,Palestinian Territory,600,3,415
 2020-01-22,Panama,0,0,0
 2020-01-23,Panama,0,0,0
 2020-01-24,Panama,0,0,0
@@ -23392,6 +22796,155 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,South Africa,76334,1625,42063
 2020-06-17,South Africa,80412,1674,44331
 2020-06-18,South Africa,83890,1737,44920
+2020-01-22,South Korea,1,0,0
+2020-01-23,South Korea,1,0,0
+2020-01-24,South Korea,2,0,0
+2020-01-25,South Korea,2,0,0
+2020-01-26,South Korea,3,0,0
+2020-01-27,South Korea,4,0,0
+2020-01-28,South Korea,4,0,0
+2020-01-29,South Korea,4,0,0
+2020-01-30,South Korea,4,0,0
+2020-01-31,South Korea,11,0,0
+2020-02-01,South Korea,12,0,0
+2020-02-02,South Korea,15,0,0
+2020-02-03,South Korea,15,0,0
+2020-02-04,South Korea,16,0,0
+2020-02-05,South Korea,19,0,0
+2020-02-06,South Korea,23,0,0
+2020-02-07,South Korea,24,0,1
+2020-02-08,South Korea,24,0,1
+2020-02-09,South Korea,25,0,3
+2020-02-10,South Korea,27,0,3
+2020-02-11,South Korea,28,0,3
+2020-02-12,South Korea,28,0,7
+2020-02-13,South Korea,28,0,7
+2020-02-14,South Korea,28,0,7
+2020-02-15,South Korea,28,0,9
+2020-02-16,South Korea,29,0,9
+2020-02-17,South Korea,30,0,10
+2020-02-18,South Korea,31,0,12
+2020-02-19,South Korea,31,0,12
+2020-02-20,South Korea,104,1,16
+2020-02-21,South Korea,204,2,16
+2020-02-22,South Korea,433,2,16
+2020-02-23,South Korea,602,6,18
+2020-02-24,South Korea,833,8,18
+2020-02-25,South Korea,977,10,22
+2020-02-26,South Korea,1261,12,22
+2020-02-27,South Korea,1766,13,22
+2020-02-28,South Korea,2337,13,22
+2020-02-29,South Korea,3150,16,27
+2020-03-01,South Korea,3736,17,30
+2020-03-02,South Korea,4335,28,30
+2020-03-03,South Korea,5186,28,30
+2020-03-04,South Korea,5621,35,41
+2020-03-05,South Korea,6088,35,41
+2020-03-06,South Korea,6593,42,135
+2020-03-07,South Korea,7041,44,135
+2020-03-08,South Korea,7314,50,118
+2020-03-09,South Korea,7478,53,118
+2020-03-10,South Korea,7513,54,247
+2020-03-11,South Korea,7755,60,288
+2020-03-12,South Korea,7869,66,333
+2020-03-13,South Korea,7979,66,510
+2020-03-14,South Korea,8086,72,510
+2020-03-15,South Korea,8162,75,510
+2020-03-16,South Korea,8236,75,1137
+2020-03-17,South Korea,8320,81,1407
+2020-03-18,South Korea,8413,84,1540
+2020-03-19,South Korea,8565,91,1540
+2020-03-20,South Korea,8652,94,1540
+2020-03-21,South Korea,8799,102,1540
+2020-03-22,South Korea,8961,111,2909
+2020-03-23,South Korea,8961,111,2909
+2020-03-24,South Korea,9037,120,3507
+2020-03-25,South Korea,9137,126,3730
+2020-03-26,South Korea,9241,131,4144
+2020-03-27,South Korea,9332,139,4528
+2020-03-28,South Korea,9478,144,4811
+2020-03-29,South Korea,9583,152,5033
+2020-03-30,South Korea,9661,158,5228
+2020-03-31,South Korea,9786,162,5408
+2020-04-01,South Korea,9887,165,5567
+2020-04-02,South Korea,9976,169,5828
+2020-04-03,South Korea,10062,174,6021
+2020-04-04,South Korea,10156,177,6325
+2020-04-05,South Korea,10237,183,6463
+2020-04-06,South Korea,10284,186,6598
+2020-04-07,South Korea,10331,192,6694
+2020-04-08,South Korea,10384,200,6776
+2020-04-09,South Korea,10423,204,6973
+2020-04-10,South Korea,10450,208,7117
+2020-04-11,South Korea,10480,211,7243
+2020-04-12,South Korea,10512,214,7368
+2020-04-13,South Korea,10537,217,7447
+2020-04-14,South Korea,10564,222,7534
+2020-04-15,South Korea,10591,225,7616
+2020-04-16,South Korea,10613,229,7757
+2020-04-17,South Korea,10635,230,7829
+2020-04-18,South Korea,10653,232,7937
+2020-04-19,South Korea,10661,234,8042
+2020-04-20,South Korea,10674,236,8114
+2020-04-21,South Korea,10683,237,8213
+2020-04-22,South Korea,10694,238,8277
+2020-04-23,South Korea,10708,240,8501
+2020-04-24,South Korea,10718,240,8635
+2020-04-25,South Korea,10728,242,8717
+2020-04-26,South Korea,10738,243,8764
+2020-04-27,South Korea,10752,244,8854
+2020-04-28,South Korea,10761,246,8922
+2020-04-29,South Korea,10765,247,9059
+2020-04-30,South Korea,10774,248,9072
+2020-05-01,South Korea,10780,250,9123
+2020-05-02,South Korea,10793,250,9183
+2020-05-03,South Korea,10801,252,9217
+2020-05-04,South Korea,10804,254,9283
+2020-05-05,South Korea,10806,255,9333
+2020-05-06,South Korea,10810,256,9419
+2020-05-07,South Korea,10822,256,9484
+2020-05-08,South Korea,10840,256,9568
+2020-05-09,South Korea,10874,256,9610
+2020-05-10,South Korea,10909,256,9632
+2020-05-11,South Korea,10936,258,9670
+2020-05-12,South Korea,10962,259,9695
+2020-05-13,South Korea,10991,260,9762
+2020-05-14,South Korea,11018,260,9821
+2020-05-15,South Korea,11037,262,9851
+2020-05-16,South Korea,11050,262,9888
+2020-05-17,South Korea,11065,263,9904
+2020-05-18,South Korea,11078,263,9938
+2020-05-19,South Korea,11110,263,10066
+2020-05-20,South Korea,11122,264,10135
+2020-05-21,South Korea,11142,264,10162
+2020-05-22,South Korea,11165,266,10194
+2020-05-23,South Korea,11190,266,10213
+2020-05-24,South Korea,11206,267,10226
+2020-05-25,South Korea,11225,269,10275
+2020-05-26,South Korea,11265,269,10295
+2020-05-27,South Korea,11344,269,10340
+2020-05-28,South Korea,11402,269,10363
+2020-05-29,South Korea,11441,269,10398
+2020-05-30,South Korea,11468,270,10405
+2020-05-31,South Korea,11503,271,10422
+2020-06-01,South Korea,11541,272,10446
+2020-06-02,South Korea,11590,273,10467
+2020-06-03,South Korea,11629,273,10499
+2020-06-04,South Korea,11668,273,10506
+2020-06-05,South Korea,11719,273,10531
+2020-06-06,South Korea,11776,273,10552
+2020-06-07,South Korea,11814,273,10563
+2020-06-08,South Korea,11852,274,10589
+2020-06-09,South Korea,11902,276,10611
+2020-06-10,South Korea,11947,276,10654
+2020-06-11,South Korea,12003,277,10669
+2020-06-12,South Korea,12051,277,10691
+2020-06-13,South Korea,12085,277,10718
+2020-06-14,South Korea,12121,277,10730
+2020-06-15,South Korea,12155,278,10760
+2020-06-16,South Korea,12198,279,10774
+2020-06-17,South Korea,12257,280,10800
+2020-06-18,South Korea,12306,280,10835
 2020-01-22,South Sudan,0,0,0
 2020-01-23,South Sudan,0,0,0
 2020-01-24,South Sudan,0,0,0
@@ -24137,6 +23690,155 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Suriname,236,6,48
 2020-06-17,Suriname,261,6,48
 2020-06-18,Suriname,277,7,74
+2020-01-22,Swaziland,0,0,0
+2020-01-23,Swaziland,0,0,0
+2020-01-24,Swaziland,0,0,0
+2020-01-25,Swaziland,0,0,0
+2020-01-26,Swaziland,0,0,0
+2020-01-27,Swaziland,0,0,0
+2020-01-28,Swaziland,0,0,0
+2020-01-29,Swaziland,0,0,0
+2020-01-30,Swaziland,0,0,0
+2020-01-31,Swaziland,0,0,0
+2020-02-01,Swaziland,0,0,0
+2020-02-02,Swaziland,0,0,0
+2020-02-03,Swaziland,0,0,0
+2020-02-04,Swaziland,0,0,0
+2020-02-05,Swaziland,0,0,0
+2020-02-06,Swaziland,0,0,0
+2020-02-07,Swaziland,0,0,0
+2020-02-08,Swaziland,0,0,0
+2020-02-09,Swaziland,0,0,0
+2020-02-10,Swaziland,0,0,0
+2020-02-11,Swaziland,0,0,0
+2020-02-12,Swaziland,0,0,0
+2020-02-13,Swaziland,0,0,0
+2020-02-14,Swaziland,0,0,0
+2020-02-15,Swaziland,0,0,0
+2020-02-16,Swaziland,0,0,0
+2020-02-17,Swaziland,0,0,0
+2020-02-18,Swaziland,0,0,0
+2020-02-19,Swaziland,0,0,0
+2020-02-20,Swaziland,0,0,0
+2020-02-21,Swaziland,0,0,0
+2020-02-22,Swaziland,0,0,0
+2020-02-23,Swaziland,0,0,0
+2020-02-24,Swaziland,0,0,0
+2020-02-25,Swaziland,0,0,0
+2020-02-26,Swaziland,0,0,0
+2020-02-27,Swaziland,0,0,0
+2020-02-28,Swaziland,0,0,0
+2020-02-29,Swaziland,0,0,0
+2020-03-01,Swaziland,0,0,0
+2020-03-02,Swaziland,0,0,0
+2020-03-03,Swaziland,0,0,0
+2020-03-04,Swaziland,0,0,0
+2020-03-05,Swaziland,0,0,0
+2020-03-06,Swaziland,0,0,0
+2020-03-07,Swaziland,0,0,0
+2020-03-08,Swaziland,0,0,0
+2020-03-09,Swaziland,0,0,0
+2020-03-10,Swaziland,0,0,0
+2020-03-11,Swaziland,0,0,0
+2020-03-12,Swaziland,0,0,0
+2020-03-13,Swaziland,0,0,0
+2020-03-14,Swaziland,1,0,0
+2020-03-15,Swaziland,1,0,0
+2020-03-16,Swaziland,1,0,0
+2020-03-17,Swaziland,1,0,0
+2020-03-18,Swaziland,1,0,0
+2020-03-19,Swaziland,1,0,0
+2020-03-20,Swaziland,1,0,0
+2020-03-21,Swaziland,1,0,0
+2020-03-22,Swaziland,4,0,0
+2020-03-23,Swaziland,4,0,0
+2020-03-24,Swaziland,4,0,0
+2020-03-25,Swaziland,4,0,0
+2020-03-26,Swaziland,6,0,0
+2020-03-27,Swaziland,9,0,0
+2020-03-28,Swaziland,9,0,0
+2020-03-29,Swaziland,9,0,0
+2020-03-30,Swaziland,9,0,0
+2020-03-31,Swaziland,9,0,0
+2020-04-01,Swaziland,9,0,0
+2020-04-02,Swaziland,9,0,0
+2020-04-03,Swaziland,9,0,0
+2020-04-04,Swaziland,9,0,0
+2020-04-05,Swaziland,9,0,0
+2020-04-06,Swaziland,10,0,4
+2020-04-07,Swaziland,10,0,4
+2020-04-08,Swaziland,12,0,7
+2020-04-09,Swaziland,12,0,7
+2020-04-10,Swaziland,12,0,7
+2020-04-11,Swaziland,12,0,7
+2020-04-12,Swaziland,14,0,7
+2020-04-13,Swaziland,15,0,7
+2020-04-14,Swaziland,15,0,8
+2020-04-15,Swaziland,15,0,8
+2020-04-16,Swaziland,16,1,8
+2020-04-17,Swaziland,16,1,8
+2020-04-18,Swaziland,22,1,8
+2020-04-19,Swaziland,22,1,8
+2020-04-20,Swaziland,24,1,8
+2020-04-21,Swaziland,31,1,8
+2020-04-22,Swaziland,31,1,8
+2020-04-23,Swaziland,31,1,8
+2020-04-24,Swaziland,36,1,10
+2020-04-25,Swaziland,56,1,10
+2020-04-26,Swaziland,59,1,10
+2020-04-27,Swaziland,65,1,10
+2020-04-28,Swaziland,71,1,10
+2020-04-29,Swaziland,91,1,10
+2020-04-30,Swaziland,100,1,12
+2020-05-01,Swaziland,106,1,12
+2020-05-02,Swaziland,108,1,12
+2020-05-03,Swaziland,112,1,12
+2020-05-04,Swaziland,116,1,12
+2020-05-05,Swaziland,119,1,12
+2020-05-06,Swaziland,123,2,12
+2020-05-07,Swaziland,153,2,12
+2020-05-08,Swaziland,159,2,12
+2020-05-09,Swaziland,163,2,14
+2020-05-10,Swaziland,172,2,27
+2020-05-11,Swaziland,175,2,28
+2020-05-12,Swaziland,184,2,28
+2020-05-13,Swaziland,187,2,48
+2020-05-14,Swaziland,187,2,51
+2020-05-15,Swaziland,190,2,66
+2020-05-16,Swaziland,202,2,72
+2020-05-17,Swaziland,203,2,73
+2020-05-18,Swaziland,205,2,78
+2020-05-19,Swaziland,208,2,87
+2020-05-20,Swaziland,217,2,97
+2020-05-21,Swaziland,220,2,112
+2020-05-22,Swaziland,225,2,119
+2020-05-23,Swaziland,238,2,119
+2020-05-24,Swaziland,250,2,156
+2020-05-25,Swaziland,256,2,158
+2020-05-26,Swaziland,261,2,164
+2020-05-27,Swaziland,272,2,168
+2020-05-28,Swaziland,279,2,168
+2020-05-29,Swaziland,279,2,168
+2020-05-30,Swaziland,283,2,168
+2020-05-31,Swaziland,285,2,189
+2020-06-01,Swaziland,293,3,194
+2020-06-02,Swaziland,294,3,198
+2020-06-03,Swaziland,295,3,201
+2020-06-04,Swaziland,300,3,201
+2020-06-05,Swaziland,305,3,221
+2020-06-06,Swaziland,322,3,224
+2020-06-07,Swaziland,333,3,225
+2020-06-08,Swaziland,340,3,229
+2020-06-09,Swaziland,371,3,232
+2020-06-10,Swaziland,398,3,236
+2020-06-11,Swaziland,449,3,238
+2020-06-12,Swaziland,472,3,246
+2020-06-13,Swaziland,486,3,247
+2020-06-14,Swaziland,490,4,249
+2020-06-15,Swaziland,506,4,249
+2020-06-16,Swaziland,520,4,259
+2020-06-17,Swaziland,563,4,262
+2020-06-18,Swaziland,586,4,267
 2020-01-22,Sweden,0,0,0
 2020-01-23,Sweden,0,0,0
 2020-01-24,Sweden,0,0,0
@@ -24584,155 +24286,155 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Syria,177,6,78
 2020-06-17,Syria,178,7,78
 2020-06-18,Syria,187,7,78
-2020-01-22,Taiwan*,1,0,0
-2020-01-23,Taiwan*,1,0,0
-2020-01-24,Taiwan*,3,0,0
-2020-01-25,Taiwan*,3,0,0
-2020-01-26,Taiwan*,4,0,0
-2020-01-27,Taiwan*,5,0,0
-2020-01-28,Taiwan*,8,0,0
-2020-01-29,Taiwan*,8,0,0
-2020-01-30,Taiwan*,9,0,0
-2020-01-31,Taiwan*,10,0,0
-2020-02-01,Taiwan*,10,0,0
-2020-02-02,Taiwan*,10,0,0
-2020-02-03,Taiwan*,10,0,0
-2020-02-04,Taiwan*,11,0,0
-2020-02-05,Taiwan*,11,0,0
-2020-02-06,Taiwan*,16,0,1
-2020-02-07,Taiwan*,16,0,1
-2020-02-08,Taiwan*,17,0,1
-2020-02-09,Taiwan*,18,0,1
-2020-02-10,Taiwan*,18,0,1
-2020-02-11,Taiwan*,18,0,1
-2020-02-12,Taiwan*,18,0,1
-2020-02-13,Taiwan*,18,0,1
-2020-02-14,Taiwan*,18,0,2
-2020-02-15,Taiwan*,18,0,2
-2020-02-16,Taiwan*,20,1,2
-2020-02-17,Taiwan*,22,1,2
-2020-02-18,Taiwan*,22,1,2
-2020-02-19,Taiwan*,23,1,2
-2020-02-20,Taiwan*,24,1,2
-2020-02-21,Taiwan*,26,1,2
-2020-02-22,Taiwan*,26,1,2
-2020-02-23,Taiwan*,28,1,2
-2020-02-24,Taiwan*,30,1,5
-2020-02-25,Taiwan*,31,1,5
-2020-02-26,Taiwan*,32,1,5
-2020-02-27,Taiwan*,32,1,5
-2020-02-28,Taiwan*,34,1,6
-2020-02-29,Taiwan*,39,1,9
-2020-03-01,Taiwan*,40,1,9
-2020-03-02,Taiwan*,41,1,12
-2020-03-03,Taiwan*,42,1,12
-2020-03-04,Taiwan*,42,1,12
-2020-03-05,Taiwan*,44,1,12
-2020-03-06,Taiwan*,45,1,12
-2020-03-07,Taiwan*,45,1,12
-2020-03-08,Taiwan*,45,1,13
-2020-03-09,Taiwan*,45,1,15
-2020-03-10,Taiwan*,47,1,17
-2020-03-11,Taiwan*,48,1,17
-2020-03-12,Taiwan*,49,1,20
-2020-03-13,Taiwan*,50,1,20
-2020-03-14,Taiwan*,53,1,20
-2020-03-15,Taiwan*,59,1,20
-2020-03-16,Taiwan*,67,1,20
-2020-03-17,Taiwan*,77,1,22
-2020-03-18,Taiwan*,100,1,22
-2020-03-19,Taiwan*,108,1,26
-2020-03-20,Taiwan*,135,2,26
-2020-03-21,Taiwan*,153,2,28
-2020-03-22,Taiwan*,169,2,28
-2020-03-23,Taiwan*,195,2,28
-2020-03-24,Taiwan*,215,2,29
-2020-03-25,Taiwan*,235,2,29
-2020-03-26,Taiwan*,252,2,29
-2020-03-27,Taiwan*,267,2,29
-2020-03-28,Taiwan*,283,2,30
-2020-03-29,Taiwan*,298,2,30
-2020-03-30,Taiwan*,306,5,39
-2020-03-31,Taiwan*,322,5,39
-2020-04-01,Taiwan*,329,5,39
-2020-04-02,Taiwan*,339,5,45
-2020-04-03,Taiwan*,348,5,50
-2020-04-04,Taiwan*,355,5,50
-2020-04-05,Taiwan*,363,5,50
-2020-04-06,Taiwan*,373,5,57
-2020-04-07,Taiwan*,376,5,57
-2020-04-08,Taiwan*,379,5,61
-2020-04-09,Taiwan*,380,5,67
-2020-04-10,Taiwan*,382,6,91
-2020-04-11,Taiwan*,385,6,99
-2020-04-12,Taiwan*,388,6,109
-2020-04-13,Taiwan*,393,6,109
-2020-04-14,Taiwan*,393,6,124
-2020-04-15,Taiwan*,395,6,124
-2020-04-16,Taiwan*,395,6,155
-2020-04-17,Taiwan*,395,6,166
-2020-04-18,Taiwan*,398,6,178
-2020-04-19,Taiwan*,420,6,189
-2020-04-20,Taiwan*,422,6,203
-2020-04-21,Taiwan*,425,6,217
-2020-04-22,Taiwan*,426,6,236
-2020-04-23,Taiwan*,427,6,253
-2020-04-24,Taiwan*,428,6,264
-2020-04-25,Taiwan*,429,6,275
-2020-04-26,Taiwan*,429,6,281
-2020-04-27,Taiwan*,429,6,290
-2020-04-28,Taiwan*,429,6,307
-2020-04-29,Taiwan*,429,6,311
-2020-04-30,Taiwan*,429,6,322
-2020-05-01,Taiwan*,429,6,324
-2020-05-02,Taiwan*,432,6,324
-2020-05-03,Taiwan*,436,6,332
-2020-05-04,Taiwan*,438,6,334
-2020-05-05,Taiwan*,438,6,334
-2020-05-06,Taiwan*,439,6,339
-2020-05-07,Taiwan*,440,6,347
-2020-05-08,Taiwan*,440,6,355
-2020-05-09,Taiwan*,440,6,361
-2020-05-10,Taiwan*,440,6,366
-2020-05-11,Taiwan*,440,7,368
-2020-05-12,Taiwan*,440,7,372
-2020-05-13,Taiwan*,440,7,375
-2020-05-14,Taiwan*,440,7,383
-2020-05-15,Taiwan*,440,7,387
-2020-05-16,Taiwan*,440,7,389
-2020-05-17,Taiwan*,440,7,395
-2020-05-18,Taiwan*,440,7,398
-2020-05-19,Taiwan*,440,7,398
-2020-05-20,Taiwan*,440,7,398
-2020-05-21,Taiwan*,440,7,398
-2020-05-22,Taiwan*,441,7,408
-2020-05-23,Taiwan*,441,7,411
-2020-05-24,Taiwan*,441,7,414
-2020-05-25,Taiwan*,441,7,415
-2020-05-26,Taiwan*,441,7,416
-2020-05-27,Taiwan*,441,7,419
-2020-05-28,Taiwan*,441,7,420
-2020-05-29,Taiwan*,442,7,420
-2020-05-30,Taiwan*,442,7,421
-2020-05-31,Taiwan*,442,7,423
-2020-06-01,Taiwan*,443,7,427
-2020-06-02,Taiwan*,443,7,427
-2020-06-03,Taiwan*,443,7,428
-2020-06-04,Taiwan*,443,7,428
-2020-06-05,Taiwan*,443,7,429
-2020-06-06,Taiwan*,443,7,429
-2020-06-07,Taiwan*,443,7,430
-2020-06-08,Taiwan*,443,7,430
-2020-06-09,Taiwan*,443,7,431
-2020-06-10,Taiwan*,443,7,431
-2020-06-11,Taiwan*,443,7,431
-2020-06-12,Taiwan*,443,7,431
-2020-06-13,Taiwan*,443,7,431
-2020-06-14,Taiwan*,443,7,431
-2020-06-15,Taiwan*,445,7,433
-2020-06-16,Taiwan*,445,7,433
-2020-06-17,Taiwan*,445,7,434
-2020-06-18,Taiwan*,446,7,434
+2020-01-22,Taiwan,1,0,0
+2020-01-23,Taiwan,1,0,0
+2020-01-24,Taiwan,3,0,0
+2020-01-25,Taiwan,3,0,0
+2020-01-26,Taiwan,4,0,0
+2020-01-27,Taiwan,5,0,0
+2020-01-28,Taiwan,8,0,0
+2020-01-29,Taiwan,8,0,0
+2020-01-30,Taiwan,9,0,0
+2020-01-31,Taiwan,10,0,0
+2020-02-01,Taiwan,10,0,0
+2020-02-02,Taiwan,10,0,0
+2020-02-03,Taiwan,10,0,0
+2020-02-04,Taiwan,11,0,0
+2020-02-05,Taiwan,11,0,0
+2020-02-06,Taiwan,16,0,1
+2020-02-07,Taiwan,16,0,1
+2020-02-08,Taiwan,17,0,1
+2020-02-09,Taiwan,18,0,1
+2020-02-10,Taiwan,18,0,1
+2020-02-11,Taiwan,18,0,1
+2020-02-12,Taiwan,18,0,1
+2020-02-13,Taiwan,18,0,1
+2020-02-14,Taiwan,18,0,2
+2020-02-15,Taiwan,18,0,2
+2020-02-16,Taiwan,20,1,2
+2020-02-17,Taiwan,22,1,2
+2020-02-18,Taiwan,22,1,2
+2020-02-19,Taiwan,23,1,2
+2020-02-20,Taiwan,24,1,2
+2020-02-21,Taiwan,26,1,2
+2020-02-22,Taiwan,26,1,2
+2020-02-23,Taiwan,28,1,2
+2020-02-24,Taiwan,30,1,5
+2020-02-25,Taiwan,31,1,5
+2020-02-26,Taiwan,32,1,5
+2020-02-27,Taiwan,32,1,5
+2020-02-28,Taiwan,34,1,6
+2020-02-29,Taiwan,39,1,9
+2020-03-01,Taiwan,40,1,9
+2020-03-02,Taiwan,41,1,12
+2020-03-03,Taiwan,42,1,12
+2020-03-04,Taiwan,42,1,12
+2020-03-05,Taiwan,44,1,12
+2020-03-06,Taiwan,45,1,12
+2020-03-07,Taiwan,45,1,12
+2020-03-08,Taiwan,45,1,13
+2020-03-09,Taiwan,45,1,15
+2020-03-10,Taiwan,47,1,17
+2020-03-11,Taiwan,48,1,17
+2020-03-12,Taiwan,49,1,20
+2020-03-13,Taiwan,50,1,20
+2020-03-14,Taiwan,53,1,20
+2020-03-15,Taiwan,59,1,20
+2020-03-16,Taiwan,67,1,20
+2020-03-17,Taiwan,77,1,22
+2020-03-18,Taiwan,100,1,22
+2020-03-19,Taiwan,108,1,26
+2020-03-20,Taiwan,135,2,26
+2020-03-21,Taiwan,153,2,28
+2020-03-22,Taiwan,169,2,28
+2020-03-23,Taiwan,195,2,28
+2020-03-24,Taiwan,215,2,29
+2020-03-25,Taiwan,235,2,29
+2020-03-26,Taiwan,252,2,29
+2020-03-27,Taiwan,267,2,29
+2020-03-28,Taiwan,283,2,30
+2020-03-29,Taiwan,298,2,30
+2020-03-30,Taiwan,306,5,39
+2020-03-31,Taiwan,322,5,39
+2020-04-01,Taiwan,329,5,39
+2020-04-02,Taiwan,339,5,45
+2020-04-03,Taiwan,348,5,50
+2020-04-04,Taiwan,355,5,50
+2020-04-05,Taiwan,363,5,50
+2020-04-06,Taiwan,373,5,57
+2020-04-07,Taiwan,376,5,57
+2020-04-08,Taiwan,379,5,61
+2020-04-09,Taiwan,380,5,67
+2020-04-10,Taiwan,382,6,91
+2020-04-11,Taiwan,385,6,99
+2020-04-12,Taiwan,388,6,109
+2020-04-13,Taiwan,393,6,109
+2020-04-14,Taiwan,393,6,124
+2020-04-15,Taiwan,395,6,124
+2020-04-16,Taiwan,395,6,155
+2020-04-17,Taiwan,395,6,166
+2020-04-18,Taiwan,398,6,178
+2020-04-19,Taiwan,420,6,189
+2020-04-20,Taiwan,422,6,203
+2020-04-21,Taiwan,425,6,217
+2020-04-22,Taiwan,426,6,236
+2020-04-23,Taiwan,427,6,253
+2020-04-24,Taiwan,428,6,264
+2020-04-25,Taiwan,429,6,275
+2020-04-26,Taiwan,429,6,281
+2020-04-27,Taiwan,429,6,290
+2020-04-28,Taiwan,429,6,307
+2020-04-29,Taiwan,429,6,311
+2020-04-30,Taiwan,429,6,322
+2020-05-01,Taiwan,429,6,324
+2020-05-02,Taiwan,432,6,324
+2020-05-03,Taiwan,436,6,332
+2020-05-04,Taiwan,438,6,334
+2020-05-05,Taiwan,438,6,334
+2020-05-06,Taiwan,439,6,339
+2020-05-07,Taiwan,440,6,347
+2020-05-08,Taiwan,440,6,355
+2020-05-09,Taiwan,440,6,361
+2020-05-10,Taiwan,440,6,366
+2020-05-11,Taiwan,440,7,368
+2020-05-12,Taiwan,440,7,372
+2020-05-13,Taiwan,440,7,375
+2020-05-14,Taiwan,440,7,383
+2020-05-15,Taiwan,440,7,387
+2020-05-16,Taiwan,440,7,389
+2020-05-17,Taiwan,440,7,395
+2020-05-18,Taiwan,440,7,398
+2020-05-19,Taiwan,440,7,398
+2020-05-20,Taiwan,440,7,398
+2020-05-21,Taiwan,440,7,398
+2020-05-22,Taiwan,441,7,408
+2020-05-23,Taiwan,441,7,411
+2020-05-24,Taiwan,441,7,414
+2020-05-25,Taiwan,441,7,415
+2020-05-26,Taiwan,441,7,416
+2020-05-27,Taiwan,441,7,419
+2020-05-28,Taiwan,441,7,420
+2020-05-29,Taiwan,442,7,420
+2020-05-30,Taiwan,442,7,421
+2020-05-31,Taiwan,442,7,423
+2020-06-01,Taiwan,443,7,427
+2020-06-02,Taiwan,443,7,427
+2020-06-03,Taiwan,443,7,428
+2020-06-04,Taiwan,443,7,428
+2020-06-05,Taiwan,443,7,429
+2020-06-06,Taiwan,443,7,429
+2020-06-07,Taiwan,443,7,430
+2020-06-08,Taiwan,443,7,430
+2020-06-09,Taiwan,443,7,431
+2020-06-10,Taiwan,443,7,431
+2020-06-11,Taiwan,443,7,431
+2020-06-12,Taiwan,443,7,431
+2020-06-13,Taiwan,443,7,431
+2020-06-14,Taiwan,443,7,431
+2020-06-15,Taiwan,445,7,433
+2020-06-16,Taiwan,445,7,433
+2020-06-17,Taiwan,445,7,434
+2020-06-18,Taiwan,446,7,434
 2020-01-22,Tajikistan,0,0,0
 2020-01-23,Tajikistan,0,0,0
 2020-01-24,Tajikistan,0,0,0
@@ -25925,155 +25627,6 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Turkey,181298,4842,153379
 2020-06-17,Turkey,182727,4861,154640
 2020-06-18,Turkey,184031,4882,156022
-2020-01-22,US,1,0,0
-2020-01-23,US,1,0,0
-2020-01-24,US,2,0,0
-2020-01-25,US,2,0,0
-2020-01-26,US,5,0,0
-2020-01-27,US,5,0,0
-2020-01-28,US,5,0,0
-2020-01-29,US,5,0,0
-2020-01-30,US,5,0,0
-2020-01-31,US,7,0,0
-2020-02-01,US,8,0,0
-2020-02-02,US,8,0,0
-2020-02-03,US,11,0,0
-2020-02-04,US,11,0,0
-2020-02-05,US,11,0,0
-2020-02-06,US,11,0,0
-2020-02-07,US,11,0,0
-2020-02-08,US,11,0,0
-2020-02-09,US,11,0,3
-2020-02-10,US,11,0,3
-2020-02-11,US,12,0,3
-2020-02-12,US,12,0,3
-2020-02-13,US,13,0,3
-2020-02-14,US,13,0,3
-2020-02-15,US,13,0,3
-2020-02-16,US,13,0,3
-2020-02-17,US,13,0,3
-2020-02-18,US,13,0,3
-2020-02-19,US,13,0,3
-2020-02-20,US,13,0,3
-2020-02-21,US,15,0,5
-2020-02-22,US,15,0,5
-2020-02-23,US,15,0,5
-2020-02-24,US,15,0,5
-2020-02-25,US,15,0,6
-2020-02-26,US,15,0,6
-2020-02-27,US,16,0,6
-2020-02-28,US,16,0,7
-2020-02-29,US,24,1,7
-2020-03-01,US,30,1,7
-2020-03-02,US,53,6,7
-2020-03-03,US,73,7,7
-2020-03-04,US,104,11,7
-2020-03-05,US,174,12,7
-2020-03-06,US,222,14,7
-2020-03-07,US,337,17,7
-2020-03-08,US,451,21,7
-2020-03-09,US,519,22,7
-2020-03-10,US,711,28,8
-2020-03-11,US,1109,32,8
-2020-03-12,US,1561,43,12
-2020-03-13,US,2157,52,12
-2020-03-14,US,2870,59,12
-2020-03-15,US,2968,72,12
-2020-03-16,US,4360,100,17
-2020-03-17,US,6141,134,17
-2020-03-18,US,8914,191,105
-2020-03-19,US,14153,269,121
-2020-03-20,US,19479,366,147
-2020-03-21,US,25818,456,176
-2020-03-22,US,33756,600,178
-2020-03-23,US,43845,784,178
-2020-03-24,US,54108,1019,348
-2020-03-25,US,66044,1329,361
-2020-03-26,US,84080,1736,681
-2020-03-27,US,102254,2284,869
-2020-03-28,US,122054,2921,1072
-2020-03-29,US,141194,3546,2665
-2020-03-30,US,162690,4352,5644
-2020-03-31,US,188701,5568,7024
-2020-04-01,US,214194,6787,8474
-2020-04-02,US,244593,8349,9001
-2020-04-03,US,276535,9646,9707
-2020-04-04,US,309699,10912,14652
-2020-04-05,US,337573,12323,17448
-2020-04-06,US,367210,13985,19581
-2020-04-07,US,397992,16290,21763
-2020-04-08,US,429686,18369,23559
-2020-04-09,US,464442,20415,25410
-2020-04-10,US,497943,22486,28790
-2020-04-11,US,527958,24498,31270
-2020-04-12,US,556517,26238,32988
-2020-04-13,US,581810,28036,43482
-2020-04-14,US,608845,30429,47763
-2020-04-15,US,637974,32944,52096
-2020-04-16,US,669272,35031,54703
-2020-04-17,US,701996,37621,58545
-2020-04-18,US,730317,39966,64840
-2020-04-19,US,756375,41148,70337
-2020-04-20,US,783716,42918,72329
-2020-04-21,US,809213,45314,75204
-2020-04-22,US,837414,47649,77366
-2020-04-23,US,871617,49969,80203
-2020-04-24,US,907908,51746,99079
-2020-04-25,US,940829,54015,100372
-2020-04-26,US,968517,55162,106988
-2020-04-27,US,990993,56502,111424
-2020-04-28,US,1015518,58632,115936
-2020-04-29,US,1042926,61252,120720
-2020-04-30,US,1072667,63291,153947
-2020-05-01,US,1106829,65243,164015
-2020-05-02,US,1136024,66668,175382
-2020-05-03,US,1161611,67990,180152
-2020-05-04,US,1184086,69237,187180
-2020-05-05,US,1208271,71387,189791
-2020-05-06,US,1233527,73775,189910
-2020-05-07,US,1261409,75986,195036
-2020-05-08,US,1288566,77495,198993
-2020-05-09,US,1314306,79122,212534
-2020-05-10,US,1334084,79856,216169
-2020-05-11,US,1352962,81018,232733
-2020-05-12,US,1374914,82709,230287
-2020-05-13,US,1396109,84452,243430
-2020-05-14,US,1423726,86229,246414
-2020-05-15,US,1449026,87862,250747
-2020-05-16,US,1474127,89084,268376
-2020-05-17,US,1493131,89893,272265
-2020-05-18,US,1514839,90683,283178
-2020-05-19,US,1535337,92252,289392
-2020-05-20,US,1558949,93775,294312
-2020-05-21,US,1584486,95020,298418
-2020-05-22,US,1608623,96296,350135
-2020-05-23,US,1630450,97406,361239
-2020-05-24,US,1651239,98039,366736
-2020-05-25,US,1670209,98541,379157
-2020-05-26,US,1689057,99239,384902
-2020-05-27,US,1707423,100744,391508
-2020-05-28,US,1730259,101937,399991
-2020-05-29,US,1754747,103113,406446
-2020-05-30,US,1778993,104054,416461
-2020-05-31,US,1799122,104659,444758
-2020-06-01,US,1816476,105430,458231
-2020-06-02,US,1837367,106461,463868
-2020-06-03,US,1857248,107444,479258
-2020-06-04,US,1878543,108479,485002
-2020-06-05,US,1903854,109449,491706
-2020-06-06,US,1926538,110124,500849
-2020-06-07,US,1944309,110575,506367
-2020-06-08,US,1961781,111068,518522
-2020-06-09,US,1979868,112014,524855
-2020-06-10,US,2000702,112935,533504
-2020-06-11,US,2023590,113823,540292
-2020-06-12,US,2048986,114669,547386
-2020-06-13,US,2074526,115436,556606
-2020-06-14,US,2094058,115732,561816
-2020-06-15,US,2114026,116127,576334
-2020-06-16,US,2137731,116963,583503
-2020-06-17,US,2163290,117717,592191
-2020-06-18,US,2191052,118434,599115
 2020-01-22,Uganda,0,0,0
 2020-01-23,Uganda,0,0,0
 2020-01-24,Uganda,0,0,0
@@ -26670,6 +26223,155 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,United Kingdom,299600,42054,1293
 2020-06-17,United Kingdom,300717,42238,1304
 2020-06-18,United Kingdom,301935,42373,1313
+2020-01-22,United States,1,0,0
+2020-01-23,United States,1,0,0
+2020-01-24,United States,2,0,0
+2020-01-25,United States,2,0,0
+2020-01-26,United States,5,0,0
+2020-01-27,United States,5,0,0
+2020-01-28,United States,5,0,0
+2020-01-29,United States,5,0,0
+2020-01-30,United States,5,0,0
+2020-01-31,United States,7,0,0
+2020-02-01,United States,8,0,0
+2020-02-02,United States,8,0,0
+2020-02-03,United States,11,0,0
+2020-02-04,United States,11,0,0
+2020-02-05,United States,11,0,0
+2020-02-06,United States,11,0,0
+2020-02-07,United States,11,0,0
+2020-02-08,United States,11,0,0
+2020-02-09,United States,11,0,3
+2020-02-10,United States,11,0,3
+2020-02-11,United States,12,0,3
+2020-02-12,United States,12,0,3
+2020-02-13,United States,13,0,3
+2020-02-14,United States,13,0,3
+2020-02-15,United States,13,0,3
+2020-02-16,United States,13,0,3
+2020-02-17,United States,13,0,3
+2020-02-18,United States,13,0,3
+2020-02-19,United States,13,0,3
+2020-02-20,United States,13,0,3
+2020-02-21,United States,15,0,5
+2020-02-22,United States,15,0,5
+2020-02-23,United States,15,0,5
+2020-02-24,United States,15,0,5
+2020-02-25,United States,15,0,6
+2020-02-26,United States,15,0,6
+2020-02-27,United States,16,0,6
+2020-02-28,United States,16,0,7
+2020-02-29,United States,24,1,7
+2020-03-01,United States,30,1,7
+2020-03-02,United States,53,6,7
+2020-03-03,United States,73,7,7
+2020-03-04,United States,104,11,7
+2020-03-05,United States,174,12,7
+2020-03-06,United States,222,14,7
+2020-03-07,United States,337,17,7
+2020-03-08,United States,451,21,7
+2020-03-09,United States,519,22,7
+2020-03-10,United States,711,28,8
+2020-03-11,United States,1109,32,8
+2020-03-12,United States,1561,43,12
+2020-03-13,United States,2157,52,12
+2020-03-14,United States,2870,59,12
+2020-03-15,United States,2968,72,12
+2020-03-16,United States,4360,100,17
+2020-03-17,United States,6141,134,17
+2020-03-18,United States,8914,191,105
+2020-03-19,United States,14153,269,121
+2020-03-20,United States,19479,366,147
+2020-03-21,United States,25818,456,176
+2020-03-22,United States,33756,600,178
+2020-03-23,United States,43845,784,178
+2020-03-24,United States,54108,1019,348
+2020-03-25,United States,66044,1329,361
+2020-03-26,United States,84080,1736,681
+2020-03-27,United States,102254,2284,869
+2020-03-28,United States,122054,2921,1072
+2020-03-29,United States,141194,3546,2665
+2020-03-30,United States,162690,4352,5644
+2020-03-31,United States,188701,5568,7024
+2020-04-01,United States,214194,6787,8474
+2020-04-02,United States,244593,8349,9001
+2020-04-03,United States,276535,9646,9707
+2020-04-04,United States,309699,10912,14652
+2020-04-05,United States,337573,12323,17448
+2020-04-06,United States,367210,13985,19581
+2020-04-07,United States,397992,16290,21763
+2020-04-08,United States,429686,18369,23559
+2020-04-09,United States,464442,20415,25410
+2020-04-10,United States,497943,22486,28790
+2020-04-11,United States,527958,24498,31270
+2020-04-12,United States,556517,26238,32988
+2020-04-13,United States,581810,28036,43482
+2020-04-14,United States,608845,30429,47763
+2020-04-15,United States,637974,32944,52096
+2020-04-16,United States,669272,35031,54703
+2020-04-17,United States,701996,37621,58545
+2020-04-18,United States,730317,39966,64840
+2020-04-19,United States,756375,41148,70337
+2020-04-20,United States,783716,42918,72329
+2020-04-21,United States,809213,45314,75204
+2020-04-22,United States,837414,47649,77366
+2020-04-23,United States,871617,49969,80203
+2020-04-24,United States,907908,51746,99079
+2020-04-25,United States,940829,54015,100372
+2020-04-26,United States,968517,55162,106988
+2020-04-27,United States,990993,56502,111424
+2020-04-28,United States,1015518,58632,115936
+2020-04-29,United States,1042926,61252,120720
+2020-04-30,United States,1072667,63291,153947
+2020-05-01,United States,1106829,65243,164015
+2020-05-02,United States,1136024,66668,175382
+2020-05-03,United States,1161611,67990,180152
+2020-05-04,United States,1184086,69237,187180
+2020-05-05,United States,1208271,71387,189791
+2020-05-06,United States,1233527,73775,189910
+2020-05-07,United States,1261409,75986,195036
+2020-05-08,United States,1288566,77495,198993
+2020-05-09,United States,1314306,79122,212534
+2020-05-10,United States,1334084,79856,216169
+2020-05-11,United States,1352962,81018,232733
+2020-05-12,United States,1374914,82709,230287
+2020-05-13,United States,1396109,84452,243430
+2020-05-14,United States,1423726,86229,246414
+2020-05-15,United States,1449026,87862,250747
+2020-05-16,United States,1474127,89084,268376
+2020-05-17,United States,1493131,89893,272265
+2020-05-18,United States,1514839,90683,283178
+2020-05-19,United States,1535337,92252,289392
+2020-05-20,United States,1558949,93775,294312
+2020-05-21,United States,1584486,95020,298418
+2020-05-22,United States,1608623,96296,350135
+2020-05-23,United States,1630450,97406,361239
+2020-05-24,United States,1651239,98039,366736
+2020-05-25,United States,1670209,98541,379157
+2020-05-26,United States,1689057,99239,384902
+2020-05-27,United States,1707423,100744,391508
+2020-05-28,United States,1730259,101937,399991
+2020-05-29,United States,1754747,103113,406446
+2020-05-30,United States,1778993,104054,416461
+2020-05-31,United States,1799122,104659,444758
+2020-06-01,United States,1816476,105430,458231
+2020-06-02,United States,1837367,106461,463868
+2020-06-03,United States,1857248,107444,479258
+2020-06-04,United States,1878543,108479,485002
+2020-06-05,United States,1903854,109449,491706
+2020-06-06,United States,1926538,110124,500849
+2020-06-07,United States,1944309,110575,506367
+2020-06-08,United States,1961781,111068,518522
+2020-06-09,United States,1979868,112014,524855
+2020-06-10,United States,2000702,112935,533504
+2020-06-11,United States,2023590,113823,540292
+2020-06-12,United States,2048986,114669,547386
+2020-06-13,United States,2074526,115436,556606
+2020-06-14,United States,2094058,115732,561816
+2020-06-15,United States,2114026,116127,576334
+2020-06-16,United States,2137731,116963,583503
+2020-06-17,United States,2163290,117717,592191
+2020-06-18,United States,2191052,118434,599115
 2020-01-22,Uruguay,0,0,0
 2020-01-23,Uruguay,0,0,0
 2020-01-24,Uruguay,0,0,0
@@ -27266,155 +26968,6 @@ Fecha,Pais,Contagios,Muertos,Recuperados
 2020-06-16,Vietnam,334,0,325
 2020-06-17,Vietnam,335,0,325
 2020-06-18,Vietnam,342,0,325
-2020-01-22,West Bank and Gaza,0,0,0
-2020-01-23,West Bank and Gaza,0,0,0
-2020-01-24,West Bank and Gaza,0,0,0
-2020-01-25,West Bank and Gaza,0,0,0
-2020-01-26,West Bank and Gaza,0,0,0
-2020-01-27,West Bank and Gaza,0,0,0
-2020-01-28,West Bank and Gaza,0,0,0
-2020-01-29,West Bank and Gaza,0,0,0
-2020-01-30,West Bank and Gaza,0,0,0
-2020-01-31,West Bank and Gaza,0,0,0
-2020-02-01,West Bank and Gaza,0,0,0
-2020-02-02,West Bank and Gaza,0,0,0
-2020-02-03,West Bank and Gaza,0,0,0
-2020-02-04,West Bank and Gaza,0,0,0
-2020-02-05,West Bank and Gaza,0,0,0
-2020-02-06,West Bank and Gaza,0,0,0
-2020-02-07,West Bank and Gaza,0,0,0
-2020-02-08,West Bank and Gaza,0,0,0
-2020-02-09,West Bank and Gaza,0,0,0
-2020-02-10,West Bank and Gaza,0,0,0
-2020-02-11,West Bank and Gaza,0,0,0
-2020-02-12,West Bank and Gaza,0,0,0
-2020-02-13,West Bank and Gaza,0,0,0
-2020-02-14,West Bank and Gaza,0,0,0
-2020-02-15,West Bank and Gaza,0,0,0
-2020-02-16,West Bank and Gaza,0,0,0
-2020-02-17,West Bank and Gaza,0,0,0
-2020-02-18,West Bank and Gaza,0,0,0
-2020-02-19,West Bank and Gaza,0,0,0
-2020-02-20,West Bank and Gaza,0,0,0
-2020-02-21,West Bank and Gaza,0,0,0
-2020-02-22,West Bank and Gaza,0,0,0
-2020-02-23,West Bank and Gaza,0,0,0
-2020-02-24,West Bank and Gaza,0,0,0
-2020-02-25,West Bank and Gaza,0,0,0
-2020-02-26,West Bank and Gaza,0,0,0
-2020-02-27,West Bank and Gaza,0,0,0
-2020-02-28,West Bank and Gaza,0,0,0
-2020-02-29,West Bank and Gaza,0,0,0
-2020-03-01,West Bank and Gaza,0,0,0
-2020-03-02,West Bank and Gaza,0,0,0
-2020-03-03,West Bank and Gaza,0,0,0
-2020-03-04,West Bank and Gaza,0,0,0
-2020-03-05,West Bank and Gaza,4,0,0
-2020-03-06,West Bank and Gaza,7,0,0
-2020-03-07,West Bank and Gaza,16,0,0
-2020-03-08,West Bank and Gaza,16,0,0
-2020-03-09,West Bank and Gaza,19,0,0
-2020-03-10,West Bank and Gaza,26,0,0
-2020-03-11,West Bank and Gaza,30,0,0
-2020-03-12,West Bank and Gaza,30,0,0
-2020-03-13,West Bank and Gaza,31,0,0
-2020-03-14,West Bank and Gaza,35,0,0
-2020-03-15,West Bank and Gaza,38,0,0
-2020-03-16,West Bank and Gaza,38,0,0
-2020-03-17,West Bank and Gaza,39,0,0
-2020-03-18,West Bank and Gaza,41,0,0
-2020-03-19,West Bank and Gaza,44,0,0
-2020-03-20,West Bank and Gaza,47,0,17
-2020-03-21,West Bank and Gaza,48,0,17
-2020-03-22,West Bank and Gaza,52,0,17
-2020-03-23,West Bank and Gaza,59,0,17
-2020-03-24,West Bank and Gaza,59,0,17
-2020-03-25,West Bank and Gaza,59,0,17
-2020-03-26,West Bank and Gaza,84,1,17
-2020-03-27,West Bank and Gaza,91,1,17
-2020-03-28,West Bank and Gaza,98,1,18
-2020-03-29,West Bank and Gaza,109,1,18
-2020-03-30,West Bank and Gaza,116,1,18
-2020-03-31,West Bank and Gaza,119,1,18
-2020-04-01,West Bank and Gaza,134,1,18
-2020-04-02,West Bank and Gaza,161,1,18
-2020-04-03,West Bank and Gaza,194,1,21
-2020-04-04,West Bank and Gaza,217,1,21
-2020-04-05,West Bank and Gaza,237,1,25
-2020-04-06,West Bank and Gaza,254,1,24
-2020-04-07,West Bank and Gaza,261,1,42
-2020-04-08,West Bank and Gaza,263,1,44
-2020-04-09,West Bank and Gaza,263,1,44
-2020-04-10,West Bank and Gaza,267,2,45
-2020-04-11,West Bank and Gaza,268,2,57
-2020-04-12,West Bank and Gaza,271,2,58
-2020-04-13,West Bank and Gaza,273,2,58
-2020-04-14,West Bank and Gaza,284,2,62
-2020-04-15,West Bank and Gaza,291,2,63
-2020-04-16,West Bank and Gaza,294,2,63
-2020-04-17,West Bank and Gaza,307,2,69
-2020-04-18,West Bank and Gaza,313,2,69
-2020-04-19,West Bank and Gaza,319,2,71
-2020-04-20,West Bank and Gaza,329,2,71
-2020-04-21,West Bank and Gaza,329,2,71
-2020-04-22,West Bank and Gaza,335,2,71
-2020-04-23,West Bank and Gaza,336,2,74
-2020-04-24,West Bank and Gaza,340,2,81
-2020-04-25,West Bank and Gaza,342,2,83
-2020-04-26,West Bank and Gaza,342,2,83
-2020-04-27,West Bank and Gaza,342,2,83
-2020-04-28,West Bank and Gaza,343,2,71
-2020-04-29,West Bank and Gaza,344,2,71
-2020-04-30,West Bank and Gaza,344,2,76
-2020-05-01,West Bank and Gaza,353,2,76
-2020-05-02,West Bank and Gaza,353,2,76
-2020-05-03,West Bank and Gaza,353,2,77
-2020-05-04,West Bank and Gaza,362,2,102
-2020-05-05,West Bank and Gaza,371,2,127
-2020-05-06,West Bank and Gaza,374,2,174
-2020-05-07,West Bank and Gaza,375,2,176
-2020-05-08,West Bank and Gaza,375,2,228
-2020-05-09,West Bank and Gaza,375,2,228
-2020-05-10,West Bank and Gaza,375,2,263
-2020-05-11,West Bank and Gaza,375,2,301
-2020-05-12,West Bank and Gaza,375,2,308
-2020-05-13,West Bank and Gaza,375,2,310
-2020-05-14,West Bank and Gaza,375,2,310
-2020-05-15,West Bank and Gaza,375,2,315
-2020-05-16,West Bank and Gaza,376,2,329
-2020-05-17,West Bank and Gaza,381,2,335
-2020-05-18,West Bank and Gaza,388,2,337
-2020-05-19,West Bank and Gaza,391,2,346
-2020-05-20,West Bank and Gaza,398,2,346
-2020-05-21,West Bank and Gaza,423,2,346
-2020-05-22,West Bank and Gaza,423,2,346
-2020-05-23,West Bank and Gaza,423,3,348
-2020-05-24,West Bank and Gaza,423,3,357
-2020-05-25,West Bank and Gaza,423,3,357
-2020-05-26,West Bank and Gaza,429,3,365
-2020-05-27,West Bank and Gaza,434,3,365
-2020-05-28,West Bank and Gaza,446,3,368
-2020-05-29,West Bank and Gaza,446,3,368
-2020-05-30,West Bank and Gaza,447,3,368
-2020-05-31,West Bank and Gaza,448,3,372
-2020-06-01,West Bank and Gaza,449,3,372
-2020-06-02,West Bank and Gaza,451,3,372
-2020-06-03,West Bank and Gaza,457,3,372
-2020-06-04,West Bank and Gaza,464,3,377
-2020-06-05,West Bank and Gaza,464,3,377
-2020-06-06,West Bank and Gaza,464,3,400
-2020-06-07,West Bank and Gaza,472,3,403
-2020-06-08,West Bank and Gaza,473,3,404
-2020-06-09,West Bank and Gaza,481,3,404
-2020-06-10,West Bank and Gaza,485,3,410
-2020-06-11,West Bank and Gaza,487,3,410
-2020-06-12,West Bank and Gaza,489,3,414
-2020-06-13,West Bank and Gaza,489,3,415
-2020-06-14,West Bank and Gaza,492,3,415
-2020-06-15,West Bank and Gaza,505,3,415
-2020-06-16,West Bank and Gaza,514,3,415
-2020-06-17,West Bank and Gaza,555,3,415
-2020-06-18,West Bank and Gaza,600,3,415
 2020-01-22,Western Sahara,0,0,0
 2020-01-23,Western Sahara,0,0,0
 2020-01-24,Western Sahara,0,0,0
