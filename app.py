@@ -302,7 +302,7 @@ app.layout = html.Div(children=[
     html.H1(myheading),
     dcc.Graph(
         id='plot1',
-        style={"height": 700},
+        style={"height": 600},
         figure=fig_map
         ),
     #html.A('Code on Github', href=githublink),
