@@ -10,7 +10,8 @@ import plotly
 import plotly.express as px
 from datetime import datetime,timedelta
 import re
-
+from data_input import normalize_by_population
+from make_figures import make_map, make_timeplot, FIRST_LINE_HEIGHT
 
 #from scipy.optimize import curve_fit
 #import sklearn.metrics as sklm
@@ -99,7 +100,7 @@ def get_populations():
     pop = pd.read_csv('data/countryInfo.txt', sep='\t', skiprows=50)
     return pop
 
-def normalize_by_population2(tidy_df):
+def normalize_by_population(tidy_df):
     """ Normalize by population the column "Contagios" of a dataframe with
         lines being the country ISO
     """
@@ -258,9 +259,15 @@ df_recent['iso'] = iso
 #########################################################################################
 ### Mapa mundial con número de contagios acumulados por país   ##########################
 #########################################################################################
+
+# ----------- Figures ---------------------
+#fig1 = make_map(df_recent, df_tidy_fatalities)
+#fig2 = make_timeplot(df, df_prediction, countries=['France', 'Italy', 'Spain'])
+#fig_store = make_timeplot(df, df_prediction)
+
 # Se normalizan los casos por 100k habitantes  
-       
-normalized_values = normalize_by_population2(df_recent)  
+ 
+normalized_values = normalize_by_population(df_recent)  
 df_recent['normalizado'] = (1.e5 * normalized_values).values
 df_recent['normalizado'] = df_recent['normalizado'].round(decimals=2)         
 df_recent['log_normalizado'] = np.log10(df_recent['Contagios'])
