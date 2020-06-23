@@ -3,6 +3,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-03-30,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-03-30,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-03-30,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-03-30,Tarapacá,Alto Hospicio,129999,0,0,0,0
 2020-03-30,Tarapacá,Camina,1375,0,0,0,0
 2020-03-30,Tarapacá,Colchane,1583,0,0,0,0
@@ -10,6 +11,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Tarapacá,Iquique,223463,5,0,0,0
 2020-03-30,Tarapacá,Pica,5958,0,0,0,0
 2020-03-30,Tarapacá,Pozo Almonte,17395,0,0,0,0
+2020-03-30,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-03-30,Antofagasta,Antofagasta,425725,29,0,0,0
 2020-03-30,Antofagasta,Calama,190336,0,0,0,0
 2020-03-30,Antofagasta,Maria Elena,6814,0,0,0,0
@@ -19,6 +21,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-03-30,Antofagasta,Taltal,13657,0,0,0,0
 2020-03-30,Antofagasta,Tocopilla,28079,0,0,0,0
+2020-03-30,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-03-30,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-03-30,Atacama,Caldera,19426,0,0,0,0
 2020-03-30,Atacama,Chanaral,13164,0,0,0,0
@@ -28,6 +31,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Atacama,Huasco,11264,0,0,0,0
 2020-03-30,Atacama,Tierra Amarilla,14312,0,0,0,0
 2020-03-30,Atacama,Vallenar,57009,0,0,0,0
+2020-03-30,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-03-30,Coquimbo,Andacollo,11791,0,0,0,0
 2020-03-30,Coquimbo,Canela,9546,0,0,0,0
 2020-03-30,Coquimbo,Combarbala,13884,0,0,0,0
@@ -43,6 +47,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Coquimbo,Rio Hurtado,4372,0,0,0,0
 2020-03-30,Coquimbo,Salamanca,29110,0,0,0,0
 2020-03-30,Coquimbo,Vicuna,29741,0,0,0,0
+2020-03-30,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-03-30,Valparaíso,Algarrobo,15174,7,0,0,0
 2020-03-30,Valparaíso,Cabildo,20663,0,0,0,0
 2020-03-30,Valparaíso,Calera,53591,6,0,0,0
@@ -81,6 +86,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Valparaíso,Villa Alemana,139310,6,0,0,0
 2020-03-30,Valparaíso,Vina del Mar,361371,29,0,0,0
 2020-03-30,Valparaíso,Zapallar,7994,0,0,0,0
+2020-03-30,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-03-30,Metropolitana,Alhue,7405,0,0,0,0
 2020-03-30,Metropolitana,Buin,109641,7,0,0,0
 2020-03-30,Metropolitana,Calera de Tango,28525,6,0,0,0
@@ -133,6 +139,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Metropolitana,Talagante,81838,0,0,0,0
 2020-03-30,Metropolitana,Tiltil,21477,0,0,0,0
 2020-03-30,Metropolitana,Vitacura,96774,83,0,0,0
+2020-03-30,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-03-30,O’Higgins,Chepica,15925,0,0,0,0
 2020-03-30,O’Higgins,Chimbarongo,37696,0,0,0,0
 2020-03-30,O’Higgins,Codegua,14096,0,0,0,0
@@ -166,6 +173,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,O’Higgins,San Fernando,78642,0,0,0,0
 2020-03-30,O’Higgins,San Vicente,50617,0,0,0,0
 2020-03-30,O’Higgins,Santa Cruz,41096,0,0,0,0
+2020-03-30,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-03-30,Maule,Cauquenes,44143,0,0,0,0
 2020-03-30,Maule,Chanco,9331,0,0,0,0
 2020-03-30,Maule,Colbun,22565,0,0,0,0
@@ -196,6 +204,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Maule,Vichuquen,4381,0,0,0,0
 2020-03-30,Maule,Villa Alegre,17512,0,0,0,0
 2020-03-30,Maule,Yerbas Buenas,19200,0,0,0,0
+2020-03-30,Maule,Desconocido Maule,0,0,0,0,0
 2020-03-30,Ñuble,Bulnes,22607,12,0,0,0
 2020-03-30,Ñuble,Chillan,198624,114,0,0,0
 2020-03-30,Ñuble,Chillan Viejo,33827,13,0,0,0
@@ -217,6 +226,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Ñuble,San Nicolas,12172,0,0,0,0
 2020-03-30,Ñuble,Treguaco,5696,0,0,0,0
 2020-03-30,Ñuble,Yungay,18596,0,0,0,0
+2020-03-30,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-03-30,Biobío,Alto Biobio,6775,0,0,0,0
 2020-03-30,Biobío,Antuco,4306,0,0,0,0
 2020-03-30,Biobío,Arauco,38679,0,0,0,0
@@ -250,6 +260,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Biobío,Tome,58729,4,0,0,0
 2020-03-30,Biobío,Tucapel,15205,0,0,0,0
 2020-03-30,Biobío,Yumbel,22132,5,0,0,0
+2020-03-30,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-03-30,Araucanía,Angol,56058,7,0,0,0
 2020-03-30,Araucanía,Carahue,25486,0,0,0,0
 2020-03-30,Araucanía,Cholchol,12341,0,0,0,0
@@ -282,6 +293,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Araucanía,Victoria,35467,5,0,0,0
 2020-03-30,Araucanía,Vilcun,30766,4,0,0,0
 2020-03-30,Araucanía,Villarrica,59103,0,0,0,0
+2020-03-30,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-03-30,Los Ríos,Corral,5447,0,0,0,0
 2020-03-30,Los Ríos,Futrono,15261,0,0,0,0
 2020-03-30,Los Ríos,La Union,39538,0,0,0,0
@@ -294,6 +306,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-03-30,Los Ríos,Rio Bueno,32925,0,0,0,0
 2020-03-30,Los Ríos,Valdivia,176774,12,0,0,0
+2020-03-30,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-03-30,Los Lagos,Ancud,42458,0,0,0,0
 2020-03-30,Los Lagos,Calbuco,36744,4,0,0,0
 2020-03-30,Los Lagos,Castro,47607,0,0,0,0
@@ -324,6 +337,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Los Lagos,Rio Negro,14275,0,0,0,0
 2020-03-30,Los Lagos,San Juan de la Costa,7639,0,0,0,0
 2020-03-30,Los Lagos,San Pablo,10553,0,0,0,0
+2020-03-30,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-03-30,Aysén,Aysen,25002,0,0,0,0
 2020-03-30,Aysén,Chile Chico,5121,0,0,0,0
 2020-03-30,Aysén,Cisnes,5828,0,0,0,0
@@ -334,6 +348,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Aysén,OHiggins,661,0,0,0,0
 2020-03-30,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-03-30,Aysén,Tortel,572,0,0,0,0
+2020-03-30,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-03-30,Magallanes,Antartica,137,0,0,0,0
 2020-03-30,Magallanes,Cabo de Hornos,1983,5,0,0,0
 2020-03-30,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -345,10 +360,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Magallanes,San Gregorio,681,0,0,0,0
 2020-03-30,Magallanes,Timaukel,282,0,0,0,0
 2020-03-30,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-03-30,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-04-01,Arica y Parinacota,Arica,247552,6,0,0,0
 2020-04-01,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-01,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-04-01,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-04-01,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-04-01,Tarapacá,Alto Hospicio,129999,0,0,0,0
 2020-04-01,Tarapacá,Camina,1375,0,0,0,0
 2020-04-01,Tarapacá,Colchane,1583,0,0,0,0
@@ -356,6 +373,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Tarapacá,Iquique,223463,9,0,0,0
 2020-04-01,Tarapacá,Pica,5958,0,0,0,0
 2020-04-01,Tarapacá,Pozo Almonte,17395,0,0,0,0
+2020-04-01,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-04-01,Antofagasta,Antofagasta,425725,32,0,0,0
 2020-04-01,Antofagasta,Calama,190336,0,0,0,0
 2020-04-01,Antofagasta,Maria Elena,6814,0,0,0,0
@@ -365,6 +383,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-04-01,Antofagasta,Taltal,13657,0,0,0,0
 2020-04-01,Antofagasta,Tocopilla,28079,0,0,0,0
+2020-04-01,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-04-01,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-04-01,Atacama,Caldera,19426,0,0,0,0
 2020-04-01,Atacama,Chanaral,13164,0,0,0,0
@@ -374,6 +393,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Atacama,Huasco,11264,0,0,0,0
 2020-04-01,Atacama,Tierra Amarilla,14312,0,0,0,0
 2020-04-01,Atacama,Vallenar,57009,0,0,0,0
+2020-04-01,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-04-01,Coquimbo,Andacollo,11791,0,0,0,0
 2020-04-01,Coquimbo,Canela,9546,0,0,0,0
 2020-04-01,Coquimbo,Combarbala,13884,0,0,0,0
@@ -389,6 +409,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Coquimbo,Rio Hurtado,4372,0,0,0,0
 2020-04-01,Coquimbo,Salamanca,29110,0,0,0,0
 2020-04-01,Coquimbo,Vicuna,29741,0,0,0,0
+2020-04-01,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-04-01,Valparaíso,Algarrobo,15174,7,0,0,0
 2020-04-01,Valparaíso,Cabildo,20663,0,0,0,0
 2020-04-01,Valparaíso,Calera,53591,6,0,0,0
@@ -427,6 +448,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Valparaíso,Villa Alemana,139310,8,0,0,0
 2020-04-01,Valparaíso,Vina del Mar,361371,38,0,0,0
 2020-04-01,Valparaíso,Zapallar,7994,0,0,0,0
+2020-04-01,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-04-01,Metropolitana,Alhue,7405,0,0,0,0
 2020-04-01,Metropolitana,Buin,109641,8,0,0,0
 2020-04-01,Metropolitana,Calera de Tango,28525,7,0,0,0
@@ -479,6 +501,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Metropolitana,Talagante,81838,5,0,0,0
 2020-04-01,Metropolitana,Tiltil,21477,0,0,0,0
 2020-04-01,Metropolitana,Vitacura,96774,90,0,0,0
+2020-04-01,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-04-01,O’Higgins,Chepica,15925,0,0,0,0
 2020-04-01,O’Higgins,Chimbarongo,37696,0,0,0,0
 2020-04-01,O’Higgins,Codegua,14096,0,0,0,0
@@ -512,6 +535,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,O’Higgins,San Fernando,78642,4,0,0,0
 2020-04-01,O’Higgins,San Vicente,50617,0,0,0,0
 2020-04-01,O’Higgins,Santa Cruz,41096,0,0,0,0
+2020-04-01,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-04-01,Maule,Cauquenes,44143,0,0,0,0
 2020-04-01,Maule,Chanco,9331,0,0,0,0
 2020-04-01,Maule,Colbun,22565,4,0,0,0
@@ -542,6 +566,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Maule,Vichuquen,4381,0,0,0,0
 2020-04-01,Maule,Villa Alegre,17512,0,0,0,0
 2020-04-01,Maule,Yerbas Buenas,19200,0,0,0,0
+2020-04-01,Maule,Desconocido Maule,0,0,0,0,0
 2020-04-01,Ñuble,Bulnes,22607,18,0,0,0
 2020-04-01,Ñuble,Chillan,198624,173,0,0,0
 2020-04-01,Ñuble,Chillan Viejo,33827,22,0,0,0
@@ -563,6 +588,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Ñuble,San Nicolas,12172,0,0,0,0
 2020-04-01,Ñuble,Treguaco,5696,0,0,0,0
 2020-04-01,Ñuble,Yungay,18596,7,0,0,0
+2020-04-01,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-04-01,Biobío,Alto Biobio,6775,0,0,0,0
 2020-04-01,Biobío,Antuco,4306,0,0,0,0
 2020-04-01,Biobío,Arauco,38679,5,0,0,0
@@ -596,6 +622,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Biobío,Tome,58729,6,0,0,0
 2020-04-01,Biobío,Tucapel,15205,0,0,0,0
 2020-04-01,Biobío,Yumbel,22132,5,0,0,0
+2020-04-01,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-04-01,Araucanía,Angol,56058,13,0,0,0
 2020-04-01,Araucanía,Carahue,25486,0,0,0,0
 2020-04-01,Araucanía,Cholchol,12341,0,0,0,0
@@ -628,6 +655,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Araucanía,Victoria,35467,7,0,0,0
 2020-04-01,Araucanía,Vilcun,30766,5,0,0,0
 2020-04-01,Araucanía,Villarrica,59103,4,0,0,0
+2020-04-01,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-04-01,Los Ríos,Corral,5447,0,0,0,0
 2020-04-01,Los Ríos,Futrono,15261,0,0,0,0
 2020-04-01,Los Ríos,La Union,39538,9,0,0,0
@@ -640,6 +668,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-04-01,Los Ríos,Rio Bueno,32925,0,0,0,0
 2020-04-01,Los Ríos,Valdivia,176774,45,0,0,0
+2020-04-01,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-04-01,Los Lagos,Ancud,42458,0,0,0,0
 2020-04-01,Los Lagos,Calbuco,36744,5,0,0,0
 2020-04-01,Los Lagos,Castro,47607,0,0,0,0
@@ -670,6 +699,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Los Lagos,Rio Negro,14275,0,0,0,0
 2020-04-01,Los Lagos,San Juan de la Costa,7639,0,0,0,0
 2020-04-01,Los Lagos,San Pablo,10553,0,0,0,0
+2020-04-01,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-04-01,Aysén,Aysen,25002,0,0,0,0
 2020-04-01,Aysén,Chile Chico,5121,0,0,0,0
 2020-04-01,Aysén,Cisnes,5828,0,0,0,0
@@ -680,6 +710,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Aysén,OHiggins,661,0,0,0,0
 2020-04-01,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-04-01,Aysén,Tortel,572,0,0,0,0
+2020-04-01,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-04-01,Magallanes,Antartica,137,0,0,0,0
 2020-04-01,Magallanes,Cabo de Hornos,1983,6,0,0,0
 2020-04-01,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -691,10 +722,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-01,Magallanes,Timaukel,282,0,0,0,0
 2020-04-01,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-04-01,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-04-03,Arica y Parinacota,Arica,247552,12,0,0,0
 2020-04-03,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-03,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-04-03,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-04-03,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-04-03,Tarapacá,Alto Hospicio,129999,0,0,0,0
 2020-04-03,Tarapacá,Camina,1375,0,0,0,0
 2020-04-03,Tarapacá,Colchane,1583,0,0,0,0
@@ -702,6 +735,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Tarapacá,Iquique,223463,10,0,0,0
 2020-04-03,Tarapacá,Pica,5958,0,0,0,0
 2020-04-03,Tarapacá,Pozo Almonte,17395,0,0,0,0
+2020-04-03,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-04-03,Antofagasta,Antofagasta,425725,44,0,0,0
 2020-04-03,Antofagasta,Calama,190336,5,0,0,0
 2020-04-03,Antofagasta,Maria Elena,6814,0,0,0,0
@@ -711,6 +745,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-04-03,Antofagasta,Taltal,13657,0,0,0,0
 2020-04-03,Antofagasta,Tocopilla,28079,0,0,0,0
+2020-04-03,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-04-03,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-04-03,Atacama,Caldera,19426,0,0,0,0
 2020-04-03,Atacama,Chanaral,13164,0,0,0,0
@@ -720,6 +755,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Atacama,Huasco,11264,0,0,0,0
 2020-04-03,Atacama,Tierra Amarilla,14312,0,0,0,0
 2020-04-03,Atacama,Vallenar,57009,0,0,0,0
+2020-04-03,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-04-03,Coquimbo,Andacollo,11791,0,0,0,0
 2020-04-03,Coquimbo,Canela,9546,0,0,0,0
 2020-04-03,Coquimbo,Combarbala,13884,0,0,0,0
@@ -735,6 +771,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Coquimbo,Rio Hurtado,4372,0,0,0,0
 2020-04-03,Coquimbo,Salamanca,29110,0,0,0,0
 2020-04-03,Coquimbo,Vicuna,29741,0,0,0,0
+2020-04-03,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-04-03,Valparaíso,Algarrobo,15174,9,0,0,0
 2020-04-03,Valparaíso,Cabildo,20663,0,0,0,0
 2020-04-03,Valparaíso,Calera,53591,7,0,0,0
@@ -773,6 +810,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Valparaíso,Villa Alemana,139310,11,0,0,0
 2020-04-03,Valparaíso,Vina del Mar,361371,47,0,0,0
 2020-04-03,Valparaíso,Zapallar,7994,0,0,0,0
+2020-04-03,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-04-03,Metropolitana,Alhue,7405,0,0,0,0
 2020-04-03,Metropolitana,Buin,109641,14,0,0,0
 2020-04-03,Metropolitana,Calera de Tango,28525,7,0,0,0
@@ -825,6 +863,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Metropolitana,Talagante,81838,6,0,0,0
 2020-04-03,Metropolitana,Tiltil,21477,0,0,0,0
 2020-04-03,Metropolitana,Vitacura,96774,100,0,0,0
+2020-04-03,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-04-03,O’Higgins,Chepica,15925,0,0,0,0
 2020-04-03,O’Higgins,Chimbarongo,37696,0,0,0,0
 2020-04-03,O’Higgins,Codegua,14096,0,0,0,0
@@ -858,6 +897,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,O’Higgins,San Fernando,78642,4,0,0,0
 2020-04-03,O’Higgins,San Vicente,50617,4,0,0,0
 2020-04-03,O’Higgins,Santa Cruz,41096,0,0,0,0
+2020-04-03,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-04-03,Maule,Cauquenes,44143,0,0,0,0
 2020-04-03,Maule,Chanco,9331,0,0,0,0
 2020-04-03,Maule,Colbun,22565,4,0,0,0
@@ -888,6 +928,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Maule,Vichuquen,4381,0,0,0,0
 2020-04-03,Maule,Villa Alegre,17512,0,0,0,0
 2020-04-03,Maule,Yerbas Buenas,19200,0,0,0,0
+2020-04-03,Maule,Desconocido Maule,0,0,0,0,0
 2020-04-03,Ñuble,Bulnes,22607,32,0,0,0
 2020-04-03,Ñuble,Chillan,198624,240,0,0,0
 2020-04-03,Ñuble,Chillan Viejo,33827,26,0,0,0
@@ -909,6 +950,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Ñuble,San Nicolas,12172,4,0,0,0
 2020-04-03,Ñuble,Treguaco,5696,0,0,0,0
 2020-04-03,Ñuble,Yungay,18596,10,0,0,0
+2020-04-03,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-04-03,Biobío,Alto Biobio,6775,0,0,0,0
 2020-04-03,Biobío,Antuco,4306,0,0,0,0
 2020-04-03,Biobío,Arauco,38679,6,0,0,0
@@ -942,6 +984,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Biobío,Tome,58729,9,0,0,0
 2020-04-03,Biobío,Tucapel,15205,0,0,0,0
 2020-04-03,Biobío,Yumbel,22132,5,0,0,0
+2020-04-03,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-04-03,Araucanía,Angol,56058,12,0,0,0
 2020-04-03,Araucanía,Carahue,25486,0,0,0,0
 2020-04-03,Araucanía,Cholchol,12341,0,0,0,0
@@ -974,6 +1017,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Araucanía,Victoria,35467,11,0,0,0
 2020-04-03,Araucanía,Vilcun,30766,11,0,0,0
 2020-04-03,Araucanía,Villarrica,59103,6,0,0,0
+2020-04-03,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-04-03,Los Ríos,Corral,5447,0,0,0,0
 2020-04-03,Los Ríos,Futrono,15261,0,0,0,0
 2020-04-03,Los Ríos,La Union,39538,10,0,0,0
@@ -986,6 +1030,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-04-03,Los Ríos,Rio Bueno,32925,0,0,0,0
 2020-04-03,Los Ríos,Valdivia,176774,47,0,0,0
+2020-04-03,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-04-03,Los Lagos,Ancud,42458,0,0,0,0
 2020-04-03,Los Lagos,Calbuco,36744,5,0,0,0
 2020-04-03,Los Lagos,Castro,47607,0,0,0,0
@@ -1016,6 +1061,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Los Lagos,Rio Negro,14275,0,0,0,0
 2020-04-03,Los Lagos,San Juan de la Costa,7639,0,0,0,0
 2020-04-03,Los Lagos,San Pablo,10553,0,0,0,0
+2020-04-03,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-04-03,Aysén,Aysen,25002,4,0,0,0
 2020-04-03,Aysén,Chile Chico,5121,0,0,0,0
 2020-04-03,Aysén,Cisnes,5828,0,0,0,0
@@ -1026,6 +1072,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Aysén,OHiggins,661,0,0,0,0
 2020-04-03,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-04-03,Aysén,Tortel,572,0,0,0,0
+2020-04-03,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-04-03,Magallanes,Antartica,137,0,0,0,0
 2020-04-03,Magallanes,Cabo de Hornos,1983,6,0,0,0
 2020-04-03,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -1037,10 +1084,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-03,Magallanes,Timaukel,282,0,0,0,0
 2020-04-03,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-04-03,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-04-06,Arica y Parinacota,Arica,247552,41,0,0,0
 2020-04-06,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-06,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-04-06,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-04-06,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-04-06,Tarapacá,Alto Hospicio,129999,5,0,0,0
 2020-04-06,Tarapacá,Camina,1375,0,0,0,0
 2020-04-06,Tarapacá,Colchane,1583,0,0,0,0
@@ -1048,6 +1097,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Tarapacá,Iquique,223463,13,0,0,0
 2020-04-06,Tarapacá,Pica,5958,0,0,0,0
 2020-04-06,Tarapacá,Pozo Almonte,17395,0,0,0,0
+2020-04-06,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-04-06,Antofagasta,Antofagasta,425725,54,0,0,0
 2020-04-06,Antofagasta,Calama,190336,7,0,0,0
 2020-04-06,Antofagasta,Maria Elena,6814,0,0,0,0
@@ -1057,6 +1107,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-04-06,Antofagasta,Taltal,13657,0,0,0,0
 2020-04-06,Antofagasta,Tocopilla,28079,0,0,0,0
+2020-04-06,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-04-06,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-04-06,Atacama,Caldera,19426,0,0,0,0
 2020-04-06,Atacama,Chanaral,13164,0,0,0,0
@@ -1066,6 +1117,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Atacama,Huasco,11264,0,0,0,0
 2020-04-06,Atacama,Tierra Amarilla,14312,0,0,0,0
 2020-04-06,Atacama,Vallenar,57009,0,0,0,0
+2020-04-06,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-04-06,Coquimbo,Andacollo,11791,0,0,0,0
 2020-04-06,Coquimbo,Canela,9546,0,0,0,0
 2020-04-06,Coquimbo,Combarbala,13884,0,0,0,0
@@ -1081,6 +1133,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Coquimbo,Rio Hurtado,4372,0,0,0,0
 2020-04-06,Coquimbo,Salamanca,29110,4,0,0,0
 2020-04-06,Coquimbo,Vicuna,29741,0,0,0,0
+2020-04-06,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-04-06,Valparaíso,Algarrobo,15174,9,0,0,0
 2020-04-06,Valparaíso,Cabildo,20663,0,0,0,0
 2020-04-06,Valparaíso,Calera,53591,7,0,0,0
@@ -1119,6 +1172,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Valparaíso,Villa Alemana,139310,11,0,0,0
 2020-04-06,Valparaíso,Vina del Mar,361371,53,0,0,0
 2020-04-06,Valparaíso,Zapallar,7994,0,0,0,0
+2020-04-06,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-04-06,Metropolitana,Alhue,7405,0,0,0,0
 2020-04-06,Metropolitana,Buin,109641,20,0,0,0
 2020-04-06,Metropolitana,Calera de Tango,28525,7,0,0,0
@@ -1171,6 +1225,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Metropolitana,Talagante,81838,11,0,0,0
 2020-04-06,Metropolitana,Tiltil,21477,0,0,0,0
 2020-04-06,Metropolitana,Vitacura,96774,114,0,0,0
+2020-04-06,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-04-06,O’Higgins,Chepica,15925,0,0,0,0
 2020-04-06,O’Higgins,Chimbarongo,37696,0,0,0,0
 2020-04-06,O’Higgins,Codegua,14096,0,0,0,0
@@ -1204,6 +1259,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,O’Higgins,San Fernando,78642,4,0,0,0
 2020-04-06,O’Higgins,San Vicente,50617,4,0,0,0
 2020-04-06,O’Higgins,Santa Cruz,41096,0,0,0,0
+2020-04-06,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-04-06,Maule,Cauquenes,44143,4,0,0,0
 2020-04-06,Maule,Chanco,9331,0,0,0,0
 2020-04-06,Maule,Colbun,22565,5,0,0,0
@@ -1234,6 +1290,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Maule,Vichuquen,4381,0,0,0,0
 2020-04-06,Maule,Villa Alegre,17512,0,0,0,0
 2020-04-06,Maule,Yerbas Buenas,19200,0,0,0,0
+2020-04-06,Maule,Desconocido Maule,0,0,0,0,0
 2020-04-06,Ñuble,Bulnes,22607,36,0,0,0
 2020-04-06,Ñuble,Chillan,198624,291,0,0,0
 2020-04-06,Ñuble,Chillan Viejo,33827,30,0,0,0
@@ -1255,6 +1312,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Ñuble,San Nicolas,12172,10,0,0,0
 2020-04-06,Ñuble,Treguaco,5696,0,0,0,0
 2020-04-06,Ñuble,Yungay,18596,26,0,0,0
+2020-04-06,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-04-06,Biobío,Alto Biobio,6775,0,0,0,0
 2020-04-06,Biobío,Antuco,4306,0,0,0,0
 2020-04-06,Biobío,Arauco,38679,6,0,0,0
@@ -1288,6 +1346,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Biobío,Tome,58729,25,0,0,0
 2020-04-06,Biobío,Tucapel,15205,0,0,0,0
 2020-04-06,Biobío,Yumbel,22132,5,0,0,0
+2020-04-06,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-04-06,Araucanía,Angol,56058,15,0,0,0
 2020-04-06,Araucanía,Carahue,25486,0,0,0,0
 2020-04-06,Araucanía,Cholchol,12341,0,0,0,0
@@ -1320,6 +1379,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Araucanía,Victoria,35467,12,0,0,0
 2020-04-06,Araucanía,Vilcun,30766,18,0,0,0
 2020-04-06,Araucanía,Villarrica,59103,11,0,0,0
+2020-04-06,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-04-06,Los Ríos,Corral,5447,0,0,0,0
 2020-04-06,Los Ríos,Futrono,15261,5,0,0,0
 2020-04-06,Los Ríos,La Union,39538,17,0,0,0
@@ -1332,6 +1392,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-04-06,Los Ríos,Rio Bueno,32925,5,0,0,0
 2020-04-06,Los Ríos,Valdivia,176774,65,0,0,0
+2020-04-06,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-04-06,Los Lagos,Ancud,42458,0,0,0,0
 2020-04-06,Los Lagos,Calbuco,36744,5,0,0,0
 2020-04-06,Los Lagos,Castro,47607,4,0,0,0
@@ -1362,6 +1423,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Los Lagos,Rio Negro,14275,0,0,0,0
 2020-04-06,Los Lagos,San Juan de la Costa,7639,7,0,0,0
 2020-04-06,Los Lagos,San Pablo,10553,0,0,0,0
+2020-04-06,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-04-06,Aysén,Aysen,25002,5,0,0,0
 2020-04-06,Aysén,Chile Chico,5121,0,0,0,0
 2020-04-06,Aysén,Cisnes,5828,0,0,0,0
@@ -1372,6 +1434,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Aysén,OHiggins,661,0,0,0,0
 2020-04-06,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-04-06,Aysén,Tortel,572,0,0,0,0
+2020-04-06,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-04-06,Magallanes,Antartica,137,0,0,0,0
 2020-04-06,Magallanes,Cabo de Hornos,1983,10,0,0,0
 2020-04-06,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -1383,10 +1446,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-06,Magallanes,Timaukel,282,0,0,0,0
 2020-04-06,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-04-06,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-04-08,Arica y Parinacota,Arica,247552,63,0,0,0
 2020-04-08,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-08,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-04-08,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-04-08,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-04-08,Tarapacá,Alto Hospicio,129999,6,0,0,0
 2020-04-08,Tarapacá,Camina,1375,0,0,0,0
 2020-04-08,Tarapacá,Colchane,1583,0,0,0,0
@@ -1394,6 +1459,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Tarapacá,Iquique,223463,16,0,0,0
 2020-04-08,Tarapacá,Pica,5958,0,0,0,0
 2020-04-08,Tarapacá,Pozo Almonte,17395,0,0,0,0
+2020-04-08,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-04-08,Antofagasta,Antofagasta,425725,60,0,0,0
 2020-04-08,Antofagasta,Calama,190336,8,0,0,0
 2020-04-08,Antofagasta,Maria Elena,6814,0,0,0,0
@@ -1403,6 +1469,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-04-08,Antofagasta,Taltal,13657,0,0,0,0
 2020-04-08,Antofagasta,Tocopilla,28079,0,0,0,0
+2020-04-08,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-04-08,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-04-08,Atacama,Caldera,19426,0,0,0,0
 2020-04-08,Atacama,Chanaral,13164,0,0,0,0
@@ -1412,6 +1479,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Atacama,Huasco,11264,0,0,0,0
 2020-04-08,Atacama,Tierra Amarilla,14312,0,0,0,0
 2020-04-08,Atacama,Vallenar,57009,0,0,0,0
+2020-04-08,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-04-08,Coquimbo,Andacollo,11791,0,0,0,0
 2020-04-08,Coquimbo,Canela,9546,0,0,0,0
 2020-04-08,Coquimbo,Combarbala,13884,0,0,0,0
@@ -1427,6 +1495,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Coquimbo,Rio Hurtado,4372,0,0,0,0
 2020-04-08,Coquimbo,Salamanca,29110,4,0,0,0
 2020-04-08,Coquimbo,Vicuna,29741,0,0,0,0
+2020-04-08,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-04-08,Valparaíso,Algarrobo,15174,8,0,0,0
 2020-04-08,Valparaíso,Cabildo,20663,0,0,0,0
 2020-04-08,Valparaíso,Calera,53591,9,0,0,0
@@ -1465,6 +1534,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Valparaíso,Villa Alemana,139310,12,0,0,0
 2020-04-08,Valparaíso,Vina del Mar,361371,66,0,0,0
 2020-04-08,Valparaíso,Zapallar,7994,0,0,0,0
+2020-04-08,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-04-08,Metropolitana,Alhue,7405,0,0,0,0
 2020-04-08,Metropolitana,Buin,109641,20,0,0,0
 2020-04-08,Metropolitana,Calera de Tango,28525,8,0,0,0
@@ -1517,6 +1587,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Metropolitana,Talagante,81838,14,0,0,0
 2020-04-08,Metropolitana,Tiltil,21477,4,0,0,0
 2020-04-08,Metropolitana,Vitacura,96774,114,0,0,0
+2020-04-08,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-04-08,O’Higgins,Chepica,15925,0,0,0,0
 2020-04-08,O’Higgins,Chimbarongo,37696,0,0,0,0
 2020-04-08,O’Higgins,Codegua,14096,0,0,0,0
@@ -1550,6 +1621,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,O’Higgins,San Fernando,78642,4,0,0,0
 2020-04-08,O’Higgins,San Vicente,50617,4,0,0,0
 2020-04-08,O’Higgins,Santa Cruz,41096,0,0,0,0
+2020-04-08,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-04-08,Maule,Cauquenes,44143,4,0,0,0
 2020-04-08,Maule,Chanco,9331,0,0,0,0
 2020-04-08,Maule,Colbun,22565,5,0,0,0
@@ -1580,6 +1652,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Maule,Vichuquen,4381,0,0,0,0
 2020-04-08,Maule,Villa Alegre,17512,0,0,0,0
 2020-04-08,Maule,Yerbas Buenas,19200,0,0,0,0
+2020-04-08,Maule,Desconocido Maule,0,0,0,0,0
 2020-04-08,Ñuble,Bulnes,22607,45,0,0,0
 2020-04-08,Ñuble,Chillan,198624,327,0,0,0
 2020-04-08,Ñuble,Chillan Viejo,33827,34,0,0,0
@@ -1601,6 +1674,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Ñuble,San Nicolas,12172,11,0,0,0
 2020-04-08,Ñuble,Treguaco,5696,0,0,0,0
 2020-04-08,Ñuble,Yungay,18596,37,0,0,0
+2020-04-08,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-04-08,Biobío,Alto Biobio,6775,0,0,0,0
 2020-04-08,Biobío,Antuco,4306,0,0,0,0
 2020-04-08,Biobío,Arauco,38679,6,0,0,0
@@ -1634,6 +1708,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Biobío,Tome,58729,30,0,0,0
 2020-04-08,Biobío,Tucapel,15205,0,0,0,0
 2020-04-08,Biobío,Yumbel,22132,5,0,0,0
+2020-04-08,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-04-08,Araucanía,Angol,56058,23,0,0,0
 2020-04-08,Araucanía,Carahue,25486,6,0,0,0
 2020-04-08,Araucanía,Cholchol,12341,0,0,0,0
@@ -1666,6 +1741,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Araucanía,Victoria,35467,15,0,0,0
 2020-04-08,Araucanía,Vilcun,30766,20,0,0,0
 2020-04-08,Araucanía,Villarrica,59103,15,0,0,0
+2020-04-08,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-04-08,Los Ríos,Corral,5447,0,0,0,0
 2020-04-08,Los Ríos,Futrono,15261,5,0,0,0
 2020-04-08,Los Ríos,La Union,39538,18,0,0,0
@@ -1678,6 +1754,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-04-08,Los Ríos,Rio Bueno,32925,5,0,0,0
 2020-04-08,Los Ríos,Valdivia,176774,72,0,0,0
+2020-04-08,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-04-08,Los Lagos,Ancud,42458,0,0,0,0
 2020-04-08,Los Lagos,Calbuco,36744,5,0,0,0
 2020-04-08,Los Lagos,Castro,47607,6,0,0,0
@@ -1708,6 +1785,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Los Lagos,Rio Negro,14275,0,0,0,0
 2020-04-08,Los Lagos,San Juan de la Costa,7639,11,0,0,0
 2020-04-08,Los Lagos,San Pablo,10553,6,0,0,0
+2020-04-08,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-04-08,Aysén,Aysen,25002,4,0,0,0
 2020-04-08,Aysén,Chile Chico,5121,0,0,0,0
 2020-04-08,Aysén,Cisnes,5828,0,0,0,0
@@ -1718,6 +1796,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Aysén,OHiggins,661,0,0,0,0
 2020-04-08,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-04-08,Aysén,Tortel,572,0,0,0,0
+2020-04-08,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-04-08,Magallanes,Antartica,137,0,0,0,0
 2020-04-08,Magallanes,Cabo de Hornos,1983,11,0,0,0
 2020-04-08,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -1729,10 +1808,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-08,Magallanes,Timaukel,282,0,0,0,0
 2020-04-08,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-04-08,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-04-10,Arica y Parinacota,Arica,247552,87,0,0,0
 2020-04-10,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-10,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-04-10,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-04-10,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-04-10,Tarapacá,Alto Hospicio,129999,10,0,0,0
 2020-04-10,Tarapacá,Camina,1375,0,0,0,0
 2020-04-10,Tarapacá,Colchane,1583,0,0,0,0
@@ -1740,6 +1821,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Tarapacá,Iquique,223463,18,0,0,0
 2020-04-10,Tarapacá,Pica,5958,5,0,0,0
 2020-04-10,Tarapacá,Pozo Almonte,17395,0,0,0,0
+2020-04-10,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-04-10,Antofagasta,Antofagasta,425725,82,0,0,0
 2020-04-10,Antofagasta,Calama,190336,13,0,0,0
 2020-04-10,Antofagasta,Maria Elena,6814,0,0,0,0
@@ -1749,6 +1831,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-04-10,Antofagasta,Taltal,13657,0,0,0,0
 2020-04-10,Antofagasta,Tocopilla,28079,0,0,0,0
+2020-04-10,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-04-10,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-04-10,Atacama,Caldera,19426,0,0,0,0
 2020-04-10,Atacama,Chanaral,13164,0,0,0,0
@@ -1758,6 +1841,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Atacama,Huasco,11264,0,0,0,0
 2020-04-10,Atacama,Tierra Amarilla,14312,4,0,0,0
 2020-04-10,Atacama,Vallenar,57009,0,0,0,0
+2020-04-10,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-04-10,Coquimbo,Andacollo,11791,0,0,0,0
 2020-04-10,Coquimbo,Canela,9546,0,0,0,0
 2020-04-10,Coquimbo,Combarbala,13884,0,0,0,0
@@ -1773,6 +1857,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Coquimbo,Rio Hurtado,4372,0,0,0,0
 2020-04-10,Coquimbo,Salamanca,29110,5,0,0,0
 2020-04-10,Coquimbo,Vicuna,29741,0,0,0,0
+2020-04-10,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-04-10,Valparaíso,Algarrobo,15174,8,0,0,0
 2020-04-10,Valparaíso,Cabildo,20663,0,0,0,0
 2020-04-10,Valparaíso,Calera,53591,9,0,0,0
@@ -1811,6 +1896,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Valparaíso,Villa Alemana,139310,12,0,0,0
 2020-04-10,Valparaíso,Vina del Mar,361371,69,0,0,0
 2020-04-10,Valparaíso,Zapallar,7994,0,0,0,0
+2020-04-10,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-04-10,Metropolitana,Alhue,7405,0,0,0,0
 2020-04-10,Metropolitana,Buin,109641,29,0,0,0
 2020-04-10,Metropolitana,Calera de Tango,28525,8,0,0,0
@@ -1863,6 +1949,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Metropolitana,Talagante,81838,18,0,0,0
 2020-04-10,Metropolitana,Tiltil,21477,4,0,0,0
 2020-04-10,Metropolitana,Vitacura,96774,119,0,0,0
+2020-04-10,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-04-10,O’Higgins,Chepica,15925,0,0,0,0
 2020-04-10,O’Higgins,Chimbarongo,37696,0,0,0,0
 2020-04-10,O’Higgins,Codegua,14096,0,0,0,0
@@ -1896,6 +1983,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,O’Higgins,San Fernando,78642,4,0,0,0
 2020-04-10,O’Higgins,San Vicente,50617,4,0,0,0
 2020-04-10,O’Higgins,Santa Cruz,41096,0,0,0,0
+2020-04-10,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-04-10,Maule,Cauquenes,44143,4,0,0,0
 2020-04-10,Maule,Chanco,9331,0,0,0,0
 2020-04-10,Maule,Colbun,22565,5,0,0,0
@@ -1926,6 +2014,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Maule,Vichuquen,4381,0,0,0,0
 2020-04-10,Maule,Villa Alegre,17512,0,0,0,0
 2020-04-10,Maule,Yerbas Buenas,19200,0,0,0,0
+2020-04-10,Maule,Desconocido Maule,0,0,0,0,0
 2020-04-10,Ñuble,Bulnes,22607,48,0,0,0
 2020-04-10,Ñuble,Chillan,198624,342,0,0,0
 2020-04-10,Ñuble,Chillan Viejo,33827,40,0,0,0
@@ -1947,6 +2036,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Ñuble,San Nicolas,12172,12,0,0,0
 2020-04-10,Ñuble,Treguaco,5696,0,0,0,0
 2020-04-10,Ñuble,Yungay,18596,38,0,0,0
+2020-04-10,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-04-10,Biobío,Alto Biobio,6775,0,0,0,0
 2020-04-10,Biobío,Antuco,4306,0,0,0,0
 2020-04-10,Biobío,Arauco,38679,6,0,0,0
@@ -1980,6 +2070,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Biobío,Tome,58729,30,0,0,0
 2020-04-10,Biobío,Tucapel,15205,0,0,0,0
 2020-04-10,Biobío,Yumbel,22132,5,0,0,0
+2020-04-10,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-04-10,Araucanía,Angol,56058,24,0,0,0
 2020-04-10,Araucanía,Carahue,25486,6,0,0,0
 2020-04-10,Araucanía,Cholchol,12341,4,0,0,0
@@ -2012,6 +2103,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Araucanía,Victoria,35467,15,0,0,0
 2020-04-10,Araucanía,Vilcun,30766,20,0,0,0
 2020-04-10,Araucanía,Villarrica,59103,15,0,0,0
+2020-04-10,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-04-10,Los Ríos,Corral,5447,0,0,0,0
 2020-04-10,Los Ríos,Futrono,15261,5,0,0,0
 2020-04-10,Los Ríos,La Union,39538,18,0,0,0
@@ -2024,6 +2116,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-04-10,Los Ríos,Rio Bueno,32925,5,0,0,0
 2020-04-10,Los Ríos,Valdivia,176774,82,0,0,0
+2020-04-10,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-04-10,Los Lagos,Ancud,42458,0,0,0,0
 2020-04-10,Los Lagos,Calbuco,36744,5,0,0,0
 2020-04-10,Los Lagos,Castro,47607,7,0,0,0
@@ -2054,6 +2147,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Los Lagos,Rio Negro,14275,0,0,0,0
 2020-04-10,Los Lagos,San Juan de la Costa,7639,11,0,0,0
 2020-04-10,Los Lagos,San Pablo,10553,6,0,0,0
+2020-04-10,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-04-10,Aysén,Aysen,25002,4,0,0,0
 2020-04-10,Aysén,Chile Chico,5121,0,0,0,0
 2020-04-10,Aysén,Cisnes,5828,0,0,0,0
@@ -2064,6 +2158,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Aysén,OHiggins,661,0,0,0,0
 2020-04-10,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-04-10,Aysén,Tortel,572,0,0,0,0
+2020-04-10,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-04-10,Magallanes,Antartica,137,0,0,0,0
 2020-04-10,Magallanes,Cabo de Hornos,1983,13,0,0,0
 2020-04-10,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -2075,10 +2170,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-10,Magallanes,Timaukel,282,0,0,0,0
 2020-04-10,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-04-10,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-04-13,Arica y Parinacota,Arica,247552,115,27,0,88
 2020-04-13,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-13,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-04-13,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-04-13,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-04-13,Tarapacá,Alto Hospicio,129999,14,6,0,8
 2020-04-13,Tarapacá,Camina,1375,0,0,0,0
 2020-04-13,Tarapacá,Colchane,1583,0,0,0,0
@@ -2086,6 +2183,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Tarapacá,Iquique,223463,26,15,0,11
 2020-04-13,Tarapacá,Pica,5958,10,1,0,9
 2020-04-13,Tarapacá,Pozo Almonte,17395,2,0,0,2
+2020-04-13,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-04-13,Antofagasta,Antofagasta,425725,106,57,0,49
 2020-04-13,Antofagasta,Calama,190336,20,8,0,12
 2020-04-13,Antofagasta,Maria Elena,6814,1,0,0,1
@@ -2095,6 +2193,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-04-13,Antofagasta,Taltal,13657,3,0,0,3
 2020-04-13,Antofagasta,Tocopilla,28079,3,2,0,1
+2020-04-13,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-04-13,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-04-13,Atacama,Caldera,19426,0,0,0,0
 2020-04-13,Atacama,Chanaral,13164,0,0,0,0
@@ -2104,6 +2203,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Atacama,Huasco,11264,0,0,0,0
 2020-04-13,Atacama,Tierra Amarilla,14312,4,0,0,4
 2020-04-13,Atacama,Vallenar,57009,0,0,0,0
+2020-04-13,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-04-13,Coquimbo,Andacollo,11791,0,0,0,0
 2020-04-13,Coquimbo,Canela,9546,0,0,0,0
 2020-04-13,Coquimbo,Combarbala,13884,0,0,0,0
@@ -2119,6 +2219,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Coquimbo,Rio Hurtado,4372,1,1,0,0
 2020-04-13,Coquimbo,Salamanca,29110,6,3,0,3
 2020-04-13,Coquimbo,Vicuna,29741,0,0,0,0
+2020-04-13,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-04-13,Valparaíso,Algarrobo,15174,8,8,0,0
 2020-04-13,Valparaíso,Cabildo,20663,0,0,0,0
 2020-04-13,Valparaíso,Calera,53591,9,8,0,1
@@ -2157,6 +2258,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Valparaíso,Villa Alemana,139310,12,11,0,1
 2020-04-13,Valparaíso,Vina del Mar,361371,72,57,0,15
 2020-04-13,Valparaíso,Zapallar,7994,0,0,0,0
+2020-04-13,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-04-13,Metropolitana,Alhue,7405,0,0,0,0
 2020-04-13,Metropolitana,Buin,109641,36,21,0,15
 2020-04-13,Metropolitana,Calera de Tango,28525,10,9,0,1
@@ -2209,6 +2311,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Metropolitana,Talagante,81838,21,12,0,9
 2020-04-13,Metropolitana,Tiltil,21477,4,3,0,1
 2020-04-13,Metropolitana,Vitacura,96774,127,108,0,19
+2020-04-13,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-04-13,O’Higgins,Chepica,15925,0,0,0,0
 2020-04-13,O’Higgins,Chimbarongo,37696,2,2,0,0
 2020-04-13,O’Higgins,Codegua,14096,0,0,0,0
@@ -2242,6 +2345,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,O’Higgins,San Fernando,78642,4,3,0,1
 2020-04-13,O’Higgins,San Vicente,50617,4,3,0,1
 2020-04-13,O’Higgins,Santa Cruz,41096,2,1,0,1
+2020-04-13,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-04-13,Maule,Cauquenes,44143,4,2,0,2
 2020-04-13,Maule,Chanco,9331,0,0,0,0
 2020-04-13,Maule,Colbun,22565,5,3,0,2
@@ -2272,6 +2376,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Maule,Vichuquen,4381,0,0,0,0
 2020-04-13,Maule,Villa Alegre,17512,0,0,0,0
 2020-04-13,Maule,Yerbas Buenas,19200,0,0,0,0
+2020-04-13,Maule,Desconocido Maule,0,0,0,0,0
 2020-04-13,Ñuble,Bulnes,22607,48,35,0,13
 2020-04-13,Ñuble,Chillan,198624,355,276,0,79
 2020-04-13,Ñuble,Chillan Viejo,33827,44,31,0,13
@@ -2293,6 +2398,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Ñuble,San Nicolas,12172,12,7,0,5
 2020-04-13,Ñuble,Treguaco,5696,0,0,0,0
 2020-04-13,Ñuble,Yungay,18596,42,17,0,25
+2020-04-13,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-04-13,Biobío,Alto Biobio,6775,0,0,0,0
 2020-04-13,Biobío,Antuco,4306,0,0,0,0
 2020-04-13,Biobío,Arauco,38679,6,4,0,2
@@ -2326,6 +2432,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Biobío,Tome,58729,37,10,0,27
 2020-04-13,Biobío,Tucapel,15205,1,0,0,1
 2020-04-13,Biobío,Yumbel,22132,5,5,0,0
+2020-04-13,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-04-13,Araucanía,Angol,56058,28,16,0,12
 2020-04-13,Araucanía,Carahue,25486,18,4,0,14
 2020-04-13,Araucanía,Cholchol,12341,4,4,0,0
@@ -2358,6 +2465,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Araucanía,Victoria,35467,15,9,0,6
 2020-04-13,Araucanía,Vilcun,30766,24,14,0,10
 2020-04-13,Araucanía,Villarrica,59103,18,13,0,5
+2020-04-13,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-04-13,Los Ríos,Corral,5447,0,0,0,0
 2020-04-13,Los Ríos,Futrono,15261,5,4,0,1
 2020-04-13,Los Ríos,La Union,39538,18,9,0,9
@@ -2370,6 +2478,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Los Ríos,Panguipulli,35991,2,1,0,1
 2020-04-13,Los Ríos,Rio Bueno,32925,10,6,0,4
 2020-04-13,Los Ríos,Valdivia,176774,88,63,0,25
+2020-04-13,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-04-13,Los Lagos,Ancud,42458,3,0,0,3
 2020-04-13,Los Lagos,Calbuco,36744,7,5,0,2
 2020-04-13,Los Lagos,Castro,47607,7,2,0,5
@@ -2400,6 +2509,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Los Lagos,Rio Negro,14275,3,1,0,2
 2020-04-13,Los Lagos,San Juan de la Costa,7639,14,1,0,13
 2020-04-13,Los Lagos,San Pablo,10553,6,2,0,4
+2020-04-13,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-04-13,Aysén,Aysen,25002,3,2,0,1
 2020-04-13,Aysén,Chile Chico,5121,1,0,0,1
 2020-04-13,Aysén,Cisnes,5828,0,0,0,0
@@ -2410,6 +2520,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Aysén,OHiggins,661,0,0,0,0
 2020-04-13,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-04-13,Aysén,Tortel,572,1,1,0,0
+2020-04-13,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-04-13,Magallanes,Antartica,137,0,0,0,0
 2020-04-13,Magallanes,Cabo de Hornos,1983,18,15,0,3
 2020-04-13,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -2421,10 +2532,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-13,Magallanes,Timaukel,282,0,0,0,0
 2020-04-13,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-04-13,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-04-15,Arica y Parinacota,Arica,247552,124,44,0,80
 2020-04-15,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-15,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-04-15,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-04-15,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-04-15,Tarapacá,Alto Hospicio,129999,15,7,0,8
 2020-04-15,Tarapacá,Camina,1375,0,0,0,0
 2020-04-15,Tarapacá,Colchane,1583,0,0,0,0
@@ -2432,6 +2545,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Tarapacá,Iquique,223463,26,18,0,8
 2020-04-15,Tarapacá,Pica,5958,19,2,0,17
 2020-04-15,Tarapacá,Pozo Almonte,17395,2,0,0,2
+2020-04-15,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-04-15,Antofagasta,Antofagasta,425725,122,68,0,54
 2020-04-15,Antofagasta,Calama,190336,21,10,0,11
 2020-04-15,Antofagasta,Maria Elena,6814,2,0,0,2
@@ -2441,6 +2555,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-04-15,Antofagasta,Taltal,13657,7,2,0,5
 2020-04-15,Antofagasta,Tocopilla,28079,6,3,0,3
+2020-04-15,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-04-15,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-04-15,Atacama,Caldera,19426,0,0,0,0
 2020-04-15,Atacama,Chanaral,13164,0,0,0,0
@@ -2450,6 +2565,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Atacama,Huasco,11264,0,0,0,0
 2020-04-15,Atacama,Tierra Amarilla,14312,4,0,0,4
 2020-04-15,Atacama,Vallenar,57009,0,0,0,0
+2020-04-15,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-04-15,Coquimbo,Andacollo,11791,0,0,0,0
 2020-04-15,Coquimbo,Canela,9546,0,0,0,0
 2020-04-15,Coquimbo,Combarbala,13884,0,0,0,0
@@ -2465,6 +2581,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Coquimbo,Rio Hurtado,4372,1,1,0,0
 2020-04-15,Coquimbo,Salamanca,29110,6,3,0,3
 2020-04-15,Coquimbo,Vicuna,29741,0,0,0,0
+2020-04-15,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-04-15,Valparaíso,Algarrobo,15174,9,9,0,0
 2020-04-15,Valparaíso,Cabildo,20663,0,0,0,0
 2020-04-15,Valparaíso,Calera,53591,11,8,0,3
@@ -2503,6 +2620,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Valparaíso,Villa Alemana,139310,12,11,0,1
 2020-04-15,Valparaíso,Vina del Mar,361371,75,63,0,12
 2020-04-15,Valparaíso,Zapallar,7994,0,0,0,0
+2020-04-15,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-04-15,Metropolitana,Alhue,7405,0,0,0,0
 2020-04-15,Metropolitana,Buin,109641,40,27,0,13
 2020-04-15,Metropolitana,Calera de Tango,28525,10,10,0,0
@@ -2555,6 +2673,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Metropolitana,Talagante,81838,24,15,0,9
 2020-04-15,Metropolitana,Tiltil,21477,4,3,0,1
 2020-04-15,Metropolitana,Vitacura,96774,128,117,0,11
+2020-04-15,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-04-15,O’Higgins,Chepica,15925,0,0,0,0
 2020-04-15,O’Higgins,Chimbarongo,37696,4,4,0,0
 2020-04-15,O’Higgins,Codegua,14096,0,0,0,0
@@ -2588,6 +2707,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,O’Higgins,San Fernando,78642,5,4,0,1
 2020-04-15,O’Higgins,San Vicente,50617,4,4,0,0
 2020-04-15,O’Higgins,Santa Cruz,41096,2,2,0,0
+2020-04-15,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-04-15,Maule,Cauquenes,44143,4,2,0,2
 2020-04-15,Maule,Chanco,9331,0,0,0,0
 2020-04-15,Maule,Colbun,22565,5,4,0,1
@@ -2618,6 +2738,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Maule,Vichuquen,4381,0,0,0,0
 2020-04-15,Maule,Villa Alegre,17512,0,0,0,0
 2020-04-15,Maule,Yerbas Buenas,19200,0,0,0,0
+2020-04-15,Maule,Desconocido Maule,0,0,0,0,0
 2020-04-15,Ñuble,Bulnes,22607,48,39,0,9
 2020-04-15,Ñuble,Chillan,198624,373,312,0,61
 2020-04-15,Ñuble,Chillan Viejo,33827,45,34,0,11
@@ -2639,6 +2760,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Ñuble,San Nicolas,12172,14,8,0,6
 2020-04-15,Ñuble,Treguaco,5696,0,0,0,0
 2020-04-15,Ñuble,Yungay,18596,42,25,0,17
+2020-04-15,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-04-15,Biobío,Alto Biobio,6775,1,1,0,0
 2020-04-15,Biobío,Antuco,4306,0,0,0,0
 2020-04-15,Biobío,Arauco,38679,5,5,0,0
@@ -2672,6 +2794,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Biobío,Tome,58729,37,20,0,17
 2020-04-15,Biobío,Tucapel,15205,0,0,0,0
 2020-04-15,Biobío,Yumbel,22132,5,5,0,0
+2020-04-15,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-04-15,Araucanía,Angol,56058,36,19,0,17
 2020-04-15,Araucanía,Carahue,25486,20,5,0,15
 2020-04-15,Araucanía,Cholchol,12341,4,4,0,0
@@ -2704,6 +2827,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Araucanía,Victoria,35467,13,12,0,1
 2020-04-15,Araucanía,Vilcun,30766,27,19,0,8
 2020-04-15,Araucanía,Villarrica,59103,19,14,0,5
+2020-04-15,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-04-15,Los Ríos,Corral,5447,1,0,0,1
 2020-04-15,Los Ríos,Futrono,15261,5,5,0,0
 2020-04-15,Los Ríos,La Union,39538,23,17,0,6
@@ -2716,6 +2840,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-04-15,Los Ríos,Rio Bueno,32925,7,6,0,1
 2020-04-15,Los Ríos,Valdivia,176774,97,76,0,21
+2020-04-15,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-04-15,Los Lagos,Ancud,42458,3,0,0,3
 2020-04-15,Los Lagos,Calbuco,36744,5,5,0,0
 2020-04-15,Los Lagos,Castro,47607,7,3,0,4
@@ -2746,6 +2871,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Los Lagos,Rio Negro,14275,3,1,0,2
 2020-04-15,Los Lagos,San Juan de la Costa,7639,13,8,0,5
 2020-04-15,Los Lagos,San Pablo,10553,6,2,0,4
+2020-04-15,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-04-15,Aysén,Aysen,25002,3,3,0,0
 2020-04-15,Aysén,Chile Chico,5121,1,1,0,0
 2020-04-15,Aysén,Cisnes,5828,0,0,0,0
@@ -2756,6 +2882,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Aysén,OHiggins,661,0,0,0,0
 2020-04-15,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-04-15,Aysén,Tortel,572,1,1,0,0
+2020-04-15,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-04-15,Magallanes,Antartica,137,0,0,0,0
 2020-04-15,Magallanes,Cabo de Hornos,1983,18,17,0,1
 2020-04-15,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -2767,10 +2894,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-15,Magallanes,Timaukel,282,0,0,0,0
 2020-04-15,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-04-15,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-04-17,Arica y Parinacota,Arica,247552,134,62,0,72
 2020-04-17,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-17,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-04-17,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-04-17,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-04-17,Tarapacá,Alto Hospicio,129999,16,9,0,7
 2020-04-17,Tarapacá,Camina,1375,0,0,0,0
 2020-04-17,Tarapacá,Colchane,1583,0,0,0,0
@@ -2778,6 +2907,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Tarapacá,Iquique,223463,31,21,0,10
 2020-04-17,Tarapacá,Pica,5958,24,3,0,21
 2020-04-17,Tarapacá,Pozo Almonte,17395,2,2,0,0
+2020-04-17,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-04-17,Antofagasta,Antofagasta,425725,145,83,0,62
 2020-04-17,Antofagasta,Calama,190336,21,11,0,10
 2020-04-17,Antofagasta,Maria Elena,6814,4,0,0,4
@@ -2787,6 +2917,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-04-17,Antofagasta,Taltal,13657,7,2,0,5
 2020-04-17,Antofagasta,Tocopilla,28079,11,3,0,8
+2020-04-17,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-04-17,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-04-17,Atacama,Caldera,19426,0,0,0,0
 2020-04-17,Atacama,Chanaral,13164,0,0,0,0
@@ -2796,6 +2927,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Atacama,Huasco,11264,0,0,0,0
 2020-04-17,Atacama,Tierra Amarilla,14312,4,0,0,4
 2020-04-17,Atacama,Vallenar,57009,0,0,0,0
+2020-04-17,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-04-17,Coquimbo,Andacollo,11791,0,0,0,0
 2020-04-17,Coquimbo,Canela,9546,0,0,0,0
 2020-04-17,Coquimbo,Combarbala,13884,0,0,0,0
@@ -2811,6 +2943,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Coquimbo,Rio Hurtado,4372,1,1,0,0
 2020-04-17,Coquimbo,Salamanca,29110,7,4,0,3
 2020-04-17,Coquimbo,Vicuna,29741,0,0,0,0
+2020-04-17,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-04-17,Valparaíso,Algarrobo,15174,9,9,0,0
 2020-04-17,Valparaíso,Cabildo,20663,0,0,0,0
 2020-04-17,Valparaíso,Calera,53591,13,8,0,5
@@ -2849,6 +2982,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Valparaíso,Villa Alemana,139310,13,12,0,1
 2020-04-17,Valparaíso,Vina del Mar,361371,84,70,0,14
 2020-04-17,Valparaíso,Zapallar,7994,0,0,0,0
+2020-04-17,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-04-17,Metropolitana,Alhue,7405,0,0,0,0
 2020-04-17,Metropolitana,Buin,109641,43,31,0,12
 2020-04-17,Metropolitana,Calera de Tango,28525,11,10,0,1
@@ -2901,6 +3035,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Metropolitana,Talagante,81838,26,18,0,8
 2020-04-17,Metropolitana,Tiltil,21477,4,3,0,1
 2020-04-17,Metropolitana,Vitacura,96774,130,122,0,8
+2020-04-17,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-04-17,O’Higgins,Chepica,15925,0,0,0,0
 2020-04-17,O’Higgins,Chimbarongo,37696,4,4,0,0
 2020-04-17,O’Higgins,Codegua,14096,0,0,0,0
@@ -2934,6 +3069,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,O’Higgins,San Fernando,78642,5,4,0,1
 2020-04-17,O’Higgins,San Vicente,50617,4,4,0,0
 2020-04-17,O’Higgins,Santa Cruz,41096,2,2,0,0
+2020-04-17,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-04-17,Maule,Cauquenes,44143,8,4,0,4
 2020-04-17,Maule,Chanco,9331,0,0,0,0
 2020-04-17,Maule,Colbun,22565,6,6,0,0
@@ -2964,6 +3100,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Maule,Vichuquen,4381,0,0,0,0
 2020-04-17,Maule,Villa Alegre,17512,0,0,0,0
 2020-04-17,Maule,Yerbas Buenas,19200,0,0,0,0
+2020-04-17,Maule,Desconocido Maule,0,0,0,0,0
 2020-04-17,Ñuble,Bulnes,22607,48,42,0,6
 2020-04-17,Ñuble,Chillan,198624,387,336,0,51
 2020-04-17,Ñuble,Chillan Viejo,33827,45,38,0,7
@@ -2985,6 +3122,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Ñuble,San Nicolas,12172,14,10,0,4
 2020-04-17,Ñuble,Treguaco,5696,0,0,0,0
 2020-04-17,Ñuble,Yungay,18596,45,32,0,13
+2020-04-17,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-04-17,Biobío,Alto Biobio,6775,1,1,0,0
 2020-04-17,Biobío,Antuco,4306,0,0,0,0
 2020-04-17,Biobío,Arauco,38679,6,6,0,0
@@ -3018,6 +3156,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Biobío,Tome,58729,37,23,0,14
 2020-04-17,Biobío,Tucapel,15205,1,0,0,1
 2020-04-17,Biobío,Yumbel,22132,5,5,0,0
+2020-04-17,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-04-17,Araucanía,Angol,56058,38,24,0,14
 2020-04-17,Araucanía,Carahue,25486,22,8,0,14
 2020-04-17,Araucanía,Cholchol,12341,5,4,0,1
@@ -3050,6 +3189,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Araucanía,Victoria,35467,13,12,0,1
 2020-04-17,Araucanía,Vilcun,30766,29,23,0,6
 2020-04-17,Araucanía,Villarrica,59103,17,14,0,3
+2020-04-17,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-04-17,Los Ríos,Corral,5447,1,0,0,1
 2020-04-17,Los Ríos,Futrono,15261,5,5,0,0
 2020-04-17,Los Ríos,La Union,39538,23,17,0,6
@@ -3062,6 +3202,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-04-17,Los Ríos,Rio Bueno,32925,7,6,0,1
 2020-04-17,Los Ríos,Valdivia,176774,101,83,0,18
+2020-04-17,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-04-17,Los Lagos,Ancud,42458,3,0,0,3
 2020-04-17,Los Lagos,Calbuco,36744,8,7,0,1
 2020-04-17,Los Lagos,Castro,47607,7,4,0,3
@@ -3092,6 +3233,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Los Lagos,Rio Negro,14275,4,3,0,1
 2020-04-17,Los Lagos,San Juan de la Costa,7639,15,11,0,4
 2020-04-17,Los Lagos,San Pablo,10553,6,5,0,1
+2020-04-17,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-04-17,Aysén,Aysen,25002,3,3,0,0
 2020-04-17,Aysén,Chile Chico,5121,1,1,0,0
 2020-04-17,Aysén,Cisnes,5828,0,0,0,0
@@ -3102,6 +3244,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Aysén,OHiggins,661,0,0,0,0
 2020-04-17,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-04-17,Aysén,Tortel,572,1,1,0,0
+2020-04-17,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-04-17,Magallanes,Antartica,137,0,0,0,0
 2020-04-17,Magallanes,Cabo de Hornos,1983,18,17,0,1
 2020-04-17,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -3113,10 +3256,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-17,Magallanes,Timaukel,282,0,0,0,0
 2020-04-17,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-04-17,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-04-20,Arica y Parinacota,Arica,247552,166,101,0,65
 2020-04-20,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-20,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-04-20,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-04-20,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-04-20,Tarapacá,Alto Hospicio,129999,27,12,0,15
 2020-04-20,Tarapacá,Camina,1375,0,0,0,0
 2020-04-20,Tarapacá,Colchane,1583,0,0,0,0
@@ -3124,6 +3269,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Tarapacá,Iquique,223463,36,26,0,10
 2020-04-20,Tarapacá,Pica,5958,28,11,0,17
 2020-04-20,Tarapacá,Pozo Almonte,17395,2,2,0,0
+2020-04-20,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-04-20,Antofagasta,Antofagasta,425725,184,98,0,86
 2020-04-20,Antofagasta,Calama,190336,25,15,0,10
 2020-04-20,Antofagasta,Maria Elena,6814,6,0,0,6
@@ -3133,6 +3279,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-04-20,Antofagasta,Taltal,13657,7,2,0,5
 2020-04-20,Antofagasta,Tocopilla,28079,11,7,0,4
+2020-04-20,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-04-20,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-04-20,Atacama,Caldera,19426,0,0,0,0
 2020-04-20,Atacama,Chanaral,13164,0,0,0,0
@@ -3142,6 +3289,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Atacama,Huasco,11264,1,0,0,1
 2020-04-20,Atacama,Tierra Amarilla,14312,4,2,0,2
 2020-04-20,Atacama,Vallenar,57009,0,0,0,0
+2020-04-20,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-04-20,Coquimbo,Andacollo,11791,0,0,0,0
 2020-04-20,Coquimbo,Canela,9546,0,0,0,0
 2020-04-20,Coquimbo,Combarbala,13884,0,0,0,0
@@ -3157,6 +3305,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Coquimbo,Rio Hurtado,4372,1,1,0,0
 2020-04-20,Coquimbo,Salamanca,29110,7,4,0,3
 2020-04-20,Coquimbo,Vicuna,29741,0,0,0,0
+2020-04-20,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-04-20,Valparaíso,Algarrobo,15174,9,9,0,0
 2020-04-20,Valparaíso,Cabildo,20663,1,0,0,1
 2020-04-20,Valparaíso,Calera,53591,16,10,0,6
@@ -3195,6 +3344,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Valparaíso,Villa Alemana,139310,13,13,0,0
 2020-04-20,Valparaíso,Vina del Mar,361371,94,76,0,18
 2020-04-20,Valparaíso,Zapallar,7994,0,0,0,0
+2020-04-20,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-04-20,Metropolitana,Alhue,7405,0,0,0,0
 2020-04-20,Metropolitana,Buin,109641,47,30,0,17
 2020-04-20,Metropolitana,Calera de Tango,28525,14,9,0,5
@@ -3247,6 +3397,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Metropolitana,Talagante,81838,27,19,0,8
 2020-04-20,Metropolitana,Tiltil,21477,5,4,0,1
 2020-04-20,Metropolitana,Vitacura,96774,132,124,0,8
+2020-04-20,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-04-20,O’Higgins,Chepica,15925,0,0,0,0
 2020-04-20,O’Higgins,Chimbarongo,37696,2,2,0,0
 2020-04-20,O’Higgins,Codegua,14096,1,1,0,0
@@ -3280,6 +3431,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,O’Higgins,San Fernando,78642,6,4,0,2
 2020-04-20,O’Higgins,San Vicente,50617,4,4,0,0
 2020-04-20,O’Higgins,Santa Cruz,41096,1,1,0,0
+2020-04-20,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-04-20,Maule,Cauquenes,44143,10,5,0,5
 2020-04-20,Maule,Chanco,9331,2,1,0,1
 2020-04-20,Maule,Colbun,22565,5,5,0,0
@@ -3310,6 +3462,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Maule,Vichuquen,4381,0,0,0,0
 2020-04-20,Maule,Villa Alegre,17512,1,0,0,1
 2020-04-20,Maule,Yerbas Buenas,19200,1,0,0,1
+2020-04-20,Maule,Desconocido Maule,0,0,0,0,0
 2020-04-20,Ñuble,Bulnes,22607,54,47,0,7
 2020-04-20,Ñuble,Chillan,198624,395,360,0,35
 2020-04-20,Ñuble,Chillan Viejo,33827,49,40,0,9
@@ -3331,6 +3484,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Ñuble,San Nicolas,12172,14,11,0,3
 2020-04-20,Ñuble,Treguaco,5696,0,0,0,0
 2020-04-20,Ñuble,Yungay,18596,46,42,0,4
+2020-04-20,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-04-20,Biobío,Alto Biobio,6775,1,1,0,0
 2020-04-20,Biobío,Antuco,4306,0,0,0,0
 2020-04-20,Biobío,Arauco,38679,6,6,0,0
@@ -3364,6 +3518,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Biobío,Tome,58729,41,31,0,10
 2020-04-20,Biobío,Tucapel,15205,1,1,0,0
 2020-04-20,Biobío,Yumbel,22132,6,5,0,1
+2020-04-20,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-04-20,Araucanía,Angol,56058,51,26,0,25
 2020-04-20,Araucanía,Carahue,25486,26,14,0,12
 2020-04-20,Araucanía,Cholchol,12341,5,4,0,1
@@ -3396,6 +3551,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Araucanía,Victoria,35467,28,13,0,15
 2020-04-20,Araucanía,Vilcun,30766,37,29,0,8
 2020-04-20,Araucanía,Villarrica,59103,18,17,0,1
+2020-04-20,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-04-20,Los Ríos,Corral,5447,1,0,0,1
 2020-04-20,Los Ríos,Futrono,15261,5,5,0,0
 2020-04-20,Los Ríos,La Union,39538,21,15,0,6
@@ -3408,6 +3564,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Los Ríos,Panguipulli,35991,1,0,0,1
 2020-04-20,Los Ríos,Rio Bueno,32925,11,10,0,1
 2020-04-20,Los Ríos,Valdivia,176774,101,86,0,15
+2020-04-20,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-04-20,Los Lagos,Ancud,42458,8,0,0,8
 2020-04-20,Los Lagos,Calbuco,36744,6,5,0,1
 2020-04-20,Los Lagos,Castro,47607,7,7,0,0
@@ -3438,6 +3595,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Los Lagos,Rio Negro,14275,4,4,0,0
 2020-04-20,Los Lagos,San Juan de la Costa,7639,16,13,0,3
 2020-04-20,Los Lagos,San Pablo,10553,8,6,0,2
+2020-04-20,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-04-20,Aysén,Aysen,25002,1,1,0,0
 2020-04-20,Aysén,Chile Chico,5121,1,1,0,0
 2020-04-20,Aysén,Cisnes,5828,0,0,0,0
@@ -3448,6 +3606,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Aysén,OHiggins,661,0,0,0,0
 2020-04-20,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-04-20,Aysén,Tortel,572,0,0,0,0
+2020-04-20,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-04-20,Magallanes,Antartica,137,0,0,0,0
 2020-04-20,Magallanes,Cabo de Hornos,1983,17,16,0,1
 2020-04-20,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -3459,10 +3618,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-20,Magallanes,Timaukel,282,0,0,0,0
 2020-04-20,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-04-20,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-04-24,Arica y Parinacota,Arica,247552,224,147,0,77
 2020-04-24,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-24,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-04-24,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-04-24,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-04-24,Tarapacá,Alto Hospicio,129999,39,20,0,19
 2020-04-24,Tarapacá,Camina,1375,0,0,0,0
 2020-04-24,Tarapacá,Colchane,1583,0,0,0,0
@@ -3470,6 +3631,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Tarapacá,Iquique,223463,58,29,0,29
 2020-04-24,Tarapacá,Pica,5958,31,18,0,13
 2020-04-24,Tarapacá,Pozo Almonte,17395,2,2,0,0
+2020-04-24,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-04-24,Antofagasta,Antofagasta,425725,261,140,0,121
 2020-04-24,Antofagasta,Calama,190336,35,26,0,9
 2020-04-24,Antofagasta,Maria Elena,6814,7,0,0,7
@@ -3479,6 +3641,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-04-24,Antofagasta,Taltal,13657,7,3,0,4
 2020-04-24,Antofagasta,Tocopilla,28079,11,10,0,1
+2020-04-24,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-04-24,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-04-24,Atacama,Caldera,19426,0,0,0,0
 2020-04-24,Atacama,Chanaral,13164,0,0,0,0
@@ -3488,6 +3651,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Atacama,Huasco,11264,0,0,0,0
 2020-04-24,Atacama,Tierra Amarilla,14312,5,5,0,0
 2020-04-24,Atacama,Vallenar,57009,7,0,0,7
+2020-04-24,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-04-24,Coquimbo,Andacollo,11791,0,0,0,0
 2020-04-24,Coquimbo,Canela,9546,0,0,0,0
 2020-04-24,Coquimbo,Combarbala,13884,0,0,0,0
@@ -3503,6 +3667,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Coquimbo,Rio Hurtado,4372,1,1,0,0
 2020-04-24,Coquimbo,Salamanca,29110,7,6,0,1
 2020-04-24,Coquimbo,Vicuna,29741,0,0,0,0
+2020-04-24,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-04-24,Valparaíso,Algarrobo,15174,9,9,0,0
 2020-04-24,Valparaíso,Cabildo,20663,0,0,0,0
 2020-04-24,Valparaíso,Calera,53591,22,13,0,9
@@ -3541,6 +3706,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Valparaíso,Villa Alemana,139310,14,13,0,1
 2020-04-24,Valparaíso,Vina del Mar,361371,103,86,0,17
 2020-04-24,Valparaíso,Zapallar,7994,0,0,0,0
+2020-04-24,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-04-24,Metropolitana,Alhue,7405,0,0,0,0
 2020-04-24,Metropolitana,Buin,109641,53,37,0,16
 2020-04-24,Metropolitana,Calera de Tango,28525,15,10,0,5
@@ -3593,6 +3759,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Metropolitana,Talagante,81838,30,21,0,9
 2020-04-24,Metropolitana,Tiltil,21477,5,4,0,1
 2020-04-24,Metropolitana,Vitacura,96774,133,128,0,5
+2020-04-24,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-04-24,O’Higgins,Chepica,15925,0,0,0,0
 2020-04-24,O’Higgins,Chimbarongo,37696,2,2,0,0
 2020-04-24,O’Higgins,Codegua,14096,1,1,0,0
@@ -3626,6 +3793,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,O’Higgins,San Fernando,78642,5,3,0,2
 2020-04-24,O’Higgins,San Vicente,50617,4,4,0,0
 2020-04-24,O’Higgins,Santa Cruz,41096,2,1,0,1
+2020-04-24,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-04-24,Maule,Cauquenes,44143,12,6,0,6
 2020-04-24,Maule,Chanco,9331,2,1,0,1
 2020-04-24,Maule,Colbun,22565,6,6,0,0
@@ -3656,6 +3824,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Maule,Vichuquen,4381,0,0,0,0
 2020-04-24,Maule,Villa Alegre,17512,1,0,0,1
 2020-04-24,Maule,Yerbas Buenas,19200,1,1,0,0
+2020-04-24,Maule,Desconocido Maule,0,0,0,0,0
 2020-04-24,Ñuble,Bulnes,22607,59,51,0,8
 2020-04-24,Ñuble,Chillan,198624,411,374,0,37
 2020-04-24,Ñuble,Chillan Viejo,33827,52,49,0,3
@@ -3677,6 +3846,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Ñuble,San Nicolas,12172,14,12,0,2
 2020-04-24,Ñuble,Treguaco,5696,0,0,0,0
 2020-04-24,Ñuble,Yungay,18596,46,43,0,3
+2020-04-24,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-04-24,Biobío,Alto Biobio,6775,0,0,0,0
 2020-04-24,Biobío,Antuco,4306,0,0,0,0
 2020-04-24,Biobío,Arauco,38679,6,6,0,0
@@ -3710,6 +3880,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Biobío,Tome,58729,50,38,0,12
 2020-04-24,Biobío,Tucapel,15205,1,1,0,0
 2020-04-24,Biobío,Yumbel,22132,6,5,0,1
+2020-04-24,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-04-24,Araucanía,Angol,56058,75,41,0,34
 2020-04-24,Araucanía,Carahue,25486,30,20,0,10
 2020-04-24,Araucanía,Cholchol,12341,5,4,0,1
@@ -3742,6 +3913,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Araucanía,Victoria,35467,55,16,0,39
 2020-04-24,Araucanía,Vilcun,30766,39,35,0,4
 2020-04-24,Araucanía,Villarrica,59103,19,19,0,0
+2020-04-24,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-04-24,Los Ríos,Corral,5447,1,0,0,1
 2020-04-24,Los Ríos,Futrono,15261,5,5,0,0
 2020-04-24,Los Ríos,La Union,39538,27,22,0,5
@@ -3754,6 +3926,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-04-24,Los Ríos,Rio Bueno,32925,10,9,0,1
 2020-04-24,Los Ríos,Valdivia,176774,105,97,0,8
+2020-04-24,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-04-24,Los Lagos,Ancud,42458,9,4,0,5
 2020-04-24,Los Lagos,Calbuco,36744,7,6,0,1
 2020-04-24,Los Lagos,Castro,47607,7,7,0,0
@@ -3784,6 +3957,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Los Lagos,Rio Negro,14275,5,4,0,1
 2020-04-24,Los Lagos,San Juan de la Costa,7639,22,14,0,8
 2020-04-24,Los Lagos,San Pablo,10553,8,6,0,2
+2020-04-24,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-04-24,Aysén,Aysen,25002,1,1,0,0
 2020-04-24,Aysén,Chile Chico,5121,1,1,0,0
 2020-04-24,Aysén,Cisnes,5828,0,0,0,0
@@ -3794,6 +3968,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Aysén,OHiggins,661,0,0,0,0
 2020-04-24,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-04-24,Aysén,Tortel,572,0,0,0,0
+2020-04-24,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-04-24,Magallanes,Antartica,137,0,0,0,0
 2020-04-24,Magallanes,Cabo de Hornos,1983,17,17,0,0
 2020-04-24,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -3805,10 +3980,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-24,Magallanes,Timaukel,282,0,0,0,0
 2020-04-24,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-04-24,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-04-27,Arica y Parinacota,Arica,247552,270,167,0,103
 2020-04-27,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-27,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-04-27,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-04-27,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-04-27,Tarapacá,Alto Hospicio,129999,55,28,0,27
 2020-04-27,Tarapacá,Camina,1375,0,0,0,0
 2020-04-27,Tarapacá,Colchane,1583,0,0,0,0
@@ -3816,6 +3993,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Tarapacá,Iquique,223463,75,37,0,38
 2020-04-27,Tarapacá,Pica,5958,31,22,0,9
 2020-04-27,Tarapacá,Pozo Almonte,17395,2,2,0,0
+2020-04-27,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-04-27,Antofagasta,Antofagasta,425725,303,163,0,140
 2020-04-27,Antofagasta,Calama,190336,54,29,0,25
 2020-04-27,Antofagasta,Maria Elena,6814,13,5,0,8
@@ -3825,6 +4003,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-04-27,Antofagasta,Taltal,13657,7,7,0,0
 2020-04-27,Antofagasta,Tocopilla,28079,11,11,0,0
+2020-04-27,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-04-27,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-04-27,Atacama,Caldera,19426,0,0,0,0
 2020-04-27,Atacama,Chanaral,13164,0,0,0,0
@@ -3834,6 +4013,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Atacama,Huasco,11264,0,0,0,0
 2020-04-27,Atacama,Tierra Amarilla,14312,6,5,0,1
 2020-04-27,Atacama,Vallenar,57009,13,1,0,12
+2020-04-27,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-04-27,Coquimbo,Andacollo,11791,0,0,0,0
 2020-04-27,Coquimbo,Canela,9546,0,0,0,0
 2020-04-27,Coquimbo,Combarbala,13884,0,0,0,0
@@ -3849,6 +4029,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Coquimbo,Rio Hurtado,4372,1,1,0,0
 2020-04-27,Coquimbo,Salamanca,29110,7,6,0,1
 2020-04-27,Coquimbo,Vicuna,29741,0,0,0,0
+2020-04-27,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-04-27,Valparaíso,Algarrobo,15174,10,9,0,1
 2020-04-27,Valparaíso,Cabildo,20663,3,0,0,3
 2020-04-27,Valparaíso,Calera,53591,22,13,0,9
@@ -3887,6 +4068,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Valparaíso,Villa Alemana,139310,15,13,0,2
 2020-04-27,Valparaíso,Vina del Mar,361371,109,92,0,17
 2020-04-27,Valparaíso,Zapallar,7994,0,0,0,0
+2020-04-27,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-04-27,Metropolitana,Alhue,7405,0,0,0,0
 2020-04-27,Metropolitana,Buin,109641,60,44,0,16
 2020-04-27,Metropolitana,Calera de Tango,28525,15,10,0,5
@@ -3939,6 +4121,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Metropolitana,Talagante,81838,33,26,0,7
 2020-04-27,Metropolitana,Tiltil,21477,5,4,0,1
 2020-04-27,Metropolitana,Vitacura,96774,138,127,0,11
+2020-04-27,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-04-27,O’Higgins,Chepica,15925,0,0,0,0
 2020-04-27,O’Higgins,Chimbarongo,37696,2,2,0,0
 2020-04-27,O’Higgins,Codegua,14096,1,1,0,0
@@ -3972,6 +4155,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,O’Higgins,San Fernando,78642,5,3,0,2
 2020-04-27,O’Higgins,San Vicente,50617,4,4,0,0
 2020-04-27,O’Higgins,Santa Cruz,41096,2,1,0,1
+2020-04-27,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-04-27,Maule,Cauquenes,44143,13,7,0,6
 2020-04-27,Maule,Chanco,9331,3,1,0,2
 2020-04-27,Maule,Colbun,22565,6,6,0,0
@@ -4002,6 +4186,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Maule,Vichuquen,4381,0,0,0,0
 2020-04-27,Maule,Villa Alegre,17512,2,1,0,1
 2020-04-27,Maule,Yerbas Buenas,19200,1,1,0,0
+2020-04-27,Maule,Desconocido Maule,0,0,0,0,0
 2020-04-27,Ñuble,Bulnes,22607,60,53,0,7
 2020-04-27,Ñuble,Chillan,198624,405,374,0,31
 2020-04-27,Ñuble,Chillan Viejo,33827,55,52,0,3
@@ -4023,6 +4208,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Ñuble,San Nicolas,12172,16,16,0,0
 2020-04-27,Ñuble,Treguaco,5696,0,0,0,0
 2020-04-27,Ñuble,Yungay,18596,48,44,0,4
+2020-04-27,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-04-27,Biobío,Alto Biobio,6775,0,0,0,0
 2020-04-27,Biobío,Antuco,4306,0,0,0,0
 2020-04-27,Biobío,Arauco,38679,6,6,0,0
@@ -4056,6 +4242,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Biobío,Tome,58729,50,40,0,10
 2020-04-27,Biobío,Tucapel,15205,1,1,0,0
 2020-04-27,Biobío,Yumbel,22132,6,5,0,1
+2020-04-27,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-04-27,Araucanía,Angol,56058,80,42,0,38
 2020-04-27,Araucanía,Carahue,25486,31,25,0,6
 2020-04-27,Araucanía,Cholchol,12341,5,5,0,0
@@ -4088,6 +4275,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Araucanía,Victoria,35467,58,18,0,40
 2020-04-27,Araucanía,Vilcun,30766,39,37,0,2
 2020-04-27,Araucanía,Villarrica,59103,19,19,0,0
+2020-04-27,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-04-27,Los Ríos,Corral,5447,1,1,0,0
 2020-04-27,Los Ríos,Futrono,15261,5,5,0,0
 2020-04-27,Los Ríos,La Union,39538,29,22,0,7
@@ -4100,6 +4288,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-04-27,Los Ríos,Rio Bueno,32925,11,9,0,2
 2020-04-27,Los Ríos,Valdivia,176774,107,102,0,5
+2020-04-27,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-04-27,Los Lagos,Ancud,42458,9,5,0,4
 2020-04-27,Los Lagos,Calbuco,36744,7,6,0,1
 2020-04-27,Los Lagos,Castro,47607,7,7,0,0
@@ -4130,6 +4319,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Los Lagos,Rio Negro,14275,5,4,0,1
 2020-04-27,Los Lagos,San Juan de la Costa,7639,24,15,0,9
 2020-04-27,Los Lagos,San Pablo,10553,8,6,0,2
+2020-04-27,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-04-27,Aysén,Aysen,25002,1,1,0,0
 2020-04-27,Aysén,Chile Chico,5121,1,1,0,0
 2020-04-27,Aysén,Cisnes,5828,0,0,0,0
@@ -4140,6 +4330,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Aysén,OHiggins,661,0,0,0,0
 2020-04-27,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-04-27,Aysén,Tortel,572,0,0,0,0
+2020-04-27,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-04-27,Magallanes,Antartica,137,0,0,0,0
 2020-04-27,Magallanes,Cabo de Hornos,1983,19,19,0,0
 2020-04-27,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -4151,10 +4342,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-27,Magallanes,Timaukel,282,0,0,0,0
 2020-04-27,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-04-27,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-05-01,Arica y Parinacota,Arica,247552,297,192,0,105
 2020-05-01,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-01,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-05-01,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-05-01,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-05-01,Tarapacá,Alto Hospicio,129999,77,39,0,38
 2020-05-01,Tarapacá,Camina,1375,0,0,0,0
 2020-05-01,Tarapacá,Colchane,1583,0,0,0,0
@@ -4162,6 +4355,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Tarapacá,Iquique,223463,90,51,0,39
 2020-05-01,Tarapacá,Pica,5958,31,31,0,0
 2020-05-01,Tarapacá,Pozo Almonte,17395,2,2,0,0
+2020-05-01,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-05-01,Antofagasta,Antofagasta,425725,378,220,0,158
 2020-05-01,Antofagasta,Calama,190336,71,38,0,33
 2020-05-01,Antofagasta,Maria Elena,6814,30,6,0,24
@@ -4171,6 +4365,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-05-01,Antofagasta,Taltal,13657,7,7,0,0
 2020-05-01,Antofagasta,Tocopilla,28079,12,11,0,1
+2020-05-01,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-05-01,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-05-01,Atacama,Caldera,19426,0,0,0,0
 2020-05-01,Atacama,Chanaral,13164,0,0,0,0
@@ -4180,6 +4375,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Atacama,Huasco,11264,0,0,0,0
 2020-05-01,Atacama,Tierra Amarilla,14312,7,5,0,2
 2020-05-01,Atacama,Vallenar,57009,17,5,0,12
+2020-05-01,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-05-01,Coquimbo,Andacollo,11791,0,0,0,0
 2020-05-01,Coquimbo,Canela,9546,0,0,0,0
 2020-05-01,Coquimbo,Combarbala,13884,0,0,0,0
@@ -4195,6 +4391,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Coquimbo,Rio Hurtado,4372,1,1,0,0
 2020-05-01,Coquimbo,Salamanca,29110,7,7,0,0
 2020-05-01,Coquimbo,Vicuna,29741,0,0,0,0
+2020-05-01,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-05-01,Valparaíso,Algarrobo,15174,10,9,0,1
 2020-05-01,Valparaíso,Cabildo,20663,4,0,0,4
 2020-05-01,Valparaíso,Calera,53591,22,19,0,3
@@ -4233,6 +4430,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Valparaíso,Villa Alemana,139310,17,14,0,3
 2020-05-01,Valparaíso,Vina del Mar,361371,123,100,0,23
 2020-05-01,Valparaíso,Zapallar,7994,0,0,0,0
+2020-05-01,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-05-01,Metropolitana,Alhue,7405,0,0,0,0
 2020-05-01,Metropolitana,Buin,109641,81,54,0,27
 2020-05-01,Metropolitana,Calera de Tango,28525,17,14,0,3
@@ -4285,6 +4483,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Metropolitana,Talagante,81838,37,29,0,8
 2020-05-01,Metropolitana,Tiltil,21477,9,7,0,2
 2020-05-01,Metropolitana,Vitacura,96774,152,129,0,23
+2020-05-01,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-05-01,O’Higgins,Chepica,15925,0,0,0,0
 2020-05-01,O’Higgins,Chimbarongo,37696,2,2,0,0
 2020-05-01,O’Higgins,Codegua,14096,2,1,0,1
@@ -4318,6 +4517,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,O’Higgins,San Fernando,78642,5,4,0,1
 2020-05-01,O’Higgins,San Vicente,50617,8,4,0,4
 2020-05-01,O’Higgins,Santa Cruz,41096,2,2,0,0
+2020-05-01,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-05-01,Maule,Cauquenes,44143,13,10,0,3
 2020-05-01,Maule,Chanco,9331,3,2,0,1
 2020-05-01,Maule,Colbun,22565,6,6,0,0
@@ -4348,6 +4548,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Maule,Vichuquen,4381,0,0,0,0
 2020-05-01,Maule,Villa Alegre,17512,2,1,0,1
 2020-05-01,Maule,Yerbas Buenas,19200,2,1,0,1
+2020-05-01,Maule,Desconocido Maule,0,0,0,0,0
 2020-05-01,Ñuble,Bulnes,22607,62,59,0,3
 2020-05-01,Ñuble,Chillan,198624,414,395,0,19
 2020-05-01,Ñuble,Chillan Viejo,33827,55,54,0,1
@@ -4369,6 +4570,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Ñuble,San Nicolas,12172,16,16,0,0
 2020-05-01,Ñuble,Treguaco,5696,0,0,0,0
 2020-05-01,Ñuble,Yungay,18596,52,47,0,5
+2020-05-01,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-05-01,Biobío,Alto Biobio,6775,0,0,0,0
 2020-05-01,Biobío,Antuco,4306,0,0,0,0
 2020-05-01,Biobío,Arauco,38679,6,6,0,0
@@ -4402,6 +4604,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Biobío,Tome,58729,50,47,0,3
 2020-05-01,Biobío,Tucapel,15205,1,1,0,0
 2020-05-01,Biobío,Yumbel,22132,6,6,0,0
+2020-05-01,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-05-01,Araucanía,Angol,56058,106,65,0,41
 2020-05-01,Araucanía,Carahue,25486,30,28,0,2
 2020-05-01,Araucanía,Cholchol,12341,6,6,0,0
@@ -4434,6 +4637,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Araucanía,Victoria,35467,70,35,0,35
 2020-05-01,Araucanía,Vilcun,30766,44,40,0,4
 2020-05-01,Araucanía,Villarrica,59103,20,19,0,1
+2020-05-01,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-05-01,Los Ríos,Corral,5447,1,1,0,0
 2020-05-01,Los Ríos,Futrono,15261,5,5,0,0
 2020-05-01,Los Ríos,La Union,39538,32,27,0,5
@@ -4446,6 +4650,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-05-01,Los Ríos,Rio Bueno,32925,13,9,0,4
 2020-05-01,Los Ríos,Valdivia,176774,110,105,0,5
+2020-05-01,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-05-01,Los Lagos,Ancud,42458,10,8,0,2
 2020-05-01,Los Lagos,Calbuco,36744,7,7,0,0
 2020-05-01,Los Lagos,Castro,47607,8,7,0,1
@@ -4476,6 +4681,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Los Lagos,Rio Negro,14275,10,4,0,6
 2020-05-01,Los Lagos,San Juan de la Costa,7639,26,18,0,8
 2020-05-01,Los Lagos,San Pablo,10553,9,9,0,0
+2020-05-01,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-05-01,Aysén,Aysen,25002,1,1,0,0
 2020-05-01,Aysén,Chile Chico,5121,1,1,0,0
 2020-05-01,Aysén,Cisnes,5828,0,0,0,0
@@ -4486,6 +4692,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Aysén,OHiggins,661,0,0,0,0
 2020-05-01,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-05-01,Aysén,Tortel,572,0,0,0,0
+2020-05-01,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-05-01,Magallanes,Antartica,137,0,0,0,0
 2020-05-01,Magallanes,Cabo de Hornos,1983,19,19,0,0
 2020-05-01,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -4497,10 +4704,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Magallanes,San Gregorio,681,0,0,0,0
 2020-05-01,Magallanes,Timaukel,282,0,0,0,0
 2020-05-01,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-05-01,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-05-04,Arica y Parinacota,Arica,247552,310,223,0,87
 2020-05-04,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-04,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-05-04,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-05-04,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-05-04,Tarapacá,Alto Hospicio,129999,128,50,0,78
 2020-05-04,Tarapacá,Camina,1375,0,0,0,0
 2020-05-04,Tarapacá,Colchane,1583,0,0,0,0
@@ -4508,6 +4717,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Tarapacá,Iquique,223463,122,59,0,63
 2020-05-04,Tarapacá,Pica,5958,31,31,0,0
 2020-05-04,Tarapacá,Pozo Almonte,17395,3,2,0,1
+2020-05-04,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-05-04,Antofagasta,Antofagasta,425725,479,278,0,201
 2020-05-04,Antofagasta,Calama,190336,84,47,0,37
 2020-05-04,Antofagasta,Maria Elena,6814,35,11,0,24
@@ -4517,6 +4727,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Antofagasta,Sierra Gorda,1746,0,0,0,0
 2020-05-04,Antofagasta,Taltal,13657,8,7,0,1
 2020-05-04,Antofagasta,Tocopilla,28079,13,11,0,2
+2020-05-04,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-05-04,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-05-04,Atacama,Caldera,19426,1,0,0,1
 2020-05-04,Atacama,Chanaral,13164,0,0,0,0
@@ -4526,6 +4737,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Atacama,Huasco,11264,1,0,0,1
 2020-05-04,Atacama,Tierra Amarilla,14312,9,5,0,4
 2020-05-04,Atacama,Vallenar,57009,24,10,0,14
+2020-05-04,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-05-04,Coquimbo,Andacollo,11791,2,0,0,2
 2020-05-04,Coquimbo,Canela,9546,0,0,0,0
 2020-05-04,Coquimbo,Combarbala,13884,0,0,0,0
@@ -4541,6 +4753,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Coquimbo,Rio Hurtado,4372,1,1,0,0
 2020-05-04,Coquimbo,Salamanca,29110,8,7,0,1
 2020-05-04,Coquimbo,Vicuna,29741,1,0,0,1
+2020-05-04,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-05-04,Valparaíso,Algarrobo,15174,10,9,0,1
 2020-05-04,Valparaíso,Cabildo,20663,5,0,0,5
 2020-05-04,Valparaíso,Calera,53591,22,20,0,2
@@ -4579,6 +4792,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Valparaíso,Villa Alemana,139310,19,14,0,5
 2020-05-04,Valparaíso,Vina del Mar,361371,135,106,0,29
 2020-05-04,Valparaíso,Zapallar,7994,0,0,0,0
+2020-05-04,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-05-04,Metropolitana,Alhue,7405,0,0,0,0
 2020-05-04,Metropolitana,Buin,109641,92,59,0,33
 2020-05-04,Metropolitana,Calera de Tango,28525,17,16,0,1
@@ -4631,6 +4845,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Metropolitana,Talagante,81838,42,32,0,10
 2020-05-04,Metropolitana,Tiltil,21477,12,7,0,5
 2020-05-04,Metropolitana,Vitacura,96774,164,135,0,29
+2020-05-04,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-05-04,O’Higgins,Chepica,15925,0,0,0,0
 2020-05-04,O’Higgins,Chimbarongo,37696,2,2,0,0
 2020-05-04,O’Higgins,Codegua,14096,2,1,0,1
@@ -4664,6 +4879,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,O’Higgins,San Fernando,78642,6,5,0,1
 2020-05-04,O’Higgins,San Vicente,50617,9,4,0,5
 2020-05-04,O’Higgins,Santa Cruz,41096,2,2,0,0
+2020-05-04,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-05-04,Maule,Cauquenes,44143,13,11,0,2
 2020-05-04,Maule,Chanco,9331,3,2,0,1
 2020-05-04,Maule,Colbun,22565,6,6,0,0
@@ -4694,6 +4910,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Maule,Vichuquen,4381,0,0,0,0
 2020-05-04,Maule,Villa Alegre,17512,2,2,0,0
 2020-05-04,Maule,Yerbas Buenas,19200,2,1,0,1
+2020-05-04,Maule,Desconocido Maule,0,0,0,0,0
 2020-05-04,Ñuble,Bulnes,22607,72,61,0,11
 2020-05-04,Ñuble,Chillan,198624,415,397,0,18
 2020-05-04,Ñuble,Chillan Viejo,33827,55,55,0,0
@@ -4715,6 +4932,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Ñuble,San Nicolas,12172,14,14,0,0
 2020-05-04,Ñuble,Treguaco,5696,0,0,0,0
 2020-05-04,Ñuble,Yungay,18596,55,47,0,8
+2020-05-04,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-05-04,Biobío,Alto Biobio,6775,0,0,0,0
 2020-05-04,Biobío,Antuco,4306,0,0,0,0
 2020-05-04,Biobío,Arauco,38679,6,6,0,0
@@ -4748,6 +4966,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Biobío,Tome,58729,49,48,0,1
 2020-05-04,Biobío,Tucapel,15205,1,1,0,0
 2020-05-04,Biobío,Yumbel,22132,7,6,0,1
+2020-05-04,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-05-04,Araucanía,Angol,56058,110,81,0,29
 2020-05-04,Araucanía,Carahue,25486,34,30,0,4
 2020-05-04,Araucanía,Cholchol,12341,6,6,0,0
@@ -4780,6 +4999,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Araucanía,Victoria,35467,71,46,0,25
 2020-05-04,Araucanía,Vilcun,30766,45,42,0,3
 2020-05-04,Araucanía,Villarrica,59103,20,19,0,1
+2020-05-04,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-05-04,Los Ríos,Corral,5447,1,1,0,0
 2020-05-04,Los Ríos,Futrono,15261,5,5,0,0
 2020-05-04,Los Ríos,La Union,39538,39,33,0,6
@@ -4792,6 +5012,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-05-04,Los Ríos,Rio Bueno,32925,13,10,0,3
 2020-05-04,Los Ríos,Valdivia,176774,121,111,0,10
+2020-05-04,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-05-04,Los Lagos,Ancud,42458,15,9,0,6
 2020-05-04,Los Lagos,Calbuco,36744,7,7,0,0
 2020-05-04,Los Lagos,Castro,47607,8,8,0,0
@@ -4822,6 +5043,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Los Lagos,Rio Negro,14275,13,7,0,6
 2020-05-04,Los Lagos,San Juan de la Costa,7639,29,21,0,8
 2020-05-04,Los Lagos,San Pablo,10553,10,9,0,1
+2020-05-04,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-05-04,Aysén,Aysen,25002,1,1,0,0
 2020-05-04,Aysén,Chile Chico,5121,1,1,0,0
 2020-05-04,Aysén,Cisnes,5828,0,0,0,0
@@ -4832,6 +5054,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Aysén,OHiggins,661,0,0,0,0
 2020-05-04,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-05-04,Aysén,Tortel,572,0,0,0,0
+2020-05-04,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-05-04,Magallanes,Antartica,137,0,0,0,0
 2020-05-04,Magallanes,Cabo de Hornos,1983,19,19,0,0
 2020-05-04,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -4843,10 +5066,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Magallanes,San Gregorio,681,0,0,0,0
 2020-05-04,Magallanes,Timaukel,282,0,0,0,0
 2020-05-04,Magallanes,Torres del Paine,1021,1,1,0,0
+2020-05-04,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-05-08,Arica y Parinacota,Arica,247552,328,267,0,61
 2020-05-08,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-08,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-05-08,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-05-08,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-05-08,Tarapacá,Alto Hospicio,129999,161,68,0,93
 2020-05-08,Tarapacá,Camina,1375,0,0,0,0
 2020-05-08,Tarapacá,Colchane,1583,0,0,0,0
@@ -4854,6 +5079,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Tarapacá,Iquique,223463,253,84,0,169
 2020-05-08,Tarapacá,Pica,5958,35,32,0,3
 2020-05-08,Tarapacá,Pozo Almonte,17395,4,2,0,2
+2020-05-08,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-05-08,Antofagasta,Antofagasta,425725,601,366,0,235
 2020-05-08,Antofagasta,Calama,190336,102,70,0,32
 2020-05-08,Antofagasta,Maria Elena,6814,47,22,0,25
@@ -4863,6 +5089,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Antofagasta,Sierra Gorda,1746,2,0,0,2
 2020-05-08,Antofagasta,Taltal,13657,8,7,0,1
 2020-05-08,Antofagasta,Tocopilla,28079,14,12,0,2
+2020-05-08,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-05-08,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-05-08,Atacama,Caldera,19426,1,0,0,1
 2020-05-08,Atacama,Chanaral,13164,0,0,0,0
@@ -4872,6 +5099,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Atacama,Huasco,11264,1,0,0,1
 2020-05-08,Atacama,Tierra Amarilla,14312,9,7,0,2
 2020-05-08,Atacama,Vallenar,57009,28,15,0,13
+2020-05-08,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-05-08,Coquimbo,Andacollo,11791,3,0,0,3
 2020-05-08,Coquimbo,Canela,9546,1,0,0,1
 2020-05-08,Coquimbo,Combarbala,13884,0,0,0,0
@@ -4887,6 +5115,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Coquimbo,Rio Hurtado,4372,1,1,0,0
 2020-05-08,Coquimbo,Salamanca,29110,9,7,0,2
 2020-05-08,Coquimbo,Vicuna,29741,1,0,0,1
+2020-05-08,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-05-08,Valparaíso,Algarrobo,15174,12,11,0,1
 2020-05-08,Valparaíso,Cabildo,20663,5,3,0,2
 2020-05-08,Valparaíso,Calera,53591,22,22,0,0
@@ -4925,6 +5154,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Valparaíso,Villa Alemana,139310,36,18,0,18
 2020-05-08,Valparaíso,Vina del Mar,361371,168,117,0,51
 2020-05-08,Valparaíso,Zapallar,7994,0,0,0,0
+2020-05-08,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-05-08,Metropolitana,Alhue,7405,0,0,0,0
 2020-05-08,Metropolitana,Buin,109641,114,68,0,46
 2020-05-08,Metropolitana,Calera de Tango,28525,21,16,0,5
@@ -4977,6 +5207,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Metropolitana,Talagante,81838,48,34,0,14
 2020-05-08,Metropolitana,Tiltil,21477,12,9,0,3
 2020-05-08,Metropolitana,Vitacura,96774,211,143,0,68
+2020-05-08,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-05-08,O’Higgins,Chepica,15925,0,0,0,0
 2020-05-08,O’Higgins,Chimbarongo,37696,2,2,0,0
 2020-05-08,O’Higgins,Codegua,14096,2,2,0,0
@@ -5010,6 +5241,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,O’Higgins,San Fernando,78642,6,4,0,2
 2020-05-08,O’Higgins,San Vicente,50617,11,6,0,5
 2020-05-08,O’Higgins,Santa Cruz,41096,2,2,0,0
+2020-05-08,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-05-08,Maule,Cauquenes,44143,13,13,0,0
 2020-05-08,Maule,Chanco,9331,3,3,0,0
 2020-05-08,Maule,Colbun,22565,6,6,0,0
@@ -5040,6 +5272,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Maule,Vichuquen,4381,0,0,0,0
 2020-05-08,Maule,Villa Alegre,17512,2,2,0,0
 2020-05-08,Maule,Yerbas Buenas,19200,3,2,0,1
+2020-05-08,Maule,Desconocido Maule,0,0,0,0,0
 2020-05-08,Ñuble,Bulnes,22607,77,63,0,14
 2020-05-08,Ñuble,Chillan,198624,418,405,0,13
 2020-05-08,Ñuble,Chillan Viejo,33827,55,55,0,0
@@ -5061,6 +5294,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Ñuble,San Nicolas,12172,15,15,0,0
 2020-05-08,Ñuble,Treguaco,5696,0,0,0,0
 2020-05-08,Ñuble,Yungay,18596,55,51,0,4
+2020-05-08,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-05-08,Biobío,Alto Biobio,6775,0,0,0,0
 2020-05-08,Biobío,Antuco,4306,1,0,0,1
 2020-05-08,Biobío,Arauco,38679,11,6,0,5
@@ -5094,6 +5328,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Biobío,Tome,58729,50,49,0,1
 2020-05-08,Biobío,Tucapel,15205,1,1,0,0
 2020-05-08,Biobío,Yumbel,22132,10,6,0,4
+2020-05-08,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-05-08,Araucanía,Angol,56058,112,94,0,18
 2020-05-08,Araucanía,Carahue,25486,35,32,0,3
 2020-05-08,Araucanía,Cholchol,12341,4,4,0,0
@@ -5126,6 +5361,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Araucanía,Victoria,35467,78,63,0,15
 2020-05-08,Araucanía,Vilcun,30766,48,42,0,6
 2020-05-08,Araucanía,Villarrica,59103,21,20,0,1
+2020-05-08,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-05-08,Los Ríos,Corral,5447,2,1,0,1
 2020-05-08,Los Ríos,Futrono,15261,5,5,0,0
 2020-05-08,Los Ríos,La Union,39538,40,37,0,3
@@ -5138,6 +5374,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-05-08,Los Ríos,Rio Bueno,32925,12,11,0,1
 2020-05-08,Los Ríos,Valdivia,176774,121,114,0,7
+2020-05-08,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-05-08,Los Lagos,Ancud,42458,23,10,0,13
 2020-05-08,Los Lagos,Calbuco,36744,7,7,0,0
 2020-05-08,Los Lagos,Castro,47607,7,7,0,0
@@ -5168,6 +5405,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Los Lagos,Rio Negro,14275,18,13,0,5
 2020-05-08,Los Lagos,San Juan de la Costa,7639,27,24,0,3
 2020-05-08,Los Lagos,San Pablo,10553,9,9,0,0
+2020-05-08,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-05-08,Aysén,Aysen,25002,1,1,0,0
 2020-05-08,Aysén,Chile Chico,5121,1,1,0,0
 2020-05-08,Aysén,Cisnes,5828,0,0,0,0
@@ -5178,6 +5416,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Aysén,OHiggins,661,0,0,0,0
 2020-05-08,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-05-08,Aysén,Tortel,572,0,0,0,0
+2020-05-08,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-05-08,Magallanes,Antartica,137,0,0,0,0
 2020-05-08,Magallanes,Cabo de Hornos,1983,19,19,0,0
 2020-05-08,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -5189,10 +5428,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Magallanes,San Gregorio,681,1,0,0,1
 2020-05-08,Magallanes,Timaukel,282,0,0,0,0
 2020-05-08,Magallanes,Torres del Paine,1021,1,1,0,0
+2020-05-08,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-05-11,Arica y Parinacota,Arica,247552,353,287,0,66
 2020-05-11,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-11,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-05-11,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-05-11,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-05-11,Tarapacá,Alto Hospicio,129999,188,94,0,94
 2020-05-11,Tarapacá,Camina,1375,0,0,0,0
 2020-05-11,Tarapacá,Colchane,1583,0,0,0,0
@@ -5200,6 +5441,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Tarapacá,Iquique,223463,308,102,0,206
 2020-05-11,Tarapacá,Pica,5958,37,33,0,4
 2020-05-11,Tarapacá,Pozo Almonte,17395,5,2,0,3
+2020-05-11,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-05-11,Antofagasta,Antofagasta,425725,658,433,0,225
 2020-05-11,Antofagasta,Calama,190336,114,81,0,33
 2020-05-11,Antofagasta,Maria Elena,6814,49,28,0,21
@@ -5209,6 +5451,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Antofagasta,Sierra Gorda,1746,2,0,0,2
 2020-05-11,Antofagasta,Taltal,13657,9,8,0,1
 2020-05-11,Antofagasta,Tocopilla,28079,15,12,0,3
+2020-05-11,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-05-11,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-05-11,Atacama,Caldera,19426,3,0,0,3
 2020-05-11,Atacama,Chanaral,13164,0,0,0,0
@@ -5218,6 +5461,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Atacama,Huasco,11264,1,0,0,1
 2020-05-11,Atacama,Tierra Amarilla,14312,19,7,0,12
 2020-05-11,Atacama,Vallenar,57009,41,22,0,19
+2020-05-11,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-05-11,Coquimbo,Andacollo,11791,3,1,0,2
 2020-05-11,Coquimbo,Canela,9546,1,0,0,1
 2020-05-11,Coquimbo,Combarbala,13884,2,0,0,2
@@ -5233,6 +5477,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Coquimbo,Rio Hurtado,4372,1,1,0,0
 2020-05-11,Coquimbo,Salamanca,29110,10,7,0,3
 2020-05-11,Coquimbo,Vicuna,29741,2,1,0,1
+2020-05-11,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-05-11,Valparaíso,Algarrobo,15174,14,12,0,2
 2020-05-11,Valparaíso,Cabildo,20663,6,4,0,2
 2020-05-11,Valparaíso,Calera,53591,25,22,0,3
@@ -5271,6 +5516,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Valparaíso,Villa Alemana,139310,45,20,0,25
 2020-05-11,Valparaíso,Vina del Mar,361371,200,131,0,69
 2020-05-11,Valparaíso,Zapallar,7994,0,0,0,0
+2020-05-11,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-05-11,Metropolitana,Alhue,7405,0,0,0,0
 2020-05-11,Metropolitana,Buin,109641,152,84,0,68
 2020-05-11,Metropolitana,Calera de Tango,28525,23,16,0,7
@@ -5323,6 +5569,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Metropolitana,Talagante,81838,68,40,0,28
 2020-05-11,Metropolitana,Tiltil,21477,13,11,0,2
 2020-05-11,Metropolitana,Vitacura,96774,251,152,0,99
+2020-05-11,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-05-11,O’Higgins,Chepica,15925,0,0,0,0
 2020-05-11,O’Higgins,Chimbarongo,37696,2,2,0,0
 2020-05-11,O’Higgins,Codegua,14096,3,2,0,1
@@ -5356,6 +5603,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,O’Higgins,San Fernando,78642,6,5,0,1
 2020-05-11,O’Higgins,San Vicente,50617,14,8,0,6
 2020-05-11,O’Higgins,Santa Cruz,41096,3,2,0,1
+2020-05-11,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-05-11,Maule,Cauquenes,44143,14,13,0,1
 2020-05-11,Maule,Chanco,9331,3,3,0,0
 2020-05-11,Maule,Colbun,22565,9,6,0,3
@@ -5386,6 +5634,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Maule,Vichuquen,4381,0,0,0,0
 2020-05-11,Maule,Villa Alegre,17512,2,2,0,0
 2020-05-11,Maule,Yerbas Buenas,19200,3,2,0,1
+2020-05-11,Maule,Desconocido Maule,0,0,0,0,0
 2020-05-11,Ñuble,Bulnes,22607,80,67,0,13
 2020-05-11,Ñuble,Chillan,198624,429,409,0,20
 2020-05-11,Ñuble,Chillan Viejo,33827,57,55,0,2
@@ -5407,6 +5656,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Ñuble,San Nicolas,12172,15,15,0,0
 2020-05-11,Ñuble,Treguaco,5696,0,0,0,0
 2020-05-11,Ñuble,Yungay,18596,55,54,0,1
+2020-05-11,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-05-11,Biobío,Alto Biobio,6775,0,0,0,0
 2020-05-11,Biobío,Antuco,4306,2,0,0,2
 2020-05-11,Biobío,Arauco,38679,15,6,0,9
@@ -5440,6 +5690,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Biobío,Tome,58729,63,49,0,14
 2020-05-11,Biobío,Tucapel,15205,1,1,0,0
 2020-05-11,Biobío,Yumbel,22132,14,8,0,6
+2020-05-11,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-05-11,Araucanía,Angol,56058,118,104,0,14
 2020-05-11,Araucanía,Carahue,25486,36,34,0,2
 2020-05-11,Araucanía,Cholchol,12341,4,4,0,0
@@ -5472,6 +5723,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Araucanía,Victoria,35467,78,72,0,6
 2020-05-11,Araucanía,Vilcun,30766,50,47,0,3
 2020-05-11,Araucanía,Villarrica,59103,22,20,0,2
+2020-05-11,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-05-11,Los Ríos,Corral,5447,3,1,0,2
 2020-05-11,Los Ríos,Futrono,15261,5,5,0,0
 2020-05-11,Los Ríos,La Union,39538,40,38,0,2
@@ -5484,6 +5736,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-05-11,Los Ríos,Rio Bueno,32925,12,11,0,1
 2020-05-11,Los Ríos,Valdivia,176774,122,119,0,3
+2020-05-11,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-05-11,Los Lagos,Ancud,42458,48,11,0,37
 2020-05-11,Los Lagos,Calbuco,36744,8,7,0,1
 2020-05-11,Los Lagos,Castro,47607,7,7,0,0
@@ -5514,6 +5767,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Los Lagos,Rio Negro,14275,19,15,0,4
 2020-05-11,Los Lagos,San Juan de la Costa,7639,32,25,0,7
 2020-05-11,Los Lagos,San Pablo,10553,9,9,0,0
+2020-05-11,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-05-11,Aysén,Aysen,25002,1,1,0,0
 2020-05-11,Aysén,Chile Chico,5121,1,1,0,0
 2020-05-11,Aysén,Cisnes,5828,0,0,0,0
@@ -5524,6 +5778,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Aysén,OHiggins,661,0,0,0,0
 2020-05-11,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-05-11,Aysén,Tortel,572,0,0,0,0
+2020-05-11,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-05-11,Magallanes,Antartica,137,0,0,0,0
 2020-05-11,Magallanes,Cabo de Hornos,1983,20,19,0,1
 2020-05-11,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -5535,10 +5790,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Magallanes,San Gregorio,681,1,0,0,1
 2020-05-11,Magallanes,Timaukel,282,0,0,0,0
 2020-05-11,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-05-11,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-05-15,Arica y Parinacota,Arica,247552,371,322,0,49
 2020-05-15,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-15,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-05-15,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-05-15,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-05-15,Tarapacá,Alto Hospicio,129999,276,158,0,118
 2020-05-15,Tarapacá,Camina,1375,0,0,0,0
 2020-05-15,Tarapacá,Colchane,1583,0,0,0,0
@@ -5546,6 +5803,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Tarapacá,Iquique,223463,440,147,0,293
 2020-05-15,Tarapacá,Pica,5958,37,33,0,4
 2020-05-15,Tarapacá,Pozo Almonte,17395,7,4,0,3
+2020-05-15,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-05-15,Antofagasta,Antofagasta,425725,843,547,0,296
 2020-05-15,Antofagasta,Calama,190336,168,111,0,57
 2020-05-15,Antofagasta,Maria Elena,6814,84,53,0,31
@@ -5555,6 +5813,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Antofagasta,Sierra Gorda,1746,7,2,0,5
 2020-05-15,Antofagasta,Taltal,13657,16,8,0,8
 2020-05-15,Antofagasta,Tocopilla,28079,19,13,0,6
+2020-05-15,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-05-15,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-05-15,Atacama,Caldera,19426,4,1,0,3
 2020-05-15,Atacama,Chanaral,13164,0,0,0,0
@@ -5564,6 +5823,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Atacama,Huasco,11264,1,1,0,0
 2020-05-15,Atacama,Tierra Amarilla,14312,22,9,0,13
 2020-05-15,Atacama,Vallenar,57009,42,27,0,15
+2020-05-15,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-05-15,Coquimbo,Andacollo,11791,3,2,0,1
 2020-05-15,Coquimbo,Canela,9546,1,1,0,0
 2020-05-15,Coquimbo,Combarbala,13884,2,1,0,1
@@ -5579,6 +5839,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Coquimbo,Rio Hurtado,4372,2,2,0,0
 2020-05-15,Coquimbo,Salamanca,29110,12,10,0,2
 2020-05-15,Coquimbo,Vicuna,29741,5,1,0,4
+2020-05-15,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-05-15,Valparaíso,Algarrobo,15174,19,14,0,5
 2020-05-15,Valparaíso,Cabildo,20663,7,6,0,1
 2020-05-15,Valparaíso,Calera,53591,28,23,0,5
@@ -5617,6 +5878,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Valparaíso,Villa Alemana,139310,64,31,0,33
 2020-05-15,Valparaíso,Vina del Mar,361371,275,172,0,103
 2020-05-15,Valparaíso,Zapallar,7994,0,0,0,0
+2020-05-15,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-05-15,Metropolitana,Alhue,7405,0,0,0,0
 2020-05-15,Metropolitana,Buin,109641,216,104,0,112
 2020-05-15,Metropolitana,Calera de Tango,28525,29,19,0,10
@@ -5669,6 +5931,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Metropolitana,Talagante,81838,88,54,0,34
 2020-05-15,Metropolitana,Tiltil,21477,21,13,0,8
 2020-05-15,Metropolitana,Vitacura,96774,325,170,0,155
+2020-05-15,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-05-15,O’Higgins,Chepica,15925,1,0,0,1
 2020-05-15,O’Higgins,Chimbarongo,37696,5,2,0,3
 2020-05-15,O’Higgins,Codegua,14096,3,2,0,1
@@ -5702,6 +5965,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,O’Higgins,San Fernando,78642,10,6,0,4
 2020-05-15,O’Higgins,San Vicente,50617,20,9,0,11
 2020-05-15,O’Higgins,Santa Cruz,41096,5,3,0,2
+2020-05-15,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-05-15,Maule,Cauquenes,44143,20,13,0,7
 2020-05-15,Maule,Chanco,9331,3,3,0,0
 2020-05-15,Maule,Colbun,22565,10,6,0,4
@@ -5732,6 +5996,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Maule,Vichuquen,4381,0,0,0,0
 2020-05-15,Maule,Villa Alegre,17512,3,2,0,1
 2020-05-15,Maule,Yerbas Buenas,19200,5,2,0,3
+2020-05-15,Maule,Desconocido Maule,0,0,0,0,0
 2020-05-15,Ñuble,Bulnes,22607,108,72,0,36
 2020-05-15,Ñuble,Chillan,198624,444,416,0,28
 2020-05-15,Ñuble,Chillan Viejo,33827,61,57,0,4
@@ -5753,6 +6018,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Ñuble,San Nicolas,12172,17,15,0,2
 2020-05-15,Ñuble,Treguaco,5696,0,0,0,0
 2020-05-15,Ñuble,Yungay,18596,57,54,0,3
+2020-05-15,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-05-15,Biobío,Alto Biobio,6775,0,0,0,0
 2020-05-15,Biobío,Antuco,4306,3,0,0,3
 2020-05-15,Biobío,Arauco,38679,15,8,0,7
@@ -5786,6 +6052,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Biobío,Tome,58729,67,50,0,17
 2020-05-15,Biobío,Tucapel,15205,1,1,0,0
 2020-05-15,Biobío,Yumbel,22132,14,10,0,4
+2020-05-15,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-05-15,Araucanía,Angol,56058,122,110,0,12
 2020-05-15,Araucanía,Carahue,25486,35,34,0,1
 2020-05-15,Araucanía,Cholchol,12341,5,4,0,1
@@ -5818,6 +6085,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Araucanía,Victoria,35467,80,76,0,4
 2020-05-15,Araucanía,Vilcun,30766,58,50,0,8
 2020-05-15,Araucanía,Villarrica,59103,21,20,0,1
+2020-05-15,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-05-15,Los Ríos,Corral,5447,11,1,0,10
 2020-05-15,Los Ríos,Futrono,15261,5,5,0,0
 2020-05-15,Los Ríos,La Union,39538,40,39,0,1
@@ -5830,6 +6098,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Los Ríos,Panguipulli,35991,0,0,0,0
 2020-05-15,Los Ríos,Rio Bueno,32925,12,12,0,0
 2020-05-15,Los Ríos,Valdivia,176774,124,122,0,2
+2020-05-15,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-05-15,Los Lagos,Ancud,42458,60,26,0,34
 2020-05-15,Los Lagos,Calbuco,36744,8,7,0,1
 2020-05-15,Los Lagos,Castro,47607,8,7,0,1
@@ -5860,6 +6129,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Los Lagos,Rio Negro,14275,25,16,0,9
 2020-05-15,Los Lagos,San Juan de la Costa,7639,34,27,0,7
 2020-05-15,Los Lagos,San Pablo,10553,9,9,0,0
+2020-05-15,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-05-15,Aysén,Aysen,25002,1,1,0,0
 2020-05-15,Aysén,Chile Chico,5121,1,1,0,0
 2020-05-15,Aysén,Cisnes,5828,0,0,0,0
@@ -5870,6 +6140,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Aysén,OHiggins,661,0,0,0,0
 2020-05-15,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-05-15,Aysén,Tortel,572,0,0,0,0
+2020-05-15,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-05-15,Magallanes,Antartica,137,0,0,0,0
 2020-05-15,Magallanes,Cabo de Hornos,1983,20,19,0,1
 2020-05-15,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -5881,10 +6152,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Magallanes,San Gregorio,681,2,0,0,2
 2020-05-15,Magallanes,Timaukel,282,0,0,0,0
 2020-05-15,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-05-15,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-05-18,Arica y Parinacota,Arica,247552,405,337,0,68
 2020-05-18,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-18,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-05-18,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-05-18,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-05-18,Tarapacá,Alto Hospicio,129999,379,196,0,183
 2020-05-18,Tarapacá,Camina,1375,0,0,0,0
 2020-05-18,Tarapacá,Colchane,1583,0,0,0,0
@@ -5892,6 +6165,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Tarapacá,Iquique,223463,610,239,0,371
 2020-05-18,Tarapacá,Pica,5958,39,35,0,4
 2020-05-18,Tarapacá,Pozo Almonte,17395,10,6,0,4
+2020-05-18,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-05-18,Antofagasta,Antofagasta,425725,998,683,0,315
 2020-05-18,Antofagasta,Calama,190336,213,137,0,76
 2020-05-18,Antofagasta,Maria Elena,6814,112,84,0,28
@@ -5901,6 +6175,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Antofagasta,Sierra Gorda,1746,9,4,0,5
 2020-05-18,Antofagasta,Taltal,13657,17,10,0,7
 2020-05-18,Antofagasta,Tocopilla,28079,24,16,0,8
+2020-05-18,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-05-18,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-05-18,Atacama,Caldera,19426,5,2,0,3
 2020-05-18,Atacama,Chanaral,13164,0,0,0,0
@@ -5910,6 +6185,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Atacama,Huasco,11264,1,1,0,0
 2020-05-18,Atacama,Tierra Amarilla,14312,23,13,0,10
 2020-05-18,Atacama,Vallenar,57009,43,30,0,13
+2020-05-18,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-05-18,Coquimbo,Andacollo,11791,3,2,0,1
 2020-05-18,Coquimbo,Canela,9546,1,1,0,0
 2020-05-18,Coquimbo,Combarbala,13884,5,2,0,3
@@ -5925,6 +6201,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Coquimbo,Rio Hurtado,4372,2,2,0,0
 2020-05-18,Coquimbo,Salamanca,29110,10,10,0,0
 2020-05-18,Coquimbo,Vicuna,29741,7,4,0,3
+2020-05-18,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-05-18,Valparaíso,Algarrobo,15174,23,14,0,9
 2020-05-18,Valparaíso,Cabildo,20663,9,8,0,1
 2020-05-18,Valparaíso,Calera,53591,31,25,0,6
@@ -5963,6 +6240,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Valparaíso,Villa Alemana,139310,77,49,0,28
 2020-05-18,Valparaíso,Vina del Mar,361371,327,205,0,122
 2020-05-18,Valparaíso,Zapallar,7994,0,0,0,0
+2020-05-18,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-05-18,Metropolitana,Alhue,7405,0,0,0,0
 2020-05-18,Metropolitana,Buin,109641,258,137,0,121
 2020-05-18,Metropolitana,Calera de Tango,28525,32,21,0,11
@@ -6015,6 +6293,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Metropolitana,Talagante,81838,105,71,0,34
 2020-05-18,Metropolitana,Tiltil,21477,24,14,0,10
 2020-05-18,Metropolitana,Vitacura,96774,370,209,0,161
+2020-05-18,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-05-18,O’Higgins,Chepica,15925,3,0,0,3
 2020-05-18,O’Higgins,Chimbarongo,37696,5,3,0,2
 2020-05-18,O’Higgins,Codegua,14096,4,3,0,1
@@ -6048,6 +6327,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,O’Higgins,San Fernando,78642,14,7,0,7
 2020-05-18,O’Higgins,San Vicente,50617,25,10,0,15
 2020-05-18,O’Higgins,Santa Cruz,41096,6,3,0,3
+2020-05-18,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-05-18,Maule,Cauquenes,44143,23,14,0,9
 2020-05-18,Maule,Chanco,9331,3,3,0,0
 2020-05-18,Maule,Colbun,22565,13,7,0,6
@@ -6078,6 +6358,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Maule,Vichuquen,4381,0,0,0,0
 2020-05-18,Maule,Villa Alegre,17512,3,2,0,1
 2020-05-18,Maule,Yerbas Buenas,19200,8,2,0,6
+2020-05-18,Maule,Desconocido Maule,0,0,0,0,0
 2020-05-18,Ñuble,Bulnes,22607,132,77,0,55
 2020-05-18,Ñuble,Chillan,198624,493,427,0,66
 2020-05-18,Ñuble,Chillan Viejo,33827,67,57,0,10
@@ -6099,6 +6380,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Ñuble,San Nicolas,12172,17,15,0,2
 2020-05-18,Ñuble,Treguaco,5696,0,0,0,0
 2020-05-18,Ñuble,Yungay,18596,58,55,0,3
+2020-05-18,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-05-18,Biobío,Alto Biobio,6775,0,0,0,0
 2020-05-18,Biobío,Antuco,4306,4,1,0,3
 2020-05-18,Biobío,Arauco,38679,18,12,0,6
@@ -6132,6 +6414,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Biobío,Tome,58729,71,54,0,17
 2020-05-18,Biobío,Tucapel,15205,4,1,0,3
 2020-05-18,Biobío,Yumbel,22132,14,11,0,3
+2020-05-18,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-05-18,Araucanía,Angol,56058,124,115,0,9
 2020-05-18,Araucanía,Carahue,25486,36,36,0,0
 2020-05-18,Araucanía,Cholchol,12341,5,4,0,1
@@ -6164,6 +6447,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Araucanía,Victoria,35467,80,78,0,2
 2020-05-18,Araucanía,Vilcun,30766,60,50,0,10
 2020-05-18,Araucanía,Villarrica,59103,22,20,0,2
+2020-05-18,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-05-18,Los Ríos,Corral,5447,11,2,0,9
 2020-05-18,Los Ríos,Futrono,15261,7,5,0,2
 2020-05-18,Los Ríos,La Union,39538,41,39,0,2
@@ -6176,6 +6460,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Los Ríos,Panguipulli,35991,1,1,0,0
 2020-05-18,Los Ríos,Rio Bueno,32925,12,12,0,0
 2020-05-18,Los Ríos,Valdivia,176774,125,122,0,3
+2020-05-18,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-05-18,Los Lagos,Ancud,42458,66,32,0,34
 2020-05-18,Los Lagos,Calbuco,36744,8,7,0,1
 2020-05-18,Los Lagos,Castro,47607,8,7,0,1
@@ -6206,6 +6491,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Los Lagos,Rio Negro,14275,25,17,0,8
 2020-05-18,Los Lagos,San Juan de la Costa,7639,34,27,0,7
 2020-05-18,Los Lagos,San Pablo,10553,10,9,0,1
+2020-05-18,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-05-18,Aysén,Aysen,25002,1,1,0,0
 2020-05-18,Aysén,Chile Chico,5121,1,1,0,0
 2020-05-18,Aysén,Cisnes,5828,0,0,0,0
@@ -6216,6 +6502,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Aysén,OHiggins,661,0,0,0,0
 2020-05-18,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-05-18,Aysén,Tortel,572,0,0,0,0
+2020-05-18,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-05-18,Magallanes,Antartica,137,0,0,0,0
 2020-05-18,Magallanes,Cabo de Hornos,1983,20,19,0,1
 2020-05-18,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -6227,10 +6514,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Magallanes,San Gregorio,681,2,1,0,1
 2020-05-18,Magallanes,Timaukel,282,0,0,0,0
 2020-05-18,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-05-18,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-05-22,Arica y Parinacota,Arica,247552,477,360,0,117
 2020-05-22,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-22,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-05-22,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-05-22,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-05-22,Tarapacá,Alto Hospicio,129999,504,258,0,246
 2020-05-22,Tarapacá,Camina,1375,0,0,0,0
 2020-05-22,Tarapacá,Colchane,1583,0,0,0,0
@@ -6238,6 +6527,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Tarapacá,Iquique,223463,812,393,0,419
 2020-05-22,Tarapacá,Pica,5958,37,36,0,1
 2020-05-22,Tarapacá,Pozo Almonte,17395,20,7,0,13
+2020-05-22,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-05-22,Antofagasta,Antofagasta,425725,1140,844,0,296
 2020-05-22,Antofagasta,Calama,190336,254,178,0,76
 2020-05-22,Antofagasta,Maria Elena,6814,132,107,0,25
@@ -6247,6 +6537,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Antofagasta,Sierra Gorda,1746,11,7,0,4
 2020-05-22,Antofagasta,Taltal,13657,23,11,0,12
 2020-05-22,Antofagasta,Tocopilla,28079,25,19,0,6
+2020-05-22,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-05-22,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-05-22,Atacama,Caldera,19426,5,2,0,3
 2020-05-22,Atacama,Chanaral,13164,0,0,0,0
@@ -6256,6 +6547,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Atacama,Huasco,11264,1,1,0,0
 2020-05-22,Atacama,Tierra Amarilla,14312,23,18,0,5
 2020-05-22,Atacama,Vallenar,57009,46,41,0,5
+2020-05-22,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-05-22,Coquimbo,Andacollo,11791,4,4,0,0
 2020-05-22,Coquimbo,Canela,9546,2,1,0,1
 2020-05-22,Coquimbo,Combarbala,13884,6,3,0,3
@@ -6271,6 +6563,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Coquimbo,Rio Hurtado,4372,2,2,0,0
 2020-05-22,Coquimbo,Salamanca,29110,11,10,0,1
 2020-05-22,Coquimbo,Vicuna,29741,10,8,0,2
+2020-05-22,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-05-22,Valparaíso,Algarrobo,15174,32,19,0,13
 2020-05-22,Valparaíso,Cabildo,20663,11,9,0,2
 2020-05-22,Valparaíso,Calera,53591,39,26,0,13
@@ -6309,6 +6602,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Valparaíso,Villa Alemana,139310,109,64,0,45
 2020-05-22,Valparaíso,Vina del Mar,361371,408,276,0,132
 2020-05-22,Valparaíso,Zapallar,7994,0,0,0,0
+2020-05-22,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-05-22,Metropolitana,Alhue,7405,2,2,0,0
 2020-05-22,Metropolitana,Buin,109641,358,208,0,150
 2020-05-22,Metropolitana,Calera de Tango,28525,50,31,0,19
@@ -6361,6 +6655,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Metropolitana,Talagante,81838,155,95,0,60
 2020-05-22,Metropolitana,Tiltil,21477,40,23,0,17
 2020-05-22,Metropolitana,Vitacura,96774,485,295,0,190
+2020-05-22,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-05-22,O’Higgins,Chepica,15925,6,0,0,6
 2020-05-22,O’Higgins,Chimbarongo,37696,6,3,0,3
 2020-05-22,O’Higgins,Codegua,14096,6,3,0,3
@@ -6394,6 +6689,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,O’Higgins,San Fernando,78642,14,10,0,4
 2020-05-22,O’Higgins,San Vicente,50617,35,17,0,18
 2020-05-22,O’Higgins,Santa Cruz,41096,11,7,0,4
+2020-05-22,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-05-22,Maule,Cauquenes,44143,26,16,0,10
 2020-05-22,Maule,Chanco,9331,3,3,0,0
 2020-05-22,Maule,Colbun,22565,19,10,0,9
@@ -6424,6 +6720,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Maule,Vichuquen,4381,0,0,0,0
 2020-05-22,Maule,Villa Alegre,17512,4,3,0,1
 2020-05-22,Maule,Yerbas Buenas,19200,15,5,0,10
+2020-05-22,Maule,Desconocido Maule,0,0,0,0,0
 2020-05-22,Ñuble,Bulnes,22607,138,88,0,50
 2020-05-22,Ñuble,Chillan,198624,505,443,0,62
 2020-05-22,Ñuble,Chillan Viejo,33827,72,58,0,14
@@ -6445,6 +6742,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Ñuble,San Nicolas,12172,19,15,0,4
 2020-05-22,Ñuble,Treguaco,5696,0,0,0,0
 2020-05-22,Ñuble,Yungay,18596,59,56,0,3
+2020-05-22,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-05-22,Biobío,Alto Biobio,6775,1,0,0,1
 2020-05-22,Biobío,Antuco,4306,4,2,0,2
 2020-05-22,Biobío,Arauco,38679,28,15,0,13
@@ -6478,6 +6776,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Biobío,Tome,58729,73,64,0,9
 2020-05-22,Biobío,Tucapel,15205,4,1,0,3
 2020-05-22,Biobío,Yumbel,22132,14,13,0,1
+2020-05-22,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-05-22,Araucanía,Angol,56058,127,121,0,6
 2020-05-22,Araucanía,Carahue,25486,39,36,0,3
 2020-05-22,Araucanía,Cholchol,12341,6,4,0,2
@@ -6510,6 +6809,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Araucanía,Victoria,35467,81,79,0,2
 2020-05-22,Araucanía,Vilcun,30766,63,54,0,9
 2020-05-22,Araucanía,Villarrica,59103,22,21,0,1
+2020-05-22,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-05-22,Los Ríos,Corral,5447,11,3,0,8
 2020-05-22,Los Ríos,Futrono,15261,15,5,0,10
 2020-05-22,Los Ríos,La Union,39538,42,40,0,2
@@ -6522,6 +6822,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Los Ríos,Panguipulli,35991,3,1,0,2
 2020-05-22,Los Ríos,Rio Bueno,32925,13,12,0,1
 2020-05-22,Los Ríos,Valdivia,176774,147,123,0,24
+2020-05-22,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-05-22,Los Lagos,Ancud,42458,83,42,0,41
 2020-05-22,Los Lagos,Calbuco,36744,8,7,0,1
 2020-05-22,Los Lagos,Castro,47607,8,7,0,1
@@ -6552,6 +6853,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Los Lagos,Rio Negro,14275,26,20,0,6
 2020-05-22,Los Lagos,San Juan de la Costa,7639,34,30,0,4
 2020-05-22,Los Lagos,San Pablo,10553,10,9,0,1
+2020-05-22,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-05-22,Aysén,Aysen,25002,1,1,0,0
 2020-05-22,Aysén,Chile Chico,5121,1,1,0,0
 2020-05-22,Aysén,Cisnes,5828,0,0,0,0
@@ -6562,6 +6864,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Aysén,OHiggins,661,0,0,0,0
 2020-05-22,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-05-22,Aysén,Tortel,572,0,0,0,0
+2020-05-22,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-05-22,Magallanes,Antartica,137,0,0,0,0
 2020-05-22,Magallanes,Cabo de Hornos,1983,21,21,0,0
 2020-05-22,Magallanes,Laguna Blanca,264,1,1,0,0
@@ -6573,10 +6876,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Magallanes,San Gregorio,681,3,1,0,2
 2020-05-22,Magallanes,Timaukel,282,0,0,0,0
 2020-05-22,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-05-22,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-05-25,Arica y Parinacota,Arica,247552,525,382,0,143
 2020-05-25,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-25,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-05-25,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-05-25,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-05-25,Tarapacá,Alto Hospicio,129999,591,338,0,253
 2020-05-25,Tarapacá,Camina,1375,0,0,0,0
 2020-05-25,Tarapacá,Colchane,1583,0,0,0,0
@@ -6584,6 +6889,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Tarapacá,Iquique,223463,951,482,0,469
 2020-05-25,Tarapacá,Pica,5958,39,37,0,2
 2020-05-25,Tarapacá,Pozo Almonte,17395,28,9,0,19
+2020-05-25,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-05-25,Antofagasta,Antofagasta,425725,1243,963,0,280
 2020-05-25,Antofagasta,Calama,190336,302,215,0,87
 2020-05-25,Antofagasta,Maria Elena,6814,147,118,0,29
@@ -6593,6 +6899,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Antofagasta,Sierra Gorda,1746,13,9,0,4
 2020-05-25,Antofagasta,Taltal,13657,25,13,0,12
 2020-05-25,Antofagasta,Tocopilla,28079,28,22,0,6
+2020-05-25,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-05-25,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-05-25,Atacama,Caldera,19426,5,4,0,1
 2020-05-25,Atacama,Chanaral,13164,0,0,0,0
@@ -6602,6 +6909,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Atacama,Huasco,11264,1,1,0,0
 2020-05-25,Atacama,Tierra Amarilla,14312,23,23,0,0
 2020-05-25,Atacama,Vallenar,57009,48,43,0,5
+2020-05-25,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-05-25,Coquimbo,Andacollo,11791,4,4,0,0
 2020-05-25,Coquimbo,Canela,9546,2,1,0,1
 2020-05-25,Coquimbo,Combarbala,13884,7,4,0,3
@@ -6617,6 +6925,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Coquimbo,Rio Hurtado,4372,2,2,0,0
 2020-05-25,Coquimbo,Salamanca,29110,12,11,0,1
 2020-05-25,Coquimbo,Vicuna,29741,12,8,0,4
+2020-05-25,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-05-25,Valparaíso,Algarrobo,15174,33,26,0,7
 2020-05-25,Valparaíso,Cabildo,20663,13,10,0,3
 2020-05-25,Valparaíso,Calera,53591,42,30,0,12
@@ -6655,6 +6964,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Valparaíso,Villa Alemana,139310,122,89,0,33
 2020-05-25,Valparaíso,Vina del Mar,361371,476,356,0,120
 2020-05-25,Valparaíso,Zapallar,7994,0,0,0,0
+2020-05-25,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-05-25,Metropolitana,Alhue,7405,3,2,0,1
 2020-05-25,Metropolitana,Buin,109641,432,270,0,162
 2020-05-25,Metropolitana,Calera de Tango,28525,66,37,0,29
@@ -6707,6 +7017,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Metropolitana,Talagante,81838,183,125,0,58
 2020-05-25,Metropolitana,Tiltil,21477,69,42,0,27
 2020-05-25,Metropolitana,Vitacura,96774,569,352,0,217
+2020-05-25,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-05-25,O’Higgins,Chepica,15925,6,0,0,6
 2020-05-25,O’Higgins,Chimbarongo,37696,11,6,0,5
 2020-05-25,O’Higgins,Codegua,14096,6,5,0,1
@@ -6740,6 +7051,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,O’Higgins,San Fernando,78642,17,12,0,5
 2020-05-25,O’Higgins,San Vicente,50617,40,26,0,14
 2020-05-25,O’Higgins,Santa Cruz,41096,12,8,0,4
+2020-05-25,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-05-25,Maule,Cauquenes,44143,32,17,0,15
 2020-05-25,Maule,Chanco,9331,3,3,0,0
 2020-05-25,Maule,Colbun,22565,20,12,0,8
@@ -6770,6 +7082,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Maule,Vichuquen,4381,0,0,0,0
 2020-05-25,Maule,Villa Alegre,17512,5,3,0,2
 2020-05-25,Maule,Yerbas Buenas,19200,18,6,0,12
+2020-05-25,Maule,Desconocido Maule,0,0,0,0,0
 2020-05-25,Ñuble,Bulnes,22607,160,105,0,55
 2020-05-25,Ñuble,Chillan,198624,550,454,0,96
 2020-05-25,Ñuble,Chillan Viejo,33827,91,61,0,30
@@ -6791,6 +7104,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Ñuble,San Nicolas,12172,25,18,0,7
 2020-05-25,Ñuble,Treguaco,5696,0,0,0,0
 2020-05-25,Ñuble,Yungay,18596,59,57,0,2
+2020-05-25,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-05-25,Biobío,Alto Biobio,6775,17,0,0,17
 2020-05-25,Biobío,Antuco,4306,4,2,0,2
 2020-05-25,Biobío,Arauco,38679,34,16,0,18
@@ -6824,6 +7138,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Biobío,Tome,58729,75,69,0,6
 2020-05-25,Biobío,Tucapel,15205,7,1,0,6
 2020-05-25,Biobío,Yumbel,22132,19,14,0,5
+2020-05-25,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-05-25,Araucanía,Angol,56058,138,126,0,12
 2020-05-25,Araucanía,Carahue,25486,45,36,0,9
 2020-05-25,Araucanía,Cholchol,12341,6,5,0,1
@@ -6856,6 +7171,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Araucanía,Victoria,35467,84,79,0,5
 2020-05-25,Araucanía,Vilcun,30766,70,59,0,11
 2020-05-25,Araucanía,Villarrica,59103,23,21,0,2
+2020-05-25,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-05-25,Los Ríos,Corral,5447,13,9,0,4
 2020-05-25,Los Ríos,Futrono,15261,24,6,0,18
 2020-05-25,Los Ríos,La Union,39538,42,40,0,2
@@ -6868,6 +7184,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Los Ríos,Panguipulli,35991,6,1,0,5
 2020-05-25,Los Ríos,Rio Bueno,32925,14,12,0,2
 2020-05-25,Los Ríos,Valdivia,176774,154,125,0,29
+2020-05-25,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-05-25,Los Lagos,Ancud,42458,83,58,0,25
 2020-05-25,Los Lagos,Calbuco,36744,8,8,0,0
 2020-05-25,Los Lagos,Castro,47607,8,8,0,0
@@ -6898,6 +7215,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Los Lagos,Rio Negro,14275,27,22,0,5
 2020-05-25,Los Lagos,San Juan de la Costa,7639,34,33,0,1
 2020-05-25,Los Lagos,San Pablo,10553,12,11,0,1
+2020-05-25,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-05-25,Aysén,Aysen,25002,1,1,0,0
 2020-05-25,Aysén,Chile Chico,5121,1,1,0,0
 2020-05-25,Aysén,Cisnes,5828,0,0,0,0
@@ -6908,6 +7226,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Aysén,OHiggins,661,0,0,0,0
 2020-05-25,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-05-25,Aysén,Tortel,572,0,0,0,0
+2020-05-25,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-05-25,Magallanes,Antartica,137,0,0,0,0
 2020-05-25,Magallanes,Cabo de Hornos,1983,22,21,0,1
 2020-05-25,Magallanes,Laguna Blanca,264,1,1,0,0
@@ -6919,10 +7238,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Magallanes,San Gregorio,681,3,3,0,0
 2020-05-25,Magallanes,Timaukel,282,0,0,0,0
 2020-05-25,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-05-25,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-05-29,Arica y Parinacota,Arica,247552,596,433,0,163
 2020-05-29,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-29,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-05-29,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-05-29,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-05-29,Tarapacá,Alto Hospicio,129999,744,492,0,252
 2020-05-29,Tarapacá,Camina,1375,2,0,0,2
 2020-05-29,Tarapacá,Colchane,1583,1,0,0,1
@@ -6930,6 +7251,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Tarapacá,Iquique,223463,1218,704,0,514
 2020-05-29,Tarapacá,Pica,5958,45,38,0,7
 2020-05-29,Tarapacá,Pozo Almonte,17395,47,17,0,30
+2020-05-29,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-05-29,Antofagasta,Antofagasta,425725,1395,1156,0,239
 2020-05-29,Antofagasta,Calama,190336,415,317,0,98
 2020-05-29,Antofagasta,Maria Elena,6814,154,137,0,17
@@ -6939,6 +7261,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Antofagasta,Sierra Gorda,1746,13,13,0,0
 2020-05-29,Antofagasta,Taltal,13657,26,22,0,4
 2020-05-29,Antofagasta,Tocopilla,28079,30,25,0,5
+2020-05-29,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-05-29,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-05-29,Atacama,Caldera,19426,6,4,0,2
 2020-05-29,Atacama,Chanaral,13164,1,0,0,1
@@ -6948,6 +7271,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Atacama,Huasco,11264,1,1,0,0
 2020-05-29,Atacama,Tierra Amarilla,14312,24,23,0,1
 2020-05-29,Atacama,Vallenar,57009,50,45,0,5
+2020-05-29,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-05-29,Coquimbo,Andacollo,11791,13,12,0,1
 2020-05-29,Coquimbo,Canela,9546,2,2,0,0
 2020-05-29,Coquimbo,Combarbala,13884,9,8,0,1
@@ -6963,6 +7287,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Coquimbo,Rio Hurtado,4372,2,2,0,0
 2020-05-29,Coquimbo,Salamanca,29110,14,12,0,2
 2020-05-29,Coquimbo,Vicuna,29741,14,10,0,4
+2020-05-29,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-05-29,Valparaíso,Algarrobo,15174,36,31,0,5
 2020-05-29,Valparaíso,Cabildo,20663,18,14,0,4
 2020-05-29,Valparaíso,Calera,53591,51,39,0,12
@@ -7001,6 +7326,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Valparaíso,Villa Alemana,139310,147,117,0,30
 2020-05-29,Valparaíso,Vina del Mar,361371,589,453,0,136
 2020-05-29,Valparaíso,Zapallar,7994,3,3,0,0
+2020-05-29,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-05-29,Metropolitana,Alhue,7405,5,4,0,1
 2020-05-29,Metropolitana,Buin,109641,471,369,0,102
 2020-05-29,Metropolitana,Calera de Tango,28525,83,51,0,32
@@ -7053,6 +7379,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Metropolitana,Talagante,81838,224,165,0,59
 2020-05-29,Metropolitana,Tiltil,21477,112,71,0,41
 2020-05-29,Metropolitana,Vitacura,96774,646,465,0,181
+2020-05-29,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-05-29,O’Higgins,Chepica,15925,6,6,0,0
 2020-05-29,O’Higgins,Chimbarongo,37696,16,13,0,3
 2020-05-29,O’Higgins,Codegua,14096,8,6,0,2
@@ -7086,6 +7413,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,O’Higgins,San Fernando,78642,25,18,0,7
 2020-05-29,O’Higgins,San Vicente,50617,43,43,0,0
 2020-05-29,O’Higgins,Santa Cruz,41096,13,11,0,2
+2020-05-29,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-05-29,Maule,Cauquenes,44143,44,22,0,22
 2020-05-29,Maule,Chanco,9331,3,3,0,0
 2020-05-29,Maule,Colbun,22565,32,16,0,16
@@ -7116,6 +7444,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Maule,Vichuquen,4381,0,0,0,0
 2020-05-29,Maule,Villa Alegre,17512,6,4,0,2
 2020-05-29,Maule,Yerbas Buenas,19200,24,13,0,11
+2020-05-29,Maule,Desconocido Maule,0,0,0,0,0
 2020-05-29,Ñuble,Bulnes,22607,169,132,0,37
 2020-05-29,Ñuble,Chillan,198624,582,490,0,92
 2020-05-29,Ñuble,Chillan Viejo,33827,97,70,0,27
@@ -7137,6 +7466,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Ñuble,San Nicolas,12172,26,20,0,6
 2020-05-29,Ñuble,Treguaco,5696,1,0,0,1
 2020-05-29,Ñuble,Yungay,18596,62,58,0,4
+2020-05-29,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-05-29,Biobío,Alto Biobio,6775,45,4,0,41
 2020-05-29,Biobío,Antuco,4306,14,3,0,11
 2020-05-29,Biobío,Arauco,38679,44,21,0,23
@@ -7170,6 +7500,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Biobío,Tome,58729,79,73,0,6
 2020-05-29,Biobío,Tucapel,15205,8,4,0,4
 2020-05-29,Biobío,Yumbel,22132,24,16,0,8
+2020-05-29,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-05-29,Araucanía,Angol,56058,149,128,0,21
 2020-05-29,Araucanía,Carahue,25486,50,37,0,13
 2020-05-29,Araucanía,Cholchol,12341,6,5,0,1
@@ -7202,6 +7533,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Araucanía,Victoria,35467,90,80,0,10
 2020-05-29,Araucanía,Vilcun,30766,83,64,0,19
 2020-05-29,Araucanía,Villarrica,59103,25,22,0,3
+2020-05-29,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-05-29,Los Ríos,Corral,5447,13,11,0,2
 2020-05-29,Los Ríos,Futrono,15261,30,9,0,21
 2020-05-29,Los Ríos,La Union,39538,43,42,0,1
@@ -7214,6 +7546,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Los Ríos,Panguipulli,35991,8,2,0,6
 2020-05-29,Los Ríos,Rio Bueno,32925,14,12,0,2
 2020-05-29,Los Ríos,Valdivia,176774,160,126,0,34
+2020-05-29,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-05-29,Los Lagos,Ancud,42458,84,72,0,12
 2020-05-29,Los Lagos,Calbuco,36744,8,8,0,0
 2020-05-29,Los Lagos,Castro,47607,8,8,0,0
@@ -7244,6 +7577,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Los Lagos,Rio Negro,14275,32,26,0,6
 2020-05-29,Los Lagos,San Juan de la Costa,7639,34,34,0,0
 2020-05-29,Los Lagos,San Pablo,10553,12,11,0,1
+2020-05-29,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-05-29,Aysén,Aysen,25002,4,1,0,3
 2020-05-29,Aysén,Chile Chico,5121,1,1,0,0
 2020-05-29,Aysén,Cisnes,5828,0,0,0,0
@@ -7254,6 +7588,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Aysén,OHiggins,661,0,0,0,0
 2020-05-29,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-05-29,Aysén,Tortel,572,0,0,0,0
+2020-05-29,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-05-29,Magallanes,Antartica,137,0,0,0,0
 2020-05-29,Magallanes,Cabo de Hornos,1983,22,21,0,1
 2020-05-29,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -7265,10 +7600,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Magallanes,San Gregorio,681,2,2,0,0
 2020-05-29,Magallanes,Timaukel,282,0,0,0,0
 2020-05-29,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-05-29,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-06-01,Arica y Parinacota,Arica,247552,653,476,0,177
 2020-06-01,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-06-01,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-06-01,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-06-01,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-06-01,Tarapacá,Alto Hospicio,129999,919,622,0,297
 2020-06-01,Tarapacá,Camina,1375,4,1,0,3
 2020-06-01,Tarapacá,Colchane,1583,1,0,0,1
@@ -7276,6 +7613,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Tarapacá,Iquique,223463,1447,915,0,532
 2020-06-01,Tarapacá,Pica,5958,51,39,0,12
 2020-06-01,Tarapacá,Pozo Almonte,17395,69,23,0,46
+2020-06-01,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-06-01,Antofagasta,Antofagasta,425725,1550,1279,0,271
 2020-06-01,Antofagasta,Calama,190336,486,431,0,55
 2020-06-01,Antofagasta,Maria Elena,6814,157,146,0,11
@@ -7285,6 +7623,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Antofagasta,Sierra Gorda,1746,14,13,0,1
 2020-06-01,Antofagasta,Taltal,13657,33,25,0,8
 2020-06-01,Antofagasta,Tocopilla,28079,32,30,0,2
+2020-06-01,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-06-01,Atacama,Alto del Carmen,5729,0,0,0,0
 2020-06-01,Atacama,Caldera,19426,7,5,0,2
 2020-06-01,Atacama,Chanaral,13164,1,0,0,1
@@ -7294,6 +7633,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Atacama,Huasco,11264,1,1,0,0
 2020-06-01,Atacama,Tierra Amarilla,14312,24,23,0,1
 2020-06-01,Atacama,Vallenar,57009,56,46,0,10
+2020-06-01,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-06-01,Coquimbo,Andacollo,11791,13,12,0,1
 2020-06-01,Coquimbo,Canela,9546,2,2,0,0
 2020-06-01,Coquimbo,Combarbala,13884,14,11,0,3
@@ -7309,6 +7649,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Coquimbo,Rio Hurtado,4372,5,2,0,3
 2020-06-01,Coquimbo,Salamanca,29110,19,13,0,6
 2020-06-01,Coquimbo,Vicuna,29741,14,12,0,2
+2020-06-01,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-06-01,Valparaíso,Algarrobo,15174,42,34,0,8
 2020-06-01,Valparaíso,Cabildo,20663,18,15,0,3
 2020-06-01,Valparaíso,Calera,53591,64,48,0,16
@@ -7347,6 +7688,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Valparaíso,Villa Alemana,139310,172,139,0,33
 2020-06-01,Valparaíso,Vina del Mar,361371,724,538,0,186
 2020-06-01,Valparaíso,Zapallar,7994,3,3,0,0
+2020-06-01,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-06-01,Metropolitana,Alhue,7405,7,6,0,1
 2020-06-01,Metropolitana,Buin,109641,540,432,0,108
 2020-06-01,Metropolitana,Calera de Tango,28525,93,67,0,26
@@ -7399,6 +7741,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Metropolitana,Talagante,81838,276,212,0,64
 2020-06-01,Metropolitana,Tiltil,21477,121,87,0,34
 2020-06-01,Metropolitana,Vitacura,96774,712,557,0,155
+2020-06-01,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-06-01,O’Higgins,Chepica,15925,8,7,0,1
 2020-06-01,O’Higgins,Chimbarongo,37696,19,17,0,2
 2020-06-01,O’Higgins,Codegua,14096,9,6,0,3
@@ -7432,6 +7775,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,O’Higgins,San Fernando,78642,34,21,0,13
 2020-06-01,O’Higgins,San Vicente,50617,45,44,0,1
 2020-06-01,O’Higgins,Santa Cruz,41096,15,12,0,3
+2020-06-01,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-06-01,Maule,Cauquenes,44143,63,30,0,33
 2020-06-01,Maule,Chanco,9331,4,3,0,1
 2020-06-01,Maule,Colbun,22565,33,22,0,11
@@ -7462,6 +7806,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Maule,Vichuquen,4381,0,0,0,0
 2020-06-01,Maule,Villa Alegre,17512,6,5,0,1
 2020-06-01,Maule,Yerbas Buenas,19200,28,18,0,10
+2020-06-01,Maule,Desconocido Maule,0,0,0,0,0
 2020-06-01,Ñuble,Bulnes,22607,178,145,0,33
 2020-06-01,Ñuble,Chillan,198624,601,518,0,83
 2020-06-01,Ñuble,Chillan Viejo,33827,100,81,0,19
@@ -7483,6 +7828,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Ñuble,San Nicolas,12172,26,22,0,4
 2020-06-01,Ñuble,Treguaco,5696,1,1,0,0
 2020-06-01,Ñuble,Yungay,18596,62,59,0,3
+2020-06-01,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-06-01,Biobío,Alto Biobio,6775,88,9,0,79
 2020-06-01,Biobío,Antuco,4306,16,4,0,12
 2020-06-01,Biobío,Arauco,38679,63,30,0,33
@@ -7516,6 +7862,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Biobío,Tome,58729,85,76,0,9
 2020-06-01,Biobío,Tucapel,15205,12,5,0,7
 2020-06-01,Biobío,Yumbel,22132,27,16,0,11
+2020-06-01,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-06-01,Araucanía,Angol,56058,157,131,0,26
 2020-06-01,Araucanía,Carahue,25486,53,43,0,10
 2020-06-01,Araucanía,Cholchol,12341,7,5,0,2
@@ -7548,6 +7895,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Araucanía,Victoria,35467,93,81,0,12
 2020-06-01,Araucanía,Vilcun,30766,91,68,0,23
 2020-06-01,Araucanía,Villarrica,59103,31,22,0,9
+2020-06-01,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-06-01,Los Ríos,Corral,5447,13,11,0,2
 2020-06-01,Los Ríos,Futrono,15261,34,14,0,20
 2020-06-01,Los Ríos,La Union,39538,44,42,0,2
@@ -7560,6 +7908,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Los Ríos,Panguipulli,35991,12,6,0,6
 2020-06-01,Los Ríos,Rio Bueno,32925,16,13,0,3
 2020-06-01,Los Ríos,Valdivia,176774,174,149,0,25
+2020-06-01,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-06-01,Los Lagos,Ancud,42458,84,74,0,10
 2020-06-01,Los Lagos,Calbuco,36744,8,8,0,0
 2020-06-01,Los Lagos,Castro,47607,8,8,0,0
@@ -7590,6 +7939,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Los Lagos,Rio Negro,14275,32,26,0,6
 2020-06-01,Los Lagos,San Juan de la Costa,7639,34,34,0,0
 2020-06-01,Los Lagos,San Pablo,10553,12,11,0,1
+2020-06-01,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-06-01,Aysén,Aysen,25002,4,1,0,3
 2020-06-01,Aysén,Chile Chico,5121,1,1,0,0
 2020-06-01,Aysén,Cisnes,5828,0,0,0,0
@@ -7600,6 +7950,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Aysén,OHiggins,661,0,0,0,0
 2020-06-01,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-06-01,Aysén,Tortel,572,0,0,0,0
+2020-06-01,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-06-01,Magallanes,Antartica,137,0,0,0,0
 2020-06-01,Magallanes,Cabo de Hornos,1983,22,21,0,1
 2020-06-01,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -7611,10 +7962,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Magallanes,San Gregorio,681,2,2,0,0
 2020-06-01,Magallanes,Timaukel,282,0,0,0,0
 2020-06-01,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-06-01,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-06-05,Arica y Parinacota,Arica,247552,806,558,0,248
 2020-06-05,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-06-05,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-06-05,Arica y Parinacota,Putre,2515,0,0,0,0
+2020-06-05,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-06-05,Tarapacá,Alto Hospicio,129999,1062,797,0,265
 2020-06-05,Tarapacá,Camina,1375,8,1,0,7
 2020-06-05,Tarapacá,Colchane,1583,4,1,0,3
@@ -7622,6 +7975,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Tarapacá,Iquique,223463,1700,1191,0,509
 2020-06-05,Tarapacá,Pica,5958,57,42,0,15
 2020-06-05,Tarapacá,Pozo Almonte,17395,91,47,0,44
+2020-06-05,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-06-05,Antofagasta,Antofagasta,425725,1710,1459,0,251
 2020-06-05,Antofagasta,Calama,190336,626,553,0,73
 2020-06-05,Antofagasta,Maria Elena,6814,160,155,0,5
@@ -7631,6 +7985,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Antofagasta,Sierra Gorda,1746,16,16,0,0
 2020-06-05,Antofagasta,Taltal,13657,37,29,0,8
 2020-06-05,Antofagasta,Tocopilla,28079,35,32,0,3
+2020-06-05,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-06-05,Atacama,Alto del Carmen,5729,1,0,0,1
 2020-06-05,Atacama,Caldera,19426,9,5,0,4
 2020-06-05,Atacama,Chanaral,13164,1,0,0,1
@@ -7640,6 +7995,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Atacama,Huasco,11264,2,1,0,1
 2020-06-05,Atacama,Tierra Amarilla,14312,25,23,0,2
 2020-06-05,Atacama,Vallenar,57009,65,49,0,16
+2020-06-05,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-06-05,Coquimbo,Andacollo,11791,17,14,0,3
 2020-06-05,Coquimbo,Canela,9546,3,3,0,0
 2020-06-05,Coquimbo,Combarbala,13884,14,11,0,3
@@ -7655,6 +8011,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Coquimbo,Rio Hurtado,4372,7,3,0,4
 2020-06-05,Coquimbo,Salamanca,29110,22,15,0,7
 2020-06-05,Coquimbo,Vicuna,29741,17,14,0,3
+2020-06-05,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-06-05,Valparaíso,Algarrobo,15174,48,42,0,6
 2020-06-05,Valparaíso,Cabildo,20663,24,19,0,5
 2020-06-05,Valparaíso,Calera,53591,82,63,0,19
@@ -7693,6 +8050,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Valparaíso,Villa Alemana,139310,233,159,0,74
 2020-06-05,Valparaíso,Vina del Mar,361371,861,643,0,218
 2020-06-05,Valparaíso,Zapallar,7994,3,3,0,0
+2020-06-05,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-06-05,Metropolitana,Alhue,7405,7,7,0,0
 2020-06-05,Metropolitana,Buin,109641,692,586,0,106
 2020-06-05,Metropolitana,Calera de Tango,28525,109,85,0,24
@@ -7745,6 +8103,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Metropolitana,Talagante,81838,343,278,0,65
 2020-06-05,Metropolitana,Tiltil,21477,134,111,0,23
 2020-06-05,Metropolitana,Vitacura,96774,780,651,0,129
+2020-06-05,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-06-05,O’Higgins,Chepica,15925,6,5,0,1
 2020-06-05,O’Higgins,Chimbarongo,37696,23,20,0,3
 2020-06-05,O’Higgins,Codegua,14096,11,6,0,5
@@ -7778,6 +8137,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,O’Higgins,San Fernando,78642,46,25,0,21
 2020-06-05,O’Higgins,San Vicente,50617,51,50,0,1
 2020-06-05,O’Higgins,Santa Cruz,41096,19,13,0,6
+2020-06-05,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-06-05,Maule,Cauquenes,44143,91,37,0,54
 2020-06-05,Maule,Chanco,9331,4,3,0,1
 2020-06-05,Maule,Colbun,22565,42,27,0,15
@@ -7808,6 +8168,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Maule,Vichuquen,4381,0,0,0,0
 2020-06-05,Maule,Villa Alegre,17512,12,5,0,7
 2020-06-05,Maule,Yerbas Buenas,19200,46,26,0,20
+2020-06-05,Maule,Desconocido Maule,0,0,0,0,0
 2020-06-05,Ñuble,Bulnes,22607,189,167,0,22
 2020-06-05,Ñuble,Chillan,198624,648,558,0,90
 2020-06-05,Ñuble,Chillan Viejo,33827,107,94,0,13
@@ -7829,6 +8190,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Ñuble,San Nicolas,12172,33,26,0,7
 2020-06-05,Ñuble,Treguaco,5696,1,1,0,0
 2020-06-05,Ñuble,Yungay,18596,63,59,0,4
+2020-06-05,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-06-05,Biobío,Alto Biobio,6775,98,32,0,66
 2020-06-05,Biobío,Antuco,4306,18,5,0,13
 2020-06-05,Biobío,Arauco,38679,68,42,0,26
@@ -7862,6 +8224,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Biobío,Tome,58729,96,79,0,17
 2020-06-05,Biobío,Tucapel,15205,24,7,0,17
 2020-06-05,Biobío,Yumbel,22132,32,19,0,13
+2020-06-05,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-06-05,Araucanía,Angol,56058,172,143,0,29
 2020-06-05,Araucanía,Carahue,25486,63,49,0,14
 2020-06-05,Araucanía,Cholchol,12341,16,6,0,10
@@ -7894,6 +8257,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Araucanía,Victoria,35467,113,94,0,19
 2020-06-05,Araucanía,Vilcun,30766,92,81,0,11
 2020-06-05,Araucanía,Villarrica,59103,33,27,0,6
+2020-06-05,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-06-05,Los Ríos,Corral,5447,13,13,0,0
 2020-06-05,Los Ríos,Futrono,15261,40,29,0,11
 2020-06-05,Los Ríos,La Union,39538,48,43,0,5
@@ -7906,6 +8270,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Los Ríos,Panguipulli,35991,21,8,0,13
 2020-06-05,Los Ríos,Rio Bueno,32925,16,14,0,2
 2020-06-05,Los Ríos,Valdivia,176774,182,159,0,23
+2020-06-05,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-06-05,Los Lagos,Ancud,42458,85,83,0,2
 2020-06-05,Los Lagos,Calbuco,36744,8,8,0,0
 2020-06-05,Los Lagos,Castro,47607,8,8,0,0
@@ -7936,6 +8301,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Los Lagos,Rio Negro,14275,31,26,0,5
 2020-06-05,Los Lagos,San Juan de la Costa,7639,34,34,0,0
 2020-06-05,Los Lagos,San Pablo,10553,12,11,0,1
+2020-06-05,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-06-05,Aysén,Aysen,25002,4,2,0,2
 2020-06-05,Aysén,Chile Chico,5121,1,1,0,0
 2020-06-05,Aysén,Cisnes,5828,0,0,0,0
@@ -7946,6 +8312,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Aysén,OHiggins,661,0,0,0,0
 2020-06-05,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-06-05,Aysén,Tortel,572,0,0,0,0
+2020-06-05,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-06-05,Magallanes,Antartica,137,0,0,0,0
 2020-06-05,Magallanes,Cabo de Hornos,1983,21,20,0,1
 2020-06-05,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -7957,10 +8324,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Magallanes,San Gregorio,681,2,2,0,0
 2020-06-05,Magallanes,Timaukel,282,0,0,0,0
 2020-06-05,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-06-05,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-06-08,Arica y Parinacota,Arica,247552,904,626,0,278
 2020-06-08,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-06-08,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-06-08,Arica y Parinacota,Putre,2515,1,0,0,1
+2020-06-08,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-06-08,Tarapacá,Alto Hospicio,129999,1238,937,0,301
 2020-06-08,Tarapacá,Camina,1375,10,3,0,7
 2020-06-08,Tarapacá,Colchane,1583,5,2,0,3
@@ -7968,6 +8337,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Tarapacá,Iquique,223463,1904,1383,0,521
 2020-06-08,Tarapacá,Pica,5958,59,45,0,14
 2020-06-08,Tarapacá,Pozo Almonte,17395,121,65,0,56
+2020-06-08,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-06-08,Antofagasta,Antofagasta,425725,1876,1569,0,307
 2020-06-08,Antofagasta,Calama,190336,756,664,0,92
 2020-06-08,Antofagasta,Maria Elena,6814,168,160,0,8
@@ -7977,6 +8347,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Antofagasta,Sierra Gorda,1746,21,16,0,5
 2020-06-08,Antofagasta,Taltal,13657,37,30,0,7
 2020-06-08,Antofagasta,Tocopilla,28079,38,35,0,3
+2020-06-08,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-06-08,Atacama,Alto del Carmen,5729,2,0,0,2
 2020-06-08,Atacama,Caldera,19426,10,6,0,4
 2020-06-08,Atacama,Chanaral,13164,1,1,0,0
@@ -7986,6 +8357,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Atacama,Huasco,11264,5,1,0,4
 2020-06-08,Atacama,Tierra Amarilla,14312,26,23,0,3
 2020-06-08,Atacama,Vallenar,57009,80,53,0,27
+2020-06-08,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-06-08,Coquimbo,Andacollo,11791,19,15,0,4
 2020-06-08,Coquimbo,Canela,9546,4,4,0,0
 2020-06-08,Coquimbo,Combarbala,13884,20,12,0,8
@@ -8001,6 +8373,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Coquimbo,Rio Hurtado,4372,10,5,0,5
 2020-06-08,Coquimbo,Salamanca,29110,37,21,0,16
 2020-06-08,Coquimbo,Vicuna,29741,19,15,0,4
+2020-06-08,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-06-08,Valparaíso,Algarrobo,15174,57,45,0,12
 2020-06-08,Valparaíso,Cabildo,20663,32,23,0,9
 2020-06-08,Valparaíso,Calera,53591,94,73,0,21
@@ -8039,6 +8412,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Valparaíso,Villa Alemana,139310,288,200,0,88
 2020-06-08,Valparaíso,Vina del Mar,361371,992,758,0,234
 2020-06-08,Valparaíso,Zapallar,7994,3,3,0,0
+2020-06-08,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-06-08,Metropolitana,Alhue,7405,10,9,0,1
 2020-06-08,Metropolitana,Buin,109641,815,682,0,133
 2020-06-08,Metropolitana,Calera de Tango,28525,146,101,0,45
@@ -8091,6 +8465,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Metropolitana,Talagante,81838,432,313,0,119
 2020-06-08,Metropolitana,Tiltil,21477,140,119,0,21
 2020-06-08,Metropolitana,Vitacura,96774,859,733,0,126
+2020-06-08,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-06-08,O’Higgins,Chepica,15925,8,6,0,2
 2020-06-08,O’Higgins,Chimbarongo,37696,32,28,0,4
 2020-06-08,O’Higgins,Codegua,14096,14,10,0,4
@@ -8124,6 +8499,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,O’Higgins,San Fernando,78642,57,38,0,19
 2020-06-08,O’Higgins,San Vicente,50617,52,50,0,2
 2020-06-08,O’Higgins,Santa Cruz,41096,22,16,0,6
+2020-06-08,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-06-08,Maule,Cauquenes,44143,143,48,0,95
 2020-06-08,Maule,Chanco,9331,6,4,0,2
 2020-06-08,Maule,Colbun,22565,46,33,0,13
@@ -8154,6 +8530,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Maule,Vichuquen,4381,0,0,0,0
 2020-06-08,Maule,Villa Alegre,17512,17,8,0,9
 2020-06-08,Maule,Yerbas Buenas,19200,48,31,0,17
+2020-06-08,Maule,Desconocido Maule,0,0,0,0,0
 2020-06-08,Ñuble,Bulnes,22607,197,171,0,26
 2020-06-08,Ñuble,Chillan,198624,700,581,0,119
 2020-06-08,Ñuble,Chillan Viejo,33827,115,99,0,16
@@ -8175,6 +8552,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Ñuble,San Nicolas,12172,35,27,0,8
 2020-06-08,Ñuble,Treguaco,5696,2,1,0,1
 2020-06-08,Ñuble,Yungay,18596,67,60,0,7
+2020-06-08,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-06-08,Biobío,Alto Biobio,6775,120,56,0,64
 2020-06-08,Biobío,Antuco,4306,19,14,0,5
 2020-06-08,Biobío,Arauco,38679,75,45,0,30
@@ -8208,6 +8586,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Biobío,Tome,58729,107,82,0,25
 2020-06-08,Biobío,Tucapel,15205,35,12,0,23
 2020-06-08,Biobío,Yumbel,22132,35,24,0,11
+2020-06-08,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-06-08,Araucanía,Angol,56058,185,157,0,28
 2020-06-08,Araucanía,Carahue,25486,69,54,0,15
 2020-06-08,Araucanía,Cholchol,12341,22,6,0,16
@@ -8240,6 +8619,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Araucanía,Victoria,35467,120,103,0,17
 2020-06-08,Araucanía,Vilcun,30766,96,86,0,10
 2020-06-08,Araucanía,Villarrica,59103,35,27,0,8
+2020-06-08,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-06-08,Los Ríos,Corral,5447,18,13,0,5
 2020-06-08,Los Ríos,Futrono,15261,43,30,0,13
 2020-06-08,Los Ríos,La Union,39538,52,44,0,8
@@ -8252,6 +8632,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Los Ríos,Panguipulli,35991,33,10,0,23
 2020-06-08,Los Ríos,Rio Bueno,32925,18,16,0,2
 2020-06-08,Los Ríos,Valdivia,176774,189,163,0,26
+2020-06-08,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-06-08,Los Lagos,Ancud,42458,86,84,0,2
 2020-06-08,Los Lagos,Calbuco,36744,8,8,0,0
 2020-06-08,Los Lagos,Castro,47607,8,8,0,0
@@ -8282,6 +8663,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Los Lagos,Rio Negro,14275,32,31,0,1
 2020-06-08,Los Lagos,San Juan de la Costa,7639,34,34,0,0
 2020-06-08,Los Lagos,San Pablo,10553,12,12,0,0
+2020-06-08,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-06-08,Aysén,Aysen,25002,4,3,0,1
 2020-06-08,Aysén,Chile Chico,5121,1,1,0,0
 2020-06-08,Aysén,Cisnes,5828,0,0,0,0
@@ -8292,6 +8674,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Aysén,OHiggins,661,0,0,0,0
 2020-06-08,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-06-08,Aysén,Tortel,572,0,0,0,0
+2020-06-08,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-06-08,Magallanes,Antartica,137,0,0,0,0
 2020-06-08,Magallanes,Cabo de Hornos,1983,21,21,0,0
 2020-06-08,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -8303,10 +8686,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Magallanes,San Gregorio,681,2,2,0,0
 2020-06-08,Magallanes,Timaukel,282,0,0,0,0
 2020-06-08,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-06-08,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-06-12,Arica y Parinacota,Arica,247552,1046,718,0,328
 2020-06-12,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-06-12,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-06-12,Arica y Parinacota,Putre,2515,2,0,0,2
+2020-06-12,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-06-12,Tarapacá,Alto Hospicio,129999,1345,1110,0,235
 2020-06-12,Tarapacá,Camina,1375,10,6,0,4
 2020-06-12,Tarapacá,Colchane,1583,10,2,0,8
@@ -8314,6 +8699,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Tarapacá,Iquique,223463,2142,1668,0,474
 2020-06-12,Tarapacá,Pica,5958,60,52,0,8
 2020-06-12,Tarapacá,Pozo Almonte,17395,192,95,0,97
+2020-06-12,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-06-12,Antofagasta,Antofagasta,425725,2106,1757,0,349
 2020-06-12,Antofagasta,Calama,190336,1138,917,0,221
 2020-06-12,Antofagasta,Maria Elena,6814,172,166,0,6
@@ -8323,6 +8709,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Antofagasta,Sierra Gorda,1746,26,19,0,7
 2020-06-12,Antofagasta,Taltal,13657,41,35,0,6
 2020-06-12,Antofagasta,Tocopilla,28079,44,39,0,5
+2020-06-12,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-06-12,Atacama,Alto del Carmen,5729,2,1,0,1
 2020-06-12,Atacama,Caldera,19426,13,9,0,4
 2020-06-12,Atacama,Chanaral,13164,3,1,0,2
@@ -8332,6 +8719,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Atacama,Huasco,11264,8,1,0,7
 2020-06-12,Atacama,Tierra Amarilla,14312,30,24,0,6
 2020-06-12,Atacama,Vallenar,57009,84,57,0,27
+2020-06-12,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-06-12,Coquimbo,Andacollo,11791,25,19,0,6
 2020-06-12,Coquimbo,Canela,9546,6,4,0,2
 2020-06-12,Coquimbo,Combarbala,13884,20,16,0,4
@@ -8347,6 +8735,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Coquimbo,Rio Hurtado,4372,13,7,0,6
 2020-06-12,Coquimbo,Salamanca,29110,42,27,0,15
 2020-06-12,Coquimbo,Vicuna,29741,21,19,0,2
+2020-06-12,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-06-12,Valparaíso,Algarrobo,15174,67,50,0,17
 2020-06-12,Valparaíso,Cabildo,20663,36,29,0,7
 2020-06-12,Valparaíso,Calera,53591,112,79,0,33
@@ -8385,6 +8774,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Valparaíso,Villa Alemana,139310,326,256,0,70
 2020-06-12,Valparaíso,Vina del Mar,361371,1168,916,0,252
 2020-06-12,Valparaíso,Zapallar,7994,3,3,0,0
+2020-06-12,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-06-12,Metropolitana,Alhue,7405,16,11,0,5
 2020-06-12,Metropolitana,Buin,109641,978,763,0,215
 2020-06-12,Metropolitana,Calera de Tango,28525,186,140,0,46
@@ -8437,6 +8827,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Metropolitana,Talagante,81838,518,382,0,136
 2020-06-12,Metropolitana,Tiltil,21477,185,140,0,45
 2020-06-12,Metropolitana,Vitacura,96774,936,815,0,121
+2020-06-12,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-06-12,O’Higgins,Chepica,15925,9,7,0,2
 2020-06-12,O’Higgins,Chimbarongo,37696,42,33,0,9
 2020-06-12,O’Higgins,Codegua,14096,18,11,0,7
@@ -8470,6 +8861,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,O’Higgins,San Fernando,78642,71,57,0,14
 2020-06-12,O’Higgins,San Vicente,50617,67,62,0,5
 2020-06-12,O’Higgins,Santa Cruz,41096,35,20,0,15
+2020-06-12,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-06-12,Maule,Cauquenes,44143,141,77,0,64
 2020-06-12,Maule,Chanco,9331,11,5,0,6
 2020-06-12,Maule,Colbun,22565,53,43,0,10
@@ -8500,6 +8892,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Maule,Vichuquen,4381,0,0,0,0
 2020-06-12,Maule,Villa Alegre,17512,23,10,0,13
 2020-06-12,Maule,Yerbas Buenas,19200,59,48,0,11
+2020-06-12,Maule,Desconocido Maule,0,0,0,0,0
 2020-06-12,Ñuble,Bulnes,22607,201,183,0,18
 2020-06-12,Ñuble,Chillan,198624,767,627,0,140
 2020-06-12,Ñuble,Chillan Viejo,33827,126,102,0,24
@@ -8521,6 +8914,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Ñuble,San Nicolas,12172,40,33,0,7
 2020-06-12,Ñuble,Treguaco,5696,3,1,0,2
 2020-06-12,Ñuble,Yungay,18596,69,63,0,6
+2020-06-12,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-06-12,Biobío,Alto Biobio,6775,123,91,0,32
 2020-06-12,Biobío,Antuco,4306,23,16,0,7
 2020-06-12,Biobío,Arauco,38679,85,66,0,19
@@ -8554,6 +8948,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Biobío,Tome,58729,135,89,0,46
 2020-06-12,Biobío,Tucapel,15205,49,20,0,29
 2020-06-12,Biobío,Yumbel,22132,37,31,0,6
+2020-06-12,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-06-12,Araucanía,Angol,56058,226,169,0,57
 2020-06-12,Araucanía,Carahue,25486,68,63,0,5
 2020-06-12,Araucanía,Cholchol,12341,24,14,0,10
@@ -8586,6 +8981,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Araucanía,Victoria,35467,134,111,0,23
 2020-06-12,Araucanía,Vilcun,30766,100,92,0,8
 2020-06-12,Araucanía,Villarrica,59103,41,34,0,7
+2020-06-12,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-06-12,Los Ríos,Corral,5447,20,13,0,7
 2020-06-12,Los Ríos,Futrono,15261,53,37,0,16
 2020-06-12,Los Ríos,La Union,39538,59,50,0,9
@@ -8598,6 +8994,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Los Ríos,Panguipulli,35991,33,17,0,16
 2020-06-12,Los Ríos,Rio Bueno,32925,18,17,0,1
 2020-06-12,Los Ríos,Valdivia,176774,200,180,0,20
+2020-06-12,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-06-12,Los Lagos,Ancud,42458,87,84,0,3
 2020-06-12,Los Lagos,Calbuco,36744,9,8,0,1
 2020-06-12,Los Lagos,Castro,47607,9,8,0,1
@@ -8628,6 +9025,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Los Lagos,Rio Negro,14275,32,32,0,0
 2020-06-12,Los Lagos,San Juan de la Costa,7639,40,34,0,6
 2020-06-12,Los Lagos,San Pablo,10553,12,12,0,0
+2020-06-12,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-06-12,Aysén,Aysen,25002,4,4,0,0
 2020-06-12,Aysén,Chile Chico,5121,1,1,0,0
 2020-06-12,Aysén,Cisnes,5828,0,0,0,0
@@ -8638,6 +9036,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Aysén,OHiggins,661,0,0,0,0
 2020-06-12,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-06-12,Aysén,Tortel,572,0,0,0,0
+2020-06-12,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-06-12,Magallanes,Antartica,137,0,0,0,0
 2020-06-12,Magallanes,Cabo de Hornos,1983,21,21,0,0
 2020-06-12,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -8649,10 +9048,12 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Magallanes,San Gregorio,681,2,2,0,0
 2020-06-12,Magallanes,Timaukel,282,0,0,0,0
 2020-06-12,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-06-12,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
 2020-06-15,Arica y Parinacota,Arica,247552,1176,823,0,353
 2020-06-15,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-06-15,Arica y Parinacota,General Lagos,810,0,0,0,0
 2020-06-15,Arica y Parinacota,Putre,2515,3,0,0,3
+2020-06-15,Arica y Parinacota,Desconocido Arica y Parinacota,0,0,0,0,0
 2020-06-15,Tarapacá,Alto Hospicio,129999,1468,1221,0,247
 2020-06-15,Tarapacá,Camina,1375,12,9,0,3
 2020-06-15,Tarapacá,Colchane,1583,16,4,0,12
@@ -8660,6 +9061,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Tarapacá,Iquique,223463,2379,1832,0,547
 2020-06-15,Tarapacá,Pica,5958,67,53,0,14
 2020-06-15,Tarapacá,Pozo Almonte,17395,240,125,0,115
+2020-06-15,Tarapacá,Desconocido Tarapaca,0,0,0,0,0
 2020-06-15,Antofagasta,Antofagasta,425725,2339,1906,0,433
 2020-06-15,Antofagasta,Calama,190336,1532,1162,0,370
 2020-06-15,Antofagasta,Maria Elena,6814,175,169,0,6
@@ -8669,6 +9071,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Antofagasta,Sierra Gorda,1746,35,28,0,7
 2020-06-15,Antofagasta,Taltal,13657,42,38,0,4
 2020-06-15,Antofagasta,Tocopilla,28079,46,39,0,7
+2020-06-15,Antofagasta,Desconocido Antofagasta,0,0,0,0,0
 2020-06-15,Atacama,Alto del Carmen,5729,4,2,0,2
 2020-06-15,Atacama,Caldera,19426,14,9,0,5
 2020-06-15,Atacama,Chanaral,13164,3,1,0,2
@@ -8678,6 +9081,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Atacama,Huasco,11264,9,3,0,6
 2020-06-15,Atacama,Tierra Amarilla,14312,35,25,0,10
 2020-06-15,Atacama,Vallenar,57009,100,67,0,33
+2020-06-15,Atacama,Desconocido Atacama,0,0,0,0,0
 2020-06-15,Coquimbo,Andacollo,11791,25,23,0,2
 2020-06-15,Coquimbo,Canela,9546,6,4,0,2
 2020-06-15,Coquimbo,Combarbala,13884,20,19,0,1
@@ -8693,6 +9097,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Coquimbo,Rio Hurtado,4372,14,9,0,5
 2020-06-15,Coquimbo,Salamanca,29110,44,37,0,7
 2020-06-15,Coquimbo,Vicuna,29741,23,20,0,3
+2020-06-15,Coquimbo,Desconocido Coquimbo,0,0,0,0,0
 2020-06-15,Valparaíso,Algarrobo,15174,72,54,0,18
 2020-06-15,Valparaíso,Cabildo,20663,42,38,0,4
 2020-06-15,Valparaíso,Calera,53591,141,99,0,42
@@ -8731,6 +9136,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Valparaíso,Villa Alemana,139310,370,297,0,73
 2020-06-15,Valparaíso,Vina del Mar,361371,1314,1024,0,290
 2020-06-15,Valparaíso,Zapallar,7994,3,3,0,0
+2020-06-15,Valparaíso,Desconocido Valparaiso,0,0,0,0,0
 2020-06-15,Metropolitana,Alhue,7405,22,20,0,2
 2020-06-15,Metropolitana,Buin,109641,1044,862,0,182
 2020-06-15,Metropolitana,Calera de Tango,28525,200,158,0,42
@@ -8783,6 +9189,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Metropolitana,Talagante,81838,602,480,0,122
 2020-06-15,Metropolitana,Tiltil,21477,226,188,0,38
 2020-06-15,Metropolitana,Vitacura,96774,992,863,0,129
+2020-06-15,Metropolitana,Desconocido Metropolitana,0,0,0,0,0
 2020-06-15,O’Higgins,Chepica,15925,21,11,0,10
 2020-06-15,O’Higgins,Chimbarongo,37696,46,34,0,12
 2020-06-15,O’Higgins,Codegua,14096,25,20,0,5
@@ -8816,6 +9223,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,O’Higgins,San Fernando,78642,80,65,0,15
 2020-06-15,O’Higgins,San Vicente,50617,81,76,0,5
 2020-06-15,O’Higgins,Santa Cruz,41096,46,26,0,20
+2020-06-15,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
 2020-06-15,Maule,Cauquenes,44143,164,101,0,63
 2020-06-15,Maule,Chanco,9331,13,5,0,8
 2020-06-15,Maule,Colbun,22565,60,48,0,12
@@ -8846,6 +9254,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Maule,Vichuquen,4381,0,0,0,0
 2020-06-15,Maule,Villa Alegre,17512,30,14,0,16
 2020-06-15,Maule,Yerbas Buenas,19200,62,51,0,11
+2020-06-15,Maule,Desconocido Maule,0,0,0,0,0
 2020-06-15,Ñuble,Bulnes,22607,205,190,0,15
 2020-06-15,Ñuble,Chillan,198624,807,651,0,156
 2020-06-15,Ñuble,Chillan Viejo,33827,130,104,0,26
@@ -8867,6 +9276,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Ñuble,San Nicolas,12172,43,36,0,7
 2020-06-15,Ñuble,Treguaco,5696,3,1,0,2
 2020-06-15,Ñuble,Yungay,18596,72,66,0,6
+2020-06-15,Ñuble,Desconocido Nuble,0,0,0,0,0
 2020-06-15,Biobío,Alto Biobio,6775,132,100,0,32
 2020-06-15,Biobío,Antuco,4306,24,18,0,6
 2020-06-15,Biobío,Arauco,38679,91,70,0,21
@@ -8900,6 +9310,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Biobío,Tome,58729,145,101,0,44
 2020-06-15,Biobío,Tucapel,15205,50,25,0,25
 2020-06-15,Biobío,Yumbel,22132,44,35,0,9
+2020-06-15,Biobío,Desconocido Biobio,0,0,0,0,0
 2020-06-15,Araucanía,Angol,56058,262,178,0,84
 2020-06-15,Araucanía,Carahue,25486,69,63,0,6
 2020-06-15,Araucanía,Cholchol,12341,24,19,0,5
@@ -8932,6 +9343,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Araucanía,Victoria,35467,153,121,0,32
 2020-06-15,Araucanía,Vilcun,30766,102,94,0,8
 2020-06-15,Araucanía,Villarrica,59103,49,34,0,15
+2020-06-15,Araucanía,Desconocido La Araucania,0,0,0,0,0
 2020-06-15,Los Ríos,Corral,5447,22,15,0,7
 2020-06-15,Los Ríos,Futrono,15261,53,38,0,15
 2020-06-15,Los Ríos,La Union,39538,66,51,0,15
@@ -8944,6 +9356,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Los Ríos,Panguipulli,35991,33,18,0,15
 2020-06-15,Los Ríos,Rio Bueno,32925,18,17,0,1
 2020-06-15,Los Ríos,Valdivia,176774,209,187,0,22
+2020-06-15,Los Ríos,Desconocido Los Rios,0,0,0,0,0
 2020-06-15,Los Lagos,Ancud,42458,93,86,0,7
 2020-06-15,Los Lagos,Calbuco,36744,10,9,0,1
 2020-06-15,Los Lagos,Castro,47607,9,8,0,1
@@ -8974,6 +9387,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Los Lagos,Rio Negro,14275,32,32,0,0
 2020-06-15,Los Lagos,San Juan de la Costa,7639,42,35,0,7
 2020-06-15,Los Lagos,San Pablo,10553,12,12,0,0
+2020-06-15,Los Lagos,Desconocido Los Lagos,0,0,0,0,0
 2020-06-15,Aysén,Aysen,25002,6,4,0,2
 2020-06-15,Aysén,Chile Chico,5121,1,1,0,0
 2020-06-15,Aysén,Cisnes,5828,0,0,0,0
@@ -8984,6 +9398,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Aysén,OHiggins,661,0,0,0,0
 2020-06-15,Aysén,Rio Ibanez,2699,0,0,0,0
 2020-06-15,Aysén,Tortel,572,0,0,0,0
+2020-06-15,Aysén,Desconocido Aysen,0,0,0,0,0
 2020-06-15,Magallanes,Antartica,137,0,0,0,0
 2020-06-15,Magallanes,Cabo de Hornos,1983,21,21,0,0
 2020-06-15,Magallanes,Laguna Blanca,264,0,0,0,0
@@ -8995,3 +9410,366 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Magallanes,San Gregorio,681,2,2,0,0
 2020-06-15,Magallanes,Timaukel,282,0,0,0,0
 2020-06-15,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-06-15,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-06-19,Arica y Parinacota,Arica,247552,1371,1013,0,358
+2020-06-19,Arica y Parinacota,Camarones,1233,0,0,0,0
+2020-06-19,Arica y Parinacota,General Lagos,810,0,0,0,0
+2020-06-19,Arica y Parinacota,Putre,2515,9,1,0,8
+2020-06-19,Arica y Parinacota,Desconocido Arica y Parinacota,0,2,2,0,0
+2020-06-19,Tarapacá,Alto Hospicio,129999,1672,1429,0,243
+2020-06-19,Tarapacá,Camina,1375,16,15,0,1
+2020-06-19,Tarapacá,Colchane,1583,26,12,0,14
+2020-06-19,Tarapacá,Huara,3000,55,45,0,10
+2020-06-19,Tarapacá,Iquique,223463,2698,2123,0,575
+2020-06-19,Tarapacá,Pica,5958,77,62,0,15
+2020-06-19,Tarapacá,Pozo Almonte,17395,298,168,0,130
+2020-06-19,Tarapacá,Desconocido Tarapaca,0,258,214,0,44
+2020-06-19,Antofagasta,Antofagasta,425725,2718,2192,0,526
+2020-06-19,Antofagasta,Calama,190336,2375,1629,0,746
+2020-06-19,Antofagasta,Maria Elena,6814,196,181,0,15
+2020-06-19,Antofagasta,Mejillones,14776,291,285,0,6
+2020-06-19,Antofagasta,Ollague,287,2,0,0,2
+2020-06-19,Antofagasta,San Pedro de Atacama,10434,44,24,0,20
+2020-06-19,Antofagasta,Sierra Gorda,1746,42,35,0,7
+2020-06-19,Antofagasta,Taltal,13657,53,43,0,10
+2020-06-19,Antofagasta,Tocopilla,28079,59,44,0,15
+2020-06-19,Antofagasta,Desconocido Antofagasta,0,143,93,0,50
+2020-06-19,Atacama,Alto del Carmen,5729,5,2,0,3
+2020-06-19,Atacama,Caldera,19426,18,11,0,7
+2020-06-19,Atacama,Chanaral,13164,6,2,0,4
+2020-06-19,Atacama,Copiapo,171766,397,239,0,158
+2020-06-19,Atacama,Diego de Almagro,14358,31,18,0,13
+2020-06-19,Atacama,Freirina,7681,4,1,0,3
+2020-06-19,Atacama,Huasco,11264,11,7,0,4
+2020-06-19,Atacama,Tierra Amarilla,14312,42,30,0,12
+2020-06-19,Atacama,Vallenar,57009,138,87,0,51
+2020-06-19,Atacama,Desconocido Atacama,0,7,3,0,4
+2020-06-19,Coquimbo,Andacollo,11791,26,26,0,0
+2020-06-19,Coquimbo,Canela,9546,6,5,0,1
+2020-06-19,Coquimbo,Combarbala,13884,28,20,0,8
+2020-06-19,Coquimbo,Coquimbo,256735,688,511,0,177
+2020-06-19,Coquimbo,Illapel,32801,72,51,0,21
+2020-06-19,Coquimbo,La Higuera,4450,5,3,0,2
+2020-06-19,Coquimbo,La Serena,249656,543,368,0,175
+2020-06-19,Coquimbo,Los Vilos,23374,19,12,0,7
+2020-06-19,Coquimbo,Monte Patria,32527,126,86,0,40
+2020-06-19,Coquimbo,Ovalle,121269,588,385,0,203
+2020-06-19,Coquimbo,Paiguano,4675,9,5,0,4
+2020-06-19,Coquimbo,Punitaqui,12165,38,31,0,7
+2020-06-19,Coquimbo,Rio Hurtado,4372,16,13,0,3
+2020-06-19,Coquimbo,Salamanca,29110,49,42,0,7
+2020-06-19,Coquimbo,Vicuna,29741,27,25,0,2
+2020-06-19,Coquimbo,Desconocido Coquimbo,0,112,39,0,73
+2020-06-19,Valparaíso,Algarrobo,15174,82,63,0,19
+2020-06-19,Valparaíso,Cabildo,20663,75,51,0,24
+2020-06-19,Valparaíso,Calera,53591,185,129,0,56
+2020-06-19,Valparaíso,Calle Larga,16482,122,99,0,23
+2020-06-19,Valparaíso,Cartagena,25357,82,67,0,15
+2020-06-19,Valparaíso,Casablanca,29170,91,60,0,31
+2020-06-19,Valparaíso,Catemu,15213,54,35,0,19
+2020-06-19,Valparaíso,Concon,45889,169,127,0,42
+2020-06-19,Valparaíso,El Quisco,17742,87,79,0,8
+2020-06-19,Valparaíso,El Tabo,14338,95,81,0,14
+2020-06-19,Valparaíso,Hijuelas,19099,57,40,0,17
+2020-06-19,Valparaíso,Isla de Pascua,8277,5,5,0,0
+2020-06-19,Valparaíso,Juan Fernandez,1033,0,0,0,0
+2020-06-19,Valparaíso,La Cruz,25321,69,55,0,14
+2020-06-19,Valparaíso,La Ligua,37739,125,73,0,52
+2020-06-19,Valparaíso,Limache,49931,327,204,0,123
+2020-06-19,Valparaíso,Llaillay,26533,134,107,0,27
+2020-06-19,Valparaíso,Los Andes,68093,483,367,0,116
+2020-06-19,Valparaíso,Nogales,23490,50,32,0,18
+2020-06-19,Valparaíso,Olmue,19266,53,36,0,17
+2020-06-19,Valparaíso,Panquehue,7633,42,27,0,15
+2020-06-19,Valparaíso,Papudo,6201,50,34,0,16
+2020-06-19,Valparaíso,Petorca,10558,28,25,0,3
+2020-06-19,Valparaíso,Puchuncavi,20071,74,47,0,27
+2020-06-19,Valparaíso,Putaendo,17645,93,62,0,31
+2020-06-19,Valparaíso,Quillota,97572,537,301,0,236
+2020-06-19,Valparaíso,Quilpue,167085,636,464,0,172
+2020-06-19,Valparaíso,Quintero,36135,212,159,0,53
+2020-06-19,Valparaíso,Rinconada,11263,90,66,0,24
+2020-06-19,Valparaíso,San Antonio,96761,749,651,0,98
+2020-06-19,Valparaíso,San Esteban,20643,89,66,0,23
+2020-06-19,Valparaíso,San Felipe,83494,609,398,0,211
+2020-06-19,Valparaíso,Santa Maria,16367,98,58,0,40
+2020-06-19,Valparaíso,Santo Domingo,11934,98,66,0,32
+2020-06-19,Valparaíso,Valparaiso,315732,1978,1319,0,659
+2020-06-19,Valparaíso,Villa Alemana,139310,631,441,0,190
+2020-06-19,Valparaíso,Vina del Mar,361371,1753,1323,0,430
+2020-06-19,Valparaíso,Zapallar,7994,6,3,0,3
+2020-06-19,Valparaíso,Desconocido Valparaiso,0,433,275,0,158
+2020-06-19,Metropolitana,Alhue,7405,52,28,0,24
+2020-06-19,Metropolitana,Buin,109641,1428,1115,0,313
+2020-06-19,Metropolitana,Calera de Tango,28525,293,215,0,78
+2020-06-19,Metropolitana,Cerrillos,88956,2036,1655,0,381
+2020-06-19,Metropolitana,Cerro Navia,142465,4313,3627,0,686
+2020-06-19,Metropolitana,Colina,180353,3335,2830,0,505
+2020-06-19,Metropolitana,Conchali,139195,4315,3704,0,611
+2020-06-19,Metropolitana,Curacavi,36430,584,457,0,127
+2020-06-19,Metropolitana,El Bosque,172000,4100,3267,0,833
+2020-06-19,Metropolitana,El Monte,40014,584,449,0,135
+2020-06-19,Metropolitana,Estacion Central,206792,4547,3836,0,711
+2020-06-19,Metropolitana,Huechuraba,112528,2645,2340,0,305
+2020-06-19,Metropolitana,Independencia,142065,5015,4497,0,518
+2020-06-19,Metropolitana,Isla de Maipo,40171,362,293,0,69
+2020-06-19,Metropolitana,La Cisterna,100434,2236,1837,0,399
+2020-06-19,Metropolitana,La Florida,402433,9515,8090,0,1425
+2020-06-19,Metropolitana,La Granja,122557,5102,4316,0,786
+2020-06-19,Metropolitana,La Pintana,189335,6875,5765,0,1110
+2020-06-19,Metropolitana,La Reina,100252,1513,1238,0,275
+2020-06-19,Metropolitana,Lampa,126898,2340,1925,0,415
+2020-06-19,Metropolitana,Las Condes,330759,4192,3625,0,567
+2020-06-19,Metropolitana,Lo Barnechea,124076,2177,1916,0,261
+2020-06-19,Metropolitana,Lo Espejo,103865,2835,2365,0,470
+2020-06-19,Metropolitana,Lo Prado,104403,3032,2627,0,405
+2020-06-19,Metropolitana,Macul,134635,3501,2934,0,567
+2020-06-19,Metropolitana,Maipu,578605,9361,7603,0,1758
+2020-06-19,Metropolitana,Maria Pinto,14926,166,141,0,25
+2020-06-19,Metropolitana,Melipilla,141612,2044,1591,0,453
+2020-06-19,Metropolitana,Nunoa,250192,3894,3253,0,641
+2020-06-19,Metropolitana,Padre Hurtado,74188,1191,961,0,230
+2020-06-19,Metropolitana,Paine,82766,971,687,0,284
+2020-06-19,Metropolitana,Pedro Aguirre Cerda,107803,2884,2372,0,512
+2020-06-19,Metropolitana,Penaflor,101058,1544,1215,0,329
+2020-06-19,Metropolitana,Penalolen,266798,8368,7148,0,1220
+2020-06-19,Metropolitana,Pirque,30433,725,593,0,132
+2020-06-19,Metropolitana,Providencia,157749,2207,1907,0,300
+2020-06-19,Metropolitana,Pudahuel,253139,6495,5573,0,922
+2020-06-19,Metropolitana,Puente Alto,645909,15682,12903,0,2779
+2020-06-19,Metropolitana,Quilicura,254694,6546,5511,0,1035
+2020-06-19,Metropolitana,Quinta Normal,136368,4041,3439,0,602
+2020-06-19,Metropolitana,Recoleta,190075,6543,5842,0,701
+2020-06-19,Metropolitana,Renca,160847,4766,3995,0,771
+2020-06-19,Metropolitana,San Bernardo,334836,7055,5687,0,1368
+2020-06-19,Metropolitana,San Joaquin,103485,3449,2909,0,540
+2020-06-19,Metropolitana,San Jose de Maipo,18644,430,353,0,77
+2020-06-19,Metropolitana,San Miguel,133059,3644,3041,0,603
+2020-06-19,Metropolitana,San Pedro,11953,109,100,0,9
+2020-06-19,Metropolitana,San Ramon,86510,3318,2803,0,515
+2020-06-19,Metropolitana,Santiago,503147,11123,9714,0,1409
+2020-06-19,Metropolitana,Talagante,81838,826,627,0,199
+2020-06-19,Metropolitana,Tiltil,21477,351,269,0,82
+2020-06-19,Metropolitana,Vitacura,96774,1107,981,0,126
+2020-06-19,Metropolitana,Desconocido Metropolitana,0,17813,14289,0,3524
+2020-06-19,O’Higgins,Chepica,15925,37,17,0,20
+2020-06-19,O’Higgins,Chimbarongo,37696,57,47,0,10
+2020-06-19,O’Higgins,Codegua,14096,39,29,0,10
+2020-06-19,O’Higgins,Coinco,7831,36,30,0,6
+2020-06-19,O’Higgins,Coltauco,21263,51,42,0,9
+2020-06-19,O’Higgins,Donihue,22700,93,66,0,27
+2020-06-19,O’Higgins,Graneros,36504,153,109,0,44
+2020-06-19,O’Higgins,La Estrella,3114,11,4,0,7
+2020-06-19,O’Higgins,Las Cabras,26749,40,30,0,10
+2020-06-19,O’Higgins,Litueche,6765,36,18,0,18
+2020-06-19,O’Higgins,Lolol,7289,24,16,0,8
+2020-06-19,O’Higgins,Machali,59913,218,127,0,91
+2020-06-19,O’Higgins,Malloa,14163,23,9,0,14
+2020-06-19,O’Higgins,Marchihue,7632,12,4,0,8
+2020-06-19,O’Higgins,Mostazal,27462,88,63,0,25
+2020-06-19,O’Higgins,Nancagua,19141,49,31,0,18
+2020-06-19,O’Higgins,Navidad,6904,42,25,0,17
+2020-06-19,O’Higgins,Olivar,14624,60,42,0,18
+2020-06-19,O’Higgins,Palmilla,13299,15,10,0,5
+2020-06-19,O’Higgins,Paredones,6349,9,5,0,4
+2020-06-19,O’Higgins,Peralillo,11848,36,23,0,13
+2020-06-19,O’Higgins,Peumo,14952,15,12,0,3
+2020-06-19,O’Higgins,Pichidegua,20743,24,21,0,3
+2020-06-19,O’Higgins,Pichilemu,17882,21,18,0,3
+2020-06-19,O’Higgins,Placilla,9164,29,20,0,9
+2020-06-19,O’Higgins,Pumanque,3531,3,2,0,1
+2020-06-19,O’Higgins,Quinta de Tilcoco,13877,14,8,0,6
+2020-06-19,O’Higgins,Rancagua,265211,1721,1086,0,635
+2020-06-19,O’Higgins,Rengo,63710,190,117,0,73
+2020-06-19,O’Higgins,Requinoa,30371,98,58,0,40
+2020-06-19,O’Higgins,San Fernando,78642,111,79,0,32
+2020-06-19,O’Higgins,San Vicente,50617,122,89,0,33
+2020-06-19,O’Higgins,Santa Cruz,41096,65,42,0,23
+2020-06-19,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,122,30,0,92
+2020-06-19,Maule,Cauquenes,44143,216,137,0,79
+2020-06-19,Maule,Chanco,9331,17,10,0,7
+2020-06-19,Maule,Colbun,22565,84,56,0,28
+2020-06-19,Maule,Constitucion,50348,81,50,0,31
+2020-06-19,Maule,Curepto,9426,15,13,0,2
+2020-06-19,Maule,Curico,163626,998,651,0,347
+2020-06-19,Maule,Empedrado,4206,7,1,0,6
+2020-06-19,Maule,Hualane,10222,102,70,0,32
+2020-06-19,Maule,Licanten,6989,13,7,0,6
+2020-06-19,Maule,Linares,101073,224,140,0,84
+2020-06-19,Maule,Longavi,32810,137,75,0,62
+2020-06-19,Maule,Maule,60000,146,109,0,37
+2020-06-19,Maule,Molina,49800,83,61,0,22
+2020-06-19,Maule,Parral,44544,172,141,0,31
+2020-06-19,Maule,Pelarco,9083,34,29,0,5
+2020-06-19,Maule,Pelluhue,8092,47,31,0,16
+2020-06-19,Maule,Pencahue,8601,23,17,0,6
+2020-06-19,Maule,Rauco,11248,35,20,0,15
+2020-06-19,Maule,Retiro,21071,100,73,0,27
+2020-06-19,Maule,Rio Claro,14753,28,25,0,3
+2020-06-19,Maule,Romeral,16170,104,68,0,36
+2020-06-19,Maule,Sagrada Familia,19469,38,25,0,13
+2020-06-19,Maule,San Clemente,46292,158,102,0,56
+2020-06-19,Maule,San Javier,49451,164,112,0,52
+2020-06-19,Maule,San Rafael,9959,79,67,0,12
+2020-06-19,Maule,Talca,236724,762,501,0,261
+2020-06-19,Maule,Teno,30850,57,33,0,24
+2020-06-19,Maule,Vichuquen,4381,0,0,0,0
+2020-06-19,Maule,Villa Alegre,17512,42,25,0,17
+2020-06-19,Maule,Yerbas Buenas,19200,87,66,0,21
+2020-06-19,Maule,Desconocido Maule,0,59,38,0,21
+2020-06-19,Ñuble,Bulnes,22607,236,211,0,25
+2020-06-19,Ñuble,Chillan,198624,930,725,0,205
+2020-06-19,Ñuble,Chillan Viejo,33827,169,131,0,38
+2020-06-19,Ñuble,Cobquecura,5275,0,0,0,0
+2020-06-19,Ñuble,Coelemu,16845,50,27,0,23
+2020-06-19,Ñuble,Coihueco,28375,73,56,0,17
+2020-06-19,Ñuble,El Carmen,12334,51,33,0,18
+2020-06-19,Ñuble,Ninhue,5414,19,12,0,7
+2020-06-19,Ñuble,Niquen,11567,60,36,0,24
+2020-06-19,Ñuble,Pemuco,8639,49,22,0,27
+2020-06-19,Ñuble,Pinto,11880,26,18,0,8
+2020-06-19,Ñuble,Portezuelo,4940,7,7,0,0
+2020-06-19,Ñuble,Quillon,18777,116,77,0,39
+2020-06-19,Ñuble,Quirihue,12192,25,22,0,3
+2020-06-19,Ñuble,Ranquil,6261,18,12,0,6
+2020-06-19,Ñuble,San Carlos,56252,266,130,0,136
+2020-06-19,Ñuble,San Fabian,4654,9,9,0,0
+2020-06-19,Ñuble,San Ignacio,16624,110,35,0,75
+2020-06-19,Ñuble,San Nicolas,12172,54,46,0,8
+2020-06-19,Ñuble,Treguaco,5696,3,3,0,0
+2020-06-19,Ñuble,Yungay,18596,76,65,0,11
+2020-06-19,Ñuble,Desconocido Nuble,0,6,1,0,5
+2020-06-19,Biobío,Alto Biobio,6775,151,133,0,18
+2020-06-19,Biobío,Antuco,4306,26,20,0,6
+2020-06-19,Biobío,Arauco,38679,134,83,0,51
+2020-06-19,Biobío,Cabrero,30725,123,48,0,75
+2020-06-19,Biobío,Canete,37003,24,19,0,5
+2020-06-19,Biobío,Chiguayante,91180,226,150,0,76
+2020-06-19,Biobío,Concepcion,238092,767,460,0,307
+2020-06-19,Biobío,Contulmo,6330,4,1,0,3
+2020-06-19,Biobío,Coronel,125829,514,303,0,211
+2020-06-19,Biobío,Curanilahue,33892,31,15,0,16
+2020-06-19,Biobío,Florida,11841,9,6,0,3
+2020-06-19,Biobío,Hualpen,97273,262,197,0,65
+2020-06-19,Biobío,Hualqui,26201,79,56,0,23
+2020-06-19,Biobío,Laja,23873,84,71,0,13
+2020-06-19,Biobío,Lebu,27100,20,13,0,7
+2020-06-19,Biobío,Los Alamos,22524,17,8,0,9
+2020-06-19,Biobío,Los Angeles,218515,468,355,0,113
+2020-06-19,Biobío,Lota,45750,122,78,0,44
+2020-06-19,Biobío,Mulchen,31041,29,25,0,4
+2020-06-19,Biobío,Nacimiento,27944,66,45,0,21
+2020-06-19,Biobío,Negrete,10429,73,46,0,27
+2020-06-19,Biobío,Penco,49865,167,80,0,87
+2020-06-19,Biobío,Quilaco,4179,6,3,0,3
+2020-06-19,Biobío,Quilleco,10032,7,6,0,1
+2020-06-19,Biobío,San Pedro de la Paz,145906,388,264,0,124
+2020-06-19,Biobío,San Rosendo,3611,12,10,0,2
+2020-06-19,Biobío,Santa Barbara,14592,72,45,0,27
+2020-06-19,Biobío,Santa Juana,14779,45,14,0,31
+2020-06-19,Biobío,Talcahuano,158345,422,296,0,126
+2020-06-19,Biobío,Tirua,11019,14,7,0,7
+2020-06-19,Biobío,Tome,58729,215,130,0,85
+2020-06-19,Biobío,Tucapel,15205,67,48,0,19
+2020-06-19,Biobío,Yumbel,22132,57,36,0,21
+2020-06-19,Biobío,Desconocido Biobio,0,168,45,0,123
+2020-06-19,Araucanía,Angol,56058,292,213,0,79
+2020-06-19,Araucanía,Carahue,25486,70,68,0,2
+2020-06-19,Araucanía,Cholchol,12341,25,23,0,2
+2020-06-19,Araucanía,Collipulli,26148,45,37,0,8
+2020-06-19,Araucanía,Cunco,18055,49,39,0,10
+2020-06-19,Araucanía,Curacautin,18178,23,13,0,10
+2020-06-19,Araucanía,Curarrehue,7802,4,4,0,0
+2020-06-19,Araucanía,Ercilla,8458,20,17,0,3
+2020-06-19,Araucanía,Freire,25446,104,88,0,16
+2020-06-19,Araucanía,Galvarino,12633,113,81,0,32
+2020-06-19,Araucanía,Gorbea,15148,38,28,0,10
+2020-06-19,Araucanía,Lautaro,40746,108,96,0,12
+2020-06-19,Araucanía,Loncoche,24739,66,53,0,13
+2020-06-19,Araucanía,Lonquimay,11049,69,69,0,0
+2020-06-19,Araucanía,Los Sauces,7517,8,7,0,1
+2020-06-19,Araucanía,Lumaco,10050,28,17,0,11
+2020-06-19,Araucanía,Melipeuco,6265,8,8,0,0
+2020-06-19,Araucanía,Nueva Imperial,33777,100,73,0,27
+2020-06-19,Araucanía,Padre Las Casas,82110,176,168,0,8
+2020-06-19,Araucanía,Perquenco,7223,16,12,0,4
+2020-06-19,Araucanía,Pitrufquen,26096,74,70,0,4
+2020-06-19,Araucanía,Pucon,29782,69,60,0,9
+2020-06-19,Araucanía,Puren,12188,14,9,0,5
+2020-06-19,Araucanía,Renaico,10833,32,27,0,5
+2020-06-19,Araucanía,Saavedra,12793,99,93,0,6
+2020-06-19,Araucanía,Temuco,302931,897,861,0,36
+2020-06-19,Araucanía,Teodoro Schmidt,15786,24,11,0,13
+2020-06-19,Araucanía,Tolten,10055,17,17,0,0
+2020-06-19,Araucanía,Traiguen,19314,36,23,0,13
+2020-06-19,Araucanía,Victoria,35467,165,134,0,31
+2020-06-19,Araucanía,Vilcun,30766,105,100,0,5
+2020-06-19,Araucanía,Villarrica,59103,58,36,0,22
+2020-06-19,Araucanía,Desconocido La Araucania,0,14,11,0,3
+2020-06-19,Los Ríos,Corral,5447,22,19,0,3
+2020-06-19,Los Ríos,Futrono,15261,56,51,0,5
+2020-06-19,Los Ríos,La Union,39538,76,60,0,16
+2020-06-19,Los Ríos,Lago Ranco,10292,2,2,0,0
+2020-06-19,Los Ríos,Lanco,17652,23,10,0,13
+2020-06-19,Los Ríos,Los Lagos,20518,59,29,0,30
+2020-06-19,Los Ríos,Mafil,7389,20,6,0,14
+2020-06-19,Los Ríos,Mariquina,23250,19,17,0,2
+2020-06-19,Los Ríos,Paillaco,20798,26,25,0,1
+2020-06-19,Los Ríos,Panguipulli,35991,36,31,0,5
+2020-06-19,Los Ríos,Rio Bueno,32925,19,18,0,1
+2020-06-19,Los Ríos,Valdivia,176774,243,201,0,42
+2020-06-19,Los Ríos,Desconocido Los Rios,0,5,4,0,1
+2020-06-19,Los Lagos,Ancud,42458,94,89,0,5
+2020-06-19,Los Lagos,Calbuco,36744,11,9,0,2
+2020-06-19,Los Lagos,Castro,47607,9,8,0,1
+2020-06-19,Los Lagos,Chaiten,5020,1,1,0,0
+2020-06-19,Los Lagos,Chonchi,16013,0,0,0,0
+2020-06-19,Los Lagos,Cochamo,4006,1,1,0,0
+2020-06-19,Los Lagos,Curaco de Velez,4066,0,0,0,0
+2020-06-19,Los Lagos,Dalcahue,15069,7,6,0,1
+2020-06-19,Los Lagos,Fresia,12656,9,0,0,9
+2020-06-19,Los Lagos,Frutillar,20223,20,14,0,6
+2020-06-19,Los Lagos,Futaleufu,2806,1,1,0,0
+2020-06-19,Los Lagos,Hualaihue,9525,5,4,0,1
+2020-06-19,Los Lagos,Llanquihue,18621,28,10,0,18
+2020-06-19,Los Lagos,Los Muermos,17817,4,2,0,2
+2020-06-19,Los Lagos,Maullin,14894,17,15,0,2
+2020-06-19,Los Lagos,Osorno,173410,451,412,0,39
+2020-06-19,Los Lagos,Palena,1827,0,0,0,0
+2020-06-19,Los Lagos,Puerto Montt,269398,356,240,0,116
+2020-06-19,Los Lagos,Puerto Octay,9192,5,5,0,0
+2020-06-19,Los Lagos,Puerto Varas,48620,61,42,0,19
+2020-06-19,Los Lagos,Puqueldon,4201,0,0,0,0
+2020-06-19,Los Lagos,Purranque,21080,68,68,0,0
+2020-06-19,Los Lagos,Puyehue,11787,13,10,0,3
+2020-06-19,Los Lagos,Queilen,5543,0,0,0,0
+2020-06-19,Los Lagos,Quellon,29309,1,1,0,0
+2020-06-19,Los Lagos,Quemchi,8783,14,14,0,0
+2020-06-19,Los Lagos,Quinchao,8298,2,1,0,1
+2020-06-19,Los Lagos,Rio Negro,14275,33,32,0,1
+2020-06-19,Los Lagos,San Juan de la Costa,7639,42,37,0,5
+2020-06-19,Los Lagos,San Pablo,10553,12,12,0,0
+2020-06-19,Los Lagos,Desconocido Los Lagos,0,52,46,0,6
+2020-06-19,Aysén,Aysen,25002,8,4,0,4
+2020-06-19,Aysén,Chile Chico,5121,1,1,0,0
+2020-06-19,Aysén,Cisnes,5828,0,0,0,0
+2020-06-19,Aysén,Cochrane,3685,0,0,0,0
+2020-06-19,Aysén,Coyhaique,61210,15,11,0,4
+2020-06-19,Aysén,Guaitecas,1599,0,0,0,0
+2020-06-19,Aysén,Lago Verde,920,0,0,0,0
+2020-06-19,Aysén,OHiggins,661,0,0,0,0
+2020-06-19,Aysén,Rio Ibanez,2699,0,0,0,0
+2020-06-19,Aysén,Tortel,572,0,0,0,0
+2020-06-19,Aysén,Desconocido Aysen,0,1,1,0,0
+2020-06-19,Magallanes,Antartica,137,0,0,0,0
+2020-06-19,Magallanes,Cabo de Hornos,1983,21,21,0,0
+2020-06-19,Magallanes,Laguna Blanca,264,0,0,0,0
+2020-06-19,Magallanes,Natales,23782,15,15,0,0
+2020-06-19,Magallanes,Porvenir,7323,10,9,0,1
+2020-06-19,Magallanes,Primavera,694,2,1,0,1
+2020-06-19,Magallanes,Punta Arenas,141984,1203,1058,0,145
+2020-06-19,Magallanes,Rio Verde,211,0,0,0,0
+2020-06-19,Magallanes,San Gregorio,681,2,2,0,0
+2020-06-19,Magallanes,Timaukel,282,0,0,0,0
+2020-06-19,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-06-19,Magallanes,Desconocido Magallanes y la Antartica,0,69,68,0,1
