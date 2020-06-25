@@ -173,7 +173,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,O’Higgins,San Fernando,78642,0,0,0,0
 2020-03-30,O’Higgins,San Vicente,50617,0,0,0,0
 2020-03-30,O’Higgins,Santa Cruz,41096,0,0,0,0
-2020-03-30,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-03-30,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-03-30,Maule,Cauquenes,44143,0,0,0,0
 2020-03-30,Maule,Chanco,9331,0,0,0,0
 2020-03-30,Maule,Colbun,22565,0,0,0,0
@@ -293,7 +293,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Araucanía,Victoria,35467,5,0,0,0
 2020-03-30,Araucanía,Vilcun,30766,4,0,0,0
 2020-03-30,Araucanía,Villarrica,59103,0,0,0,0
-2020-03-30,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-03-30,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-03-30,Los Ríos,Corral,5447,0,0,0,0
 2020-03-30,Los Ríos,Futrono,15261,0,0,0,0
 2020-03-30,Los Ríos,La Union,39538,0,0,0,0
@@ -360,7 +360,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-03-30,Magallanes,San Gregorio,681,0,0,0,0
 2020-03-30,Magallanes,Timaukel,282,0,0,0,0
 2020-03-30,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-03-30,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-03-30,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-04-01,Arica y Parinacota,Arica,247552,6,0,0,0
 2020-04-01,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-01,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -535,7 +535,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,O’Higgins,San Fernando,78642,4,0,0,0
 2020-04-01,O’Higgins,San Vicente,50617,0,0,0,0
 2020-04-01,O’Higgins,Santa Cruz,41096,0,0,0,0
-2020-04-01,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-04-01,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-04-01,Maule,Cauquenes,44143,0,0,0,0
 2020-04-01,Maule,Chanco,9331,0,0,0,0
 2020-04-01,Maule,Colbun,22565,4,0,0,0
@@ -655,7 +655,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Araucanía,Victoria,35467,7,0,0,0
 2020-04-01,Araucanía,Vilcun,30766,5,0,0,0
 2020-04-01,Araucanía,Villarrica,59103,4,0,0,0
-2020-04-01,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-04-01,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-04-01,Los Ríos,Corral,5447,0,0,0,0
 2020-04-01,Los Ríos,Futrono,15261,0,0,0,0
 2020-04-01,Los Ríos,La Union,39538,9,0,0,0
@@ -722,7 +722,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-01,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-01,Magallanes,Timaukel,282,0,0,0,0
 2020-04-01,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-04-01,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-04-01,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-04-03,Arica y Parinacota,Arica,247552,12,0,0,0
 2020-04-03,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-03,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -897,7 +897,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,O’Higgins,San Fernando,78642,4,0,0,0
 2020-04-03,O’Higgins,San Vicente,50617,4,0,0,0
 2020-04-03,O’Higgins,Santa Cruz,41096,0,0,0,0
-2020-04-03,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-04-03,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-04-03,Maule,Cauquenes,44143,0,0,0,0
 2020-04-03,Maule,Chanco,9331,0,0,0,0
 2020-04-03,Maule,Colbun,22565,4,0,0,0
@@ -1017,7 +1017,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Araucanía,Victoria,35467,11,0,0,0
 2020-04-03,Araucanía,Vilcun,30766,11,0,0,0
 2020-04-03,Araucanía,Villarrica,59103,6,0,0,0
-2020-04-03,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-04-03,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-04-03,Los Ríos,Corral,5447,0,0,0,0
 2020-04-03,Los Ríos,Futrono,15261,0,0,0,0
 2020-04-03,Los Ríos,La Union,39538,10,0,0,0
@@ -1084,7 +1084,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-03,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-03,Magallanes,Timaukel,282,0,0,0,0
 2020-04-03,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-04-03,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-04-03,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-04-06,Arica y Parinacota,Arica,247552,41,0,0,0
 2020-04-06,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-06,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -1259,7 +1259,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,O’Higgins,San Fernando,78642,4,0,0,0
 2020-04-06,O’Higgins,San Vicente,50617,4,0,0,0
 2020-04-06,O’Higgins,Santa Cruz,41096,0,0,0,0
-2020-04-06,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-04-06,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-04-06,Maule,Cauquenes,44143,4,0,0,0
 2020-04-06,Maule,Chanco,9331,0,0,0,0
 2020-04-06,Maule,Colbun,22565,5,0,0,0
@@ -1379,7 +1379,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Araucanía,Victoria,35467,12,0,0,0
 2020-04-06,Araucanía,Vilcun,30766,18,0,0,0
 2020-04-06,Araucanía,Villarrica,59103,11,0,0,0
-2020-04-06,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-04-06,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-04-06,Los Ríos,Corral,5447,0,0,0,0
 2020-04-06,Los Ríos,Futrono,15261,5,0,0,0
 2020-04-06,Los Ríos,La Union,39538,17,0,0,0
@@ -1446,7 +1446,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-06,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-06,Magallanes,Timaukel,282,0,0,0,0
 2020-04-06,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-04-06,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-04-06,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-04-08,Arica y Parinacota,Arica,247552,63,0,0,0
 2020-04-08,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-08,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -1621,7 +1621,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,O’Higgins,San Fernando,78642,4,0,0,0
 2020-04-08,O’Higgins,San Vicente,50617,4,0,0,0
 2020-04-08,O’Higgins,Santa Cruz,41096,0,0,0,0
-2020-04-08,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-04-08,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-04-08,Maule,Cauquenes,44143,4,0,0,0
 2020-04-08,Maule,Chanco,9331,0,0,0,0
 2020-04-08,Maule,Colbun,22565,5,0,0,0
@@ -1741,7 +1741,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Araucanía,Victoria,35467,15,0,0,0
 2020-04-08,Araucanía,Vilcun,30766,20,0,0,0
 2020-04-08,Araucanía,Villarrica,59103,15,0,0,0
-2020-04-08,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-04-08,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-04-08,Los Ríos,Corral,5447,0,0,0,0
 2020-04-08,Los Ríos,Futrono,15261,5,0,0,0
 2020-04-08,Los Ríos,La Union,39538,18,0,0,0
@@ -1808,7 +1808,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-08,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-08,Magallanes,Timaukel,282,0,0,0,0
 2020-04-08,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-04-08,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-04-08,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-04-10,Arica y Parinacota,Arica,247552,87,0,0,0
 2020-04-10,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-10,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -1983,7 +1983,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,O’Higgins,San Fernando,78642,4,0,0,0
 2020-04-10,O’Higgins,San Vicente,50617,4,0,0,0
 2020-04-10,O’Higgins,Santa Cruz,41096,0,0,0,0
-2020-04-10,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-04-10,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-04-10,Maule,Cauquenes,44143,4,0,0,0
 2020-04-10,Maule,Chanco,9331,0,0,0,0
 2020-04-10,Maule,Colbun,22565,5,0,0,0
@@ -2103,7 +2103,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Araucanía,Victoria,35467,15,0,0,0
 2020-04-10,Araucanía,Vilcun,30766,20,0,0,0
 2020-04-10,Araucanía,Villarrica,59103,15,0,0,0
-2020-04-10,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-04-10,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-04-10,Los Ríos,Corral,5447,0,0,0,0
 2020-04-10,Los Ríos,Futrono,15261,5,0,0,0
 2020-04-10,Los Ríos,La Union,39538,18,0,0,0
@@ -2170,7 +2170,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-10,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-10,Magallanes,Timaukel,282,0,0,0,0
 2020-04-10,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-04-10,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-04-10,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-04-13,Arica y Parinacota,Arica,247552,115,27,0,88
 2020-04-13,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-13,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -2345,7 +2345,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,O’Higgins,San Fernando,78642,4,3,0,1
 2020-04-13,O’Higgins,San Vicente,50617,4,3,0,1
 2020-04-13,O’Higgins,Santa Cruz,41096,2,1,0,1
-2020-04-13,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-04-13,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-04-13,Maule,Cauquenes,44143,4,2,0,2
 2020-04-13,Maule,Chanco,9331,0,0,0,0
 2020-04-13,Maule,Colbun,22565,5,3,0,2
@@ -2465,7 +2465,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Araucanía,Victoria,35467,15,9,0,6
 2020-04-13,Araucanía,Vilcun,30766,24,14,0,10
 2020-04-13,Araucanía,Villarrica,59103,18,13,0,5
-2020-04-13,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-04-13,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-04-13,Los Ríos,Corral,5447,0,0,0,0
 2020-04-13,Los Ríos,Futrono,15261,5,4,0,1
 2020-04-13,Los Ríos,La Union,39538,18,9,0,9
@@ -2532,7 +2532,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-13,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-13,Magallanes,Timaukel,282,0,0,0,0
 2020-04-13,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-04-13,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-04-13,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-04-15,Arica y Parinacota,Arica,247552,124,44,0,80
 2020-04-15,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-15,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -2707,7 +2707,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,O’Higgins,San Fernando,78642,5,4,0,1
 2020-04-15,O’Higgins,San Vicente,50617,4,4,0,0
 2020-04-15,O’Higgins,Santa Cruz,41096,2,2,0,0
-2020-04-15,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-04-15,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-04-15,Maule,Cauquenes,44143,4,2,0,2
 2020-04-15,Maule,Chanco,9331,0,0,0,0
 2020-04-15,Maule,Colbun,22565,5,4,0,1
@@ -2827,7 +2827,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Araucanía,Victoria,35467,13,12,0,1
 2020-04-15,Araucanía,Vilcun,30766,27,19,0,8
 2020-04-15,Araucanía,Villarrica,59103,19,14,0,5
-2020-04-15,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-04-15,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-04-15,Los Ríos,Corral,5447,1,0,0,1
 2020-04-15,Los Ríos,Futrono,15261,5,5,0,0
 2020-04-15,Los Ríos,La Union,39538,23,17,0,6
@@ -2894,7 +2894,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-15,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-15,Magallanes,Timaukel,282,0,0,0,0
 2020-04-15,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-04-15,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-04-15,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-04-17,Arica y Parinacota,Arica,247552,134,62,0,72
 2020-04-17,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-17,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -3069,7 +3069,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,O’Higgins,San Fernando,78642,5,4,0,1
 2020-04-17,O’Higgins,San Vicente,50617,4,4,0,0
 2020-04-17,O’Higgins,Santa Cruz,41096,2,2,0,0
-2020-04-17,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-04-17,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-04-17,Maule,Cauquenes,44143,8,4,0,4
 2020-04-17,Maule,Chanco,9331,0,0,0,0
 2020-04-17,Maule,Colbun,22565,6,6,0,0
@@ -3189,7 +3189,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Araucanía,Victoria,35467,13,12,0,1
 2020-04-17,Araucanía,Vilcun,30766,29,23,0,6
 2020-04-17,Araucanía,Villarrica,59103,17,14,0,3
-2020-04-17,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-04-17,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-04-17,Los Ríos,Corral,5447,1,0,0,1
 2020-04-17,Los Ríos,Futrono,15261,5,5,0,0
 2020-04-17,Los Ríos,La Union,39538,23,17,0,6
@@ -3256,7 +3256,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-17,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-17,Magallanes,Timaukel,282,0,0,0,0
 2020-04-17,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-04-17,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-04-17,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-04-20,Arica y Parinacota,Arica,247552,166,101,0,65
 2020-04-20,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-20,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -3431,7 +3431,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,O’Higgins,San Fernando,78642,6,4,0,2
 2020-04-20,O’Higgins,San Vicente,50617,4,4,0,0
 2020-04-20,O’Higgins,Santa Cruz,41096,1,1,0,0
-2020-04-20,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-04-20,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-04-20,Maule,Cauquenes,44143,10,5,0,5
 2020-04-20,Maule,Chanco,9331,2,1,0,1
 2020-04-20,Maule,Colbun,22565,5,5,0,0
@@ -3551,7 +3551,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Araucanía,Victoria,35467,28,13,0,15
 2020-04-20,Araucanía,Vilcun,30766,37,29,0,8
 2020-04-20,Araucanía,Villarrica,59103,18,17,0,1
-2020-04-20,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-04-20,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-04-20,Los Ríos,Corral,5447,1,0,0,1
 2020-04-20,Los Ríos,Futrono,15261,5,5,0,0
 2020-04-20,Los Ríos,La Union,39538,21,15,0,6
@@ -3618,7 +3618,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-20,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-20,Magallanes,Timaukel,282,0,0,0,0
 2020-04-20,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-04-20,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-04-20,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-04-24,Arica y Parinacota,Arica,247552,224,147,0,77
 2020-04-24,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-24,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -3793,7 +3793,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,O’Higgins,San Fernando,78642,5,3,0,2
 2020-04-24,O’Higgins,San Vicente,50617,4,4,0,0
 2020-04-24,O’Higgins,Santa Cruz,41096,2,1,0,1
-2020-04-24,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-04-24,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-04-24,Maule,Cauquenes,44143,12,6,0,6
 2020-04-24,Maule,Chanco,9331,2,1,0,1
 2020-04-24,Maule,Colbun,22565,6,6,0,0
@@ -3913,7 +3913,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Araucanía,Victoria,35467,55,16,0,39
 2020-04-24,Araucanía,Vilcun,30766,39,35,0,4
 2020-04-24,Araucanía,Villarrica,59103,19,19,0,0
-2020-04-24,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-04-24,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-04-24,Los Ríos,Corral,5447,1,0,0,1
 2020-04-24,Los Ríos,Futrono,15261,5,5,0,0
 2020-04-24,Los Ríos,La Union,39538,27,22,0,5
@@ -3980,7 +3980,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-24,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-24,Magallanes,Timaukel,282,0,0,0,0
 2020-04-24,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-04-24,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-04-24,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-04-27,Arica y Parinacota,Arica,247552,270,167,0,103
 2020-04-27,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-04-27,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -4155,7 +4155,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,O’Higgins,San Fernando,78642,5,3,0,2
 2020-04-27,O’Higgins,San Vicente,50617,4,4,0,0
 2020-04-27,O’Higgins,Santa Cruz,41096,2,1,0,1
-2020-04-27,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-04-27,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-04-27,Maule,Cauquenes,44143,13,7,0,6
 2020-04-27,Maule,Chanco,9331,3,1,0,2
 2020-04-27,Maule,Colbun,22565,6,6,0,0
@@ -4275,7 +4275,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Araucanía,Victoria,35467,58,18,0,40
 2020-04-27,Araucanía,Vilcun,30766,39,37,0,2
 2020-04-27,Araucanía,Villarrica,59103,19,19,0,0
-2020-04-27,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-04-27,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-04-27,Los Ríos,Corral,5447,1,1,0,0
 2020-04-27,Los Ríos,Futrono,15261,5,5,0,0
 2020-04-27,Los Ríos,La Union,39538,29,22,0,7
@@ -4342,7 +4342,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-04-27,Magallanes,San Gregorio,681,0,0,0,0
 2020-04-27,Magallanes,Timaukel,282,0,0,0,0
 2020-04-27,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-04-27,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-04-27,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-05-01,Arica y Parinacota,Arica,247552,297,192,0,105
 2020-05-01,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-01,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -4517,7 +4517,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,O’Higgins,San Fernando,78642,5,4,0,1
 2020-05-01,O’Higgins,San Vicente,50617,8,4,0,4
 2020-05-01,O’Higgins,Santa Cruz,41096,2,2,0,0
-2020-05-01,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-05-01,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-05-01,Maule,Cauquenes,44143,13,10,0,3
 2020-05-01,Maule,Chanco,9331,3,2,0,1
 2020-05-01,Maule,Colbun,22565,6,6,0,0
@@ -4637,7 +4637,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Araucanía,Victoria,35467,70,35,0,35
 2020-05-01,Araucanía,Vilcun,30766,44,40,0,4
 2020-05-01,Araucanía,Villarrica,59103,20,19,0,1
-2020-05-01,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-05-01,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-05-01,Los Ríos,Corral,5447,1,1,0,0
 2020-05-01,Los Ríos,Futrono,15261,5,5,0,0
 2020-05-01,Los Ríos,La Union,39538,32,27,0,5
@@ -4704,7 +4704,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-01,Magallanes,San Gregorio,681,0,0,0,0
 2020-05-01,Magallanes,Timaukel,282,0,0,0,0
 2020-05-01,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-05-01,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-05-01,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-05-04,Arica y Parinacota,Arica,247552,310,223,0,87
 2020-05-04,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-04,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -4879,7 +4879,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,O’Higgins,San Fernando,78642,6,5,0,1
 2020-05-04,O’Higgins,San Vicente,50617,9,4,0,5
 2020-05-04,O’Higgins,Santa Cruz,41096,2,2,0,0
-2020-05-04,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-05-04,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-05-04,Maule,Cauquenes,44143,13,11,0,2
 2020-05-04,Maule,Chanco,9331,3,2,0,1
 2020-05-04,Maule,Colbun,22565,6,6,0,0
@@ -4999,7 +4999,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Araucanía,Victoria,35467,71,46,0,25
 2020-05-04,Araucanía,Vilcun,30766,45,42,0,3
 2020-05-04,Araucanía,Villarrica,59103,20,19,0,1
-2020-05-04,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-05-04,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-05-04,Los Ríos,Corral,5447,1,1,0,0
 2020-05-04,Los Ríos,Futrono,15261,5,5,0,0
 2020-05-04,Los Ríos,La Union,39538,39,33,0,6
@@ -5066,7 +5066,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-04,Magallanes,San Gregorio,681,0,0,0,0
 2020-05-04,Magallanes,Timaukel,282,0,0,0,0
 2020-05-04,Magallanes,Torres del Paine,1021,1,1,0,0
-2020-05-04,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-05-04,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-05-08,Arica y Parinacota,Arica,247552,328,267,0,61
 2020-05-08,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-08,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -5241,7 +5241,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,O’Higgins,San Fernando,78642,6,4,0,2
 2020-05-08,O’Higgins,San Vicente,50617,11,6,0,5
 2020-05-08,O’Higgins,Santa Cruz,41096,2,2,0,0
-2020-05-08,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-05-08,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-05-08,Maule,Cauquenes,44143,13,13,0,0
 2020-05-08,Maule,Chanco,9331,3,3,0,0
 2020-05-08,Maule,Colbun,22565,6,6,0,0
@@ -5361,7 +5361,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Araucanía,Victoria,35467,78,63,0,15
 2020-05-08,Araucanía,Vilcun,30766,48,42,0,6
 2020-05-08,Araucanía,Villarrica,59103,21,20,0,1
-2020-05-08,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-05-08,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-05-08,Los Ríos,Corral,5447,2,1,0,1
 2020-05-08,Los Ríos,Futrono,15261,5,5,0,0
 2020-05-08,Los Ríos,La Union,39538,40,37,0,3
@@ -5428,7 +5428,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-08,Magallanes,San Gregorio,681,1,0,0,1
 2020-05-08,Magallanes,Timaukel,282,0,0,0,0
 2020-05-08,Magallanes,Torres del Paine,1021,1,1,0,0
-2020-05-08,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-05-08,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-05-11,Arica y Parinacota,Arica,247552,353,287,0,66
 2020-05-11,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-11,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -5603,7 +5603,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,O’Higgins,San Fernando,78642,6,5,0,1
 2020-05-11,O’Higgins,San Vicente,50617,14,8,0,6
 2020-05-11,O’Higgins,Santa Cruz,41096,3,2,0,1
-2020-05-11,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-05-11,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-05-11,Maule,Cauquenes,44143,14,13,0,1
 2020-05-11,Maule,Chanco,9331,3,3,0,0
 2020-05-11,Maule,Colbun,22565,9,6,0,3
@@ -5723,7 +5723,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Araucanía,Victoria,35467,78,72,0,6
 2020-05-11,Araucanía,Vilcun,30766,50,47,0,3
 2020-05-11,Araucanía,Villarrica,59103,22,20,0,2
-2020-05-11,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-05-11,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-05-11,Los Ríos,Corral,5447,3,1,0,2
 2020-05-11,Los Ríos,Futrono,15261,5,5,0,0
 2020-05-11,Los Ríos,La Union,39538,40,38,0,2
@@ -5790,7 +5790,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-11,Magallanes,San Gregorio,681,1,0,0,1
 2020-05-11,Magallanes,Timaukel,282,0,0,0,0
 2020-05-11,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-05-11,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-05-11,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-05-15,Arica y Parinacota,Arica,247552,371,322,0,49
 2020-05-15,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-15,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -5965,7 +5965,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,O’Higgins,San Fernando,78642,10,6,0,4
 2020-05-15,O’Higgins,San Vicente,50617,20,9,0,11
 2020-05-15,O’Higgins,Santa Cruz,41096,5,3,0,2
-2020-05-15,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-05-15,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-05-15,Maule,Cauquenes,44143,20,13,0,7
 2020-05-15,Maule,Chanco,9331,3,3,0,0
 2020-05-15,Maule,Colbun,22565,10,6,0,4
@@ -6085,7 +6085,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Araucanía,Victoria,35467,80,76,0,4
 2020-05-15,Araucanía,Vilcun,30766,58,50,0,8
 2020-05-15,Araucanía,Villarrica,59103,21,20,0,1
-2020-05-15,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-05-15,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-05-15,Los Ríos,Corral,5447,11,1,0,10
 2020-05-15,Los Ríos,Futrono,15261,5,5,0,0
 2020-05-15,Los Ríos,La Union,39538,40,39,0,1
@@ -6152,7 +6152,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-15,Magallanes,San Gregorio,681,2,0,0,2
 2020-05-15,Magallanes,Timaukel,282,0,0,0,0
 2020-05-15,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-05-15,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-05-15,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-05-18,Arica y Parinacota,Arica,247552,405,337,0,68
 2020-05-18,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-18,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -6327,7 +6327,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,O’Higgins,San Fernando,78642,14,7,0,7
 2020-05-18,O’Higgins,San Vicente,50617,25,10,0,15
 2020-05-18,O’Higgins,Santa Cruz,41096,6,3,0,3
-2020-05-18,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-05-18,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-05-18,Maule,Cauquenes,44143,23,14,0,9
 2020-05-18,Maule,Chanco,9331,3,3,0,0
 2020-05-18,Maule,Colbun,22565,13,7,0,6
@@ -6447,7 +6447,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Araucanía,Victoria,35467,80,78,0,2
 2020-05-18,Araucanía,Vilcun,30766,60,50,0,10
 2020-05-18,Araucanía,Villarrica,59103,22,20,0,2
-2020-05-18,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-05-18,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-05-18,Los Ríos,Corral,5447,11,2,0,9
 2020-05-18,Los Ríos,Futrono,15261,7,5,0,2
 2020-05-18,Los Ríos,La Union,39538,41,39,0,2
@@ -6514,7 +6514,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-18,Magallanes,San Gregorio,681,2,1,0,1
 2020-05-18,Magallanes,Timaukel,282,0,0,0,0
 2020-05-18,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-05-18,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-05-18,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-05-22,Arica y Parinacota,Arica,247552,477,360,0,117
 2020-05-22,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-22,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -6689,7 +6689,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,O’Higgins,San Fernando,78642,14,10,0,4
 2020-05-22,O’Higgins,San Vicente,50617,35,17,0,18
 2020-05-22,O’Higgins,Santa Cruz,41096,11,7,0,4
-2020-05-22,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-05-22,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-05-22,Maule,Cauquenes,44143,26,16,0,10
 2020-05-22,Maule,Chanco,9331,3,3,0,0
 2020-05-22,Maule,Colbun,22565,19,10,0,9
@@ -6809,7 +6809,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Araucanía,Victoria,35467,81,79,0,2
 2020-05-22,Araucanía,Vilcun,30766,63,54,0,9
 2020-05-22,Araucanía,Villarrica,59103,22,21,0,1
-2020-05-22,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-05-22,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-05-22,Los Ríos,Corral,5447,11,3,0,8
 2020-05-22,Los Ríos,Futrono,15261,15,5,0,10
 2020-05-22,Los Ríos,La Union,39538,42,40,0,2
@@ -6876,7 +6876,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-22,Magallanes,San Gregorio,681,3,1,0,2
 2020-05-22,Magallanes,Timaukel,282,0,0,0,0
 2020-05-22,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-05-22,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-05-22,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-05-25,Arica y Parinacota,Arica,247552,525,382,0,143
 2020-05-25,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-25,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -7051,7 +7051,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,O’Higgins,San Fernando,78642,17,12,0,5
 2020-05-25,O’Higgins,San Vicente,50617,40,26,0,14
 2020-05-25,O’Higgins,Santa Cruz,41096,12,8,0,4
-2020-05-25,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-05-25,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-05-25,Maule,Cauquenes,44143,32,17,0,15
 2020-05-25,Maule,Chanco,9331,3,3,0,0
 2020-05-25,Maule,Colbun,22565,20,12,0,8
@@ -7171,7 +7171,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Araucanía,Victoria,35467,84,79,0,5
 2020-05-25,Araucanía,Vilcun,30766,70,59,0,11
 2020-05-25,Araucanía,Villarrica,59103,23,21,0,2
-2020-05-25,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-05-25,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-05-25,Los Ríos,Corral,5447,13,9,0,4
 2020-05-25,Los Ríos,Futrono,15261,24,6,0,18
 2020-05-25,Los Ríos,La Union,39538,42,40,0,2
@@ -7238,7 +7238,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-25,Magallanes,San Gregorio,681,3,3,0,0
 2020-05-25,Magallanes,Timaukel,282,0,0,0,0
 2020-05-25,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-05-25,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-05-25,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-05-29,Arica y Parinacota,Arica,247552,596,433,0,163
 2020-05-29,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-05-29,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -7413,7 +7413,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,O’Higgins,San Fernando,78642,25,18,0,7
 2020-05-29,O’Higgins,San Vicente,50617,43,43,0,0
 2020-05-29,O’Higgins,Santa Cruz,41096,13,11,0,2
-2020-05-29,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-05-29,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-05-29,Maule,Cauquenes,44143,44,22,0,22
 2020-05-29,Maule,Chanco,9331,3,3,0,0
 2020-05-29,Maule,Colbun,22565,32,16,0,16
@@ -7533,7 +7533,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Araucanía,Victoria,35467,90,80,0,10
 2020-05-29,Araucanía,Vilcun,30766,83,64,0,19
 2020-05-29,Araucanía,Villarrica,59103,25,22,0,3
-2020-05-29,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-05-29,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-05-29,Los Ríos,Corral,5447,13,11,0,2
 2020-05-29,Los Ríos,Futrono,15261,30,9,0,21
 2020-05-29,Los Ríos,La Union,39538,43,42,0,1
@@ -7600,7 +7600,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-05-29,Magallanes,San Gregorio,681,2,2,0,0
 2020-05-29,Magallanes,Timaukel,282,0,0,0,0
 2020-05-29,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-05-29,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-05-29,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-06-01,Arica y Parinacota,Arica,247552,653,476,0,177
 2020-06-01,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-06-01,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -7775,7 +7775,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,O’Higgins,San Fernando,78642,34,21,0,13
 2020-06-01,O’Higgins,San Vicente,50617,45,44,0,1
 2020-06-01,O’Higgins,Santa Cruz,41096,15,12,0,3
-2020-06-01,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-06-01,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-06-01,Maule,Cauquenes,44143,63,30,0,33
 2020-06-01,Maule,Chanco,9331,4,3,0,1
 2020-06-01,Maule,Colbun,22565,33,22,0,11
@@ -7895,7 +7895,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Araucanía,Victoria,35467,93,81,0,12
 2020-06-01,Araucanía,Vilcun,30766,91,68,0,23
 2020-06-01,Araucanía,Villarrica,59103,31,22,0,9
-2020-06-01,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-06-01,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-06-01,Los Ríos,Corral,5447,13,11,0,2
 2020-06-01,Los Ríos,Futrono,15261,34,14,0,20
 2020-06-01,Los Ríos,La Union,39538,44,42,0,2
@@ -7962,7 +7962,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-01,Magallanes,San Gregorio,681,2,2,0,0
 2020-06-01,Magallanes,Timaukel,282,0,0,0,0
 2020-06-01,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-06-01,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-06-01,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-06-05,Arica y Parinacota,Arica,247552,806,558,0,248
 2020-06-05,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-06-05,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -8137,7 +8137,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,O’Higgins,San Fernando,78642,46,25,0,21
 2020-06-05,O’Higgins,San Vicente,50617,51,50,0,1
 2020-06-05,O’Higgins,Santa Cruz,41096,19,13,0,6
-2020-06-05,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-06-05,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-06-05,Maule,Cauquenes,44143,91,37,0,54
 2020-06-05,Maule,Chanco,9331,4,3,0,1
 2020-06-05,Maule,Colbun,22565,42,27,0,15
@@ -8257,7 +8257,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Araucanía,Victoria,35467,113,94,0,19
 2020-06-05,Araucanía,Vilcun,30766,92,81,0,11
 2020-06-05,Araucanía,Villarrica,59103,33,27,0,6
-2020-06-05,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-06-05,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-06-05,Los Ríos,Corral,5447,13,13,0,0
 2020-06-05,Los Ríos,Futrono,15261,40,29,0,11
 2020-06-05,Los Ríos,La Union,39538,48,43,0,5
@@ -8324,7 +8324,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-05,Magallanes,San Gregorio,681,2,2,0,0
 2020-06-05,Magallanes,Timaukel,282,0,0,0,0
 2020-06-05,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-06-05,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-06-05,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-06-08,Arica y Parinacota,Arica,247552,904,626,0,278
 2020-06-08,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-06-08,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -8499,7 +8499,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,O’Higgins,San Fernando,78642,57,38,0,19
 2020-06-08,O’Higgins,San Vicente,50617,52,50,0,2
 2020-06-08,O’Higgins,Santa Cruz,41096,22,16,0,6
-2020-06-08,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-06-08,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-06-08,Maule,Cauquenes,44143,143,48,0,95
 2020-06-08,Maule,Chanco,9331,6,4,0,2
 2020-06-08,Maule,Colbun,22565,46,33,0,13
@@ -8619,7 +8619,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Araucanía,Victoria,35467,120,103,0,17
 2020-06-08,Araucanía,Vilcun,30766,96,86,0,10
 2020-06-08,Araucanía,Villarrica,59103,35,27,0,8
-2020-06-08,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-06-08,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-06-08,Los Ríos,Corral,5447,18,13,0,5
 2020-06-08,Los Ríos,Futrono,15261,43,30,0,13
 2020-06-08,Los Ríos,La Union,39538,52,44,0,8
@@ -8686,7 +8686,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-08,Magallanes,San Gregorio,681,2,2,0,0
 2020-06-08,Magallanes,Timaukel,282,0,0,0,0
 2020-06-08,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-06-08,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-06-08,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-06-12,Arica y Parinacota,Arica,247552,1046,718,0,328
 2020-06-12,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-06-12,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -8861,7 +8861,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,O’Higgins,San Fernando,78642,71,57,0,14
 2020-06-12,O’Higgins,San Vicente,50617,67,62,0,5
 2020-06-12,O’Higgins,Santa Cruz,41096,35,20,0,15
-2020-06-12,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-06-12,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-06-12,Maule,Cauquenes,44143,141,77,0,64
 2020-06-12,Maule,Chanco,9331,11,5,0,6
 2020-06-12,Maule,Colbun,22565,53,43,0,10
@@ -8981,7 +8981,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Araucanía,Victoria,35467,134,111,0,23
 2020-06-12,Araucanía,Vilcun,30766,100,92,0,8
 2020-06-12,Araucanía,Villarrica,59103,41,34,0,7
-2020-06-12,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-06-12,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-06-12,Los Ríos,Corral,5447,20,13,0,7
 2020-06-12,Los Ríos,Futrono,15261,53,37,0,16
 2020-06-12,Los Ríos,La Union,39538,59,50,0,9
@@ -9048,7 +9048,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-12,Magallanes,San Gregorio,681,2,2,0,0
 2020-06-12,Magallanes,Timaukel,282,0,0,0,0
 2020-06-12,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-06-12,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-06-12,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-06-15,Arica y Parinacota,Arica,247552,1176,823,0,353
 2020-06-15,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-06-15,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -9223,7 +9223,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,O’Higgins,San Fernando,78642,80,65,0,15
 2020-06-15,O’Higgins,San Vicente,50617,81,76,0,5
 2020-06-15,O’Higgins,Santa Cruz,41096,46,26,0,20
-2020-06-15,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,0,0,0,0
+2020-06-15,O’Higgins,Desconocido O’Higgins,0,0,0,0,0
 2020-06-15,Maule,Cauquenes,44143,164,101,0,63
 2020-06-15,Maule,Chanco,9331,13,5,0,8
 2020-06-15,Maule,Colbun,22565,60,48,0,12
@@ -9343,7 +9343,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Araucanía,Victoria,35467,153,121,0,32
 2020-06-15,Araucanía,Vilcun,30766,102,94,0,8
 2020-06-15,Araucanía,Villarrica,59103,49,34,0,15
-2020-06-15,Araucanía,Desconocido La Araucania,0,0,0,0,0
+2020-06-15,Araucanía,Desconocido Araucania,0,0,0,0,0
 2020-06-15,Los Ríos,Corral,5447,22,15,0,7
 2020-06-15,Los Ríos,Futrono,15261,53,38,0,15
 2020-06-15,Los Ríos,La Union,39538,66,51,0,15
@@ -9410,7 +9410,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-15,Magallanes,San Gregorio,681,2,2,0,0
 2020-06-15,Magallanes,Timaukel,282,0,0,0,0
 2020-06-15,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-06-15,Magallanes,Desconocido Magallanes y la Antartica,0,0,0,0,0
+2020-06-15,Magallanes,Desconocido Magallanes,0,0,0,0,0
 2020-06-19,Arica y Parinacota,Arica,247552,1371,1013,0,358
 2020-06-19,Arica y Parinacota,Camarones,1233,0,0,0,0
 2020-06-19,Arica y Parinacota,General Lagos,810,0,0,0,0
@@ -9585,7 +9585,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-19,O’Higgins,San Fernando,78642,111,79,0,32
 2020-06-19,O’Higgins,San Vicente,50617,122,89,0,33
 2020-06-19,O’Higgins,Santa Cruz,41096,65,42,0,23
-2020-06-19,O’Higgins,Desconocido Del Libertador General Bernardo O’Higgins,0,122,30,0,92
+2020-06-19,O’Higgins,Desconocido O’Higgins,0,122,30,0,92
 2020-06-19,Maule,Cauquenes,44143,216,137,0,79
 2020-06-19,Maule,Chanco,9331,17,10,0,7
 2020-06-19,Maule,Colbun,22565,84,56,0,28
@@ -9705,7 +9705,7 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-19,Araucanía,Victoria,35467,165,134,0,31
 2020-06-19,Araucanía,Vilcun,30766,105,100,0,5
 2020-06-19,Araucanía,Villarrica,59103,58,36,0,22
-2020-06-19,Araucanía,Desconocido La Araucania,0,14,11,0,3
+2020-06-19,Araucanía,Desconocido Araucania,0,14,11,0,3
 2020-06-19,Los Ríos,Corral,5447,22,19,0,3
 2020-06-19,Los Ríos,Futrono,15261,56,51,0,5
 2020-06-19,Los Ríos,La Union,39538,76,60,0,16
@@ -9772,4 +9772,366 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-06-19,Magallanes,San Gregorio,681,2,2,0,0
 2020-06-19,Magallanes,Timaukel,282,0,0,0,0
 2020-06-19,Magallanes,Torres del Paine,1021,0,0,0,0
-2020-06-19,Magallanes,Desconocido Magallanes y la Antartica,0,69,68,0,1
+2020-06-19,Magallanes,Desconocido Magallanes,0,69,68,0,1
+2020-06-23,Arica y Parinacota,Arica,247552,1533,1152,0,381
+2020-06-23,Arica y Parinacota,Camarones,1233,0,0,0,0
+2020-06-23,Arica y Parinacota,General Lagos,810,0,0,0,0
+2020-06-23,Arica y Parinacota,Putre,2515,10,3,0,7
+2020-06-23,Arica y Parinacota,Desconocido Arica y Parinacota,0,1,1,0,0
+2020-06-23,Tarapacá,Alto Hospicio,129999,1815,1576,0,239
+2020-06-23,Tarapacá,Camina,1375,16,15,0,1
+2020-06-23,Tarapacá,Colchane,1583,43,16,0,27
+2020-06-23,Tarapacá,Huara,3000,63,51,0,12
+2020-06-23,Tarapacá,Iquique,223463,2952,2404,0,548
+2020-06-23,Tarapacá,Pica,5958,83,65,0,18
+2020-06-23,Tarapacá,Pozo Almonte,17395,342,236,0,106
+2020-06-23,Tarapacá,Desconocido Tarapaca,0,271,231,0,40
+2020-06-23,Antofagasta,Antofagasta,425725,3187,2541,0,646
+2020-06-23,Antofagasta,Calama,190336,3095,2117,0,978
+2020-06-23,Antofagasta,Maria Elena,6814,208,187,0,21
+2020-06-23,Antofagasta,Mejillones,14776,316,294,0,22
+2020-06-23,Antofagasta,Ollague,287,2,0,0,2
+2020-06-23,Antofagasta,San Pedro de Atacama,10434,63,34,0,29
+2020-06-23,Antofagasta,Sierra Gorda,1746,47,42,0,5
+2020-06-23,Antofagasta,Taltal,13657,62,47,0,15
+2020-06-23,Antofagasta,Tocopilla,28079,76,48,0,28
+2020-06-23,Antofagasta,Desconocido Antofagasta,0,116,13,0,103
+2020-06-23,Atacama,Alto del Carmen,5729,6,4,0,2
+2020-06-23,Atacama,Caldera,19426,20,13,0,7
+2020-06-23,Atacama,Chanaral,13164,20,5,0,15
+2020-06-23,Atacama,Copiapo,171766,474,316,0,158
+2020-06-23,Atacama,Diego de Almagro,14358,35,29,0,6
+2020-06-23,Atacama,Freirina,7681,8,3,0,5
+2020-06-23,Atacama,Huasco,11264,15,9,0,6
+2020-06-23,Atacama,Tierra Amarilla,14312,57,36,0,21
+2020-06-23,Atacama,Vallenar,57009,181,105,0,76
+2020-06-23,Atacama,Desconocido Atacama,0,3,0,0,3
+2020-06-23,Coquimbo,Andacollo,11791,31,27,0,4
+2020-06-23,Coquimbo,Canela,9546,7,7,0,0
+2020-06-23,Coquimbo,Combarbala,13884,31,21,0,10
+2020-06-23,Coquimbo,Coquimbo,256735,804,614,0,190
+2020-06-23,Coquimbo,Illapel,32801,90,63,0,27
+2020-06-23,Coquimbo,La Higuera,4450,5,3,0,2
+2020-06-23,Coquimbo,La Serena,249656,678,482,0,196
+2020-06-23,Coquimbo,Los Vilos,23374,24,16,0,8
+2020-06-23,Coquimbo,Monte Patria,32527,156,110,0,46
+2020-06-23,Coquimbo,Ovalle,121269,712,511,0,201
+2020-06-23,Coquimbo,Paiguano,4675,7,5,0,2
+2020-06-23,Coquimbo,Punitaqui,12165,42,35,0,7
+2020-06-23,Coquimbo,Rio Hurtado,4372,18,17,0,1
+2020-06-23,Coquimbo,Salamanca,29110,55,51,0,4
+2020-06-23,Coquimbo,Vicuna,29741,31,29,0,2
+2020-06-23,Coquimbo,Desconocido Coquimbo,0,123,39,0,84
+2020-06-23,Valparaíso,Algarrobo,15174,89,79,0,10
+2020-06-23,Valparaíso,Cabildo,20663,105,66,0,39
+2020-06-23,Valparaíso,Calera,53591,238,157,0,81
+2020-06-23,Valparaíso,Calle Larga,16482,142,109,0,33
+2020-06-23,Valparaíso,Cartagena,25357,102,85,0,17
+2020-06-23,Valparaíso,Casablanca,29170,96,76,0,20
+2020-06-23,Valparaíso,Catemu,15213,57,49,0,8
+2020-06-23,Valparaíso,Concon,45889,192,161,0,31
+2020-06-23,Valparaíso,El Quisco,17742,97,89,0,8
+2020-06-23,Valparaíso,El Tabo,14338,114,94,0,20
+2020-06-23,Valparaíso,Hijuelas,19099,75,50,0,25
+2020-06-23,Valparaíso,Isla de Pascua,8277,5,5,0,0
+2020-06-23,Valparaíso,Juan Fernandez,1033,0,0,0,0
+2020-06-23,Valparaíso,La Cruz,25321,75,60,0,15
+2020-06-23,Valparaíso,La Ligua,37739,158,113,0,45
+2020-06-23,Valparaíso,Limache,49931,385,255,0,130
+2020-06-23,Valparaíso,Llaillay,26533,163,130,0,33
+2020-06-23,Valparaíso,Los Andes,68093,595,450,0,145
+2020-06-23,Valparaíso,Nogales,23490,57,40,0,17
+2020-06-23,Valparaíso,Olmue,19266,63,42,0,21
+2020-06-23,Valparaíso,Panquehue,7633,49,38,0,11
+2020-06-23,Valparaíso,Papudo,6201,58,42,0,16
+2020-06-23,Valparaíso,Petorca,10558,37,31,0,6
+2020-06-23,Valparaíso,Puchuncavi,20071,82,57,0,25
+2020-06-23,Valparaíso,Putaendo,17645,120,88,0,32
+2020-06-23,Valparaíso,Quillota,97572,643,432,0,211
+2020-06-23,Valparaíso,Quilpue,167085,739,577,0,162
+2020-06-23,Valparaíso,Quintero,36135,230,188,0,42
+2020-06-23,Valparaíso,Rinconada,11263,105,79,0,26
+2020-06-23,Valparaíso,San Antonio,96761,860,724,0,136
+2020-06-23,Valparaíso,San Esteban,20643,110,78,0,32
+2020-06-23,Valparaíso,San Felipe,83494,694,521,0,173
+2020-06-23,Valparaíso,Santa Maria,16367,119,73,0,46
+2020-06-23,Valparaíso,Santo Domingo,11934,112,99,0,13
+2020-06-23,Valparaíso,Valparaiso,315732,2270,1643,0,627
+2020-06-23,Valparaíso,Villa Alemana,139310,783,565,0,218
+2020-06-23,Valparaíso,Vina del Mar,361371,1992,1591,0,401
+2020-06-23,Valparaíso,Zapallar,7994,16,4,0,12
+2020-06-23,Valparaíso,Desconocido Valparaiso,0,291,136,0,155
+2020-06-23,Metropolitana,Alhue,7405,63,36,0,27
+2020-06-23,Metropolitana,Buin,109641,1556,1280,0,276
+2020-06-23,Metropolitana,Calera de Tango,28525,342,261,0,81
+2020-06-23,Metropolitana,Cerrillos,88956,2204,1886,0,318
+2020-06-23,Metropolitana,Cerro Navia,142465,4696,4124,0,572
+2020-06-23,Metropolitana,Colina,180353,3590,3151,0,439
+2020-06-23,Metropolitana,Conchali,139195,4682,4109,0,573
+2020-06-23,Metropolitana,Curacavi,36430,615,521,0,94
+2020-06-23,Metropolitana,El Bosque,172000,4464,3772,0,692
+2020-06-23,Metropolitana,El Monte,40014,707,550,0,157
+2020-06-23,Metropolitana,Estacion Central,206792,4844,4249,0,595
+2020-06-23,Metropolitana,Huechuraba,112528,2871,2545,0,326
+2020-06-23,Metropolitana,Independencia,142065,5316,4871,0,445
+2020-06-23,Metropolitana,Isla de Maipo,40171,440,369,0,71
+2020-06-23,Metropolitana,La Cisterna,100434,2447,2086,0,361
+2020-06-23,Metropolitana,La Florida,402433,10208,8957,0,1251
+2020-06-23,Metropolitana,La Granja,122557,5434,4793,0,641
+2020-06-23,Metropolitana,La Pintana,189335,7361,6484,0,877
+2020-06-23,Metropolitana,La Reina,100252,1632,1391,0,241
+2020-06-23,Metropolitana,Lampa,126898,2582,2234,0,348
+2020-06-23,Metropolitana,Las Condes,330759,4478,3958,0,520
+2020-06-23,Metropolitana,Lo Barnechea,124076,2341,2117,0,224
+2020-06-23,Metropolitana,Lo Espejo,103865,3103,2670,0,433
+2020-06-23,Metropolitana,Lo Prado,104403,3436,3027,0,409
+2020-06-23,Metropolitana,Macul,134635,3779,3288,0,491
+2020-06-23,Metropolitana,Maipu,578605,10240,8698,0,1542
+2020-06-23,Metropolitana,Maria Pinto,14926,191,163,0,28
+2020-06-23,Metropolitana,Melipilla,141612,2375,1891,0,484
+2020-06-23,Metropolitana,Nunoa,250192,4202,3629,0,573
+2020-06-23,Metropolitana,Padre Hurtado,74188,1392,1174,0,218
+2020-06-23,Metropolitana,Paine,82766,1096,852,0,244
+2020-06-23,Metropolitana,Pedro Aguirre Cerda,107803,3181,2727,0,454
+2020-06-23,Metropolitana,Penaflor,101058,1806,1479,0,327
+2020-06-23,Metropolitana,Penalolen,266798,9115,7950,0,1165
+2020-06-23,Metropolitana,Pirque,30433,799,670,0,129
+2020-06-23,Metropolitana,Providencia,157749,2346,2109,0,237
+2020-06-23,Metropolitana,Pudahuel,253139,7236,6307,0,929
+2020-06-23,Metropolitana,Puente Alto,645909,16920,14514,0,2406
+2020-06-23,Metropolitana,Quilicura,254694,7061,6170,0,891
+2020-06-23,Metropolitana,Quinta Normal,136368,4363,3815,0,548
+2020-06-23,Metropolitana,Recoleta,190075,6935,6319,0,616
+2020-06-23,Metropolitana,Renca,160847,5383,4524,0,859
+2020-06-23,Metropolitana,San Bernardo,334836,7726,6540,0,1186
+2020-06-23,Metropolitana,San Joaquin,103485,3684,3242,0,442
+2020-06-23,Metropolitana,San Jose de Maipo,18644,459,391,0,68
+2020-06-23,Metropolitana,San Miguel,133059,3945,3412,0,533
+2020-06-23,Metropolitana,San Pedro,11953,127,109,0,18
+2020-06-23,Metropolitana,San Ramon,86510,3510,3116,0,394
+2020-06-23,Metropolitana,Santiago,503147,11831,10582,0,1249
+2020-06-23,Metropolitana,Talagante,81838,973,747,0,226
+2020-06-23,Metropolitana,Tiltil,21477,405,330,0,75
+2020-06-23,Metropolitana,Vitacura,96774,1159,1059,0,100
+2020-06-23,Metropolitana,Desconocido Metropolitana,0,18646,14670,0,3976
+2020-06-23,O’Higgins,Chepica,15925,50,20,0,30
+2020-06-23,O’Higgins,Chimbarongo,37696,71,54,0,17
+2020-06-23,O’Higgins,Codegua,14096,57,33,0,24
+2020-06-23,O’Higgins,Coinco,7831,44,30,0,14
+2020-06-23,O’Higgins,Coltauco,21263,71,48,0,23
+2020-06-23,O’Higgins,Donihue,22700,138,80,0,58
+2020-06-23,O’Higgins,Graneros,36504,207,134,0,73
+2020-06-23,O’Higgins,La Estrella,3114,11,6,0,5
+2020-06-23,O’Higgins,Las Cabras,26749,57,32,0,25
+2020-06-23,O’Higgins,Litueche,6765,46,23,0,23
+2020-06-23,O’Higgins,Lolol,7289,27,21,0,6
+2020-06-23,O’Higgins,Machali,59913,346,175,0,171
+2020-06-23,O’Higgins,Malloa,14163,25,20,0,5
+2020-06-23,O’Higgins,Marchihue,7632,12,5,0,7
+2020-06-23,O’Higgins,Mostazal,27462,112,81,0,31
+2020-06-23,O’Higgins,Nancagua,19141,50,40,0,10
+2020-06-23,O’Higgins,Navidad,6904,51,33,0,18
+2020-06-23,O’Higgins,Olivar,14624,70,50,0,20
+2020-06-23,O’Higgins,Palmilla,13299,19,12,0,7
+2020-06-23,O’Higgins,Paredones,6349,11,8,0,3
+2020-06-23,O’Higgins,Peralillo,11848,40,33,0,7
+2020-06-23,O’Higgins,Peumo,14952,17,14,0,3
+2020-06-23,O’Higgins,Pichidegua,20743,33,24,0,9
+2020-06-23,O’Higgins,Pichilemu,17882,30,23,0,7
+2020-06-23,O’Higgins,Placilla,9164,29,27,0,2
+2020-06-23,O’Higgins,Pumanque,3531,4,3,0,1
+2020-06-23,O’Higgins,Quinta de Tilcoco,13877,24,11,0,13
+2020-06-23,O’Higgins,Rancagua,265211,2477,1403,0,1074
+2020-06-23,O’Higgins,Rengo,63710,271,153,0,118
+2020-06-23,O’Higgins,Requinoa,30371,139,78,0,61
+2020-06-23,O’Higgins,San Fernando,78642,136,96,0,40
+2020-06-23,O’Higgins,San Vicente,50617,164,112,0,52
+2020-06-23,O’Higgins,Santa Cruz,41096,77,51,0,26
+2020-06-23,O’Higgins,Desconocido O’Higgins,0,150,45,0,105
+2020-06-23,Maule,Cauquenes,44143,250,173,0,77
+2020-06-23,Maule,Chanco,9331,26,13,0,13
+2020-06-23,Maule,Colbun,22565,98,70,0,28
+2020-06-23,Maule,Constitucion,50348,118,60,0,58
+2020-06-23,Maule,Curepto,9426,23,15,0,8
+2020-06-23,Maule,Curico,163626,1190,855,0,335
+2020-06-23,Maule,Empedrado,4206,19,2,0,17
+2020-06-23,Maule,Hualane,10222,104,89,0,15
+2020-06-23,Maule,Licanten,6989,15,10,0,5
+2020-06-23,Maule,Linares,101073,280,163,0,117
+2020-06-23,Maule,Longavi,32810,160,102,0,58
+2020-06-23,Maule,Maule,60000,162,127,0,35
+2020-06-23,Maule,Molina,49800,104,71,0,33
+2020-06-23,Maule,Parral,44544,197,164,0,33
+2020-06-23,Maule,Pelarco,9083,36,33,0,3
+2020-06-23,Maule,Pelluhue,8092,51,37,0,14
+2020-06-23,Maule,Pencahue,8601,25,20,0,5
+2020-06-23,Maule,Rauco,11248,39,29,0,10
+2020-06-23,Maule,Retiro,21071,108,87,0,21
+2020-06-23,Maule,Rio Claro,14753,35,26,0,9
+2020-06-23,Maule,Romeral,16170,141,85,0,56
+2020-06-23,Maule,Sagrada Familia,19469,44,35,0,9
+2020-06-23,Maule,San Clemente,46292,194,130,0,64
+2020-06-23,Maule,San Javier,49451,183,136,0,47
+2020-06-23,Maule,San Rafael,9959,82,73,0,9
+2020-06-23,Maule,Talca,236724,939,640,0,299
+2020-06-23,Maule,Teno,30850,81,41,0,40
+2020-06-23,Maule,Vichuquen,4381,0,0,0,0
+2020-06-23,Maule,Villa Alegre,17512,47,40,0,7
+2020-06-23,Maule,Yerbas Buenas,19200,92,75,0,17
+2020-06-23,Maule,Desconocido Maule,0,31,15,0,16
+2020-06-23,Ñuble,Bulnes,22607,237,214,0,23
+2020-06-23,Ñuble,Chillan,198624,991,799,0,192
+2020-06-23,Ñuble,Chillan Viejo,33827,175,139,0,36
+2020-06-23,Ñuble,Cobquecura,5275,0,0,0,0
+2020-06-23,Ñuble,Coelemu,16845,58,39,0,19
+2020-06-23,Ñuble,Coihueco,28375,79,62,0,17
+2020-06-23,Ñuble,El Carmen,12334,58,36,0,22
+2020-06-23,Ñuble,Ninhue,5414,24,15,0,9
+2020-06-23,Ñuble,Niquen,11567,62,48,0,14
+2020-06-23,Ñuble,Pemuco,8639,71,24,0,47
+2020-06-23,Ñuble,Pinto,11880,28,17,0,11
+2020-06-23,Ñuble,Portezuelo,4940,11,7,0,4
+2020-06-23,Ñuble,Quillon,18777,117,88,0,29
+2020-06-23,Ñuble,Quirihue,12192,29,23,0,6
+2020-06-23,Ñuble,Ranquil,6261,19,12,0,7
+2020-06-23,Ñuble,San Carlos,56252,288,188,0,100
+2020-06-23,Ñuble,San Fabian,4654,9,9,0,0
+2020-06-23,Ñuble,San Ignacio,16624,129,49,0,80
+2020-06-23,Ñuble,San Nicolas,12172,56,49,0,7
+2020-06-23,Ñuble,Treguaco,5696,2,2,0,0
+2020-06-23,Ñuble,Yungay,18596,78,69,0,9
+2020-06-23,Ñuble,Desconocido Nuble,0,0,0,0,0
+2020-06-23,Biobío,Alto Biobio,6775,158,141,0,17
+2020-06-23,Biobío,Antuco,4306,39,24,0,15
+2020-06-23,Biobío,Arauco,38679,166,99,0,67
+2020-06-23,Biobío,Cabrero,30725,179,50,0,129
+2020-06-23,Biobío,Canete,37003,32,21,0,11
+2020-06-23,Biobío,Chiguayante,91180,254,182,0,72
+2020-06-23,Biobío,Concepcion,238092,926,600,0,326
+2020-06-23,Biobío,Contulmo,6330,10,2,0,8
+2020-06-23,Biobío,Coronel,125829,629,397,0,232
+2020-06-23,Biobío,Curanilahue,33892,46,28,0,18
+2020-06-23,Biobío,Florida,11841,13,7,0,6
+2020-06-23,Biobío,Hualpen,97273,300,230,0,70
+2020-06-23,Biobío,Hualqui,26201,111,65,0,46
+2020-06-23,Biobío,Laja,23873,95,77,0,18
+2020-06-23,Biobío,Lebu,27100,27,16,0,11
+2020-06-23,Biobío,Los Alamos,22524,47,11,0,36
+2020-06-23,Biobío,Los Angeles,218515,559,406,0,153
+2020-06-23,Biobío,Lota,45750,164,98,0,66
+2020-06-23,Biobío,Mulchen,31041,35,27,0,8
+2020-06-23,Biobío,Nacimiento,27944,87,51,0,36
+2020-06-23,Biobío,Negrete,10429,84,61,0,23
+2020-06-23,Biobío,Penco,49865,209,107,0,102
+2020-06-23,Biobío,Quilaco,4179,7,6,0,1
+2020-06-23,Biobío,Quilleco,10032,9,7,0,2
+2020-06-23,Biobío,San Pedro de la Paz,145906,473,322,0,151
+2020-06-23,Biobío,San Rosendo,3611,16,11,0,5
+2020-06-23,Biobío,Santa Barbara,14592,87,53,0,34
+2020-06-23,Biobío,Santa Juana,14779,53,29,0,24
+2020-06-23,Biobío,Talcahuano,158345,520,337,0,183
+2020-06-23,Biobío,Tirua,11019,19,9,0,10
+2020-06-23,Biobío,Tome,58729,260,165,0,95
+2020-06-23,Biobío,Tucapel,15205,82,58,0,24
+2020-06-23,Biobío,Yumbel,22132,82,38,0,44
+2020-06-23,Biobío,Desconocido Biobio,0,200,33,0,167
+2020-06-23,Araucanía,Angol,56058,331,263,0,68
+2020-06-23,Araucanía,Carahue,25486,80,68,0,12
+2020-06-23,Araucanía,Cholchol,12341,26,24,0,2
+2020-06-23,Araucanía,Collipulli,26148,53,41,0,12
+2020-06-23,Araucanía,Cunco,18055,51,47,0,4
+2020-06-23,Araucanía,Curacautin,18178,23,16,0,7
+2020-06-23,Araucanía,Curarrehue,7802,4,4,0,0
+2020-06-23,Araucanía,Ercilla,8458,20,18,0,2
+2020-06-23,Araucanía,Freire,25446,108,99,0,9
+2020-06-23,Araucanía,Galvarino,12633,114,100,0,14
+2020-06-23,Araucanía,Gorbea,15148,40,35,0,5
+2020-06-23,Araucanía,Lautaro,40746,111,101,0,10
+2020-06-23,Araucanía,Loncoche,24739,70,57,0,13
+2020-06-23,Araucanía,Lonquimay,11049,72,69,0,3
+2020-06-23,Araucanía,Los Sauces,7517,9,8,0,1
+2020-06-23,Araucanía,Lumaco,10050,31,24,0,7
+2020-06-23,Araucanía,Melipeuco,6265,8,8,0,0
+2020-06-23,Araucanía,Nueva Imperial,33777,109,85,0,24
+2020-06-23,Araucanía,Padre Las Casas,82110,181,174,0,7
+2020-06-23,Araucanía,Perquenco,7223,23,15,0,8
+2020-06-23,Araucanía,Pitrufquen,26096,81,77,0,4
+2020-06-23,Araucanía,Pucon,29782,73,66,0,7
+2020-06-23,Araucanía,Puren,12188,19,9,0,10
+2020-06-23,Araucanía,Renaico,10833,38,29,0,9
+2020-06-23,Araucanía,Saavedra,12793,100,96,0,4
+2020-06-23,Araucanía,Temuco,302931,926,882,0,44
+2020-06-23,Araucanía,Teodoro Schmidt,15786,34,13,0,21
+2020-06-23,Araucanía,Tolten,10055,17,17,0,0
+2020-06-23,Araucanía,Traiguen,19314,39,31,0,8
+2020-06-23,Araucanía,Victoria,35467,160,148,0,12
+2020-06-23,Araucanía,Vilcun,30766,106,102,0,4
+2020-06-23,Araucanía,Villarrica,59103,71,50,0,21
+2020-06-23,Araucanía,Desconocido Araucania,0,7,4,0,3
+2020-06-23,Los Ríos,Corral,5447,23,20,0,3
+2020-06-23,Los Ríos,Futrono,15261,58,54,0,4
+2020-06-23,Los Ríos,La Union,39538,79,64,0,15
+2020-06-23,Los Ríos,Lago Ranco,10292,2,2,0,0
+2020-06-23,Los Ríos,Lanco,17652,26,18,0,8
+2020-06-23,Los Ríos,Los Lagos,20518,63,41,0,22
+2020-06-23,Los Ríos,Mafil,7389,20,9,0,11
+2020-06-23,Los Ríos,Mariquina,23250,20,18,0,2
+2020-06-23,Los Ríos,Paillaco,20798,27,25,0,2
+2020-06-23,Los Ríos,Panguipulli,35991,47,36,0,11
+2020-06-23,Los Ríos,Rio Bueno,32925,21,18,0,3
+2020-06-23,Los Ríos,Valdivia,176774,268,214,0,54
+2020-06-23,Los Ríos,Desconocido Los Rios,0,5,4,0,1
+2020-06-23,Los Lagos,Ancud,42458,95,92,0,3
+2020-06-23,Los Lagos,Calbuco,36744,21,9,0,12
+2020-06-23,Los Lagos,Castro,47607,9,9,0,0
+2020-06-23,Los Lagos,Chaiten,5020,1,1,0,0
+2020-06-23,Los Lagos,Chonchi,16013,0,0,0,0
+2020-06-23,Los Lagos,Cochamo,4006,1,1,0,0
+2020-06-23,Los Lagos,Curaco de Velez,4066,0,0,0,0
+2020-06-23,Los Lagos,Dalcahue,15069,7,6,0,1
+2020-06-23,Los Lagos,Fresia,12656,7,1,0,6
+2020-06-23,Los Lagos,Frutillar,20223,47,16,0,31
+2020-06-23,Los Lagos,Futaleufu,2806,1,1,0,0
+2020-06-23,Los Lagos,Hualaihue,9525,8,5,0,3
+2020-06-23,Los Lagos,Llanquihue,18621,66,14,0,52
+2020-06-23,Los Lagos,Los Muermos,17817,13,2,0,11
+2020-06-23,Los Lagos,Maullin,14894,18,16,0,2
+2020-06-23,Los Lagos,Osorno,173410,459,429,0,30
+2020-06-23,Los Lagos,Palena,1827,0,0,0,0
+2020-06-23,Los Lagos,Puerto Montt,269398,431,298,0,133
+2020-06-23,Los Lagos,Puerto Octay,9192,6,5,0,1
+2020-06-23,Los Lagos,Puerto Varas,48620,66,53,0,13
+2020-06-23,Los Lagos,Puqueldon,4201,0,0,0,0
+2020-06-23,Los Lagos,Purranque,21080,74,74,0,0
+2020-06-23,Los Lagos,Puyehue,11787,13,13,0,0
+2020-06-23,Los Lagos,Queilen,5543,0,0,0,0
+2020-06-23,Los Lagos,Quellon,29309,5,1,0,4
+2020-06-23,Los Lagos,Quemchi,8783,14,14,0,0
+2020-06-23,Los Lagos,Quinchao,8298,2,1,0,1
+2020-06-23,Los Lagos,Rio Negro,14275,38,36,0,2
+2020-06-23,Los Lagos,San Juan de la Costa,7639,42,41,0,1
+2020-06-23,Los Lagos,San Pablo,10553,12,12,0,0
+2020-06-23,Los Lagos,Desconocido Los Lagos,0,44,33,0,11
+2020-06-23,Aysén,Aysen,25002,8,4,0,4
+2020-06-23,Aysén,Chile Chico,5121,1,1,0,0
+2020-06-23,Aysén,Cisnes,5828,0,0,0,0
+2020-06-23,Aysén,Cochrane,3685,0,0,0,0
+2020-06-23,Aysén,Coyhaique,61210,15,14,0,1
+2020-06-23,Aysén,Guaitecas,1599,0,0,0,0
+2020-06-23,Aysén,Lago Verde,920,0,0,0,0
+2020-06-23,Aysén,OHiggins,661,0,0,0,0
+2020-06-23,Aysén,Rio Ibanez,2699,0,0,0,0
+2020-06-23,Aysén,Tortel,572,0,0,0,0
+2020-06-23,Aysén,Desconocido Aysen,0,1,1,0,0
+2020-06-23,Magallanes,Antartica,137,0,0,0,0
+2020-06-23,Magallanes,Cabo de Hornos,1983,21,21,0,0
+2020-06-23,Magallanes,Laguna Blanca,264,0,0,0,0
+2020-06-23,Magallanes,Natales,23782,22,20,0,2
+2020-06-23,Magallanes,Porvenir,7323,10,10,0,0
+2020-06-23,Magallanes,Primavera,694,3,2,0,1
+2020-06-23,Magallanes,Punta Arenas,141984,1257,1089,0,168
+2020-06-23,Magallanes,Rio Verde,211,0,0,0,0
+2020-06-23,Magallanes,San Gregorio,681,2,2,0,0
+2020-06-23,Magallanes,Timaukel,282,0,0,0,0
+2020-06-23,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-06-23,Magallanes,Desconocido Magallanes,0,69,67,0,2
