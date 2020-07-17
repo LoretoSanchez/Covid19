@@ -174,6 +174,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Afghanistan,34451,21216,1010
 2020-07-13,Afghanistan,34455,21254,1012
 2020-07-14,Afghanistan,34740,21454,1048
+2020-07-15,Afghanistan,34994,22456,1094
+2020-07-16,Afghanistan,35070,22824,1113
 2020-01-22,Albania,0,0,0
 2020-01-23,Albania,0,0,0
 2020-01-24,Albania,0,0,0
@@ -349,6 +351,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Albania,3454,1946,93
 2020-07-13,Albania,3571,2014,95
 2020-07-14,Albania,3667,2062,97
+2020-07-15,Albania,3752,2091,101
+2020-07-16,Albania,3851,2137,104
 2020-01-22,Algeria,0,0,0
 2020-01-23,Algeria,0,0,0
 2020-01-24,Algeria,0,0,0
@@ -524,6 +528,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Algeria,19195,13743,1011
 2020-07-13,Algeria,19689,14019,1018
 2020-07-14,Algeria,20216,14295,1028
+2020-07-15,Algeria,20770,14792,1040
+2020-07-16,Algeria,21355,15107,1052
 2020-01-22,Andorra,0,0,0
 2020-01-23,Andorra,0,0,0
 2020-01-24,Andorra,0,0,0
@@ -699,6 +705,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Andorra,855,803,52
 2020-07-13,Andorra,858,803,52
 2020-07-14,Andorra,861,803,52
+2020-07-15,Andorra,862,803,52
+2020-07-16,Andorra,877,803,52
 2020-01-22,Angola,0,0,0
 2020-01-23,Angola,0,0,0
 2020-01-24,Angola,0,0,0
@@ -874,6 +882,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Angola,506,118,26
 2020-07-13,Angola,525,118,26
 2020-07-14,Angola,541,118,26
+2020-07-15,Angola,576,124,27
+2020-07-16,Angola,607,124,28
 2020-01-22,Antigua and Barbuda,0,0,0
 2020-01-23,Antigua and Barbuda,0,0,0
 2020-01-24,Antigua and Barbuda,0,0,0
@@ -1049,6 +1059,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Antigua and Barbuda,74,57,3
 2020-07-13,Antigua and Barbuda,74,57,3
 2020-07-14,Antigua and Barbuda,74,57,3
+2020-07-15,Antigua and Barbuda,74,57,3
+2020-07-16,Antigua and Barbuda,74,57,3
 2020-01-22,Argentina,0,0,0
 2020-01-23,Argentina,0,0,0
 2020-01-24,Argentina,0,0,0
@@ -1224,6 +1236,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Argentina,100166,42694,1845
 2020-07-13,Argentina,103265,44173,1903
 2020-07-14,Argentina,106910,45467,1968
+2020-07-15,Argentina,111146,47298,2050
+2020-07-16,Argentina,114783,49120,2112
 2020-01-22,Armenia,0,0,0
 2020-01-23,Armenia,0,0,0
 2020-01-24,Armenia,0,0,0
@@ -1399,6 +1413,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Armenia,31969,19633,565
 2020-07-13,Armenia,32151,19865,573
 2020-07-14,Armenia,32490,20729,581
+2020-07-15,Armenia,33005,21348,592
+2020-07-16,Armenia,33559,21931,607
 2020-01-22,Australia,0,0,0
 2020-01-23,Australia,0,0,0
 2020-01-24,Australia,0,0,0
@@ -1574,6 +1590,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Australia,9980,7769,108
 2020-07-13,Australia,10251,7835,108
 2020-07-14,Australia,10487,7928,111
+2020-07-15,Australia,10810,8035,113
+2020-07-16,Australia,11233,8114,116
 2020-01-22,Austria,0,0,0
 2020-01-23,Austria,0,0,0
 2020-01-24,Austria,0,0,0
@@ -1749,6 +1767,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Austria,18897,16952,708
 2020-07-13,Austria,18948,17000,708
 2020-07-14,Austria,19021,17073,709
+2020-07-15,Austria,19154,17175,710
+2020-07-16,Austria,19270,17244,711
 2020-01-22,Azerbaijan,0,0,0
 2020-01-23,Azerbaijan,0,0,0
 2020-01-24,Azerbaijan,0,0,0
@@ -1924,6 +1944,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Azerbaijan,24041,15093,306
 2020-07-13,Azerbaijan,24570,15640,313
 2020-07-14,Azerbaijan,25113,16150,319
+2020-07-15,Azerbaijan,25672,16695,326
+2020-07-16,Azerbaijan,26165,17256,334
 2020-01-22,Bahamas,0,0,0
 2020-01-23,Bahamas,0,0,0
 2020-01-24,Bahamas,0,0,0
@@ -2099,6 +2121,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Bahamas,111,89,11
 2020-07-13,Bahamas,113,91,11
 2020-07-14,Bahamas,116,91,11
+2020-07-15,Bahamas,119,91,11
+2020-07-16,Bahamas,124,91,11
 2020-01-22,Bahrain,0,0,0
 2020-01-23,Bahrain,0,0,0
 2020-01-24,Bahrain,0,0,0
@@ -2274,6 +2298,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Bahrain,32941,28425,108
 2020-07-13,Bahrain,33476,29099,109
 2020-07-14,Bahrain,34078,29753,111
+2020-07-15,Bahrain,34560,30320,117
+2020-07-16,Bahrain,35084,30809,121
 2020-01-22,Bangladesh,0,0,0
 2020-01-23,Bangladesh,0,0,0
 2020-01-24,Bangladesh,0,0,0
@@ -2449,6 +2475,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Bangladesh,183795,93614,2352
 2020-07-13,Bangladesh,186894,98317,2391
 2020-07-14,Bangladesh,190057,103227,2424
+2020-07-15,Bangladesh,193590,105523,2457
+2020-07-16,Bangladesh,196323,106963,2496
 2020-01-22,Barbados,0,0,0
 2020-01-23,Barbados,0,0,0
 2020-01-24,Barbados,0,0,0
@@ -2624,6 +2652,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Barbados,103,90,7
 2020-07-13,Barbados,103,90,7
 2020-07-14,Barbados,103,90,7
+2020-07-15,Barbados,104,90,7
+2020-07-16,Barbados,104,90,7
 2020-01-22,Belarus,0,0,0
 2020-01-23,Belarus,0,0,0
 2020-01-24,Belarus,0,0,0
@@ -2799,6 +2829,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Belarus,64932,55380,464
 2020-07-13,Belarus,65114,55492,468
 2020-07-14,Belarus,65269,55799,474
+2020-07-15,Belarus,65443,56379,480
+2020-07-16,Belarus,65623,56915,485
 2020-01-22,Belgium,0,0,0
 2020-01-23,Belgium,0,0,0
 2020-01-24,Belgium,0,0,0
@@ -2974,6 +3006,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Belgium,62707,17196,9782
 2020-07-13,Belgium,62707,17196,9782
 2020-07-14,Belgium,62781,17223,9787
+2020-07-15,Belgium,62872,17242,9788
+2020-07-16,Belgium,63238,17253,9795
 2020-01-22,Belize,0,0,0
 2020-01-23,Belize,0,0,0
 2020-01-24,Belize,0,0,0
@@ -3149,6 +3183,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Belize,37,20,2
 2020-07-13,Belize,37,20,2
 2020-07-14,Belize,39,21,2
+2020-07-15,Belize,39,21,2
+2020-07-16,Belize,40,22,2
 2020-01-22,Benin,0,0,0
 2020-01-23,Benin,0,0,0
 2020-01-24,Benin,0,0,0
@@ -3324,6 +3360,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Benin,1378,557,26
 2020-07-13,Benin,1378,557,26
 2020-07-14,Benin,1378,557,26
+2020-07-15,Benin,1378,557,26
+2020-07-16,Benin,1463,557,28
 2020-01-22,Bhutan,0,0,0
 2020-01-23,Bhutan,0,0,0
 2020-01-24,Bhutan,0,0,0
@@ -3499,6 +3537,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Bhutan,84,76,0
 2020-07-13,Bhutan,84,76,0
 2020-07-14,Bhutan,84,78,0
+2020-07-15,Bhutan,84,78,0
+2020-07-16,Bhutan,86,78,0
 2020-01-22,Bolivia,0,0,0
 2020-01-23,Bolivia,0,0,0
 2020-01-24,Bolivia,0,0,0
@@ -3674,6 +3714,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Bolivia,48187,14843,1807
 2020-07-13,Bolivia,49250,15294,1866
 2020-07-14,Bolivia,50867,15819,1898
+2020-07-15,Bolivia,52218,16357,1942
+2020-07-16,Bolivia,54156,16979,1984
 2020-01-22,Bosnia and Herzegovina,0,0,0
 2020-01-23,Bosnia and Herzegovina,0,0,0
 2020-01-24,Bosnia and Herzegovina,0,0,0
@@ -3849,6 +3891,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Bosnia and Herzegovina,6877,3115,221
 2020-07-13,Bosnia and Herzegovina,6981,3179,226
 2020-07-14,Bosnia and Herzegovina,6981,3179,226
+2020-07-15,Bosnia and Herzegovina,7411,3335,235
+2020-07-16,Bosnia and Herzegovina,7681,3534,240
 2020-01-22,Botswana,0,0,0
 2020-01-23,Botswana,0,0,0
 2020-01-24,Botswana,0,0,0
@@ -4024,6 +4068,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Botswana,399,38,1
 2020-07-13,Botswana,399,38,1
 2020-07-14,Botswana,399,38,1
+2020-07-15,Botswana,399,38,1
+2020-07-16,Botswana,522,48,1
 2020-01-22,Brazil,0,0,0
 2020-01-23,Brazil,0,0,0
 2020-01-24,Brazil,0,0,0
@@ -4199,6 +4245,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Brazil,1864681,1264843,72100
 2020-07-13,Brazil,1884967,1291251,72833
 2020-07-14,Brazil,1926824,1323425,74133
+2020-07-15,Brazil,1966748,1350098,75366
+2020-07-16,Brazil,2012151,1397531,76688
 2020-01-22,Brunei,0,0,0
 2020-01-23,Brunei,0,0,0
 2020-01-24,Brunei,0,0,0
@@ -4374,6 +4422,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Brunei,141,138,3
 2020-07-13,Brunei,141,138,3
 2020-07-14,Brunei,141,138,3
+2020-07-15,Brunei,141,138,3
+2020-07-16,Brunei,141,138,3
 2020-01-22,Bulgaria,0,0,0
 2020-01-23,Bulgaria,0,0,0
 2020-01-24,Bulgaria,0,0,0
@@ -4549,6 +4599,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Bulgaria,7252,3319,268
 2020-07-13,Bulgaria,7411,3517,276
 2020-07-14,Bulgaria,7645,3663,283
+2020-07-15,Bulgaria,7877,3841,289
+2020-07-16,Bulgaria,8144,3927,293
 2020-01-22,Burkina Faso,0,0,0
 2020-01-23,Burkina Faso,0,0,0
 2020-01-24,Burkina Faso,0,0,0
@@ -4724,6 +4776,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Burkina Faso,1036,869,53
 2020-07-13,Burkina Faso,1036,869,53
 2020-07-14,Burkina Faso,1037,873,53
+2020-07-15,Burkina Faso,1038,882,53
+2020-07-16,Burkina Faso,1038,882,53
 2020-01-22,Burundi,0,0,0
 2020-01-23,Burundi,0,0,0
 2020-01-24,Burundi,0,0,0
@@ -4899,6 +4953,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Burundi,191,118,1
 2020-07-13,Burundi,269,207,1
 2020-07-14,Burundi,269,207,1
+2020-07-15,Burundi,269,207,1
+2020-07-16,Burundi,303,207,1
 2020-01-22,Cabo Verde,0,0,0
 2020-01-23,Cabo Verde,0,0,0
 2020-01-24,Cabo Verde,0,0,0
@@ -5074,6 +5130,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Cabo Verde,1623,748,19
 2020-07-13,Cabo Verde,1698,748,19
 2020-07-14,Cabo Verde,1722,772,19
+2020-07-15,Cabo Verde,1780,850,19
+2020-07-16,Cabo Verde,1894,902,19
 2020-01-22,Cambodia,0,0,0
 2020-01-23,Cambodia,0,0,0
 2020-01-24,Cambodia,0,0,0
@@ -5249,6 +5307,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Cambodia,156,133,0
 2020-07-13,Cambodia,165,133,0
 2020-07-14,Cambodia,165,133,0
+2020-07-15,Cambodia,166,133,0
+2020-07-16,Cambodia,171,133,0
 2020-01-22,Cameroon,0,0,0
 2020-01-23,Cameroon,0,0,0
 2020-01-24,Cameroon,0,0,0
@@ -5424,6 +5484,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Cameroon,15173,11928,359
 2020-07-13,Cameroon,15173,11928,359
 2020-07-14,Cameroon,15173,11928,359
+2020-07-15,Cameroon,15173,11928,359
+2020-07-16,Cameroon,16157,13728,373
 2020-01-22,Canada,0,0,0
 2020-01-23,Canada,0,0,0
 2020-01-24,Canada,0,0,0
@@ -5599,6 +5661,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Canada,109348,72954,8829
 2020-07-13,Canada,109984,73381,8836
 2020-07-14,Canada,110350,73713,8845
+2020-07-15,Canada,110693,74067,8857
+2020-07-16,Canada,111144,74433,8875
 2020-01-22,Central African Republic,0,0,0
 2020-01-23,Central African Republic,0,0,0
 2020-01-24,Central African Republic,0,0,0
@@ -5774,6 +5838,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Central African Republic,4288,1145,53
 2020-07-13,Central African Republic,4321,1208,53
 2020-07-14,Central African Republic,4356,1229,53
+2020-07-15,Central African Republic,4362,1261,53
+2020-07-16,Central African Republic,4373,1265,53
 2020-01-22,Chad,0,0,0
 2020-01-23,Chad,0,0,0
 2020-01-24,Chad,0,0,0
@@ -5949,6 +6015,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Chad,880,790,75
 2020-07-13,Chad,880,792,75
 2020-07-14,Chad,884,798,75
+2020-07-15,Chad,885,799,75
+2020-07-16,Chad,886,799,75
 2020-01-22,Chile,0,0,0
 2020-01-23,Chile,0,0,0
 2020-01-24,Chile,0,0,0
@@ -6124,6 +6192,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Chile,315041,283902,6979
 2020-07-13,Chile,317657,286556,7024
 2020-07-14,Chile,319493,289220,7069
+2020-07-15,Chile,321205,292085,7186
+2020-07-16,Chile,323698,295301,7290
 2020-01-22,China,548,28,17
 2020-01-23,China,643,30,18
 2020-01-24,China,920,36,26
@@ -6299,6 +6369,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,China,85117,79907,4641
 2020-07-13,China,85117,79907,4641
 2020-07-14,China,85226,79967,4642
+2020-07-15,China,85246,80005,4644
+2020-07-16,China,85314,80018,4644
 2020-01-22,Colombia,0,0,0
 2020-01-23,Colombia,0,0,0
 2020-01-24,Colombia,0,0,0
@@ -6474,6 +6546,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Colombia,145362,61186,5426
 2020-07-13,Colombia,150445,63451,5634
 2020-07-14,Colombia,154277,65809,5787
+2020-07-15,Colombia,159898,68806,5969
+2020-07-16,Colombia,165169,71736,6164
 2020-01-22,Comoros,0,0,0
 2020-01-23,Comoros,0,0,0
 2020-01-24,Comoros,0,0,0
@@ -6649,6 +6723,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Comoros,317,296,7
 2020-07-13,Comoros,317,296,7
 2020-07-14,Comoros,321,302,7
+2020-07-15,Comoros,321,302,7
+2020-07-16,Comoros,328,311,7
 2020-01-22,Congo,0,0,0
 2020-01-23,Congo,0,0,0
 2020-01-24,Congo,0,0,0
@@ -6824,6 +6900,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Congo,2028,589,47
 2020-07-13,Congo,2028,589,47
 2020-07-14,Congo,2028,589,47
+2020-07-15,Congo,2222,589,47
+2020-07-16,Congo,2358,589,48
 2020-01-22,"Congo, Democratic Republic of the",0,0,0
 2020-01-23,"Congo, Democratic Republic of the",0,0,0
 2020-01-24,"Congo, Democratic Republic of the",0,0,0
@@ -6999,6 +7077,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,"Congo, Democratic Republic of the",8033,3615,189
 2020-07-13,"Congo, Democratic Republic of the",8075,3620,190
 2020-07-14,"Congo, Democratic Republic of the",8135,3948,190
+2020-07-15,"Congo, Democratic Republic of the",8163,3983,192
+2020-07-16,"Congo, Democratic Republic of the",8199,4248,193
 2020-01-22,Costa Rica,0,0,0
 2020-01-23,Costa Rica,0,0,0
 2020-01-24,Costa Rica,0,0,0
@@ -7174,6 +7254,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Costa Rica,7596,2239,30
 2020-07-13,Costa Rica,8036,2304,34
 2020-07-14,Costa Rica,8482,2441,37
+2020-07-15,Costa Rica,8986,2551,40
+2020-07-16,Costa Rica,9546,2673,42
 2020-01-22,Croatia,0,0,0
 2020-01-23,Croatia,0,0,0
 2020-01-24,Croatia,0,0,0
@@ -7349,6 +7431,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Croatia,3722,2486,119
 2020-07-13,Croatia,3775,2514,119
 2020-07-14,Croatia,3827,2558,120
+2020-07-15,Croatia,3953,2629,120
+2020-07-16,Croatia,4039,2729,120
 2020-01-22,Cuba,0,0,0
 2020-01-23,Cuba,0,0,0
 2020-01-24,Cuba,0,0,0
@@ -7524,6 +7608,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Cuba,2426,2258,87
 2020-07-13,Cuba,2428,2268,87
 2020-07-14,Cuba,2432,2275,87
+2020-07-15,Cuba,2438,2277,87
+2020-07-16,Cuba,2440,2285,87
 2020-01-22,Cyprus,0,0,0
 2020-01-23,Cyprus,0,0,0
 2020-01-24,Cyprus,0,0,0
@@ -7699,6 +7785,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Cyprus,1021,839,19
 2020-07-13,Cyprus,1022,839,19
 2020-07-14,Cyprus,1023,839,19
+2020-07-15,Cyprus,1025,839,19
+2020-07-16,Cyprus,1031,845,19
 2020-01-22,Czech Republic,0,0,0
 2020-01-23,Czech Republic,0,0,0
 2020-01-24,Czech Republic,0,0,0
@@ -7874,6 +7962,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Czech Republic,13174,8247,352
 2020-07-13,Czech Republic,13238,8373,353
 2020-07-14,Czech Republic,13341,8441,355
+2020-07-15,Czech Republic,13475,8507,355
+2020-07-16,Czech Republic,13612,8640,355
 2020-01-22,Denmark,0,0,0
 2020-01-23,Denmark,0,0,0
 2020-01-24,Denmark,0,0,0
@@ -8049,6 +8139,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Denmark,13147,12278,609
 2020-07-13,Denmark,13238,12331,610
 2020-07-14,Denmark,13262,12361,610
+2020-07-15,Denmark,13293,12383,610
+2020-07-16,Denmark,13325,12396,610
 2020-01-22,Djibouti,0,0,0
 2020-01-23,Djibouti,0,0,0
 2020-01-24,Djibouti,0,0,0
@@ -8224,6 +8316,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Djibouti,4972,4712,56
 2020-07-13,Djibouti,4977,4729,56
 2020-07-14,Djibouti,4979,4743,56
+2020-07-15,Djibouti,4985,4765,56
+2020-07-16,Djibouti,4993,4796,56
 2020-01-22,Dominica,0,0,0
 2020-01-23,Dominica,0,0,0
 2020-01-24,Dominica,0,0,0
@@ -8399,6 +8493,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Dominica,18,18,0
 2020-07-13,Dominica,18,18,0
 2020-07-14,Dominica,18,18,0
+2020-07-15,Dominica,18,18,0
+2020-07-16,Dominica,18,18,0
 2020-01-22,Dominican Republic,0,0,0
 2020-01-23,Dominican Republic,0,0,0
 2020-01-24,Dominican Republic,0,0,0
@@ -8574,6 +8670,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Dominican Republic,44532,21459,897
 2020-07-13,Dominican Republic,45506,22441,903
 2020-07-14,Dominican Republic,46305,23134,910
+2020-07-15,Dominican Republic,47671,23459,929
+2020-07-16,Dominican Republic,48743,23636,941
 2020-01-22,Ecuador,0,0,0
 2020-01-23,Ecuador,0,0,0
 2020-01-24,Ecuador,0,0,0
@@ -8749,6 +8847,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Ecuador,67870,30283,5047
 2020-07-13,Ecuador,68459,30369,5063
 2020-07-14,Ecuador,69570,30484,5130
+2020-07-15,Ecuador,70329,30641,5158
+2020-07-16,Ecuador,71365,31260,5207
 2020-01-22,Egypt,0,0,0
 2020-01-23,Egypt,0,0,0
 2020-01-24,Egypt,0,0,0
@@ -8924,6 +9024,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Egypt,82070,24419,3858
 2020-07-13,Egypt,83001,24975,3935
 2020-07-14,Egypt,83930,25544,4008
+2020-07-15,Egypt,84843,26135,4067
+2020-07-16,Egypt,85771,26691,4120
 2020-01-22,El Salvador,0,0,0
 2020-01-23,El Salvador,0,0,0
 2020-01-24,El Salvador,0,0,0
@@ -9099,6 +9201,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,El Salvador,9674,5634,260
 2020-07-13,El Salvador,9978,5732,267
 2020-07-14,El Salvador,10303,5919,278
+2020-07-15,El Salvador,10645,6120,286
+2020-07-16,El Salvador,10957,6257,298
 2020-01-22,Equatorial Guinea,0,0,0
 2020-01-23,Equatorial Guinea,0,0,0
 2020-01-24,Equatorial Guinea,0,0,0
@@ -9274,6 +9378,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Equatorial Guinea,3071,842,51
 2020-07-13,Equatorial Guinea,3071,842,51
 2020-07-14,Equatorial Guinea,3071,842,51
+2020-07-15,Equatorial Guinea,3071,842,51
+2020-07-16,Equatorial Guinea,3071,842,51
 2020-01-22,Eritrea,0,0,0
 2020-01-23,Eritrea,0,0,0
 2020-01-24,Eritrea,0,0,0
@@ -9449,6 +9555,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Eritrea,232,107,0
 2020-07-13,Eritrea,232,107,0
 2020-07-14,Eritrea,232,107,0
+2020-07-15,Eritrea,232,107,0
+2020-07-16,Eritrea,251,149,0
 2020-01-22,Estonia,0,0,0
 2020-01-23,Estonia,0,0,0
 2020-01-24,Estonia,0,0,0
@@ -9624,6 +9732,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Estonia,2014,1895,69
 2020-07-13,Estonia,2014,1895,69
 2020-07-14,Estonia,2015,1897,69
+2020-07-15,Estonia,2016,1901,69
+2020-07-16,Estonia,2016,1904,69
 2020-01-22,Ethiopia,0,0,0
 2020-01-23,Ethiopia,0,0,0
 2020-01-24,Ethiopia,0,0,0
@@ -9799,6 +9909,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Ethiopia,7560,2430,127
 2020-07-13,Ethiopia,7766,2430,128
 2020-07-14,Ethiopia,7969,2430,139
+2020-07-15,Ethiopia,8181,2430,146
+2020-07-16,Ethiopia,8475,2430,148
 2020-01-22,Fiji,0,0,0
 2020-01-23,Fiji,0,0,0
 2020-01-24,Fiji,0,0,0
@@ -9974,6 +10086,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Fiji,26,18,0
 2020-07-13,Fiji,26,18,0
 2020-07-14,Fiji,26,18,0
+2020-07-15,Fiji,26,18,0
+2020-07-16,Fiji,26,18,0
 2020-01-22,Finland,0,0,0
 2020-01-23,Finland,0,0,0
 2020-01-24,Finland,0,0,0
@@ -10149,6 +10263,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Finland,7294,6800,329
 2020-07-13,Finland,7295,6800,329
 2020-07-14,Finland,7301,6800,329
+2020-07-15,Finland,7296,6880,328
+2020-07-16,Finland,7293,6880,328
 2020-01-22,France,0,0,0
 2020-01-23,France,0,0,0
 2020-01-24,France,2,0,0
@@ -10324,6 +10440,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,France,208015,78513,30007
 2020-07-13,France,209640,78722,30032
 2020-07-14,France,209640,78722,30032
+2020-07-15,France,210568,78945,30123
+2020-07-16,France,211102,79161,30141
 2020-01-22,Gabon,0,0,0
 2020-01-23,Gabon,0,0,0
 2020-01-24,Gabon,0,0,0
@@ -10499,6 +10617,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Gabon,5942,3004,46
 2020-07-13,Gabon,6026,3475,46
 2020-07-14,Gabon,6026,3475,46
+2020-07-15,Gabon,6121,3664,46
+2020-07-16,Gabon,6121,3664,46
 2020-01-22,Gambia,0,0,0
 2020-01-23,Gambia,0,0,0
 2020-01-24,Gambia,0,0,0
@@ -10674,6 +10794,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Gambia,64,34,3
 2020-07-13,Gambia,64,34,3
 2020-07-14,Gambia,64,34,3
+2020-07-15,Gambia,64,34,3
+2020-07-16,Gambia,78,34,3
 2020-01-22,Georgia,0,0,0
 2020-01-23,Georgia,0,0,0
 2020-01-24,Georgia,0,0,0
@@ -10849,6 +10971,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Georgia,986,857,15
 2020-07-13,Georgia,995,857,15
 2020-07-14,Georgia,999,870,15
+2020-07-15,Georgia,1004,873,15
+2020-07-16,Georgia,1006,883,15
 2020-01-22,Germany,0,0,0
 2020-01-23,Germany,0,0,0
 2020-01-24,Germany,0,0,0
@@ -11024,6 +11148,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Germany,199919,184414,9071
 2020-07-13,Germany,200180,185100,9074
 2020-07-14,Germany,200456,185100,9078
+2020-07-15,Germany,200890,186000,9080
+2020-07-16,Germany,201450,186400,9087
 2020-01-22,Ghana,0,0,0
 2020-01-23,Ghana,0,0,0
 2020-01-24,Ghana,0,0,0
@@ -11199,6 +11325,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Ghana,24518,20187,139
 2020-07-13,Ghana,24988,21067,139
 2020-07-14,Ghana,24988,21067,139
+2020-07-15,Ghana,25430,21511,139
+2020-07-16,Ghana,26125,22270,139
 2020-01-22,Greece,0,0,0
 2020-01-23,Greece,0,0,0
 2020-01-24,Greece,0,0,0
@@ -11374,6 +11502,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Greece,3803,1374,193
 2020-07-13,Greece,3826,1374,193
 2020-07-14,Greece,3883,1374,193
+2020-07-15,Greece,3910,1374,193
+2020-07-16,Greece,3939,1374,193
 2020-01-22,Grenada,0,0,0
 2020-01-23,Grenada,0,0,0
 2020-01-24,Grenada,0,0,0
@@ -11549,6 +11679,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Grenada,23,23,0
 2020-07-13,Grenada,23,23,0
 2020-07-14,Grenada,23,23,0
+2020-07-15,Grenada,23,23,0
+2020-07-16,Grenada,23,23,0
 2020-01-22,Guatemala,0,0,0
 2020-01-23,Guatemala,0,0,0
 2020-01-24,Guatemala,0,0,0
@@ -11724,6 +11856,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Guatemala,29355,4214,1219
 2020-07-13,Guatemala,29742,4321,1244
 2020-07-14,Guatemala,30872,4453,1302
+2020-07-15,Guatemala,32074,4624,1350
+2020-07-16,Guatemala,32939,4807,1404
 2020-01-22,Guinea,0,0,0
 2020-01-23,Guinea,0,0,0
 2020-01-24,Guinea,0,0,0
@@ -11899,6 +12033,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Guinea,6141,4862,37
 2020-07-13,Guinea,6141,4862,37
 2020-07-14,Guinea,6200,4951,38
+2020-07-15,Guinea,6276,4981,38
+2020-07-16,Guinea,6359,5012,39
 2020-01-22,Guinea-Bissau,0,0,0
 2020-01-23,Guinea-Bissau,0,0,0
 2020-01-24,Guinea-Bissau,0,0,0
@@ -12074,6 +12210,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Guinea-Bissau,1842,773,26
 2020-07-13,Guinea-Bissau,1842,773,26
 2020-07-14,Guinea-Bissau,1842,773,26
+2020-07-15,Guinea-Bissau,1842,773,26
+2020-07-16,Guinea-Bissau,1902,773,26
 2020-01-22,Guyana,0,0,0
 2020-01-23,Guyana,0,0,0
 2020-01-24,Guyana,0,0,0
@@ -12249,6 +12387,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Guyana,297,154,17
 2020-07-13,Guyana,300,155,17
 2020-07-14,Guyana,308,156,17
+2020-07-15,Guyana,313,156,18
+2020-07-16,Guyana,315,156,19
 2020-01-22,Haiti,0,0,0
 2020-01-23,Haiti,0,0,0
 2020-01-24,Haiti,0,0,0
@@ -12424,6 +12564,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Haiti,6727,2924,139
 2020-07-13,Haiti,6727,3022,141
 2020-07-14,Haiti,6727,3022,141
+2020-07-15,Haiti,6831,3283,143
+2020-07-16,Haiti,6948,3606,145
 2020-01-22,Honduras,0,0,0
 2020-01-23,Honduras,0,0,0
 2020-01-24,Honduras,0,0,0
@@ -12598,7 +12740,9 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-11,Honduras,27583,2901,771
 2020-07-12,Honduras,28090,2957,774
 2020-07-13,Honduras,28579,3123,789
-2020-07-14,Honduras,28579,3123,789
+2020-07-14,Honduras,29106,3287,807
+2020-07-15,Honduras,30036,3379,825
+2020-07-16,Honduras,30867,3420,835
 2020-01-22,Hungary,0,0,0
 2020-01-23,Hungary,0,0,0
 2020-01-24,Hungary,0,0,0
@@ -12774,6 +12918,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Hungary,4234,3036,595
 2020-07-13,Hungary,4247,3073,595
 2020-07-14,Hungary,4258,3106,595
+2020-07-15,Hungary,4263,3126,595
+2020-07-16,Hungary,4279,3156,595
 2020-01-22,Iceland,0,0,0
 2020-01-23,Iceland,0,0,0
 2020-01-24,Iceland,0,0,0
@@ -12949,6 +13095,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Iceland,1896,1865,10
 2020-07-13,Iceland,1900,1871,10
 2020-07-14,Iceland,1905,1882,10
+2020-07-15,Iceland,1911,1885,10
+2020-07-16,Iceland,1914,1892,10
 2020-01-22,India,0,0,0
 2020-01-23,India,0,0,0
 2020-01-24,India,0,0,0
@@ -13124,6 +13272,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,India,878254,553471,23174
 2020-07-13,India,906752,571460,23727
 2020-07-14,India,936181,592032,24309
+2020-07-15,India,968857,612768,24914
+2020-07-16,India,1003832,635757,25602
 2020-01-22,Indonesia,0,0,0
 2020-01-23,Indonesia,0,0,0
 2020-01-24,Indonesia,0,0,0
@@ -13299,6 +13449,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Indonesia,75699,35638,3606
 2020-07-13,Indonesia,76981,36689,3656
 2020-07-14,Indonesia,78572,37636,3710
+2020-07-15,Indonesia,80094,39050,3797
+2020-07-16,Indonesia,81668,40345,3873
 2020-01-22,Iran,0,0,0
 2020-01-23,Iran,0,0,0
 2020-01-24,Iran,0,0,0
@@ -13474,6 +13626,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Iran,257303,219993,12829
 2020-07-13,Iran,259652,222539,13032
 2020-07-14,Iran,262173,225270,13211
+2020-07-15,Iran,264561,227561,13410
+2020-07-16,Iran,267061,230608,13608
 2020-01-22,Iraq,0,0,0
 2020-01-23,Iraq,0,0,0
 2020-01-24,Iraq,0,0,0
@@ -13649,6 +13803,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Iraq,77506,44724,3150
 2020-07-13,Iraq,79735,46998,3250
 2020-07-14,Iraq,81757,50782,3345
+2020-07-15,Iraq,83867,52621,3432
+2020-07-16,Iraq,86148,54316,3522
 2020-01-22,Ireland,0,0,0
 2020-01-23,Ireland,0,0,0
 2020-01-24,Ireland,0,0,0
@@ -13824,6 +13980,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Ireland,25628,23364,1746
 2020-07-13,Ireland,25638,23364,1746
 2020-07-14,Ireland,25670,23364,1746
+2020-07-15,Ireland,25683,23364,1748
+2020-07-16,Ireland,25698,23364,1749
 2020-01-22,Israel,0,0,0
 2020-01-23,Israel,0,0,0
 2020-01-24,Israel,0,0,0
@@ -13999,6 +14157,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Israel,38670,19008,362
 2020-07-13,Israel,40632,19395,365
 2020-07-14,Israel,42360,19665,371
+2020-07-15,Israel,44188,19989,376
+2020-07-16,Israel,46059,20370,384
 2020-01-22,Italy,0,0,0
 2020-01-23,Italy,0,0,0
 2020-01-24,Italy,0,0,0
@@ -14174,6 +14334,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Italy,243073,194940,34954
 2020-07-13,Italy,243242,195118,34967
 2020-07-14,Italy,243356,195453,34984
+2020-07-15,Italy,243518,196028,34997
+2020-07-16,Italy,243748,196258,35017
 2020-01-22,Ivory Coast,0,0,0
 2020-01-23,Ivory Coast,0,0,0
 2020-01-24,Ivory Coast,0,0,0
@@ -14349,6 +14511,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Ivory Coast,12766,6654,84
 2020-07-13,Ivory Coast,12872,6810,84
 2020-07-14,Ivory Coast,13037,6908,87
+2020-07-15,Ivory Coast,13403,7146,87
+2020-07-16,Ivory Coast,13554,7363,87
 2020-01-22,Jamaica,0,0,0
 2020-01-23,Jamaica,0,0,0
 2020-01-24,Jamaica,0,0,0
@@ -14524,6 +14688,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Jamaica,758,620,10
 2020-07-13,Jamaica,759,628,10
 2020-07-14,Jamaica,762,643,10
+2020-07-15,Jamaica,763,647,10
+2020-07-16,Jamaica,765,647,10
 2020-01-22,Japan,2,0,0
 2020-01-23,Japan,2,0,0
 2020-01-24,Japan,2,0,0
@@ -14699,6 +14865,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Japan,21841,17845,983
 2020-07-13,Japan,22125,18058,984
 2020-07-14,Japan,22437,18126,984
+2020-07-15,Japan,23172,18126,984
+2020-07-16,Japan,23510,18641,985
 2020-01-22,Jordan,0,0,0
 2020-01-23,Jordan,0,0,0
 2020-01-24,Jordan,0,0,0
@@ -14874,6 +15042,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Jordan,1179,997,10
 2020-07-13,Jordan,1183,1008,10
 2020-07-14,Jordan,1198,1013,10
+2020-07-15,Jordan,1201,1016,10
+2020-07-16,Jordan,1206,1019,10
 2020-01-22,Kazakhstan,0,0,0
 2020-01-23,Kazakhstan,0,0,0
 2020-01-24,Kazakhstan,0,0,0
@@ -15049,6 +15219,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Kazakhstan,58253,33814,375
 2020-07-13,Kazakhstan,61755,35911,375
 2020-07-14,Kazakhstan,63514,38008,375
+2020-07-15,Kazakhstan,65188,39066,375
+2020-07-16,Kazakhstan,66895,40256,375
 2020-01-22,Kenya,0,0,0
 2020-01-23,Kenya,0,0,0
 2020-01-24,Kenya,0,0,0
@@ -15224,6 +15396,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Kenya,10105,2881,185
 2020-07-13,Kenya,10294,2946,197
 2020-07-14,Kenya,10791,3017,202
+2020-07-15,Kenya,11252,3068,209
+2020-07-16,Kenya,11673,3638,217
 2020-01-22,Kosovo,0,0,0
 2020-01-23,Kosovo,0,0,0
 2020-01-24,Kosovo,0,0,0
@@ -15399,6 +15573,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Kosovo,4931,2267,102
 2020-07-13,Kosovo,5118,2370,108
 2020-07-14,Kosovo,5118,2370,108
+2020-07-15,Kosovo,5237,2462,112
+2020-07-16,Kosovo,5237,2462,112
 2020-01-22,Kuwait,0,0,0
 2020-01-23,Kuwait,0,0,0
 2020-01-24,Kuwait,0,0,0
@@ -15574,6 +15750,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Kuwait,54894,44610,390
 2020-07-13,Kuwait,55508,45356,393
 2020-07-14,Kuwait,56174,46161,396
+2020-07-15,Kuwait,56877,46897,399
+2020-07-16,Kuwait,57668,47545,402
 2020-01-22,Kyrgyzstan,0,0,0
 2020-01-23,Kyrgyzstan,0,0,0
 2020-01-24,Kyrgyzstan,0,0,0
@@ -15749,6 +15927,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Kyrgyzstan,11117,3460,147
 2020-07-13,Kyrgyzstan,11444,3538,149
 2020-07-14,Kyrgyzstan,11444,3538,149
+2020-07-15,Kyrgyzstan,12282,3712,165
+2020-07-16,Kyrgyzstan,12498,3735,167
 2020-01-22,Laos,0,0,0
 2020-01-23,Laos,0,0,0
 2020-01-24,Laos,0,0,0
@@ -15924,6 +16104,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Laos,19,19,0
 2020-07-13,Laos,19,19,0
 2020-07-14,Laos,19,19,0
+2020-07-15,Laos,19,19,0
+2020-07-16,Laos,19,19,0
 2020-01-22,Latvia,0,0,0
 2020-01-23,Latvia,0,0,0
 2020-01-24,Latvia,0,0,0
@@ -16099,6 +16281,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Latvia,1173,1019,30
 2020-07-13,Latvia,1174,1019,31
 2020-07-14,Latvia,1174,1022,31
+2020-07-15,Latvia,1178,1022,31
+2020-07-16,Latvia,1179,1022,31
 2020-01-22,Lebanon,0,0,0
 2020-01-23,Lebanon,0,0,0
 2020-01-24,Lebanon,0,0,0
@@ -16274,6 +16458,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Lebanon,2334,1420,36
 2020-07-13,Lebanon,2419,1423,36
 2020-07-14,Lebanon,2451,1452,37
+2020-07-15,Lebanon,2542,1455,38
+2020-07-16,Lebanon,2599,1485,40
 2020-01-22,Lesotho,0,0,0
 2020-01-23,Lesotho,0,0,0
 2020-01-24,Lesotho,0,0,0
@@ -16449,6 +16635,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Lesotho,233,32,2
 2020-07-13,Lesotho,245,33,3
 2020-07-14,Lesotho,256,48,3
+2020-07-15,Lesotho,256,48,3
+2020-07-16,Lesotho,256,48,3
 2020-01-22,Liberia,0,0,0
 2020-01-23,Liberia,0,0,0
 2020-01-24,Liberia,0,0,0
@@ -16624,6 +16812,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Liberia,1010,423,51
 2020-07-13,Liberia,1024,439,51
 2020-07-14,Liberia,1024,439,51
+2020-07-15,Liberia,1056,447,51
+2020-07-16,Liberia,1070,486,68
 2020-01-22,Libya,0,0,0
 2020-01-23,Libya,0,0,0
 2020-01-24,Libya,0,0,0
@@ -16799,6 +16989,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Libya,1433,341,39
 2020-07-13,Libya,1512,367,40
 2020-07-14,Libya,1563,370,42
+2020-07-15,Libya,1589,373,43
+2020-07-16,Libya,1652,379,46
 2020-01-22,Liechtenstein,0,0,0
 2020-01-23,Liechtenstein,0,0,0
 2020-01-24,Liechtenstein,0,0,0
@@ -16974,6 +17166,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Liechtenstein,84,81,1
 2020-07-13,Liechtenstein,84,81,1
 2020-07-14,Liechtenstein,84,81,1
+2020-07-15,Liechtenstein,84,81,1
+2020-07-16,Liechtenstein,84,81,1
 2020-01-22,Lithuania,0,0,0
 2020-01-23,Lithuania,0,0,0
 2020-01-24,Lithuania,0,0,0
@@ -17149,6 +17343,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Lithuania,1869,1571,79
 2020-07-13,Lithuania,1874,1571,79
 2020-07-14,Lithuania,1875,1571,79
+2020-07-15,Lithuania,1882,1582,79
+2020-07-16,Lithuania,1902,1593,79
 2020-01-22,Luxembourg,0,0,0
 2020-01-23,Luxembourg,0,0,0
 2020-01-24,Luxembourg,0,0,0
@@ -17324,6 +17520,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Luxembourg,4925,4086,111
 2020-07-13,Luxembourg,4956,4183,111
 2020-07-14,Luxembourg,5056,4195,111
+2020-07-15,Luxembourg,5122,4247,111
+2020-07-16,Luxembourg,5285,4275,111
 2020-01-22,Macedonia,0,0,0
 2020-01-23,Macedonia,0,0,0
 2020-01-24,Macedonia,0,0,0
@@ -17499,6 +17697,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Macedonia,8111,4203,382
 2020-07-13,Macedonia,8197,4326,385
 2020-07-14,Macedonia,8332,4468,389
+2020-07-15,Macedonia,8530,4565,393
+2020-07-16,Macedonia,8623,4565,401
 2020-01-22,Madagascar,0,0,0
 2020-01-23,Madagascar,0,0,0
 2020-01-24,Madagascar,0,0,0
@@ -17674,6 +17874,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Madagascar,4867,2378,35
 2020-07-13,Madagascar,5080,2494,37
 2020-07-14,Madagascar,5343,2646,39
+2020-07-15,Madagascar,5605,2811,43
+2020-07-16,Madagascar,6089,2951,53
 2020-01-22,Malawi,0,0,0
 2020-01-23,Malawi,0,0,0
 2020-01-24,Malawi,0,0,0
@@ -17849,6 +18051,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Malawi,2364,557,38
 2020-07-13,Malawi,2430,747,39
 2020-07-14,Malawi,2497,795,40
+2020-07-15,Malawi,2614,1005,43
+2020-07-16,Malawi,2712,1073,51
 2020-01-22,Malaysia,0,0,0
 2020-01-23,Malaysia,0,0,0
 2020-01-24,Malaysia,0,0,0
@@ -18024,6 +18228,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Malaysia,8718,8519,122
 2020-07-13,Malaysia,8725,8520,122
 2020-07-14,Malaysia,8729,8524,122
+2020-07-15,Malaysia,8734,8526,122
+2020-07-16,Malaysia,8737,8538,122
 2020-01-22,Maldives,0,0,0
 2020-01-23,Maldives,0,0,0
 2020-01-24,Maldives,0,0,0
@@ -18199,6 +18405,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Maldives,2731,2284,13
 2020-07-13,Maldives,2762,2290,13
 2020-07-14,Maldives,2801,2302,14
+2020-07-15,Maldives,2831,2321,14
+2020-07-16,Maldives,2899,2339,15
 2020-01-22,Mali,0,0,0
 2020-01-23,Mali,0,0,0
 2020-01-24,Mali,0,0,0
@@ -18374,6 +18582,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Mali,2411,1694,121
 2020-07-13,Mali,2412,1730,121
 2020-07-14,Mali,2423,1748,121
+2020-07-15,Mali,2433,1764,121
+2020-07-16,Mali,2440,1777,121
 2020-01-22,Malta,0,0,0
 2020-01-23,Malta,0,0,0
 2020-01-24,Malta,0,0,0
@@ -18549,6 +18759,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Malta,674,660,9
 2020-07-13,Malta,674,660,9
 2020-07-14,Malta,674,660,9
+2020-07-15,Malta,674,661,9
+2020-07-16,Malta,674,661,9
 2020-01-22,Mauritania,0,0,0
 2020-01-23,Mauritania,0,0,0
 2020-01-24,Mauritania,0,0,0
@@ -18724,6 +18936,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Mauritania,5355,2363,147
 2020-07-13,Mauritania,5446,2501,147
 2020-07-14,Mauritania,5518,2664,147
+2020-07-15,Mauritania,5564,2830,149
+2020-07-16,Mauritania,5659,2993,150
 2020-01-22,Mauritius,0,0,0
 2020-01-23,Mauritius,0,0,0
 2020-01-24,Mauritius,0,0,0
@@ -18899,6 +19113,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Mauritius,342,330,10
 2020-07-13,Mauritius,342,330,10
 2020-07-14,Mauritius,342,330,10
+2020-07-15,Mauritius,343,331,10
+2020-07-16,Mauritius,343,331,10
 2020-01-22,Mexico,0,0,0
 2020-01-23,Mexico,0,0,0
 2020-01-24,Mexico,0,0,0
@@ -19074,6 +19290,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Mexico,299750,234905,35006
 2020-07-13,Mexico,304435,240101,35491
 2020-07-14,Mexico,311486,245830,36327
+2020-07-15,Mexico,317635,252368,36906
+2020-07-16,Mexico,324041,257681,37574
 2020-01-22,Moldova,0,0,0
 2020-01-23,Moldova,0,0,0
 2020-01-24,Moldova,0,0,0
@@ -19249,6 +19467,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Moldova,19382,12667,642
 2020-07-13,Moldova,19439,12793,649
 2020-07-14,Moldova,19708,13033,655
+2020-07-15,Moldova,20040,13298,659
+2020-07-16,Moldova,20264,13640,666
 2020-01-22,Monaco,0,0,0
 2020-01-23,Monaco,0,0,0
 2020-01-24,Monaco,0,0,0
@@ -19424,6 +19644,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Monaco,109,97,4
 2020-07-13,Monaco,109,97,4
 2020-07-14,Monaco,109,97,4
+2020-07-15,Monaco,109,97,4
+2020-07-16,Monaco,109,98,4
 2020-01-22,Mongolia,0,0,0
 2020-01-23,Mongolia,0,0,0
 2020-01-24,Mongolia,0,0,0
@@ -19599,6 +19821,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Mongolia,230,203,0
 2020-07-13,Mongolia,243,204,0
 2020-07-14,Mongolia,261,207,0
+2020-07-15,Mongolia,261,209,0
+2020-07-16,Mongolia,262,211,0
 2020-01-22,Montenegro,0,0,0
 2020-01-23,Montenegro,0,0,0
 2020-01-24,Montenegro,0,0,0
@@ -19774,6 +19998,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Montenegro,1221,325,23
 2020-07-13,Montenegro,1287,330,24
 2020-07-14,Montenegro,1287,330,24
+2020-07-15,Montenegro,1287,330,24
+2020-07-16,Montenegro,1287,330,24
 2020-01-22,Morocco,0,0,0
 2020-01-23,Morocco,0,0,0
 2020-01-24,Morocco,0,0,0
@@ -19949,6 +20175,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Morocco,15745,12283,250
 2020-07-13,Morocco,15936,12934,255
 2020-07-14,Morocco,16097,13442,257
+2020-07-15,Morocco,16262,13821,259
+2020-07-16,Morocco,16545,13965,263
 2020-01-22,Mozambique,0,0,0
 2020-01-23,Mozambique,0,0,0
 2020-01-24,Mozambique,0,0,0
@@ -20124,6 +20352,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Mozambique,1157,364,9
 2020-07-13,Mozambique,1219,369,9
 2020-07-14,Mozambique,1268,373,9
+2020-07-15,Mozambique,1330,375,9
+2020-07-16,Mozambique,1383,375,9
 2020-01-22,Myanmar,0,0,0
 2020-01-23,Myanmar,0,0,0
 2020-01-24,Myanmar,0,0,0
@@ -20299,6 +20529,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Myanmar,331,261,6
 2020-07-13,Myanmar,336,261,6
 2020-07-14,Myanmar,337,261,6
+2020-07-15,Myanmar,337,266,6
+2020-07-16,Myanmar,339,270,6
 2020-01-22,Namibia,0,0,0
 2020-01-23,Namibia,0,0,0
 2020-01-24,Namibia,0,0,0
@@ -20474,6 +20706,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Namibia,785,26,1
 2020-07-13,Namibia,861,28,1
 2020-07-14,Namibia,864,29,2
+2020-07-15,Namibia,960,31,2
+2020-07-16,Namibia,1032,31,2
 2020-01-22,Nepal,0,0,0
 2020-01-23,Nepal,0,0,0
 2020-01-24,Nepal,0,0,0
@@ -20649,6 +20883,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Nepal,16801,8589,38
 2020-07-13,Nepal,16945,10294,38
 2020-07-14,Nepal,17061,10328,38
+2020-07-15,Nepal,17177,11025,39
+2020-07-16,Nepal,17344,11249,39
 2020-01-22,Netherlands,0,0,0
 2020-01-23,Netherlands,0,0,0
 2020-01-24,Netherlands,0,0,0
@@ -20810,10 +21046,10 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-06-28,Netherlands,50355,186,6124
 2020-06-29,Netherlands,50433,186,6126
 2020-06-30,Netherlands,50483,186,6132
-2020-07-01,Netherlands,50483,186,6132
-2020-07-02,Netherlands,50546,186,6132
-2020-07-03,Netherlands,50546,186,6132
-2020-07-04,Netherlands,50548,187,6132
+2020-07-01,Netherlands,50545,186,6134
+2020-07-02,Netherlands,50623,186,6137
+2020-07-03,Netherlands,50698,186,6139
+2020-07-04,Netherlands,50761,187,6145
 2020-07-05,Netherlands,50834,187,6146
 2020-07-06,Netherlands,50870,187,6147
 2020-07-07,Netherlands,50907,187,6151
@@ -20824,6 +21060,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Netherlands,51237,193,6156
 2020-07-13,Netherlands,51308,193,6156
 2020-07-14,Netherlands,51362,193,6154
+2020-07-15,Netherlands,51471,193,6155
+2020-07-16,Netherlands,51572,194,6156
 2020-01-22,New Zealand,0,0,0
 2020-01-23,New Zealand,0,0,0
 2020-01-24,New Zealand,0,0,0
@@ -20999,6 +21237,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,New Zealand,1544,1497,22
 2020-07-13,New Zealand,1545,1498,22
 2020-07-14,New Zealand,1547,1498,22
+2020-07-15,New Zealand,1548,1499,22
+2020-07-16,New Zealand,1549,1506,22
 2020-01-22,Nicaragua,0,0,0
 2020-01-23,Nicaragua,0,0,0
 2020-01-24,Nicaragua,0,0,0
@@ -21174,6 +21414,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Nicaragua,2846,1993,91
 2020-07-13,Nicaragua,2846,1993,91
 2020-07-14,Nicaragua,3147,2282,99
+2020-07-15,Nicaragua,3147,2282,99
+2020-07-16,Nicaragua,3147,2282,99
 2020-01-22,Niger,0,0,0
 2020-01-23,Niger,0,0,0
 2020-01-24,Niger,0,0,0
@@ -21349,6 +21591,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Niger,1099,992,68
 2020-07-13,Niger,1099,992,68
 2020-07-14,Niger,1099,992,68
+2020-07-15,Niger,1100,993,69
+2020-07-16,Niger,1102,993,69
 2020-01-22,Nigeria,0,0,0
 2020-01-23,Nigeria,0,0,0
 2020-01-24,Nigeria,0,0,0
@@ -21524,6 +21768,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Nigeria,32558,13447,740
 2020-07-13,Nigeria,33153,13671,744
 2020-07-14,Nigeria,33616,13792,754
+2020-07-15,Nigeria,34259,13999,760
+2020-07-16,Nigeria,34854,14292,769
 2020-01-22,Norway,0,0,0
 2020-01-23,Norway,0,0,0
 2020-01-24,Norway,0,0,0
@@ -21699,6 +21945,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Norway,8981,8138,252
 2020-07-13,Norway,8984,8138,253
 2020-07-14,Norway,9001,8138,253
+2020-07-15,Norway,9011,8138,253
+2020-07-16,Norway,9015,8138,254
 2020-01-22,Oman,0,0,0
 2020-01-23,Oman,0,0,0
 2020-01-24,Oman,0,0,0
@@ -21874,6 +22122,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Oman,56015,36098,257
 2020-07-13,Oman,58179,37257,259
 2020-07-14,Oman,59568,37987,273
+2020-07-15,Oman,61247,39038,281
+2020-07-16,Oman,62574,40090,290
 2020-01-22,Pakistan,0,0,0
 2020-01-23,Pakistan,0,0,0
 2020-01-24,Pakistan,0,0,0
@@ -22049,6 +22299,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Pakistan,251625,161917,5266
 2020-07-13,Pakistan,253604,170656,5320
 2020-07-14,Pakistan,255769,172810,5386
+2020-07-15,Pakistan,257914,178737,5426
+2020-07-16,Pakistan,257914,178737,5426
 2020-01-22,Palestinian Territory,0,0,0
 2020-01-23,Palestinian Territory,0,0,0
 2020-01-24,Palestinian Territory,0,0,0
@@ -22224,6 +22476,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Palestinian Territory,6230,942,36
 2020-07-13,Palestinian Territory,6566,1084,39
 2020-07-14,Palestinian Territory,6764,1084,44
+2020-07-15,Palestinian Territory,7064,1084,44
+2020-07-16,Palestinian Territory,7412,1313,51
 2020-01-22,Panama,0,0,0
 2020-01-23,Panama,0,0,0
 2020-01-24,Panama,0,0,0
@@ -22399,6 +22653,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Panama,45633,23039,909
 2020-07-13,Panama,47173,23919,932
 2020-07-14,Panama,48096,24667,960
+2020-07-15,Panama,49243,25417,982
+2020-07-16,Panama,50373,25842,1000
 2020-01-22,Papua New Guinea,0,0,0
 2020-01-23,Papua New Guinea,0,0,0
 2020-01-24,Papua New Guinea,0,0,0
@@ -22574,6 +22830,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Papua New Guinea,11,8,0
 2020-07-13,Papua New Guinea,11,8,0
 2020-07-14,Papua New Guinea,11,8,0
+2020-07-15,Papua New Guinea,11,8,0
+2020-07-16,Papua New Guinea,11,8,0
 2020-01-22,Paraguay,0,0,0
 2020-01-23,Paraguay,0,0,0
 2020-01-24,Paraguay,0,0,0
@@ -22749,6 +23007,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Paraguay,2948,1275,22
 2020-07-13,Paraguay,2980,1293,25
 2020-07-14,Paraguay,3074,1308,25
+2020-07-15,Paraguay,3198,1338,25
+2020-07-16,Paraguay,3342,1379,27
 2020-01-22,Peru,0,0,0
 2020-01-23,Peru,0,0,0
 2020-01-24,Peru,0,0,0
@@ -22924,6 +23184,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Peru,326326,217111,11870
 2020-07-13,Peru,330123,221008,12054
 2020-07-14,Peru,333867,223261,12229
+2020-07-15,Peru,337751,226400,12417
+2020-07-16,Peru,341586,230994,12615
 2020-01-22,Philippines,0,0,0
 2020-01-23,Philippines,0,0,0
 2020-01-24,Philippines,0,0,0
@@ -23099,6 +23361,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Philippines,56259,16046,1534
 2020-07-13,Philippines,57006,20371,1599
 2020-07-14,Philippines,57545,20459,1603
+2020-07-15,Philippines,58850,20976,1614
+2020-07-16,Philippines,61266,21440,1643
 2020-01-22,Poland,0,0,0
 2020-01-23,Poland,0,0,0
 2020-01-24,Poland,0,0,0
@@ -23274,6 +23538,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Poland,37891,27148,1571
 2020-07-13,Poland,38190,27515,1576
 2020-07-14,Poland,38457,27756,1588
+2020-07-15,Poland,38721,28492,1594
+2020-07-16,Poland,39054,28928,1605
 2020-01-22,Portugal,0,0,0
 2020-01-23,Portugal,0,0,0
 2020-01-24,Portugal,0,0,0
@@ -23449,6 +23715,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Portugal,46512,30907,1660
 2020-07-13,Portugal,46818,31065,1662
 2020-07-14,Portugal,47051,31550,1668
+2020-07-15,Portugal,47426,32110,1676
+2020-07-16,Portugal,47765,32476,1679
 2020-01-22,Qatar,0,0,0
 2020-01-23,Qatar,0,0,0
 2020-01-24,Qatar,0,0,0
@@ -23624,6 +23892,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Qatar,103598,99743,147
 2020-07-13,Qatar,104016,100627,149
 2020-07-14,Qatar,104533,101160,150
+2020-07-15,Qatar,104983,101637,151
+2020-07-16,Qatar,105477,102168,152
 2020-01-22,Romania,0,0,0
 2020-01-23,Romania,0,0,0
 2020-01-24,Romania,0,0,0
@@ -23799,6 +24069,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Romania,32535,21545,1884
 2020-07-13,Romania,32948,21692,1901
 2020-07-14,Romania,33585,21803,1931
+2020-07-15,Romania,34226,22049,1952
+2020-07-16,Romania,35003,22189,1971
 2020-01-22,Russia,0,0,0
 2020-01-23,Russia,0,0,0
 2020-01-24,Russia,0,0,0
@@ -23974,6 +24246,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Russia,726036,500208,11318
 2020-07-13,Russia,732547,503168,11422
 2020-07-14,Russia,738787,511958,11597
+2020-07-15,Russia,745197,522375,11753
+2020-07-16,Russia,751612,530801,11920
 2020-01-22,Rwanda,0,0,0
 2020-01-23,Rwanda,0,0,0
 2020-01-24,Rwanda,0,0,0
@@ -24149,6 +24423,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Rwanda,1337,684,4
 2020-07-13,Rwanda,1378,710,4
 2020-07-14,Rwanda,1416,737,4
+2020-07-15,Rwanda,1435,752,4
+2020-07-16,Rwanda,1473,770,4
 2020-01-22,Saint Kitts and Nevis,0,0,0
 2020-01-23,Saint Kitts and Nevis,0,0,0
 2020-01-24,Saint Kitts and Nevis,0,0,0
@@ -24324,6 +24600,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Saint Kitts and Nevis,17,15,0
 2020-07-13,Saint Kitts and Nevis,17,15,0
 2020-07-14,Saint Kitts and Nevis,17,15,0
+2020-07-15,Saint Kitts and Nevis,17,15,0
+2020-07-16,Saint Kitts and Nevis,17,15,0
 2020-01-22,Saint Lucia,0,0,0
 2020-01-23,Saint Lucia,0,0,0
 2020-01-24,Saint Lucia,0,0,0
@@ -24499,6 +24777,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Saint Lucia,22,19,0
 2020-07-13,Saint Lucia,22,19,0
 2020-07-14,Saint Lucia,22,19,0
+2020-07-15,Saint Lucia,22,19,0
+2020-07-16,Saint Lucia,23,19,0
 2020-01-22,Saint Vincent and the Grenadines,0,0,0
 2020-01-23,Saint Vincent and the Grenadines,0,0,0
 2020-01-24,Saint Vincent and the Grenadines,0,0,0
@@ -24674,6 +24954,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Saint Vincent and the Grenadines,35,29,0
 2020-07-13,Saint Vincent and the Grenadines,35,29,0
 2020-07-14,Saint Vincent and the Grenadines,35,29,0
+2020-07-15,Saint Vincent and the Grenadines,35,29,0
+2020-07-16,Saint Vincent and the Grenadines,35,29,0
 2020-01-22,San Marino,0,0,0
 2020-01-23,San Marino,0,0,0
 2020-01-24,San Marino,0,0,0
@@ -24849,6 +25131,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,San Marino,699,656,42
 2020-07-13,San Marino,699,656,42
 2020-07-14,San Marino,699,656,42
+2020-07-15,San Marino,699,656,42
+2020-07-16,San Marino,699,656,42
 2020-01-22,Sao Tome and Principe,0,0,0
 2020-01-23,Sao Tome and Principe,0,0,0
 2020-01-24,Sao Tome and Principe,0,0,0
@@ -25024,6 +25308,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Sao Tome and Principe,729,286,14
 2020-07-13,Sao Tome and Principe,732,286,14
 2020-07-14,Sao Tome and Principe,732,286,14
+2020-07-15,Sao Tome and Principe,737,322,14
+2020-07-16,Sao Tome and Principe,740,325,14
 2020-01-22,Saudi Arabia,0,0,0
 2020-01-23,Saudi Arabia,0,0,0
 2020-01-24,Saudi Arabia,0,0,0
@@ -25199,6 +25485,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Saudi Arabia,232259,167138,2223
 2020-07-13,Saudi Arabia,235111,169842,2243
 2020-07-14,Saudi Arabia,237803,177560,2283
+2020-07-15,Saudi Arabia,240474,183048,2325
+2020-07-16,Saudi Arabia,243238,187622,2370
 2020-01-22,Senegal,0,0,0
 2020-01-23,Senegal,0,0,0
 2020-01-24,Senegal,0,0,0
@@ -25374,6 +25662,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Senegal,8135,5446,148
 2020-07-13,Senegal,8198,5514,150
 2020-07-14,Senegal,8243,5580,150
+2020-07-15,Senegal,8369,5605,153
+2020-07-16,Senegal,8481,5735,156
 2020-01-22,Serbia,0,0,0
 2020-01-23,Serbia,0,0,0
 2020-01-24,Serbia,0,0,0
@@ -25549,6 +25839,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Serbia,18360,13876,393
 2020-07-13,Serbia,18639,13940,405
 2020-07-14,Serbia,18983,13991,418
+2020-07-15,Serbia,19334,14047,429
+2020-07-16,Serbia,19717,14417,442
 2020-01-22,Seychelles,0,0,0
 2020-01-23,Seychelles,0,0,0
 2020-01-24,Seychelles,0,0,0
@@ -25724,6 +26016,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Seychelles,100,11,0
 2020-07-13,Seychelles,100,11,0
 2020-07-14,Seychelles,100,11,0
+2020-07-15,Seychelles,100,27,0
+2020-07-16,Seychelles,108,27,0
 2020-01-22,Sierra Leone,0,0,0
 2020-01-23,Sierra Leone,0,0,0
 2020-01-24,Sierra Leone,0,0,0
@@ -25899,6 +26193,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Sierra Leone,1635,1154,63
 2020-07-13,Sierra Leone,1642,1175,63
 2020-07-14,Sierra Leone,1651,1190,64
+2020-07-15,Sierra Leone,1668,1200,64
+2020-07-16,Sierra Leone,1678,1213,64
 2020-01-22,Singapore,0,0,0
 2020-01-23,Singapore,1,0,0
 2020-01-24,Singapore,3,0,0
@@ -26074,6 +26370,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Singapore,45961,42285,26
 2020-07-13,Singapore,46283,42541,26
 2020-07-14,Singapore,46630,42737,27
+2020-07-15,Singapore,46878,42988,27
+2020-07-16,Singapore,47126,43256,27
 2020-01-22,Slovakia,0,0,0
 2020-01-23,Slovakia,0,0,0
 2020-01-24,Slovakia,0,0,0
@@ -26249,6 +26547,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Slovakia,1901,1493,28
 2020-07-13,Slovakia,1902,1493,28
 2020-07-14,Slovakia,1908,1493,28
+2020-07-15,Slovakia,1927,1507,28
+2020-07-16,Slovakia,1951,1514,28
 2020-01-22,Slovenia,0,0,0
 2020-01-23,Slovenia,0,0,0
 2020-01-24,Slovenia,0,0,0
@@ -26424,6 +26724,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Slovenia,1841,1469,111
 2020-07-13,Slovenia,1849,1473,111
 2020-07-14,Slovenia,1859,1488,111
+2020-07-15,Slovenia,1878,1501,111
+2020-07-16,Slovenia,1897,1522,111
 2020-01-22,Somalia,0,0,0
 2020-01-23,Somalia,0,0,0
 2020-01-24,Somalia,0,0,0
@@ -26599,6 +26901,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Somalia,3059,1264,93
 2020-07-13,Somalia,3072,1343,93
 2020-07-14,Somalia,3076,1380,93
+2020-07-15,Somalia,3083,1425,93
+2020-07-16,Somalia,3106,1444,93
 2020-01-22,South Africa,0,0,0
 2020-01-23,South Africa,0,0,0
 2020-01-24,South Africa,0,0,0
@@ -26774,6 +27078,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,South Africa,276242,134874,4079
 2020-07-13,South Africa,287796,138241,4172
 2020-07-14,South Africa,298292,146279,4346
+2020-07-15,South Africa,311049,160693,4453
+2020-07-16,South Africa,324221,165591,4669
 2020-01-22,South Korea,1,0,0
 2020-01-23,South Korea,1,0,0
 2020-01-24,South Korea,2,0,0
@@ -26949,6 +27255,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,South Korea,13479,12204,289
 2020-07-13,South Korea,13512,12282,289
 2020-07-14,South Korea,13551,12348,289
+2020-07-15,South Korea,13612,12396,291
+2020-07-16,South Korea,13672,12460,293
 2020-01-22,South Sudan,0,0,0
 2020-01-23,South Sudan,0,0,0
 2020-01-24,South Sudan,0,0,0
@@ -27124,6 +27432,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,South Sudan,2021,333,38
 2020-07-13,South Sudan,2148,333,41
 2020-07-14,South Sudan,2148,333,41
+2020-07-15,South Sudan,2153,1175,41
+2020-07-16,South Sudan,2171,1175,41
 2020-01-22,Spain,0,0,0
 2020-01-23,Spain,0,0,0
 2020-01-24,Spain,0,0,0
@@ -27299,6 +27609,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Spain,253908,150376,28403
 2020-07-13,Spain,255953,150376,28406
 2020-07-14,Spain,256619,150376,28409
+2020-07-15,Spain,257494,150376,28413
+2020-07-16,Spain,258855,150376,28416
 2020-01-22,Sri Lanka,0,0,0
 2020-01-23,Sri Lanka,0,0,0
 2020-01-24,Sri Lanka,0,0,0
@@ -27474,6 +27786,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Sri Lanka,2617,1981,11
 2020-07-13,Sri Lanka,2646,1981,11
 2020-07-14,Sri Lanka,2665,1988,11
+2020-07-15,Sri Lanka,2671,2001,11
+2020-07-16,Sri Lanka,2687,2007,11
 2020-01-22,Sudan,0,0,0
 2020-01-23,Sudan,0,0,0
 2020-01-24,Sudan,0,0,0
@@ -27649,6 +27963,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Sudan,10250,5341,650
 2020-07-13,Sudan,10316,5403,657
 2020-07-14,Sudan,10417,5579,659
+2020-07-15,Sudan,10527,5601,668
+2020-07-16,Sudan,10527,5601,668
 2020-01-22,Suriname,0,0,0
 2020-01-23,Suriname,0,0,0
 2020-01-24,Suriname,0,0,0
@@ -27824,6 +28140,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Suriname,741,495,18
 2020-07-13,Suriname,780,526,18
 2020-07-14,Suriname,801,543,18
+2020-07-15,Suriname,837,573,18
+2020-07-16,Suriname,904,581,18
 2020-01-22,Swaziland,0,0,0
 2020-01-23,Swaziland,0,0,0
 2020-01-24,Swaziland,0,0,0
@@ -27999,6 +28317,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Swaziland,1351,668,20
 2020-07-13,Swaziland,1389,688,20
 2020-07-14,Swaziland,1434,695,20
+2020-07-15,Swaziland,1489,724,20
+2020-07-16,Swaziland,1552,736,21
 2020-01-22,Sweden,0,0,0
 2020-01-23,Sweden,0,0,0
 2020-01-24,Sweden,0,0,0
@@ -28174,6 +28494,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Sweden,74898,0,5526
 2020-07-13,Sweden,75826,0,5536
 2020-07-14,Sweden,76001,0,5545
+2020-07-15,Sweden,76492,0,5572
+2020-07-16,Sweden,76877,0,5593
 2020-01-22,Switzerland,0,0,0
 2020-01-23,Switzerland,0,0,0
 2020-01-24,Switzerland,0,0,0
@@ -28349,6 +28671,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Switzerland,32883,29600,1968
 2020-07-13,Switzerland,32946,29600,1968
 2020-07-14,Switzerland,33016,29800,1968
+2020-07-15,Switzerland,33148,29800,1968
+2020-07-16,Switzerland,33290,29900,1969
 2020-01-22,Syria,0,0,0
 2020-01-23,Syria,0,0,0
 2020-01-24,Syria,0,0,0
@@ -28524,6 +28848,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Syria,394,126,16
 2020-07-13,Syria,417,136,19
 2020-07-14,Syria,439,138,21
+2020-07-15,Syria,458,140,22
+2020-07-16,Syria,477,140,22
 2020-01-22,Taiwan,1,0,0
 2020-01-23,Taiwan,1,0,0
 2020-01-24,Taiwan,3,0,0
@@ -28699,6 +29025,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Taiwan,451,438,7
 2020-07-13,Taiwan,451,438,7
 2020-07-14,Taiwan,451,440,7
+2020-07-15,Taiwan,451,440,7
+2020-07-16,Taiwan,451,440,7
 2020-01-22,Tajikistan,0,0,0
 2020-01-23,Tajikistan,0,0,0
 2020-01-24,Tajikistan,0,0,0
@@ -28874,6 +29202,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Tajikistan,6552,5228,55
 2020-07-13,Tajikistan,6596,5278,55
 2020-07-14,Tajikistan,6643,5332,56
+2020-07-15,Tajikistan,6695,5383,56
+2020-07-16,Tajikistan,6741,5431,56
 2020-01-22,Tanzania,0,0,0
 2020-01-23,Tanzania,0,0,0
 2020-01-24,Tanzania,0,0,0
@@ -29049,6 +29379,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Tanzania,509,183,21
 2020-07-13,Tanzania,509,183,21
 2020-07-14,Tanzania,509,183,21
+2020-07-15,Tanzania,509,183,21
+2020-07-16,Tanzania,509,183,21
 2020-01-22,Thailand,2,0,0
 2020-01-23,Thailand,3,0,0
 2020-01-24,Thailand,5,0,0
@@ -29224,6 +29556,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Thailand,3217,3088,58
 2020-07-13,Thailand,3220,3090,58
 2020-07-14,Thailand,3227,3091,58
+2020-07-15,Thailand,3232,3092,58
+2020-07-16,Thailand,3236,3095,58
 2020-01-22,Timor-Leste,0,0,0
 2020-01-23,Timor-Leste,0,0,0
 2020-01-24,Timor-Leste,0,0,0
@@ -29399,6 +29733,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Timor-Leste,24,24,0
 2020-07-13,Timor-Leste,24,24,0
 2020-07-14,Timor-Leste,24,24,0
+2020-07-15,Timor-Leste,24,24,0
+2020-07-16,Timor-Leste,24,24,0
 2020-01-22,Togo,0,0,0
 2020-01-23,Togo,0,0,0
 2020-01-24,Togo,0,0,0
@@ -29574,6 +29910,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Togo,720,513,15
 2020-07-13,Togo,721,517,15
 2020-07-14,Togo,731,528,15
+2020-07-15,Togo,740,534,15
+2020-07-16,Togo,749,543,15
 2020-01-22,Trinidad and Tobago,0,0,0
 2020-01-23,Trinidad and Tobago,0,0,0
 2020-01-24,Trinidad and Tobago,0,0,0
@@ -29749,6 +30087,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Trinidad and Tobago,133,120,8
 2020-07-13,Trinidad and Tobago,133,124,8
 2020-07-14,Trinidad and Tobago,133,124,8
+2020-07-15,Trinidad and Tobago,133,124,8
+2020-07-16,Trinidad and Tobago,133,124,8
 2020-01-22,Tunisia,0,0,0
 2020-01-23,Tunisia,0,0,0
 2020-01-24,Tunisia,0,0,0
@@ -29924,6 +30264,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Tunisia,1263,1076,50
 2020-07-13,Tunisia,1302,1082,50
 2020-07-14,Tunisia,1306,1087,50
+2020-07-15,Tunisia,1319,1091,50
+2020-07-16,Tunisia,1327,1093,50
 2020-01-22,Turkey,0,0,0
 2020-01-23,Turkey,0,0,0
 2020-01-24,Turkey,0,0,0
@@ -30099,6 +30441,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Turkey,212993,194515,5363
 2020-07-13,Turkey,214001,195671,5382
 2020-07-14,Turkey,214993,196720,5402
+2020-07-15,Turkey,215940,197733,5419
+2020-07-16,Turkey,216873,198820,5440
 2020-01-22,Uganda,0,0,0
 2020-01-23,Uganda,0,0,0
 2020-01-24,Uganda,0,0,0
@@ -30274,6 +30618,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Uganda,1025,972,0
 2020-07-13,Uganda,1029,977,0
 2020-07-14,Uganda,1040,984,0
+2020-07-15,Uganda,1043,1004,0
+2020-07-16,Uganda,1051,1014,0
 2020-01-22,Ukraine,0,0,0
 2020-01-23,Ukraine,0,0,0
 2020-01-24,Ukraine,0,0,0
@@ -30449,6 +30795,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Ukraine,54647,26971,1400
 2020-07-13,Ukraine,55285,27356,1415
 2020-07-14,Ukraine,55931,28021,1429
+2020-07-15,Ukraine,56779,29005,1444
+2020-07-16,Ukraine,57640,29822,1462
 2020-01-22,United Arab Emirates,0,0,0
 2020-01-23,United Arab Emirates,0,0,0
 2020-01-24,United Arab Emirates,0,0,0
@@ -30624,6 +30972,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,United Arab Emirates,54854,45140,333
 2020-07-13,United Arab Emirates,55198,45513,334
 2020-07-14,United Arab Emirates,55573,46025,335
+2020-07-15,United Arab Emirates,55848,46418,335
+2020-07-16,United Arab Emirates,56129,47412,335
 2020-01-22,United Kingdom,0,0,0
 2020-01-23,United Kingdom,0,0,0
 2020-01-24,United Kingdom,0,0,0
@@ -30799,6 +31149,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,United Kingdom,291154,1378,44904
 2020-07-13,United Kingdom,291691,1384,44915
 2020-07-14,United Kingdom,292931,1385,45053
+2020-07-15,United Kingdom,293469,1386,45138
+2020-07-16,United Kingdom,294116,1403,45204
 2020-01-22,United States,1,0,0
 2020-01-23,United States,1,0,0
 2020-01-24,United States,2,0,0
@@ -30889,15 +31241,15 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-04-18,United States,730337,64840,40442
 2020-04-19,United States,756375,70337,41671
 2020-04-20,United States,783716,72329,43466
-2020-04-21,United States,809228,75204,45919
+2020-04-21,United States,809318,75204,45923
 2020-04-22,United States,837422,77366,48312
 2020-04-23,United States,871617,80203,50749
 2020-04-24,United States,907908,99079,52867
 2020-04-25,United States,940829,100372,54517
 2020-04-26,United States,968518,106988,55810
-2020-04-27,United States,990999,111424,57233
+2020-04-27,United States,990983,111424,57235
 2020-04-28,United States,1015518,115936,59454
-2020-04-29,United States,1042926,120720,61955
+2020-04-29,United States,1043038,120720,61960
 2020-04-30,United States,1072667,153947,64256
 2020-05-01,United States,1106829,164015,66125
 2020-05-02,United States,1136024,175382,67681
@@ -30910,37 +31262,37 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-05-09,United States,1314320,212534,79976
 2020-05-10,United States,1334084,216169,80855
 2020-05-11,United States,1352962,232733,81868
-2020-05-12,United States,1374916,230287,83480
-2020-05-13,United States,1396109,243430,85234
-2020-05-14,United States,1423726,246414,87008
-2020-05-15,United States,1449026,250747,88669
-2020-05-16,United States,1474127,268376,89892
-2020-05-17,United States,1493131,272265,90644
-2020-05-18,United States,1514900,283178,91414
-2020-05-19,United States,1535349,289392,92965
-2020-05-20,United States,1558970,294312,94528
-2020-05-21,United States,1584511,298418,95756
-2020-05-22,United States,1608652,350135,97025
-2020-05-23,United States,1630475,361239,98146
-2020-05-24,United States,1651288,366736,98754
-2020-05-25,United States,1670279,379157,99267
-2020-05-26,United States,1689162,384902,99952
-2020-05-27,United States,1707444,391508,101461
-2020-05-28,United States,1730259,399991,102643
-2020-05-29,United States,1754763,406446,103809
-2020-05-30,United States,1778993,416461,104773
-2020-05-31,United States,1799122,444758,105364
-2020-06-01,United States,1816476,458231,106136
-2020-06-02,United States,1837371,463868,107169
-2020-06-03,United States,1857329,479258,108159
-2020-06-04,United States,1878680,485002,109168
-2020-06-05,United States,1903904,491706,110138
-2020-06-06,United States,1926636,500849,110818
-2020-06-07,United States,1944367,506367,111269
-2020-06-08,United States,1961781,518522,111774
-2020-06-09,United States,1979908,524855,112714
-2020-06-10,United States,2000702,533504,113631
-2020-06-11,United States,2023652,540292,114512
+2020-05-12,United States,1375152,230287,83483
+2020-05-13,United States,1396110,243430,85234
+2020-05-14,United States,1423727,246414,87008
+2020-05-15,United States,1449027,250747,88669
+2020-05-16,United States,1474128,268376,89892
+2020-05-17,United States,1493132,272265,90644
+2020-05-18,United States,1514901,283178,91414
+2020-05-19,United States,1535350,289392,92965
+2020-05-20,United States,1559157,294312,94533
+2020-05-21,United States,1584512,298418,95756
+2020-05-22,United States,1608653,350135,97025
+2020-05-23,United States,1630476,361239,98146
+2020-05-24,United States,1651289,366736,98754
+2020-05-25,United States,1670280,379157,99267
+2020-05-26,United States,1689163,384902,99952
+2020-05-27,United States,1707445,391508,101461
+2020-05-28,United States,1730260,399991,102643
+2020-05-29,United States,1754764,406446,103809
+2020-05-30,United States,1779214,416461,104778
+2020-05-31,United States,1799124,444758,105364
+2020-06-01,United States,1816479,458231,106136
+2020-06-02,United States,1837374,463868,107169
+2020-06-03,United States,1857332,479258,108159
+2020-06-04,United States,1878683,485002,109168
+2020-06-05,United States,1903907,491706,110138
+2020-06-06,United States,1926639,500849,110818
+2020-06-07,United States,1944370,506367,111269
+2020-06-08,United States,1961785,518522,111774
+2020-06-09,United States,1979912,524855,112714
+2020-06-10,United States,2000706,533504,113631
+2020-06-11,United States,2023656,540292,114512
 2020-06-12,United States,2048986,547386,115334
 2020-06-13,United States,2074542,556606,116084
 2020-06-14,United States,2094366,561816,116382
@@ -30949,15 +31301,15 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-06-17,United States,2163290,592191,118363
 2020-06-18,United States,2191099,599115,119067
 2020-06-19,United States,2222579,606715,119739
-2020-06-20,United States,2255327,617460,120349
-2020-06-21,United States,2281766,622133,120604
-2020-06-22,United States,2312302,640198,121010
+2020-06-20,United States,2255328,617460,120349
+2020-06-21,United States,2281767,622133,120604
+2020-06-22,United States,2312303,640198,121010
 2020-06-23,United States,2347491,647548,121847
 2020-06-24,United States,2382426,656161,122604
 2020-06-25,United States,2422299,663562,125026
 2020-06-26,United States,2467554,670809,125631
 2020-06-27,United States,2510259,679308,126120
-2020-06-28,United States,2549294,685164,126360
+2020-06-28,United States,2549864,685164,126361
 2020-06-29,United States,2590668,705203,126711
 2020-06-30,United States,2636414,720631,127432
 2020-07-01,United States,2687588,729994,128105
@@ -30969,11 +31321,13 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-07,United States,2996098,936476,131480
 2020-07-08,United States,3054699,953462,132300
 2020-07-09,United States,3117946,969111,133290
-2020-07-10,United States,3184573,983185,134092
+2020-07-10,United States,3185737,983185,134101
 2020-07-11,United States,3245925,995576,134777
 2020-07-12,United States,3304942,1006326,135205
 2020-07-13,United States,3364157,1031939,135566
 2020-07-14,United States,3431574,1049098,136466
+2020-07-15,United States,3498902,1075882,137415
+2020-07-16,United States,3576157,1090645,138358
 2020-01-22,Uruguay,0,0,0
 2020-01-23,Uruguay,0,0,0
 2020-01-24,Uruguay,0,0,0
@@ -31149,6 +31503,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Uruguay,987,896,31
 2020-07-13,Uruguay,989,903,31
 2020-07-14,Uruguay,997,905,31
+2020-07-15,Uruguay,1009,909,31
+2020-07-16,Uruguay,1026,916,32
 2020-01-22,Uzbekistan,0,0,0
 2020-01-23,Uzbekistan,0,0,0
 2020-01-24,Uzbekistan,0,0,0
@@ -31324,6 +31680,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Uzbekistan,12997,7852,60
 2020-07-13,Uzbekistan,13591,8030,64
 2020-07-14,Uzbekistan,14085,8327,67
+2020-07-15,Uzbekistan,14581,8655,71
+2020-07-16,Uzbekistan,15066,8783,75
 2020-01-22,Venezuela,0,0,0
 2020-01-23,Venezuela,0,0,0
 2020-01-24,Venezuela,0,0,0
@@ -31499,6 +31857,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Venezuela,9465,2671,89
 2020-07-13,Venezuela,9707,2671,93
 2020-07-14,Venezuela,10010,2671,96
+2020-07-15,Venezuela,10428,3050,100
+2020-07-16,Venezuela,10854,3255,104
 2020-01-22,Vietnam,0,0,0
 2020-01-23,Vietnam,2,0,0
 2020-01-24,Vietnam,2,0,0
@@ -31674,6 +32034,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Vietnam,372,350,0
 2020-07-13,Vietnam,373,352,0
 2020-07-14,Vietnam,373,352,0
+2020-07-15,Vietnam,381,353,0
+2020-07-16,Vietnam,381,356,0
 2020-01-22,Western Sahara,0,0,0
 2020-01-23,Western Sahara,0,0,0
 2020-01-24,Western Sahara,0,0,0
@@ -31849,6 +32211,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Western Sahara,10,8,1
 2020-07-13,Western Sahara,10,8,1
 2020-07-14,Western Sahara,10,8,1
+2020-07-15,Western Sahara,10,8,1
+2020-07-16,Western Sahara,10,8,1
 2020-01-22,Yemen,0,0,0
 2020-01-23,Yemen,0,0,0
 2020-01-24,Yemen,0,0,0
@@ -32024,6 +32388,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Yemen,1465,659,417
 2020-07-13,Yemen,1498,675,424
 2020-07-14,Yemen,1516,685,429
+2020-07-15,Yemen,1526,694,433
+2020-07-16,Yemen,1552,695,438
 2020-01-22,Zambia,0,0,0
 2020-01-23,Zambia,0,0,0
 2020-01-24,Zambia,0,0,0
@@ -32199,6 +32565,8 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Zambia,1895,1412,42
 2020-07-13,Zambia,1895,1412,42
 2020-07-14,Zambia,1895,1412,42
+2020-07-15,Zambia,1895,1412,42
+2020-07-16,Zambia,1895,1412,42
 2020-01-22,Zimbabwe,0,0,0
 2020-01-23,Zimbabwe,0,0,0
 2020-01-24,Zimbabwe,0,0,0
@@ -32374,3 +32742,5 @@ Fecha,Pais,Contagios,Recuperados,Muertos
 2020-07-12,Zimbabwe,985,328,18
 2020-07-13,Zimbabwe,1034,343,19
 2020-07-14,Zimbabwe,1064,343,20
+2020-07-15,Zimbabwe,1089,395,20
+2020-07-16,Zimbabwe,1362,425,23
