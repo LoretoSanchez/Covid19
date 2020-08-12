@@ -14479,3 +14479,365 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-08-07,Magallanes,Timaukel,282,0,0,0,0
 2020-08-07,Magallanes,Torres del Paine,1021,0,0,0,0
 2020-08-07,Magallanes,Desconocido Magallanes,0,70,69,0,1
+2020-08-10,Arica y Parinacota,Arica,247552,5543,4764,0,779
+2020-08-10,Arica y Parinacota,Camarones,1233,23,19,0,4
+2020-08-10,Arica y Parinacota,General Lagos,810,6,1,0,5
+2020-08-10,Arica y Parinacota,Putre,2515,55,40,0,15
+2020-08-10,Arica y Parinacota,Desconocido Arica y Parinacota,0,18,6,0,12
+2020-08-10,Tarapacá,Alto Hospicio,129999,2740,2537,0,203
+2020-08-10,Tarapacá,Camina,1375,43,41,0,2
+2020-08-10,Tarapacá,Colchane,1583,93,91,0,2
+2020-08-10,Tarapacá,Huara,3000,136,133,0,3
+2020-08-10,Tarapacá,Iquique,223463,5193,4819,0,374
+2020-08-10,Tarapacá,Pica,5958,266,233,0,33
+2020-08-10,Tarapacá,Pozo Almonte,17395,794,712,0,82
+2020-08-10,Tarapacá,Desconocido Tarapaca,0,413,383,0,30
+2020-08-10,Antofagasta,Antofagasta,425725,8296,7406,0,890
+2020-08-10,Antofagasta,Calama,190336,6701,6429,0,272
+2020-08-10,Antofagasta,Maria Elena,6814,333,325,0,8
+2020-08-10,Antofagasta,Mejillones,14776,504,473,0,31
+2020-08-10,Antofagasta,Ollague,287,24,21,0,3
+2020-08-10,Antofagasta,San Pedro de Atacama,10434,291,259,0,32
+2020-08-10,Antofagasta,Sierra Gorda,1746,74,68,0,6
+2020-08-10,Antofagasta,Taltal,13657,141,125,0,16
+2020-08-10,Antofagasta,Tocopilla,28079,288,276,0,12
+2020-08-10,Antofagasta,Desconocido Antofagasta,0,234,198,0,36
+2020-08-10,Atacama,Alto del Carmen,5729,11,11,0,0
+2020-08-10,Atacama,Caldera,19426,126,87,0,39
+2020-08-10,Atacama,Chanaral,13164,66,54,0,12
+2020-08-10,Atacama,Copiapo,171766,2794,1953,0,841
+2020-08-10,Atacama,Diego de Almagro,14358,58,54,0,4
+2020-08-10,Atacama,Freirina,7681,68,53,0,15
+2020-08-10,Atacama,Huasco,11264,39,36,0,3
+2020-08-10,Atacama,Tierra Amarilla,14312,242,171,0,71
+2020-08-10,Atacama,Vallenar,57009,522,473,0,49
+2020-08-10,Atacama,Desconocido Atacama,0,18,18,0,0
+2020-08-10,Coquimbo,Andacollo,11791,59,53,0,6
+2020-08-10,Coquimbo,Canela,9546,28,26,0,2
+2020-08-10,Coquimbo,Combarbala,13884,38,34,0,4
+2020-08-10,Coquimbo,Coquimbo,256735,2928,2493,0,435
+2020-08-10,Coquimbo,Illapel,32801,327,284,0,43
+2020-08-10,Coquimbo,La Higuera,4450,85,57,0,28
+2020-08-10,Coquimbo,La Serena,249656,2514,2087,0,427
+2020-08-10,Coquimbo,Los Vilos,23374,138,124,0,14
+2020-08-10,Coquimbo,Monte Patria,32527,285,261,0,24
+2020-08-10,Coquimbo,Ovalle,121269,1373,1242,0,131
+2020-08-10,Coquimbo,Paiguano,4675,12,11,0,1
+2020-08-10,Coquimbo,Punitaqui,12165,94,89,0,5
+2020-08-10,Coquimbo,Rio Hurtado,4372,32,29,0,3
+2020-08-10,Coquimbo,Salamanca,29110,156,140,0,16
+2020-08-10,Coquimbo,Vicuna,29741,156,135,0,21
+2020-08-10,Coquimbo,Desconocido Coquimbo,0,134,125,0,9
+2020-08-10,Valparaíso,Algarrobo,15174,110,110,0,0
+2020-08-10,Valparaíso,Cabildo,20663,304,300,0,4
+2020-08-10,Valparaíso,Calera,53591,887,776,0,111
+2020-08-10,Valparaíso,Calle Larga,16482,261,242,0,19
+2020-08-10,Valparaíso,Cartagena,25357,195,187,0,8
+2020-08-10,Valparaíso,Casablanca,29170,324,252,0,72
+2020-08-10,Valparaíso,Catemu,15213,160,126,0,34
+2020-08-10,Valparaíso,Concon,45889,538,512,0,26
+2020-08-10,Valparaíso,El Quisco,17742,184,171,0,13
+2020-08-10,Valparaíso,El Tabo,14338,250,231,0,19
+2020-08-10,Valparaíso,Hijuelas,19099,244,201,0,43
+2020-08-10,Valparaíso,Isla de Pascua,8277,5,5,0,0
+2020-08-10,Valparaíso,Juan Fernandez,1033,0,0,0,0
+2020-08-10,Valparaíso,La Cruz,25321,247,215,0,32
+2020-08-10,Valparaíso,La Ligua,37739,493,436,0,57
+2020-08-10,Valparaíso,Limache,49931,879,786,0,93
+2020-08-10,Valparaíso,Llaillay,26533,370,335,0,35
+2020-08-10,Valparaíso,Los Andes,68093,1053,1017,0,36
+2020-08-10,Valparaíso,Nogales,23490,247,206,0,41
+2020-08-10,Valparaíso,Olmue,19266,201,163,0,38
+2020-08-10,Valparaíso,Panquehue,7633,119,117,0,2
+2020-08-10,Valparaíso,Papudo,6201,104,89,0,15
+2020-08-10,Valparaíso,Petorca,10558,116,95,0,21
+2020-08-10,Valparaíso,Puchuncavi,20071,179,169,0,10
+2020-08-10,Valparaíso,Putaendo,17645,240,220,0,20
+2020-08-10,Valparaíso,Quillota,97572,1746,1612,0,134
+2020-08-10,Valparaíso,Quilpue,167085,1752,1627,0,125
+2020-08-10,Valparaíso,Quintero,36135,433,426,0,7
+2020-08-10,Valparaíso,Rinconada,11263,173,173,0,0
+2020-08-10,Valparaíso,San Antonio,96761,1345,1281,0,64
+2020-08-10,Valparaíso,San Esteban,20643,233,219,0,14
+2020-08-10,Valparaíso,San Felipe,83494,1224,1092,0,132
+2020-08-10,Valparaíso,Santa Maria,16367,251,232,0,19
+2020-08-10,Valparaíso,Santo Domingo,11934,147,146,0,1
+2020-08-10,Valparaíso,Valparaiso,315732,4603,4199,0,404
+2020-08-10,Valparaíso,Villa Alemana,139310,1665,1549,0,116
+2020-08-10,Valparaíso,Vina del Mar,361371,4250,3913,0,337
+2020-08-10,Valparaíso,Zapallar,7994,87,75,0,12
+2020-08-10,Valparaíso,Desconocido Valparaiso,0,398,359,0,39
+2020-08-10,Metropolitana,Alhue,7405,217,191,0,26
+2020-08-10,Metropolitana,Buin,109641,2426,2303,0,123
+2020-08-10,Metropolitana,Calera de Tango,28525,581,566,0,15
+2020-08-10,Metropolitana,Cerrillos,88956,3072,2998,0,74
+2020-08-10,Metropolitana,Cerro Navia,142465,6601,6374,0,227
+2020-08-10,Metropolitana,Colina,180353,4605,4519,0,86
+2020-08-10,Metropolitana,Conchali,139195,6195,6065,0,130
+2020-08-10,Metropolitana,Curacavi,36430,894,856,0,38
+2020-08-10,Metropolitana,El Bosque,172000,6464,6333,0,131
+2020-08-10,Metropolitana,El Monte,40014,1214,1157,0,57
+2020-08-10,Metropolitana,Estacion Central,206792,6215,6109,0,106
+2020-08-10,Metropolitana,Huechuraba,112528,3861,3749,0,112
+2020-08-10,Metropolitana,Independencia,142065,6491,6353,0,138
+2020-08-10,Metropolitana,Isla de Maipo,40171,1083,978,0,105
+2020-08-10,Metropolitana,La Cisterna,100434,3222,3147,0,75
+2020-08-10,Metropolitana,La Florida,402433,13626,13345,0,281
+2020-08-10,Metropolitana,La Granja,122557,7005,6903,0,102
+2020-08-10,Metropolitana,La Pintana,189335,10249,9935,0,314
+2020-08-10,Metropolitana,La Reina,100252,2220,2161,0,59
+2020-08-10,Metropolitana,Lampa,126898,3545,3429,0,116
+2020-08-10,Metropolitana,Las Condes,330759,5850,5740,0,110
+2020-08-10,Metropolitana,Lo Barnechea,124076,3287,3211,0,76
+2020-08-10,Metropolitana,Lo Espejo,103865,4281,4176,0,105
+2020-08-10,Metropolitana,Lo Prado,104403,4895,4736,0,159
+2020-08-10,Metropolitana,Macul,134635,4923,4830,0,93
+2020-08-10,Metropolitana,Maipu,578605,14570,14194,0,376
+2020-08-10,Metropolitana,Maria Pinto,14926,368,362,0,6
+2020-08-10,Metropolitana,Melipilla,141612,3845,3743,0,102
+2020-08-10,Metropolitana,Nunoa,250192,5454,5317,0,137
+2020-08-10,Metropolitana,Padre Hurtado,74188,2149,2100,0,49
+2020-08-10,Metropolitana,Paine,82766,1901,1833,0,68
+2020-08-10,Metropolitana,Pedro Aguirre Cerda,107803,4346,4245,0,101
+2020-08-10,Metropolitana,Penaflor,101058,2854,2784,0,70
+2020-08-10,Metropolitana,Penalolen,266798,11740,11526,0,214
+2020-08-10,Metropolitana,Pirque,30433,1111,1071,0,40
+2020-08-10,Metropolitana,Providencia,157749,3218,3124,0,94
+2020-08-10,Metropolitana,Pudahuel,253139,9759,9565,0,194
+2020-08-10,Metropolitana,Puente Alto,645909,23065,22449,0,616
+2020-08-10,Metropolitana,Quilicura,254694,9089,8902,0,187
+2020-08-10,Metropolitana,Quinta Normal,136368,6051,5816,0,235
+2020-08-10,Metropolitana,Recoleta,190075,8465,8324,0,141
+2020-08-10,Metropolitana,Renca,160847,8520,8261,0,259
+2020-08-10,Metropolitana,San Bernardo,334836,11117,10860,0,257
+2020-08-10,Metropolitana,San Joaquin,103485,4980,4866,0,114
+2020-08-10,Metropolitana,San Jose de Maipo,18644,677,644,0,33
+2020-08-10,Metropolitana,San Miguel,133059,5179,5043,0,136
+2020-08-10,Metropolitana,San Pedro,11953,229,220,0,9
+2020-08-10,Metropolitana,San Ramon,86510,4498,4419,0,79
+2020-08-10,Metropolitana,Santiago,503147,14861,14650,0,211
+2020-08-10,Metropolitana,Talagante,81838,1685,1646,0,39
+2020-08-10,Metropolitana,Tiltil,21477,570,556,0,14
+2020-08-10,Metropolitana,Vitacura,96774,1531,1485,0,46
+2020-08-10,Metropolitana,Desconocido Metropolitana,0,16381,16096,0,285
+2020-08-10,O’Higgins,Chepica,15925,157,151,0,6
+2020-08-10,O’Higgins,Chimbarongo,37696,203,187,0,16
+2020-08-10,O’Higgins,Codegua,14096,226,214,0,12
+2020-08-10,O’Higgins,Coinco,7831,125,111,0,14
+2020-08-10,O’Higgins,Coltauco,21263,267,219,0,48
+2020-08-10,O’Higgins,Donihue,22700,427,398,0,29
+2020-08-10,O’Higgins,Graneros,36504,494,465,0,29
+2020-08-10,O’Higgins,La Estrella,3114,36,35,0,1
+2020-08-10,O’Higgins,Las Cabras,26749,247,210,0,37
+2020-08-10,O’Higgins,Litueche,6765,90,82,0,8
+2020-08-10,O’Higgins,Lolol,7289,57,48,0,9
+2020-08-10,O’Higgins,Machali,59913,1011,965,0,46
+2020-08-10,O’Higgins,Malloa,14163,136,126,0,10
+2020-08-10,O’Higgins,Marchihue,7632,29,27,0,2
+2020-08-10,O’Higgins,Mostazal,27462,267,245,0,22
+2020-08-10,O’Higgins,Nancagua,19141,110,93,0,17
+2020-08-10,O’Higgins,Navidad,6904,76,74,0,2
+2020-08-10,O’Higgins,Olivar,14624,223,204,0,19
+2020-08-10,O’Higgins,Palmilla,13299,59,46,0,13
+2020-08-10,O’Higgins,Paredones,6349,30,22,0,8
+2020-08-10,O’Higgins,Peralillo,11848,62,56,0,6
+2020-08-10,O’Higgins,Peumo,14952,92,68,0,24
+2020-08-10,O’Higgins,Pichidegua,20743,242,165,0,77
+2020-08-10,O’Higgins,Pichilemu,17882,55,54,0,1
+2020-08-10,O’Higgins,Placilla,9164,69,64,0,5
+2020-08-10,O’Higgins,Pumanque,3531,4,4,0,0
+2020-08-10,O’Higgins,Quinta de Tilcoco,13877,127,111,0,16
+2020-08-10,O’Higgins,Rancagua,265211,5932,5609,0,323
+2020-08-10,O’Higgins,Rengo,63710,1103,1005,0,98
+2020-08-10,O’Higgins,Requinoa,30371,422,392,0,30
+2020-08-10,O’Higgins,San Fernando,78642,555,458,0,97
+2020-08-10,O’Higgins,San Vicente,50617,583,467,0,116
+2020-08-10,O’Higgins,Santa Cruz,41096,249,189,0,60
+2020-08-10,O’Higgins,Desconocido O’Higgins,0,87,84,0,3
+2020-08-10,Maule,Cauquenes,44143,405,398,0,7
+2020-08-10,Maule,Chanco,9331,48,48,0,0
+2020-08-10,Maule,Colbun,22565,229,196,0,33
+2020-08-10,Maule,Constitucion,50348,388,361,0,27
+2020-08-10,Maule,Curepto,9426,66,50,0,16
+2020-08-10,Maule,Curico,163626,2182,2071,0,111
+2020-08-10,Maule,Empedrado,4206,33,31,0,2
+2020-08-10,Maule,Hualane,10222,115,115,0,0
+2020-08-10,Maule,Licanten,6989,26,23,0,3
+2020-08-10,Maule,Linares,101073,824,720,0,104
+2020-08-10,Maule,Longavi,32810,298,269,0,29
+2020-08-10,Maule,Maule,60000,490,448,0,42
+2020-08-10,Maule,Molina,49800,308,273,0,35
+2020-08-10,Maule,Parral,44544,291,272,0,19
+2020-08-10,Maule,Pelarco,9083,133,114,0,19
+2020-08-10,Maule,Pelluhue,8092,72,69,0,3
+2020-08-10,Maule,Pencahue,8601,57,56,0,1
+2020-08-10,Maule,Rauco,11248,114,107,0,7
+2020-08-10,Maule,Retiro,21071,162,142,0,20
+2020-08-10,Maule,Rio Claro,14753,111,94,0,17
+2020-08-10,Maule,Romeral,16170,276,257,0,19
+2020-08-10,Maule,Sagrada Familia,19469,107,91,0,16
+2020-08-10,Maule,San Clemente,46292,563,512,0,51
+2020-08-10,Maule,San Javier,49451,511,465,0,46
+2020-08-10,Maule,San Rafael,9959,132,127,0,5
+2020-08-10,Maule,Talca,236724,2112,1895,0,217
+2020-08-10,Maule,Teno,30850,299,257,0,42
+2020-08-10,Maule,Vichuquen,4381,6,6,0,0
+2020-08-10,Maule,Villa Alegre,17512,153,142,0,11
+2020-08-10,Maule,Yerbas Buenas,19200,151,128,0,23
+2020-08-10,Maule,Desconocido Maule,0,41,40,0,1
+2020-08-10,Ñuble,Bulnes,22607,458,384,0,74
+2020-08-10,Ñuble,Chillan,198624,1881,1742,0,139
+2020-08-10,Ñuble,Chillan Viejo,33827,305,289,0,16
+2020-08-10,Ñuble,Cobquecura,5275,4,2,0,2
+2020-08-10,Ñuble,Coelemu,16845,85,77,0,8
+2020-08-10,Ñuble,Coihueco,28375,223,207,0,16
+2020-08-10,Ñuble,El Carmen,12334,103,99,0,4
+2020-08-10,Ñuble,Ninhue,5414,52,49,0,3
+2020-08-10,Ñuble,Niquen,11567,95,89,0,6
+2020-08-10,Ñuble,Pemuco,8639,105,103,0,2
+2020-08-10,Ñuble,Pinto,11880,71,68,0,3
+2020-08-10,Ñuble,Portezuelo,4940,22,21,0,1
+2020-08-10,Ñuble,Quillon,18777,190,183,0,7
+2020-08-10,Ñuble,Quirihue,12192,80,70,0,10
+2020-08-10,Ñuble,Ranquil,6261,47,41,0,6
+2020-08-10,Ñuble,San Carlos,56252,513,495,0,18
+2020-08-10,Ñuble,San Fabian,4654,15,14,0,1
+2020-08-10,Ñuble,San Ignacio,16624,177,174,0,3
+2020-08-10,Ñuble,San Nicolas,12172,134,118,0,16
+2020-08-10,Ñuble,Treguaco,5696,14,8,0,6
+2020-08-10,Ñuble,Yungay,18596,144,135,0,9
+2020-08-10,Ñuble,Desconocido Nuble,0,1,1,0,0
+2020-08-10,Biobío,Alto Biobio,6775,175,172,0,3
+2020-08-10,Biobío,Antuco,4306,63,62,0,1
+2020-08-10,Biobío,Arauco,38679,444,377,0,67
+2020-08-10,Biobío,Cabrero,30725,164,147,0,17
+2020-08-10,Biobío,Canete,37003,142,119,0,23
+2020-08-10,Biobío,Chiguayante,91180,706,602,0,104
+2020-08-10,Biobío,Concepcion,238092,2023,1779,0,244
+2020-08-10,Biobío,Contulmo,6330,48,46,0,2
+2020-08-10,Biobío,Coronel,125829,1594,1398,0,196
+2020-08-10,Biobío,Curanilahue,33892,228,201,0,27
+2020-08-10,Biobío,Florida,11841,68,60,0,8
+2020-08-10,Biobío,Hualpen,97273,905,789,0,116
+2020-08-10,Biobío,Hualqui,26201,287,215,0,72
+2020-08-10,Biobío,Laja,23873,191,182,0,9
+2020-08-10,Biobío,Lebu,27100,53,44,0,9
+2020-08-10,Biobío,Los Alamos,22524,159,136,0,23
+2020-08-10,Biobío,Los Angeles,218515,1258,1182,0,76
+2020-08-10,Biobío,Lota,45750,498,431,0,67
+2020-08-10,Biobío,Mulchen,31041,142,130,0,12
+2020-08-10,Biobío,Nacimiento,27944,173,166,0,7
+2020-08-10,Biobío,Negrete,10429,136,132,0,4
+2020-08-10,Biobío,Penco,49865,588,492,0,96
+2020-08-10,Biobío,Quilaco,4179,25,19,0,6
+2020-08-10,Biobío,Quilleco,10032,70,50,0,20
+2020-08-10,Biobío,San Pedro de la Paz,145906,1072,946,0,126
+2020-08-10,Biobío,San Rosendo,3611,36,35,0,1
+2020-08-10,Biobío,Santa Barbara,14592,161,147,0,14
+2020-08-10,Biobío,Santa Juana,14779,94,87,0,7
+2020-08-10,Biobío,Talcahuano,158345,1547,1342,0,205
+2020-08-10,Biobío,Tirua,11019,35,31,0,4
+2020-08-10,Biobío,Tome,58729,544,440,0,104
+2020-08-10,Biobío,Tucapel,15205,158,151,0,7
+2020-08-10,Biobío,Yumbel,22132,235,211,0,24
+2020-08-10,Biobío,Desconocido Biobio,0,191,143,0,48
+2020-08-10,Araucanía,Angol,56058,528,488,0,40
+2020-08-10,Araucanía,Carahue,25486,120,104,0,16
+2020-08-10,Araucanía,Cholchol,12341,39,38,0,1
+2020-08-10,Araucanía,Collipulli,26148,109,71,0,38
+2020-08-10,Araucanía,Cunco,18055,92,87,0,5
+2020-08-10,Araucanía,Curacautin,18178,34,34,0,0
+2020-08-10,Araucanía,Curarrehue,7802,4,4,0,0
+2020-08-10,Araucanía,Ercilla,8458,61,55,0,6
+2020-08-10,Araucanía,Freire,25446,125,123,0,2
+2020-08-10,Araucanía,Galvarino,12633,134,133,0,1
+2020-08-10,Araucanía,Gorbea,15148,45,39,0,6
+2020-08-10,Araucanía,Lautaro,40746,174,165,0,9
+2020-08-10,Araucanía,Loncoche,24739,83,83,0,0
+2020-08-10,Araucanía,Lonquimay,11049,71,71,0,0
+2020-08-10,Araucanía,Los Sauces,7517,59,37,0,22
+2020-08-10,Araucanía,Lumaco,10050,42,42,0,0
+2020-08-10,Araucanía,Melipeuco,6265,13,12,0,1
+2020-08-10,Araucanía,Nueva Imperial,33777,141,133,0,8
+2020-08-10,Araucanía,Padre Las Casas,82110,233,225,0,8
+2020-08-10,Araucanía,Perquenco,7223,44,44,0,0
+2020-08-10,Araucanía,Pitrufquen,26096,106,100,0,6
+2020-08-10,Araucanía,Pucon,29782,93,89,0,4
+2020-08-10,Araucanía,Puren,12188,45,43,0,2
+2020-08-10,Araucanía,Renaico,10833,61,61,0,0
+2020-08-10,Araucanía,Saavedra,12793,99,99,0,0
+2020-08-10,Araucanía,Temuco,302931,1299,1198,0,101
+2020-08-10,Araucanía,Teodoro Schmidt,15786,31,31,0,0
+2020-08-10,Araucanía,Tolten,10055,18,17,0,1
+2020-08-10,Araucanía,Traiguen,19314,60,57,0,3
+2020-08-10,Araucanía,Victoria,35467,215,204,0,11
+2020-08-10,Araucanía,Vilcun,30766,162,151,0,11
+2020-08-10,Araucanía,Villarrica,59103,109,106,0,3
+2020-08-10,Araucanía,Desconocido Araucania,0,1,1,0,0
+2020-08-10,Los Ríos,Corral,5447,26,26,0,0
+2020-08-10,Los Ríos,Futrono,15261,61,61,0,0
+2020-08-10,Los Ríos,La Union,39538,107,100,0,7
+2020-08-10,Los Ríos,Lago Ranco,10292,7,7,0,0
+2020-08-10,Los Ríos,Lanco,17652,32,30,0,2
+2020-08-10,Los Ríos,Los Lagos,20518,63,63,0,0
+2020-08-10,Los Ríos,Mafil,7389,29,29,0,0
+2020-08-10,Los Ríos,Mariquina,23250,38,37,0,1
+2020-08-10,Los Ríos,Paillaco,20798,38,38,0,0
+2020-08-10,Los Ríos,Panguipulli,35991,69,67,0,2
+2020-08-10,Los Ríos,Rio Bueno,32925,51,35,0,16
+2020-08-10,Los Ríos,Valdivia,176774,488,440,0,48
+2020-08-10,Los Ríos,Desconocido Los Rios,0,7,6,0,1
+2020-08-10,Los Lagos,Ancud,42458,112,110,0,2
+2020-08-10,Los Lagos,Calbuco,36744,246,196,0,50
+2020-08-10,Los Lagos,Castro,47607,30,24,0,6
+2020-08-10,Los Lagos,Chaiten,5020,12,11,0,1
+2020-08-10,Los Lagos,Chonchi,16013,1,1,0,0
+2020-08-10,Los Lagos,Cochamo,4006,20,18,0,2
+2020-08-10,Los Lagos,Curaco de Velez,4066,18,18,0,0
+2020-08-10,Los Lagos,Dalcahue,15069,8,7,0,1
+2020-08-10,Los Lagos,Fresia,12656,76,48,0,28
+2020-08-10,Los Lagos,Frutillar,20223,200,163,0,37
+2020-08-10,Los Lagos,Futaleufu,2806,1,1,0,0
+2020-08-10,Los Lagos,Hualaihue,9525,20,20,0,0
+2020-08-10,Los Lagos,Llanquihue,18621,164,120,0,44
+2020-08-10,Los Lagos,Los Muermos,17817,83,63,0,20
+2020-08-10,Los Lagos,Maullin,14894,107,73,0,34
+2020-08-10,Los Lagos,Osorno,173410,945,743,0,202
+2020-08-10,Los Lagos,Palena,1827,0,0,0,0
+2020-08-10,Los Lagos,Puerto Montt,269398,2507,1980,0,527
+2020-08-10,Los Lagos,Puerto Octay,9192,43,16,0,27
+2020-08-10,Los Lagos,Puerto Varas,48620,225,153,0,72
+2020-08-10,Los Lagos,Puqueldon,4201,0,0,0,0
+2020-08-10,Los Lagos,Purranque,21080,114,91,0,23
+2020-08-10,Los Lagos,Puyehue,11787,32,24,0,8
+2020-08-10,Los Lagos,Queilen,5543,0,0,0,0
+2020-08-10,Los Lagos,Quellon,29309,7,7,0,0
+2020-08-10,Los Lagos,Quemchi,8783,14,14,0,0
+2020-08-10,Los Lagos,Quinchao,8298,3,2,0,1
+2020-08-10,Los Lagos,Rio Negro,14275,65,56,0,9
+2020-08-10,Los Lagos,San Juan de la Costa,7639,57,48,0,9
+2020-08-10,Los Lagos,San Pablo,10553,22,17,0,5
+2020-08-10,Los Lagos,Desconocido Los Lagos,0,75,66,0,9
+2020-08-10,Aysén,Aysen,25002,55,42,0,13
+2020-08-10,Aysén,Chile Chico,5121,1,1,0,0
+2020-08-10,Aysén,Cisnes,5828,0,0,0,0
+2020-08-10,Aysén,Cochrane,3685,0,0,0,0
+2020-08-10,Aysén,Coyhaique,61210,37,32,0,5
+2020-08-10,Aysén,Guaitecas,1599,1,0,0,1
+2020-08-10,Aysén,Lago Verde,920,0,0,0,0
+2020-08-10,Aysén,OHiggins,661,0,0,0,0
+2020-08-10,Aysén,Rio Ibanez,2699,0,0,0,0
+2020-08-10,Aysén,Tortel,572,0,0,0,0
+2020-08-10,Aysén,Desconocido Aysen,0,1,1,0,0
+2020-08-10,Magallanes,Antartica,137,0,0,0,0
+2020-08-10,Magallanes,Cabo de Hornos,1983,22,22,0,0
+2020-08-10,Magallanes,Laguna Blanca,264,0,0,0,0
+2020-08-10,Magallanes,Natales,23782,56,53,0,3
+2020-08-10,Magallanes,Porvenir,7323,10,10,0,0
+2020-08-10,Magallanes,Primavera,694,1,1,0,0
+2020-08-10,Magallanes,Punta Arenas,141984,1952,1649,0,303
+2020-08-10,Magallanes,Rio Verde,211,0,0,0,0
+2020-08-10,Magallanes,San Gregorio,681,2,2,0,0
+2020-08-10,Magallanes,Timaukel,282,0,0,0,0
+2020-08-10,Magallanes,Torres del Paine,1021,0,0,0,0
+2020-08-10,Magallanes,Desconocido Magallanes,0,71,70,0,1
