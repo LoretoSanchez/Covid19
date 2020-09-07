@@ -250,6 +250,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,China,89986.0,4728.0
 2020-09-05,China,90008.0,4728.0
 2020-09-06,China,90025.0,4728.0
+2020-09-07,China,90058.0,4730.0
 2020-01-21,United States,1.0,0.0
 2020-01-22,United States,1.0,0.0
 2020-01-23,United States,1.0,0.0
@@ -480,6 +481,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,United States,6150655.0,186797.0
 2020-09-05,United States,6201726.0,187765.0
 2020-09-06,United States,6245866.0,188538.0
+2020-09-07,United States,6276421.0,188941.0
 2020-02-01,Spain,1.0,0.0
 2020-02-02,Spain,1.0,0.0
 2020-02-03,Spain,1.0,0.0
@@ -698,6 +700,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-03,Spain,488513.0,29234.0
 2020-09-04,Spain,498989.0,29418.0
 2020-09-05,Spain,498989.0,29418.0
+2020-09-06,Spain,498989.0,29418.0
 2020-01-31,Italy,3.0,0.0
 2020-02-01,Italy,3.0,0.0
 2020-02-02,Italy,3.0,0.0
@@ -918,6 +921,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,Italy,272912.0,35507.0
 2020-09-05,Italy,274644.0,35518.0
 2020-09-06,Italy,276338.0,35534.0
+2020-09-07,Italy,277634.0,35541.0
 2020-02-01,United Kingdom,2.0,0.0
 2020-02-02,United Kingdom,2.0,0.0
 2020-02-03,United Kingdom,2.0,0.0
@@ -1137,6 +1141,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,United Kingdom,340411.0,41527.0
 2020-09-05,United Kingdom,342351.0,41537.0
 2020-09-06,United Kingdom,344164.0,41549.0
+2020-09-07,United Kingdom,347152.0,41551.0
 2020-02-26,Brazil,1.0,0.0
 2020-02-27,Brazil,1.0,0.0
 2020-02-28,Brazil,1.0,0.0
@@ -1331,6 +1336,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,Brazil,4041638.0,124614.0
 2020-09-05,Brazil,4092832.0,125521.0
 2020-09-06,Brazil,4123000.0,126203.0
+2020-09-07,Brazil,4137521.0,126650.0
 2020-02-11,Argentina,,
 2020-02-12,Argentina,,
 2020-02-13,Argentina,,
@@ -1540,6 +1546,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,Argentina,439159.0,9155.0
 2020-09-05,Argentina,451185.0,9468.0
 2020-09-06,Argentina,461869.0,9685.0
+2020-09-07,Argentina,471793.0,9807.0
 2020-02-28,Peru,,
 2020-02-29,Peru,,
 2020-03-01,Peru,,
@@ -1732,6 +1739,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,Peru,670145.0,29405.0
 2020-09-05,Peru,676848.0,29554.0
 2020-09-06,Peru,683702.0,29687.0
+2020-09-07,Peru,689977.0,29838.0
 2020-03-01,Ecuador,1.0,0.0
 2020-03-02,Ecuador,6.0,0.0
 2020-03-03,Ecuador,7.0,0.0
@@ -1922,6 +1930,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,Ecuador,116360.0,6648.0
 2020-09-05,Ecuador,117175.0,6674.0
 2020-09-06,Ecuador,118045.0,6724.0
+2020-09-07,Ecuador,118045.0,10524.0
 2020-01-20,South Korea,1.0,0.0
 2020-01-21,South Korea,1.0,0.0
 2020-01-22,South Korea,1.0,0.0
@@ -2153,6 +2162,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,South Korea,20842.0,331.0
 2020-09-05,South Korea,20842.0,331.0
 2020-09-06,South Korea,21177.0,334.0
+2020-09-07,South Korea,21296.0,336.0
 2020-01-28,Germany,1.0,0.0
 2020-01-29,Germany,4.0,0.0
 2020-01-30,Germany,4.0,0.0
@@ -2376,6 +2386,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,Germany,246948.0,9319.0
 2020-09-05,Germany,248997.0,9324.0
 2020-09-06,Germany,249985.0,9325.0
+2020-09-07,Germany,250799.0,9325.0
 2020-02-28,New Zealand,1.0,0.0
 2020-02-29,New Zealand,1.0,0.0
 2020-03-01,New Zealand,1.0,0.0
@@ -2568,6 +2579,7 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,New Zealand,1413.0,22.0
 2020-09-05,New Zealand,1413.0,22.0
 2020-09-06,New Zealand,1421.0,24.0
+2020-09-07,New Zealand,1425.0,24.0
 2020-01-25,Australia,1.0,0.0
 2020-01-26,Australia,4.0,0.0
 2020-01-27,Australia,4.0,0.0
@@ -2794,3 +2806,4 @@ Fecha,Pais,Contagios,Muertos
 2020-09-04,Australia,26049.0,678.0
 2020-09-05,Australia,26136.0,737.0
 2020-09-06,Australia,26207.0,748.0
+2020-09-07,Australia,26279.0,753.0
