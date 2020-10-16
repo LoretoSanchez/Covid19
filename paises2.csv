@@ -1,15 +1,15 @@
 Fecha,Pais,Contagios,Muertos
-2019-12-31,China,27.0,0.0
-2020-01-01,China,27.0,0.0
-2020-01-02,China,27.0,0.0
-2020-01-03,China,44.0,0.0
-2020-01-04,China,44.0,0.0
-2020-01-05,China,59.0,0.0
-2020-01-06,China,59.0,0.0
-2020-01-07,China,59.0,0.0
-2020-01-08,China,59.0,0.0
-2020-01-09,China,59.0,0.0
-2020-01-10,China,59.0,0.0
+2019-12-31,China,27.0,
+2020-01-01,China,27.0,
+2020-01-02,China,27.0,
+2020-01-03,China,44.0,
+2020-01-04,China,44.0,
+2020-01-05,China,59.0,
+2020-01-06,China,59.0,
+2020-01-07,China,59.0,
+2020-01-08,China,59.0,
+2020-01-09,China,59.0,
+2020-01-10,China,59.0,
 2020-01-11,China,59.0,1.0
 2020-01-12,China,59.0,1.0
 2020-01-13,China,59.0,1.0
@@ -289,46 +289,68 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,China,90830.0,4739.0
 2020-10-14,China,90858.0,4739.0
 2020-10-15,China,90869.0,4739.0
-2020-01-21,United States,1.0,0.0
-2020-01-22,United States,1.0,0.0
-2020-01-23,United States,1.0,0.0
-2020-01-24,United States,1.0,0.0
-2020-01-25,United States,2.0,0.0
-2020-01-26,United States,2.0,0.0
-2020-01-27,United States,5.0,0.0
-2020-01-28,United States,5.0,0.0
-2020-01-29,United States,5.0,0.0
-2020-01-30,United States,5.0,0.0
-2020-01-31,United States,6.0,0.0
-2020-02-01,United States,7.0,0.0
-2020-02-02,United States,8.0,0.0
-2020-02-03,United States,11.0,0.0
-2020-02-04,United States,11.0,0.0
-2020-02-05,United States,11.0,0.0
-2020-02-06,United States,12.0,0.0
-2020-02-07,United States,12.0,0.0
-2020-02-08,United States,12.0,0.0
-2020-02-09,United States,12.0,0.0
-2020-02-10,United States,12.0,0.0
-2020-02-11,United States,13.0,0.0
-2020-02-12,United States,13.0,0.0
-2020-02-13,United States,14.0,0.0
-2020-02-14,United States,15.0,0.0
-2020-02-15,United States,15.0,0.0
-2020-02-16,United States,15.0,0.0
-2020-02-17,United States,15.0,0.0
-2020-02-18,United States,15.0,0.0
-2020-02-19,United States,15.0,0.0
-2020-02-20,United States,15.0,0.0
-2020-02-21,United States,16.0,0.0
-2020-02-22,United States,35.0,0.0
-2020-02-23,United States,35.0,0.0
-2020-02-24,United States,35.0,0.0
-2020-02-25,United States,53.0,0.0
-2020-02-26,United States,53.0,0.0
-2020-02-27,United States,59.0,0.0
-2020-02-28,United States,60.0,0.0
-2020-02-29,United States,66.0,0.0
+2020-10-16,China,90905.0,4739.0
+2019-12-31,United States,,
+2020-01-01,United States,,
+2020-01-02,United States,,
+2020-01-03,United States,,
+2020-01-04,United States,,
+2020-01-05,United States,,
+2020-01-06,United States,,
+2020-01-07,United States,,
+2020-01-08,United States,,
+2020-01-09,United States,,
+2020-01-10,United States,,
+2020-01-11,United States,,
+2020-01-12,United States,,
+2020-01-13,United States,,
+2020-01-14,United States,,
+2020-01-15,United States,,
+2020-01-16,United States,,
+2020-01-17,United States,,
+2020-01-18,United States,,
+2020-01-19,United States,,
+2020-01-20,United States,,
+2020-01-21,United States,1.0,
+2020-01-22,United States,1.0,
+2020-01-23,United States,1.0,
+2020-01-24,United States,1.0,
+2020-01-25,United States,2.0,
+2020-01-26,United States,2.0,
+2020-01-27,United States,5.0,
+2020-01-28,United States,5.0,
+2020-01-29,United States,5.0,
+2020-01-30,United States,5.0,
+2020-01-31,United States,6.0,
+2020-02-01,United States,7.0,
+2020-02-02,United States,8.0,
+2020-02-03,United States,11.0,
+2020-02-04,United States,11.0,
+2020-02-05,United States,11.0,
+2020-02-06,United States,12.0,
+2020-02-07,United States,12.0,
+2020-02-08,United States,12.0,
+2020-02-09,United States,12.0,
+2020-02-10,United States,12.0,
+2020-02-11,United States,13.0,
+2020-02-12,United States,13.0,
+2020-02-13,United States,14.0,
+2020-02-14,United States,15.0,
+2020-02-15,United States,15.0,
+2020-02-16,United States,15.0,
+2020-02-17,United States,15.0,
+2020-02-18,United States,15.0,
+2020-02-19,United States,15.0,
+2020-02-20,United States,15.0,
+2020-02-21,United States,16.0,
+2020-02-22,United States,35.0,
+2020-02-23,United States,35.0,
+2020-02-24,United States,35.0,
+2020-02-25,United States,53.0,
+2020-02-26,United States,53.0,
+2020-02-27,United States,59.0,
+2020-02-28,United States,60.0,
+2020-02-29,United States,66.0,
 2020-03-01,United States,69.0,1.0
 2020-03-02,United States,89.0,2.0
 2020-03-03,United States,103.0,6.0
@@ -558,39 +580,72 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,United States,7804197.0,215085.0
 2020-10-14,United States,7856714.0,215902.0
 2020-10-15,United States,7916100.0,216872.0
-2020-02-01,Spain,1.0,0.0
-2020-02-02,Spain,1.0,0.0
-2020-02-03,Spain,1.0,0.0
-2020-02-04,Spain,1.0,0.0
-2020-02-05,Spain,1.0,0.0
-2020-02-06,Spain,1.0,0.0
-2020-02-07,Spain,1.0,0.0
-2020-02-08,Spain,1.0,0.0
-2020-02-09,Spain,1.0,0.0
-2020-02-10,Spain,2.0,0.0
-2020-02-11,Spain,2.0,0.0
-2020-02-12,Spain,2.0,0.0
-2020-02-13,Spain,2.0,0.0
-2020-02-14,Spain,2.0,0.0
-2020-02-15,Spain,2.0,0.0
-2020-02-16,Spain,2.0,0.0
-2020-02-17,Spain,2.0,0.0
-2020-02-18,Spain,2.0,0.0
-2020-02-19,Spain,2.0,0.0
-2020-02-20,Spain,2.0,0.0
-2020-02-21,Spain,2.0,0.0
-2020-02-22,Spain,2.0,0.0
-2020-02-23,Spain,2.0,0.0
-2020-02-24,Spain,2.0,0.0
-2020-02-25,Spain,3.0,0.0
-2020-02-26,Spain,9.0,0.0
-2020-02-27,Spain,17.0,0.0
-2020-02-28,Spain,35.0,0.0
-2020-02-29,Spain,54.0,0.0
-2020-03-01,Spain,82.0,0.0
-2020-03-02,Spain,136.0,0.0
-2020-03-03,Spain,192.0,0.0
-2020-03-04,Spain,267.0,0.0
+2020-10-16,United States,7979885.0,217700.0
+2019-12-31,Spain,,
+2020-01-01,Spain,,
+2020-01-02,Spain,,
+2020-01-03,Spain,,
+2020-01-04,Spain,,
+2020-01-05,Spain,,
+2020-01-06,Spain,,
+2020-01-07,Spain,,
+2020-01-08,Spain,,
+2020-01-09,Spain,,
+2020-01-10,Spain,,
+2020-01-11,Spain,,
+2020-01-12,Spain,,
+2020-01-13,Spain,,
+2020-01-14,Spain,,
+2020-01-15,Spain,,
+2020-01-16,Spain,,
+2020-01-17,Spain,,
+2020-01-18,Spain,,
+2020-01-19,Spain,,
+2020-01-20,Spain,,
+2020-01-21,Spain,,
+2020-01-22,Spain,,
+2020-01-23,Spain,,
+2020-01-24,Spain,,
+2020-01-25,Spain,,
+2020-01-26,Spain,,
+2020-01-27,Spain,,
+2020-01-28,Spain,,
+2020-01-29,Spain,,
+2020-01-30,Spain,,
+2020-01-31,Spain,,
+2020-02-01,Spain,1.0,
+2020-02-02,Spain,1.0,
+2020-02-03,Spain,1.0,
+2020-02-04,Spain,1.0,
+2020-02-05,Spain,1.0,
+2020-02-06,Spain,1.0,
+2020-02-07,Spain,1.0,
+2020-02-08,Spain,1.0,
+2020-02-09,Spain,1.0,
+2020-02-10,Spain,2.0,
+2020-02-11,Spain,2.0,
+2020-02-12,Spain,2.0,
+2020-02-13,Spain,2.0,
+2020-02-14,Spain,2.0,
+2020-02-15,Spain,2.0,
+2020-02-16,Spain,2.0,
+2020-02-17,Spain,2.0,
+2020-02-18,Spain,2.0,
+2020-02-19,Spain,2.0,
+2020-02-20,Spain,2.0,
+2020-02-21,Spain,2.0,
+2020-02-22,Spain,2.0,
+2020-02-23,Spain,2.0,
+2020-02-24,Spain,2.0,
+2020-02-25,Spain,3.0,
+2020-02-26,Spain,9.0,
+2020-02-27,Spain,17.0,
+2020-02-28,Spain,35.0,
+2020-02-29,Spain,54.0,
+2020-03-01,Spain,82.0,
+2020-03-02,Spain,136.0,
+2020-03-03,Spain,192.0,
+2020-03-04,Spain,267.0,
 2020-03-05,Spain,348.0,1.0
 2020-03-06,Spain,531.0,3.0
 2020-03-07,Spain,764.0,5.0
@@ -815,29 +870,61 @@ Fecha,Pais,Contagios,Muertos
 2020-10-12,Spain,888968.0,33124.0
 2020-10-13,Spain,896086.0,33204.0
 2020-10-14,Spain,908056.0,33413.0
-2020-01-31,Italy,3.0,0.0
-2020-02-01,Italy,3.0,0.0
-2020-02-02,Italy,3.0,0.0
-2020-02-03,Italy,3.0,0.0
-2020-02-04,Italy,3.0,0.0
-2020-02-05,Italy,3.0,0.0
-2020-02-06,Italy,3.0,0.0
-2020-02-07,Italy,3.0,0.0
-2020-02-08,Italy,3.0,0.0
-2020-02-09,Italy,3.0,0.0
-2020-02-10,Italy,3.0,0.0
-2020-02-11,Italy,3.0,0.0
-2020-02-12,Italy,3.0,0.0
-2020-02-13,Italy,3.0,0.0
-2020-02-14,Italy,3.0,0.0
-2020-02-15,Italy,3.0,0.0
-2020-02-16,Italy,3.0,0.0
-2020-02-17,Italy,3.0,0.0
-2020-02-18,Italy,3.0,0.0
-2020-02-19,Italy,3.0,0.0
-2020-02-20,Italy,3.0,0.0
-2020-02-21,Italy,3.0,0.0
-2020-02-22,Italy,17.0,0.0
+2020-10-15,Spain,921374.0,33553.0
+2019-12-31,Italy,,
+2020-01-01,Italy,,
+2020-01-02,Italy,,
+2020-01-03,Italy,,
+2020-01-04,Italy,,
+2020-01-05,Italy,,
+2020-01-06,Italy,,
+2020-01-07,Italy,,
+2020-01-08,Italy,,
+2020-01-09,Italy,,
+2020-01-10,Italy,,
+2020-01-11,Italy,,
+2020-01-12,Italy,,
+2020-01-13,Italy,,
+2020-01-14,Italy,,
+2020-01-15,Italy,,
+2020-01-16,Italy,,
+2020-01-17,Italy,,
+2020-01-18,Italy,,
+2020-01-19,Italy,,
+2020-01-20,Italy,,
+2020-01-21,Italy,,
+2020-01-22,Italy,,
+2020-01-23,Italy,,
+2020-01-24,Italy,,
+2020-01-25,Italy,,
+2020-01-26,Italy,,
+2020-01-27,Italy,,
+2020-01-28,Italy,,
+2020-01-29,Italy,,
+2020-01-30,Italy,,
+2020-01-31,Italy,3.0,
+2020-02-01,Italy,3.0,
+2020-02-02,Italy,3.0,
+2020-02-03,Italy,3.0,
+2020-02-04,Italy,3.0,
+2020-02-05,Italy,3.0,
+2020-02-06,Italy,3.0,
+2020-02-07,Italy,3.0,
+2020-02-08,Italy,3.0,
+2020-02-09,Italy,3.0,
+2020-02-10,Italy,3.0,
+2020-02-11,Italy,3.0,
+2020-02-12,Italy,3.0,
+2020-02-13,Italy,3.0,
+2020-02-14,Italy,3.0,
+2020-02-15,Italy,3.0,
+2020-02-16,Italy,3.0,
+2020-02-17,Italy,3.0,
+2020-02-18,Italy,3.0,
+2020-02-19,Italy,3.0,
+2020-02-20,Italy,3.0,
+2020-02-21,Italy,3.0,
+2020-02-22,Italy,17.0,
 2020-02-23,Italy,79.0,2.0
 2020-02-24,Italy,132.0,2.0
 2020-02-25,Italy,229.0,6.0
@@ -1074,41 +1161,74 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,Italy,359569.0,36205.0
 2020-10-14,Italy,365467.0,36246.0
 2020-10-15,Italy,372799.0,36289.0
-2020-02-01,United Kingdom,2.0,0.0
-2020-02-02,United Kingdom,2.0,0.0
-2020-02-03,United Kingdom,2.0,0.0
-2020-02-04,United Kingdom,2.0,0.0
-2020-02-05,United Kingdom,3.0,0.0
-2020-02-06,United Kingdom,3.0,0.0
-2020-02-07,United Kingdom,4.0,0.0
-2020-02-08,United Kingdom,4.0,0.0
-2020-02-09,United Kingdom,4.0,0.0
-2020-02-10,United Kingdom,8.0,0.0
-2020-02-11,United Kingdom,9.0,0.0
-2020-02-12,United Kingdom,9.0,0.0
-2020-02-13,United Kingdom,10.0,0.0
-2020-02-14,United Kingdom,10.0,0.0
-2020-02-15,United Kingdom,10.0,0.0
-2020-02-16,United Kingdom,10.0,0.0
-2020-02-17,United Kingdom,10.0,0.0
-2020-02-18,United Kingdom,10.0,0.0
-2020-02-19,United Kingdom,10.0,0.0
-2020-02-20,United Kingdom,10.0,0.0
-2020-02-21,United Kingdom,10.0,0.0
-2020-02-22,United Kingdom,10.0,0.0
-2020-02-23,United Kingdom,11.0,0.0
-2020-02-24,United Kingdom,11.0,0.0
-2020-02-25,United Kingdom,11.0,0.0
-2020-02-26,United Kingdom,13.0,0.0
-2020-02-27,United Kingdom,18.0,0.0
-2020-02-28,United Kingdom,22.0,0.0
-2020-02-29,United Kingdom,30.0,0.0
-2020-03-01,United Kingdom,42.0,0.0
-2020-03-02,United Kingdom,47.0,0.0
-2020-03-03,United Kingdom,69.0,0.0
-2020-03-04,United Kingdom,109.0,0.0
-2020-03-05,United Kingdom,164.0,0.0
-2020-03-06,United Kingdom,220.0,0.0
+2020-10-16,Italy,381602.0,36372.0
+2019-12-31,United Kingdom,,
+2020-01-01,United Kingdom,,
+2020-01-02,United Kingdom,,
+2020-01-03,United Kingdom,,
+2020-01-04,United Kingdom,,
+2020-01-05,United Kingdom,,
+2020-01-06,United Kingdom,,
+2020-01-07,United Kingdom,,
+2020-01-08,United Kingdom,,
+2020-01-09,United Kingdom,,
+2020-01-10,United Kingdom,,
+2020-01-11,United Kingdom,,
+2020-01-12,United Kingdom,,
+2020-01-13,United Kingdom,,
+2020-01-14,United Kingdom,,
+2020-01-15,United Kingdom,,
+2020-01-16,United Kingdom,,
+2020-01-17,United Kingdom,,
+2020-01-18,United Kingdom,,
+2020-01-19,United Kingdom,,
+2020-01-20,United Kingdom,,
+2020-01-21,United Kingdom,,
+2020-01-22,United Kingdom,,
+2020-01-23,United Kingdom,,
+2020-01-24,United Kingdom,,
+2020-01-25,United Kingdom,,
+2020-01-26,United Kingdom,,
+2020-01-27,United Kingdom,,
+2020-01-28,United Kingdom,,
+2020-01-29,United Kingdom,,
+2020-01-30,United Kingdom,,
+2020-01-31,United Kingdom,,
+2020-02-01,United Kingdom,2.0,
+2020-02-02,United Kingdom,2.0,
+2020-02-03,United Kingdom,2.0,
+2020-02-04,United Kingdom,2.0,
+2020-02-05,United Kingdom,3.0,
+2020-02-06,United Kingdom,3.0,
+2020-02-07,United Kingdom,4.0,
+2020-02-08,United Kingdom,4.0,
+2020-02-09,United Kingdom,4.0,
+2020-02-10,United Kingdom,8.0,
+2020-02-11,United Kingdom,9.0,
+2020-02-12,United Kingdom,9.0,
+2020-02-13,United Kingdom,10.0,
+2020-02-14,United Kingdom,10.0,
+2020-02-15,United Kingdom,10.0,
+2020-02-16,United Kingdom,10.0,
+2020-02-17,United Kingdom,10.0,
+2020-02-18,United Kingdom,10.0,
+2020-02-19,United Kingdom,10.0,
+2020-02-20,United Kingdom,10.0,
+2020-02-21,United Kingdom,10.0,
+2020-02-22,United Kingdom,10.0,
+2020-02-23,United Kingdom,11.0,
+2020-02-24,United Kingdom,11.0,
+2020-02-25,United Kingdom,11.0,
+2020-02-26,United Kingdom,13.0,
+2020-02-27,United Kingdom,18.0,
+2020-02-28,United Kingdom,22.0,
+2020-02-29,United Kingdom,30.0,
+2020-03-01,United Kingdom,42.0,
+2020-03-02,United Kingdom,47.0,
+2020-03-03,United Kingdom,69.0,
+2020-03-04,United Kingdom,109.0,
+2020-03-05,United Kingdom,164.0,
+2020-03-06,United Kingdom,220.0,
 2020-03-07,United Kingdom,271.0,1.0
 2020-03-08,United Kingdom,352.0,2.0
 2020-03-09,United Kingdom,412.0,2.0
@@ -1332,27 +1452,85 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,United Kingdom,617688.0,42875.0
 2020-10-14,United Kingdom,634920.0,43018.0
 2020-10-15,United Kingdom,654644.0,43155.0
-2020-02-26,Brazil,1.0,0.0
-2020-02-27,Brazil,1.0,0.0
-2020-02-28,Brazil,1.0,0.0
-2020-02-29,Brazil,1.0,0.0
-2020-03-01,Brazil,2.0,0.0
-2020-03-02,Brazil,2.0,0.0
-2020-03-03,Brazil,2.0,0.0
-2020-03-04,Brazil,2.0,0.0
-2020-03-05,Brazil,3.0,0.0
-2020-03-06,Brazil,8.0,0.0
-2020-03-07,Brazil,13.0,0.0
-2020-03-08,Brazil,13.0,0.0
-2020-03-09,Brazil,25.0,0.0
-2020-03-10,Brazil,25.0,0.0
-2020-03-11,Brazil,34.0,0.0
-2020-03-12,Brazil,52.0,0.0
-2020-03-13,Brazil,77.0,0.0
-2020-03-14,Brazil,98.0,0.0
-2020-03-15,Brazil,121.0,0.0
-2020-03-16,Brazil,200.0,0.0
-2020-03-17,Brazil,234.0,0.0
+2020-10-16,United Kingdom,673622.0,43293.0
+2019-12-31,Brazil,,
+2020-01-01,Brazil,,
+2020-01-02,Brazil,,
+2020-01-03,Brazil,,
+2020-01-04,Brazil,,
+2020-01-05,Brazil,,
+2020-01-06,Brazil,,
+2020-01-07,Brazil,,
+2020-01-08,Brazil,,
+2020-01-09,Brazil,,
+2020-01-10,Brazil,,
+2020-01-11,Brazil,,
+2020-01-12,Brazil,,
+2020-01-13,Brazil,,
+2020-01-14,Brazil,,
+2020-01-15,Brazil,,
+2020-01-16,Brazil,,
+2020-01-17,Brazil,,
+2020-01-18,Brazil,,
+2020-01-19,Brazil,,
+2020-01-20,Brazil,,
+2020-01-21,Brazil,,
+2020-01-22,Brazil,,
+2020-01-23,Brazil,,
+2020-01-24,Brazil,,
+2020-01-25,Brazil,,
+2020-01-26,Brazil,,
+2020-01-27,Brazil,,
+2020-01-28,Brazil,,
+2020-01-29,Brazil,,
+2020-01-30,Brazil,,
+2020-01-31,Brazil,,
+2020-02-01,Brazil,,
+2020-02-02,Brazil,,
+2020-02-03,Brazil,,
+2020-02-04,Brazil,,
+2020-02-05,Brazil,,
+2020-02-06,Brazil,,
+2020-02-07,Brazil,,
+2020-02-08,Brazil,,
+2020-02-09,Brazil,,
+2020-02-10,Brazil,,
+2020-02-11,Brazil,,
+2020-02-12,Brazil,,
+2020-02-13,Brazil,,
+2020-02-14,Brazil,,
+2020-02-15,Brazil,,
+2020-02-16,Brazil,,
+2020-02-17,Brazil,,
+2020-02-18,Brazil,,
+2020-02-19,Brazil,,
+2020-02-20,Brazil,,
+2020-02-21,Brazil,,
+2020-02-22,Brazil,,
+2020-02-23,Brazil,,
+2020-02-24,Brazil,,
+2020-02-25,Brazil,,
+2020-02-26,Brazil,1.0,
+2020-02-27,Brazil,1.0,
+2020-02-28,Brazil,1.0,
+2020-02-29,Brazil,1.0,
+2020-03-01,Brazil,2.0,
+2020-03-02,Brazil,2.0,
+2020-03-03,Brazil,2.0,
+2020-03-04,Brazil,2.0,
+2020-03-05,Brazil,3.0,
+2020-03-06,Brazil,8.0,
+2020-03-07,Brazil,13.0,
+2020-03-08,Brazil,13.0,
+2020-03-09,Brazil,25.0,
+2020-03-10,Brazil,25.0,
+2020-03-11,Brazil,34.0,
+2020-03-12,Brazil,52.0,
+2020-03-13,Brazil,77.0,
+2020-03-14,Brazil,98.0,
+2020-03-15,Brazil,121.0,
+2020-03-16,Brazil,200.0,
+2020-03-17,Brazil,234.0,
 2020-03-18,Brazil,291.0,1.0
 2020-03-19,Brazil,428.0,4.0
 2020-03-20,Brazil,621.0,6.0
@@ -1565,6 +1743,7 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,Brazil,5103408.0,150689.0
 2020-10-14,Brazil,5113628.0,150998.0
 2020-10-15,Brazil,5140863.0,151747.0
+2020-10-16,Brazil,5169386.0,152460.0
 2020-02-11,Argentina,,
 2020-02-12,Argentina,,
 2020-02-13,Argentina,,
@@ -1587,10 +1766,10 @@ Fecha,Pais,Contagios,Muertos
 2020-03-01,Argentina,,
 2020-03-02,Argentina,,
 2020-03-03,Argentina,,
-2020-03-04,Argentina,1.0,0.0
+2020-03-04,Argentina,1.0,
 2020-03-05,Argentina,,
-2020-03-06,Argentina,2.0,0.0
-2020-03-07,Argentina,8.0,0.0
+2020-03-06,Argentina,2.0,
+2020-03-07,Argentina,8.0,
 2020-03-08,Argentina,9.0,1.0
 2020-03-09,Argentina,12.0,1.0
 2020-03-10,Argentina,,
@@ -1813,6 +1992,7 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,Argentina,903717.0,24186.0
 2020-10-14,Argentina,917022.0,24572.0
 2020-10-15,Argentina,931954.0,24921.0
+2020-10-16,Argentina,949050.0,25342.0
 2020-02-28,Peru,,
 2020-02-29,Peru,,
 2020-03-01,Peru,,
@@ -1821,19 +2001,19 @@ Fecha,Pais,Contagios,Muertos
 2020-03-04,Peru,,
 2020-03-05,Peru,,
 2020-03-06,Peru,,
-2020-03-07,Peru,1.0,0.0
+2020-03-07,Peru,1.0,
 2020-03-08,Peru,,
-2020-03-09,Peru,7.0,0.0
-2020-03-10,Peru,9.0,0.0
-2020-03-11,Peru,11.0,0.0
-2020-03-12,Peru,17.0,0.0
-2020-03-13,Peru,22.0,0.0
-2020-03-14,Peru,38.0,0.0
-2020-03-15,Peru,43.0,0.0
-2020-03-16,Peru,71.0,0.0
-2020-03-17,Peru,86.0,0.0
-2020-03-18,Peru,117.0,0.0
-2020-03-19,Peru,145.0,0.0
+2020-03-09,Peru,7.0,
+2020-03-10,Peru,9.0,
+2020-03-11,Peru,11.0,
+2020-03-12,Peru,17.0,
+2020-03-13,Peru,22.0,
+2020-03-14,Peru,38.0,
+2020-03-15,Peru,43.0,
+2020-03-16,Peru,71.0,
+2020-03-17,Peru,86.0,
+2020-03-18,Peru,117.0,
+2020-03-19,Peru,145.0,
 2020-03-20,Peru,234.0,2.0
 2020-03-21,Peru,263.0,3.0
 2020-03-22,Peru,318.0,5.0
@@ -2044,17 +2224,79 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,Peru,851171.0,33357.0
 2020-10-14,Peru,853974.0,33419.0
 2020-10-15,Peru,856951.0,33512.0
-2020-03-01,Ecuador,1.0,0.0
-2020-03-02,Ecuador,6.0,0.0
-2020-03-03,Ecuador,7.0,0.0
+2020-10-16,Peru,859740.0,33577.0
+2019-12-31,Ecuador,,
+2020-01-01,Ecuador,,
+2020-01-02,Ecuador,,
+2020-01-03,Ecuador,,
+2020-01-04,Ecuador,,
+2020-01-05,Ecuador,,
+2020-01-06,Ecuador,,
+2020-01-07,Ecuador,,
+2020-01-08,Ecuador,,
+2020-01-09,Ecuador,,
+2020-01-10,Ecuador,,
+2020-01-11,Ecuador,,
+2020-01-12,Ecuador,,
+2020-01-13,Ecuador,,
+2020-01-14,Ecuador,,
+2020-01-15,Ecuador,,
+2020-01-16,Ecuador,,
+2020-01-17,Ecuador,,
+2020-01-18,Ecuador,,
+2020-01-19,Ecuador,,
+2020-01-20,Ecuador,,
+2020-01-21,Ecuador,,
+2020-01-22,Ecuador,,
+2020-01-23,Ecuador,,
+2020-01-24,Ecuador,,
+2020-01-25,Ecuador,,
+2020-01-26,Ecuador,,
+2020-01-27,Ecuador,,
+2020-01-28,Ecuador,,
+2020-01-29,Ecuador,,
+2020-01-30,Ecuador,,
+2020-01-31,Ecuador,,
+2020-02-01,Ecuador,,
+2020-02-02,Ecuador,,
+2020-02-03,Ecuador,,
+2020-02-04,Ecuador,,
+2020-02-05,Ecuador,,
+2020-02-06,Ecuador,,
+2020-02-07,Ecuador,,
+2020-02-08,Ecuador,,
+2020-02-09,Ecuador,,
+2020-02-10,Ecuador,,
+2020-02-11,Ecuador,,
+2020-02-12,Ecuador,,
+2020-02-13,Ecuador,,
+2020-02-14,Ecuador,,
+2020-02-15,Ecuador,,
+2020-02-16,Ecuador,,
+2020-02-17,Ecuador,,
+2020-02-18,Ecuador,,
+2020-02-19,Ecuador,,
+2020-02-20,Ecuador,,
+2020-02-21,Ecuador,,
+2020-02-22,Ecuador,,
+2020-02-23,Ecuador,,
+2020-02-24,Ecuador,,
+2020-02-25,Ecuador,,
+2020-02-26,Ecuador,,
+2020-02-27,Ecuador,,
+2020-02-28,Ecuador,,
+2020-02-29,Ecuador,,
+2020-03-01,Ecuador,1.0,
+2020-03-02,Ecuador,6.0,
+2020-03-03,Ecuador,7.0,
 2020-03-04,Ecuador,,
-2020-03-05,Ecuador,10.0,0.0
-2020-03-06,Ecuador,13.0,0.0
+2020-03-05,Ecuador,10.0,
+2020-03-06,Ecuador,13.0,
 2020-03-07,Ecuador,,
 2020-03-08,Ecuador,,
-2020-03-09,Ecuador,14.0,0.0
-2020-03-10,Ecuador,15.0,0.0
-2020-03-11,Ecuador,17.0,0.0
+2020-03-09,Ecuador,14.0,
+2020-03-10,Ecuador,15.0,
+2020-03-11,Ecuador,17.0,
 2020-03-12,Ecuador,,
 2020-03-13,Ecuador,,
 2020-03-14,Ecuador,23.0,1.0
@@ -2273,38 +2515,59 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,Ecuador,147315.0,12218.0
 2020-10-14,Ecuador,148171.0,12235.0
 2020-10-15,Ecuador,149083.0,12264.0
-2020-01-20,South Korea,1.0,0.0
-2020-01-21,South Korea,1.0,0.0
-2020-01-22,South Korea,1.0,0.0
-2020-01-23,South Korea,1.0,0.0
-2020-01-24,South Korea,2.0,0.0
-2020-01-25,South Korea,2.0,0.0
-2020-01-26,South Korea,3.0,0.0
-2020-01-27,South Korea,4.0,0.0
-2020-01-28,South Korea,4.0,0.0
-2020-01-29,South Korea,4.0,0.0
-2020-01-30,South Korea,4.0,0.0
-2020-01-31,South Korea,7.0,0.0
-2020-02-01,South Korea,12.0,0.0
-2020-02-02,South Korea,15.0,0.0
-2020-02-03,South Korea,15.0,0.0
-2020-02-04,South Korea,16.0,0.0
-2020-02-05,South Korea,18.0,0.0
-2020-02-06,South Korea,23.0,0.0
-2020-02-07,South Korea,24.0,0.0
-2020-02-08,South Korea,24.0,0.0
-2020-02-09,South Korea,25.0,0.0
-2020-02-10,South Korea,27.0,0.0
-2020-02-11,South Korea,28.0,0.0
-2020-02-12,South Korea,28.0,0.0
-2020-02-13,South Korea,28.0,0.0
-2020-02-14,South Korea,28.0,0.0
-2020-02-15,South Korea,28.0,0.0
-2020-02-16,South Korea,29.0,0.0
-2020-02-17,South Korea,30.0,0.0
-2020-02-18,South Korea,31.0,0.0
-2020-02-19,South Korea,46.0,0.0
-2020-02-20,South Korea,80.0,0.0
+2020-10-16,Ecuador,150360.0,12306.0
+2019-12-31,South Korea,,
+2020-01-01,South Korea,,
+2020-01-02,South Korea,,
+2020-01-03,South Korea,,
+2020-01-04,South Korea,,
+2020-01-05,South Korea,,
+2020-01-06,South Korea,,
+2020-01-07,South Korea,,
+2020-01-08,South Korea,,
+2020-01-09,South Korea,,
+2020-01-10,South Korea,,
+2020-01-11,South Korea,,
+2020-01-12,South Korea,,
+2020-01-13,South Korea,,
+2020-01-14,South Korea,,
+2020-01-15,South Korea,,
+2020-01-16,South Korea,,
+2020-01-17,South Korea,,
+2020-01-18,South Korea,,
+2020-01-19,South Korea,,
+2020-01-20,South Korea,1.0,
+2020-01-21,South Korea,1.0,
+2020-01-22,South Korea,1.0,
+2020-01-23,South Korea,1.0,
+2020-01-24,South Korea,2.0,
+2020-01-25,South Korea,2.0,
+2020-01-26,South Korea,3.0,
+2020-01-27,South Korea,4.0,
+2020-01-28,South Korea,4.0,
+2020-01-29,South Korea,4.0,
+2020-01-30,South Korea,4.0,
+2020-01-31,South Korea,7.0,
+2020-02-01,South Korea,12.0,
+2020-02-02,South Korea,15.0,
+2020-02-03,South Korea,15.0,
+2020-02-04,South Korea,16.0,
+2020-02-05,South Korea,18.0,
+2020-02-06,South Korea,23.0,
+2020-02-07,South Korea,24.0,
+2020-02-08,South Korea,24.0,
+2020-02-09,South Korea,25.0,
+2020-02-10,South Korea,27.0,
+2020-02-11,South Korea,28.0,
+2020-02-12,South Korea,28.0,
+2020-02-13,South Korea,28.0,
+2020-02-14,South Korea,28.0,
+2020-02-15,South Korea,28.0,
+2020-02-16,South Korea,29.0,
+2020-02-17,South Korea,30.0,
+2020-02-18,South Korea,31.0,
+2020-02-19,South Korea,46.0,
+2020-02-20,South Korea,80.0,
 2020-02-21,South Korea,155.0,1.0
 2020-02-22,South Korea,345.0,2.0
 2020-02-23,South Korea,601.0,5.0
@@ -2543,48 +2806,77 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,South Korea,24805.0,434.0
 2020-10-14,South Korea,24889.0,438.0
 2020-10-15,South Korea,24988.0,439.0
-2020-01-28,Germany,1.0,0.0
-2020-01-29,Germany,4.0,0.0
-2020-01-30,Germany,4.0,0.0
-2020-01-31,Germany,5.0,0.0
-2020-02-01,Germany,7.0,0.0
-2020-02-02,Germany,8.0,0.0
-2020-02-03,Germany,9.0,0.0
-2020-02-04,Germany,11.0,0.0
-2020-02-05,Germany,11.0,0.0
-2020-02-06,Germany,11.0,0.0
-2020-02-07,Germany,12.0,0.0
-2020-02-08,Germany,13.0,0.0
-2020-02-09,Germany,13.0,0.0
-2020-02-10,Germany,13.0,0.0
-2020-02-11,Germany,13.0,0.0
-2020-02-12,Germany,15.0,0.0
-2020-02-13,Germany,15.0,0.0
-2020-02-14,Germany,15.0,0.0
-2020-02-15,Germany,15.0,0.0
-2020-02-16,Germany,15.0,0.0
-2020-02-17,Germany,15.0,0.0
-2020-02-18,Germany,15.0,0.0
-2020-02-19,Germany,15.0,0.0
-2020-02-20,Germany,15.0,0.0
-2020-02-21,Germany,15.0,0.0
-2020-02-22,Germany,15.0,0.0
-2020-02-23,Germany,15.0,0.0
-2020-02-24,Germany,15.0,0.0
-2020-02-25,Germany,15.0,0.0
-2020-02-26,Germany,17.0,0.0
-2020-02-27,Germany,21.0,0.0
-2020-02-28,Germany,47.0,0.0
-2020-02-29,Germany,57.0,0.0
-2020-03-01,Germany,111.0,0.0
-2020-03-02,Germany,129.0,0.0
-2020-03-03,Germany,157.0,0.0
-2020-03-04,Germany,196.0,0.0
-2020-03-05,Germany,262.0,0.0
-2020-03-06,Germany,400.0,0.0
-2020-03-07,Germany,684.0,0.0
-2020-03-08,Germany,847.0,0.0
-2020-03-09,Germany,902.0,0.0
+2020-10-16,South Korea,25035.0,441.0
+2019-12-31,Germany,,
+2020-01-01,Germany,,
+2020-01-02,Germany,,
+2020-01-03,Germany,,
+2020-01-04,Germany,,
+2020-01-05,Germany,,
+2020-01-06,Germany,,
+2020-01-07,Germany,,
+2020-01-08,Germany,,
+2020-01-09,Germany,,
+2020-01-10,Germany,,
+2020-01-11,Germany,,
+2020-01-12,Germany,,
+2020-01-13,Germany,,
+2020-01-14,Germany,,
+2020-01-15,Germany,,
+2020-01-16,Germany,,
+2020-01-17,Germany,,
+2020-01-18,Germany,,
+2020-01-19,Germany,,
+2020-01-20,Germany,,
+2020-01-21,Germany,,
+2020-01-22,Germany,,
+2020-01-23,Germany,,
+2020-01-24,Germany,,
+2020-01-25,Germany,,
+2020-01-26,Germany,,
+2020-01-27,Germany,,
+2020-01-28,Germany,1.0,
+2020-01-29,Germany,4.0,
+2020-01-30,Germany,4.0,
+2020-01-31,Germany,5.0,
+2020-02-01,Germany,7.0,
+2020-02-02,Germany,8.0,
+2020-02-03,Germany,9.0,
+2020-02-04,Germany,11.0,
+2020-02-05,Germany,11.0,
+2020-02-06,Germany,11.0,
+2020-02-07,Germany,12.0,
+2020-02-08,Germany,13.0,
+2020-02-09,Germany,13.0,
+2020-02-10,Germany,13.0,
+2020-02-11,Germany,13.0,
+2020-02-12,Germany,15.0,
+2020-02-13,Germany,15.0,
+2020-02-14,Germany,15.0,
+2020-02-15,Germany,15.0,
+2020-02-16,Germany,15.0,
+2020-02-17,Germany,15.0,
+2020-02-18,Germany,15.0,
+2020-02-19,Germany,15.0,
+2020-02-20,Germany,15.0,
+2020-02-21,Germany,15.0,
+2020-02-22,Germany,15.0,
+2020-02-23,Germany,15.0,
+2020-02-24,Germany,15.0,
+2020-02-25,Germany,15.0,
+2020-02-26,Germany,17.0,
+2020-02-27,Germany,21.0,
+2020-02-28,Germany,47.0,
+2020-02-29,Germany,57.0,
+2020-03-01,Germany,111.0,
+2020-03-02,Germany,129.0,
+2020-03-03,Germany,157.0,
+2020-03-04,Germany,196.0,
+2020-03-05,Germany,262.0,
+2020-03-06,Germany,400.0,
+2020-03-07,Germany,684.0,
+2020-03-08,Germany,847.0,
+2020-03-09,Germany,902.0,
 2020-03-10,Germany,1139.0,2.0
 2020-03-11,Germany,1296.0,2.0
 2020-03-12,Germany,1567.0,3.0
@@ -2805,36 +3097,96 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,Germany,329453.0,9634.0
 2020-10-14,Germany,334585.0,9677.0
 2020-10-15,Germany,341223.0,9710.0
-2020-02-28,New Zealand,1.0,0.0
-2020-02-29,New Zealand,1.0,0.0
-2020-03-01,New Zealand,1.0,0.0
-2020-03-02,New Zealand,1.0,0.0
+2020-10-16,Germany,348557.0,9734.0
+2019-12-31,New Zealand,,
+2020-01-01,New Zealand,,
+2020-01-02,New Zealand,,
+2020-01-03,New Zealand,,
+2020-01-04,New Zealand,,
+2020-01-05,New Zealand,,
+2020-01-06,New Zealand,,
+2020-01-07,New Zealand,,
+2020-01-08,New Zealand,,
+2020-01-09,New Zealand,,
+2020-01-10,New Zealand,,
+2020-01-11,New Zealand,,
+2020-01-12,New Zealand,,
+2020-01-13,New Zealand,,
+2020-01-14,New Zealand,,
+2020-01-15,New Zealand,,
+2020-01-16,New Zealand,,
+2020-01-17,New Zealand,,
+2020-01-18,New Zealand,,
+2020-01-19,New Zealand,,
+2020-01-20,New Zealand,,
+2020-01-21,New Zealand,,
+2020-01-22,New Zealand,,
+2020-01-23,New Zealand,,
+2020-01-24,New Zealand,,
+2020-01-25,New Zealand,,
+2020-01-26,New Zealand,,
+2020-01-27,New Zealand,,
+2020-01-28,New Zealand,,
+2020-01-29,New Zealand,,
+2020-01-30,New Zealand,,
+2020-01-31,New Zealand,,
+2020-02-01,New Zealand,,
+2020-02-02,New Zealand,,
+2020-02-03,New Zealand,,
+2020-02-04,New Zealand,,
+2020-02-05,New Zealand,,
+2020-02-06,New Zealand,,
+2020-02-07,New Zealand,,
+2020-02-08,New Zealand,,
+2020-02-09,New Zealand,,
+2020-02-10,New Zealand,,
+2020-02-11,New Zealand,,
+2020-02-12,New Zealand,,
+2020-02-13,New Zealand,,
+2020-02-14,New Zealand,,
+2020-02-15,New Zealand,,
+2020-02-16,New Zealand,,
+2020-02-17,New Zealand,,
+2020-02-18,New Zealand,,
+2020-02-19,New Zealand,,
+2020-02-20,New Zealand,,
+2020-02-21,New Zealand,,
+2020-02-22,New Zealand,,
+2020-02-23,New Zealand,,
+2020-02-24,New Zealand,,
+2020-02-25,New Zealand,,
+2020-02-26,New Zealand,,
+2020-02-27,New Zealand,,
+2020-02-28,New Zealand,1.0,
+2020-02-29,New Zealand,1.0,
+2020-03-01,New Zealand,1.0,
+2020-03-02,New Zealand,1.0,
 2020-03-03,New Zealand,,
-2020-03-04,New Zealand,2.0,0.0
-2020-03-05,New Zealand,3.0,0.0
-2020-03-06,New Zealand,4.0,0.0
-2020-03-07,New Zealand,5.0,0.0
+2020-03-04,New Zealand,2.0,
+2020-03-05,New Zealand,3.0,
+2020-03-06,New Zealand,4.0,
+2020-03-07,New Zealand,5.0,
 2020-03-08,New Zealand,,
 2020-03-09,New Zealand,,
 2020-03-10,New Zealand,,
 2020-03-11,New Zealand,,
 2020-03-12,New Zealand,,
 2020-03-13,New Zealand,,
-2020-03-14,New Zealand,6.0,0.0
-2020-03-15,New Zealand,8.0,0.0
+2020-03-14,New Zealand,6.0,
+2020-03-15,New Zealand,8.0,
 2020-03-16,New Zealand,,
 2020-03-17,New Zealand,,
-2020-03-18,New Zealand,20.0,0.0
-2020-03-19,New Zealand,28.0,0.0
-2020-03-20,New Zealand,39.0,0.0
-2020-03-21,New Zealand,53.0,0.0
-2020-03-22,New Zealand,66.0,0.0
-2020-03-23,New Zealand,102.0,0.0
-2020-03-24,New Zealand,142.0,0.0
-2020-03-25,New Zealand,189.0,0.0
-2020-03-26,New Zealand,262.0,0.0
-2020-03-27,New Zealand,338.0,0.0
-2020-03-28,New Zealand,416.0,0.0
+2020-03-18,New Zealand,20.0,
+2020-03-19,New Zealand,28.0,
+2020-03-20,New Zealand,39.0,
+2020-03-21,New Zealand,53.0,
+2020-03-22,New Zealand,66.0,
+2020-03-23,New Zealand,102.0,
+2020-03-24,New Zealand,142.0,
+2020-03-25,New Zealand,189.0,
+2020-03-26,New Zealand,262.0,
+2020-03-27,New Zealand,338.0,
+2020-03-28,New Zealand,416.0,
 2020-03-29,New Zealand,476.0,1.0
 2020-03-30,New Zealand,552.0,1.0
 2020-03-31,New Zealand,647.0,1.0
@@ -3036,42 +3388,68 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,New Zealand,1516.0,25.0
 2020-10-14,New Zealand,1518.0,25.0
 2020-10-15,New Zealand,1520.0,25.0
-2020-01-25,Australia,1.0,0.0
-2020-01-26,Australia,4.0,0.0
-2020-01-27,Australia,4.0,0.0
-2020-01-28,Australia,4.0,0.0
-2020-01-29,Australia,4.0,0.0
-2020-01-30,Australia,6.0,0.0
-2020-01-31,Australia,7.0,0.0
-2020-02-01,Australia,9.0,0.0
-2020-02-02,Australia,11.0,0.0
-2020-02-03,Australia,11.0,0.0
-2020-02-04,Australia,11.0,0.0
-2020-02-05,Australia,12.0,0.0
-2020-02-06,Australia,13.0,0.0
-2020-02-07,Australia,14.0,0.0
-2020-02-08,Australia,14.0,0.0
-2020-02-09,Australia,14.0,0.0
-2020-02-10,Australia,14.0,0.0
-2020-02-11,Australia,14.0,0.0
-2020-02-12,Australia,14.0,0.0
-2020-02-13,Australia,14.0,0.0
-2020-02-14,Australia,15.0,0.0
-2020-02-15,Australia,15.0,0.0
-2020-02-16,Australia,15.0,0.0
-2020-02-17,Australia,15.0,0.0
-2020-02-18,Australia,15.0,0.0
-2020-02-19,Australia,15.0,0.0
-2020-02-20,Australia,15.0,0.0
-2020-02-21,Australia,17.0,0.0
-2020-02-22,Australia,21.0,0.0
-2020-02-23,Australia,22.0,0.0
-2020-02-24,Australia,22.0,0.0
-2020-02-25,Australia,22.0,0.0
-2020-02-26,Australia,22.0,0.0
-2020-02-27,Australia,23.0,0.0
-2020-02-28,Australia,23.0,0.0
-2020-02-29,Australia,25.0,0.0
+2020-10-16,New Zealand,1524.0,25.0
+2019-12-31,Australia,,
+2020-01-01,Australia,,
+2020-01-02,Australia,,
+2020-01-03,Australia,,
+2020-01-04,Australia,,
+2020-01-05,Australia,,
+2020-01-06,Australia,,
+2020-01-07,Australia,,
+2020-01-08,Australia,,
+2020-01-09,Australia,,
+2020-01-10,Australia,,
+2020-01-11,Australia,,
+2020-01-12,Australia,,
+2020-01-13,Australia,,
+2020-01-14,Australia,,
+2020-01-15,Australia,,
+2020-01-16,Australia,,
+2020-01-17,Australia,,
+2020-01-18,Australia,,
+2020-01-19,Australia,,
+2020-01-20,Australia,,
+2020-01-21,Australia,,
+2020-01-22,Australia,,
+2020-01-23,Australia,,
+2020-01-24,Australia,,
+2020-01-25,Australia,1.0,
+2020-01-26,Australia,4.0,
+2020-01-27,Australia,4.0,
+2020-01-28,Australia,4.0,
+2020-01-29,Australia,4.0,
+2020-01-30,Australia,6.0,
+2020-01-31,Australia,7.0,
+2020-02-01,Australia,9.0,
+2020-02-02,Australia,11.0,
+2020-02-03,Australia,11.0,
+2020-02-04,Australia,11.0,
+2020-02-05,Australia,12.0,
+2020-02-06,Australia,13.0,
+2020-02-07,Australia,14.0,
+2020-02-08,Australia,14.0,
+2020-02-09,Australia,14.0,
+2020-02-10,Australia,14.0,
+2020-02-11,Australia,14.0,
+2020-02-12,Australia,14.0,
+2020-02-13,Australia,14.0,
+2020-02-14,Australia,15.0,
+2020-02-15,Australia,15.0,
+2020-02-16,Australia,15.0,
+2020-02-17,Australia,15.0,
+2020-02-18,Australia,15.0,
+2020-02-19,Australia,15.0,
+2020-02-20,Australia,15.0,
+2020-02-21,Australia,17.0,
+2020-02-22,Australia,21.0,
+2020-02-23,Australia,22.0,
+2020-02-24,Australia,22.0,
+2020-02-25,Australia,22.0,
+2020-02-26,Australia,22.0,
+2020-02-27,Australia,23.0,
+2020-02-28,Australia,23.0,
+2020-02-29,Australia,25.0,
 2020-03-01,Australia,26.0,1.0
 2020-03-02,Australia,29.0,1.0
 2020-03-03,Australia,33.0,1.0
@@ -3301,3 +3679,4 @@ Fecha,Pais,Contagios,Muertos
 2020-10-13,Australia,27286.0,898.0
 2020-10-14,Australia,27317.0,899.0
 2020-10-15,Australia,27341.0,904.0
+2020-10-16,Australia,27362.0,904.0
