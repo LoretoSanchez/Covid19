@@ -27511,3 +27511,365 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2020-12-11,Magallanes,Timaukel,282,20,20,0,0
 2020-12-11,Magallanes,Torres del Paine,1021,4,3,0,1
 2020-12-11,Magallanes,Desconocido Magallanes,0,35,35,0,0
+2020-12-14,Arica y Parinacota,Arica,247552,10798,10654,0,144
+2020-12-14,Arica y Parinacota,Camarones,1233,28,28,0,0
+2020-12-14,Arica y Parinacota,General Lagos,810,64,64,0,0
+2020-12-14,Arica y Parinacota,Putre,2515,73,73,0,0
+2020-12-14,Arica y Parinacota,Desconocido Arica y Parinacota,0,44,40,0,4
+2020-12-14,Tarapacá,Alto Hospicio,129999,4753,4641,0,112
+2020-12-14,Tarapacá,Camina,1375,88,86,0,2
+2020-12-14,Tarapacá,Colchane,1583,109,109,0,0
+2020-12-14,Tarapacá,Huara,3000,211,201,0,10
+2020-12-14,Tarapacá,Iquique,223463,8848,8642,0,206
+2020-12-14,Tarapacá,Pica,5958,467,466,0,1
+2020-12-14,Tarapacá,Pozo Almonte,17395,1194,1179,0,15
+2020-12-14,Tarapacá,Desconocido Tarapaca,0,822,819,0,3
+2020-12-14,Antofagasta,Antofagasta,425725,13207,13002,0,205
+2020-12-14,Antofagasta,Calama,190336,7992,7969,0,23
+2020-12-14,Antofagasta,Maria Elena,6814,365,363,0,2
+2020-12-14,Antofagasta,Mejillones,14776,744,714,0,30
+2020-12-14,Antofagasta,Ollague,287,24,24,0,0
+2020-12-14,Antofagasta,San Pedro de Atacama,10434,384,382,0,2
+2020-12-14,Antofagasta,Sierra Gorda,1746,96,94,0,2
+2020-12-14,Antofagasta,Taltal,13657,232,223,0,9
+2020-12-14,Antofagasta,Tocopilla,28079,395,386,0,9
+2020-12-14,Antofagasta,Desconocido Antofagasta,0,344,342,0,2
+2020-12-14,Atacama,Alto del Carmen,5729,46,44,0,2
+2020-12-14,Atacama,Caldera,19426,337,330,0,7
+2020-12-14,Atacama,Chanaral,13164,197,197,0,0
+2020-12-14,Atacama,Copiapo,171766,4872,4850,0,22
+2020-12-14,Atacama,Diego de Almagro,14358,366,364,0,2
+2020-12-14,Atacama,Freirina,7681,198,198,0,0
+2020-12-14,Atacama,Huasco,11264,295,292,0,3
+2020-12-14,Atacama,Tierra Amarilla,14312,440,440,0,0
+2020-12-14,Atacama,Vallenar,57009,1588,1569,0,19
+2020-12-14,Atacama,Desconocido Atacama,0,43,43,0,0
+2020-12-14,Coquimbo,Andacollo,11791,197,197,0,0
+2020-12-14,Coquimbo,Canela,9546,117,116,0,1
+2020-12-14,Coquimbo,Combarbala,13884,136,133,0,3
+2020-12-14,Coquimbo,Coquimbo,256735,5226,5175,0,51
+2020-12-14,Coquimbo,Illapel,32801,537,537,0,0
+2020-12-14,Coquimbo,La Higuera,4450,104,104,0,0
+2020-12-14,Coquimbo,La Serena,249656,4209,4155,0,54
+2020-12-14,Coquimbo,Los Vilos,23374,355,352,0,3
+2020-12-14,Coquimbo,Monte Patria,32527,599,582,0,17
+2020-12-14,Coquimbo,Ovalle,121269,3212,3093,0,119
+2020-12-14,Coquimbo,Paiguano,4675,44,44,0,0
+2020-12-14,Coquimbo,Punitaqui,12165,262,255,0,7
+2020-12-14,Coquimbo,Rio Hurtado,4372,52,52,0,0
+2020-12-14,Coquimbo,Salamanca,29110,282,278,0,4
+2020-12-14,Coquimbo,Vicuna,29741,350,349,0,1
+2020-12-14,Coquimbo,Desconocido Coquimbo,0,149,149,0,0
+2020-12-14,Valparaíso,Algarrobo,15174,237,235,0,2
+2020-12-14,Valparaíso,Cabildo,20663,537,535,0,2
+2020-12-14,Valparaíso,Calera,53591,1625,1621,0,4
+2020-12-14,Valparaíso,Calle Larga,16482,432,424,0,8
+2020-12-14,Valparaíso,Cartagena,25357,397,393,0,4
+2020-12-14,Valparaíso,Casablanca,29170,663,644,0,19
+2020-12-14,Valparaíso,Catemu,15213,377,374,0,3
+2020-12-14,Valparaíso,Concon,45889,992,957,0,35
+2020-12-14,Valparaíso,El Quisco,17742,354,352,0,2
+2020-12-14,Valparaíso,El Tabo,14338,333,332,0,1
+2020-12-14,Valparaíso,Hijuelas,19099,398,393,0,5
+2020-12-14,Valparaíso,Isla de Pascua,8277,10,9,0,1
+2020-12-14,Valparaíso,Juan Fernandez,1033,1,1,0,0
+2020-12-14,Valparaíso,La Cruz,25321,501,497,0,4
+2020-12-14,Valparaíso,La Ligua,37739,1071,1057,0,14
+2020-12-14,Valparaíso,Limache,49931,1399,1385,0,14
+2020-12-14,Valparaíso,Llaillay,26533,671,666,0,5
+2020-12-14,Valparaíso,Los Andes,68093,1510,1500,0,10
+2020-12-14,Valparaíso,Nogales,23490,535,531,0,4
+2020-12-14,Valparaíso,Olmue,19266,386,380,0,6
+2020-12-14,Valparaíso,Panquehue,7633,138,137,0,1
+2020-12-14,Valparaíso,Papudo,6201,212,209,0,3
+2020-12-14,Valparaíso,Petorca,10558,204,199,0,5
+2020-12-14,Valparaíso,Puchuncavi,20071,276,272,0,4
+2020-12-14,Valparaíso,Putaendo,17645,364,364,0,0
+2020-12-14,Valparaíso,Quillota,97572,2697,2655,0,42
+2020-12-14,Valparaíso,Quilpue,167085,3940,3830,0,110
+2020-12-14,Valparaíso,Quintero,36135,748,739,0,9
+2020-12-14,Valparaíso,Rinconada,11263,205,205,0,0
+2020-12-14,Valparaíso,San Antonio,96761,1916,1906,0,10
+2020-12-14,Valparaíso,San Esteban,20643,378,372,0,6
+2020-12-14,Valparaíso,San Felipe,83494,1981,1952,0,29
+2020-12-14,Valparaíso,Santa Maria,16367,386,378,0,8
+2020-12-14,Valparaíso,Santo Domingo,11934,213,212,0,1
+2020-12-14,Valparaíso,Valparaiso,315732,9212,9029,0,183
+2020-12-14,Valparaíso,Villa Alemana,139310,3484,3430,0,54
+2020-12-14,Valparaíso,Vina del Mar,361371,8713,8493,0,220
+2020-12-14,Valparaíso,Zapallar,7994,162,160,0,2
+2020-12-14,Valparaíso,Desconocido Valparaiso,0,439,430,0,9
+2020-12-14,Metropolitana,Alhue,7405,412,411,0,1
+2020-12-14,Metropolitana,Buin,109641,3447,3397,0,50
+2020-12-14,Metropolitana,Calera de Tango,28525,744,732,0,12
+2020-12-14,Metropolitana,Cerrillos,88956,3681,3651,0,30
+2020-12-14,Metropolitana,Cerro Navia,142465,7919,7865,0,54
+2020-12-14,Metropolitana,Colina,180353,5556,5510,0,46
+2020-12-14,Metropolitana,Conchali,139195,7365,7299,0,66
+2020-12-14,Metropolitana,Curacavi,36430,1257,1222,0,35
+2020-12-14,Metropolitana,El Bosque,172000,7884,7796,0,88
+2020-12-14,Metropolitana,El Monte,40014,1481,1475,0,6
+2020-12-14,Metropolitana,Estacion Central,206792,7399,7319,0,80
+2020-12-14,Metropolitana,Huechuraba,112528,4697,4664,0,33
+2020-12-14,Metropolitana,Independencia,142065,7530,7480,0,50
+2020-12-14,Metropolitana,Isla de Maipo,40171,1563,1549,0,14
+2020-12-14,Metropolitana,La Cisterna,100434,4050,4026,0,24
+2020-12-14,Metropolitana,La Florida,402433,16667,16511,0,156
+2020-12-14,Metropolitana,La Granja,122557,8148,8117,0,31
+2020-12-14,Metropolitana,La Pintana,189335,12333,12266,0,67
+2020-12-14,Metropolitana,La Reina,100252,2826,2788,0,38
+2020-12-14,Metropolitana,Lampa,126898,4235,4210,0,25
+2020-12-14,Metropolitana,Las Condes,330759,7956,7824,0,132
+2020-12-14,Metropolitana,Lo Barnechea,124076,4200,4148,0,52
+2020-12-14,Metropolitana,Lo Espejo,103865,5246,5204,0,42
+2020-12-14,Metropolitana,Lo Prado,104403,5929,5888,0,41
+2020-12-14,Metropolitana,Macul,134635,6000,5928,0,72
+2020-12-14,Metropolitana,Maipu,578605,18722,18523,0,199
+2020-12-14,Metropolitana,Maria Pinto,14926,458,442,0,16
+2020-12-14,Metropolitana,Melipilla,141612,5020,4958,0,62
+2020-12-14,Metropolitana,Nunoa,250192,6951,6835,0,116
+2020-12-14,Metropolitana,Padre Hurtado,74188,2671,2649,0,22
+2020-12-14,Metropolitana,Paine,82766,2750,2729,0,21
+2020-12-14,Metropolitana,Pedro Aguirre Cerda,107803,5172,5135,0,37
+2020-12-14,Metropolitana,Penaflor,101058,3575,3545,0,30
+2020-12-14,Metropolitana,Penalolen,266798,13368,13265,0,103
+2020-12-14,Metropolitana,Pirque,30433,1299,1282,0,17
+2020-12-14,Metropolitana,Providencia,157749,4123,4062,0,61
+2020-12-14,Metropolitana,Pudahuel,253139,11901,11760,0,141
+2020-12-14,Metropolitana,Puente Alto,645909,29202,28891,0,311
+2020-12-14,Metropolitana,Quilicura,254694,10603,10539,0,64
+2020-12-14,Metropolitana,Quinta Normal,136368,7235,7180,0,55
+2020-12-14,Metropolitana,Recoleta,190075,9761,9689,0,72
+2020-12-14,Metropolitana,Renca,160847,10668,10573,0,95
+2020-12-14,Metropolitana,San Bernardo,334836,13689,13591,0,98
+2020-12-14,Metropolitana,San Joaquin,103485,5931,5887,0,44
+2020-12-14,Metropolitana,San Jose de Maipo,18644,804,798,0,6
+2020-12-14,Metropolitana,San Miguel,133059,6437,6369,0,68
+2020-12-14,Metropolitana,San Pedro,11953,314,311,0,3
+2020-12-14,Metropolitana,San Ramon,86510,5215,5186,0,29
+2020-12-14,Metropolitana,Santiago,503147,18020,17810,0,210
+2020-12-14,Metropolitana,Talagante,81838,2203,2183,0,20
+2020-12-14,Metropolitana,Tiltil,21477,709,692,0,17
+2020-12-14,Metropolitana,Vitacura,96774,2024,1981,0,43
+2020-12-14,Metropolitana,Desconocido Metropolitana,0,11203,11127,0,76
+2020-12-14,O’Higgins,Chepica,15925,304,300,0,4
+2020-12-14,O’Higgins,Chimbarongo,37696,442,437,0,5
+2020-12-14,O’Higgins,Codegua,14096,414,407,0,7
+2020-12-14,O’Higgins,Coinco,7831,209,198,0,11
+2020-12-14,O’Higgins,Coltauco,21263,627,593,0,34
+2020-12-14,O’Higgins,Donihue,22700,823,797,0,26
+2020-12-14,O’Higgins,Graneros,36504,948,939,0,9
+2020-12-14,O’Higgins,La Estrella,3114,52,52,0,0
+2020-12-14,O’Higgins,Las Cabras,26749,730,721,0,9
+2020-12-14,O’Higgins,Litueche,6765,106,105,0,1
+2020-12-14,O’Higgins,Lolol,7289,116,113,0,3
+2020-12-14,O’Higgins,Machali,59913,1439,1420,0,19
+2020-12-14,O’Higgins,Malloa,14163,336,330,0,6
+2020-12-14,O’Higgins,Marchihue,7632,100,92,0,8
+2020-12-14,O’Higgins,Mostazal,27462,512,511,0,1
+2020-12-14,O’Higgins,Nancagua,19141,253,251,0,2
+2020-12-14,O’Higgins,Navidad,6904,85,85,0,0
+2020-12-14,O’Higgins,Olivar,14624,411,407,0,4
+2020-12-14,O’Higgins,Palmilla,13299,231,228,0,3
+2020-12-14,O’Higgins,Paredones,6349,85,85,0,0
+2020-12-14,O’Higgins,Peralillo,11848,154,153,0,1
+2020-12-14,O’Higgins,Peumo,14952,373,372,0,1
+2020-12-14,O’Higgins,Pichidegua,20743,751,748,0,3
+2020-12-14,O’Higgins,Pichilemu,17882,148,147,0,1
+2020-12-14,O’Higgins,Placilla,9164,166,165,0,1
+2020-12-14,O’Higgins,Pumanque,3531,26,26,0,0
+2020-12-14,O’Higgins,Quinta de Tilcoco,13877,198,196,0,2
+2020-12-14,O’Higgins,Rancagua,265211,9345,9205,0,140
+2020-12-14,O’Higgins,Rengo,63710,1711,1688,0,23
+2020-12-14,O’Higgins,Requinoa,30371,646,633,0,13
+2020-12-14,O’Higgins,San Fernando,78642,1789,1750,0,39
+2020-12-14,O’Higgins,San Vicente,50617,1223,1215,0,8
+2020-12-14,O’Higgins,Santa Cruz,41096,758,743,0,15
+2020-12-14,O’Higgins,Desconocido O’Higgins,0,68,67,0,1
+2020-12-14,Maule,Cauquenes,44143,582,577,0,5
+2020-12-14,Maule,Chanco,9331,159,150,0,9
+2020-12-14,Maule,Colbun,22565,452,451,0,1
+2020-12-14,Maule,Constitucion,50348,702,666,0,36
+2020-12-14,Maule,Curepto,9426,179,167,0,12
+2020-12-14,Maule,Curico,163626,3928,3728,0,200
+2020-12-14,Maule,Empedrado,4206,66,62,0,4
+2020-12-14,Maule,Hualane,10222,144,143,0,1
+2020-12-14,Maule,Licanten,6989,161,160,0,1
+2020-12-14,Maule,Linares,101073,1710,1665,0,45
+2020-12-14,Maule,Longavi,32810,668,663,0,5
+2020-12-14,Maule,Maule,60000,1274,1242,0,32
+2020-12-14,Maule,Molina,49800,902,879,0,23
+2020-12-14,Maule,Parral,44544,876,848,0,28
+2020-12-14,Maule,Pelarco,9083,178,176,0,2
+2020-12-14,Maule,Pelluhue,8092,132,132,0,0
+2020-12-14,Maule,Pencahue,8601,158,155,0,3
+2020-12-14,Maule,Rauco,11248,243,240,0,3
+2020-12-14,Maule,Retiro,21071,378,374,0,4
+2020-12-14,Maule,Rio Claro,14753,258,253,0,5
+2020-12-14,Maule,Romeral,16170,429,392,0,37
+2020-12-14,Maule,Sagrada Familia,19469,246,235,0,11
+2020-12-14,Maule,San Clemente,46292,1152,1113,0,39
+2020-12-14,Maule,San Javier,49451,1223,1152,0,71
+2020-12-14,Maule,San Rafael,9959,313,311,0,2
+2020-12-14,Maule,Talca,236724,5407,5258,0,149
+2020-12-14,Maule,Teno,30850,667,651,0,16
+2020-12-14,Maule,Vichuquen,4381,23,19,0,4
+2020-12-14,Maule,Villa Alegre,17512,299,289,0,10
+2020-12-14,Maule,Yerbas Buenas,19200,337,326,0,11
+2020-12-14,Maule,Desconocido Maule,0,11,9,0,2
+2020-12-14,Ñuble,Bulnes,22607,904,891,0,13
+2020-12-14,Ñuble,Chillan,198624,6068,5744,0,324
+2020-12-14,Ñuble,Chillan Viejo,33827,794,764,0,30
+2020-12-14,Ñuble,Cobquecura,5275,57,54,0,3
+2020-12-14,Ñuble,Coelemu,16845,255,253,0,2
+2020-12-14,Ñuble,Coihueco,28375,728,704,0,24
+2020-12-14,Ñuble,El Carmen,12334,265,257,0,8
+2020-12-14,Ñuble,Ninhue,5414,120,95,0,25
+2020-12-14,Ñuble,Niquen,11567,192,192,0,0
+2020-12-14,Ñuble,Pemuco,8639,183,175,0,8
+2020-12-14,Ñuble,Pinto,11880,186,181,0,5
+2020-12-14,Ñuble,Portezuelo,4940,65,62,0,3
+2020-12-14,Ñuble,Quillon,18777,534,518,0,16
+2020-12-14,Ñuble,Quirihue,12192,296,295,0,1
+2020-12-14,Ñuble,Ranquil,6261,130,129,0,1
+2020-12-14,Ñuble,San Carlos,56252,909,894,0,15
+2020-12-14,Ñuble,San Fabian,4654,49,48,0,1
+2020-12-14,Ñuble,San Ignacio,16624,295,283,0,12
+2020-12-14,Ñuble,San Nicolas,12172,277,268,0,9
+2020-12-14,Ñuble,Treguaco,5696,97,97,0,0
+2020-12-14,Ñuble,Yungay,18596,287,267,0,20
+2020-12-14,Ñuble,Desconocido Nuble,0,4,3,0,1
+2020-12-14,Biobío,Alto Biobio,6775,220,191,0,29
+2020-12-14,Biobío,Antuco,4306,94,93,0,1
+2020-12-14,Biobío,Arauco,38679,1501,1383,0,118
+2020-12-14,Biobío,Cabrero,30725,654,612,0,42
+2020-12-14,Biobío,Canete,37003,1120,1032,0,88
+2020-12-14,Biobío,Chiguayante,91180,2876,2726,0,150
+2020-12-14,Biobío,Concepcion,238092,7361,6961,0,400
+2020-12-14,Biobío,Contulmo,6330,115,107,0,8
+2020-12-14,Biobío,Coronel,125829,4874,4618,0,256
+2020-12-14,Biobío,Curanilahue,33892,1284,1195,0,89
+2020-12-14,Biobío,Florida,11841,285,266,0,19
+2020-12-14,Biobío,Hualpen,97273,3051,2927,0,124
+2020-12-14,Biobío,Hualqui,26201,744,707,0,37
+2020-12-14,Biobío,Laja,23873,448,433,0,15
+2020-12-14,Biobío,Lebu,27100,559,529,0,30
+2020-12-14,Biobío,Los Alamos,22524,593,575,0,18
+2020-12-14,Biobío,Los Angeles,218515,4085,3722,0,363
+2020-12-14,Biobío,Lota,45750,1894,1759,0,135
+2020-12-14,Biobío,Mulchen,31041,554,540,0,14
+2020-12-14,Biobío,Nacimiento,27944,573,534,0,39
+2020-12-14,Biobío,Negrete,10429,327,302,0,25
+2020-12-14,Biobío,Penco,49865,1771,1681,0,90
+2020-12-14,Biobío,Quilaco,4179,71,67,0,4
+2020-12-14,Biobío,Quilleco,10032,132,130,0,2
+2020-12-14,Biobío,San Pedro de la Paz,145906,3956,3778,0,178
+2020-12-14,Biobío,San Rosendo,3611,60,54,0,6
+2020-12-14,Biobío,Santa Barbara,14592,261,254,0,7
+2020-12-14,Biobío,Santa Juana,14779,321,314,0,7
+2020-12-14,Biobío,Talcahuano,158345,5024,4773,0,251
+2020-12-14,Biobío,Tirua,11019,202,142,0,60
+2020-12-14,Biobío,Tome,58729,1917,1857,0,60
+2020-12-14,Biobío,Tucapel,15205,267,266,0,1
+2020-12-14,Biobío,Yumbel,22132,620,565,0,55
+2020-12-14,Biobío,Desconocido Biobio,0,202,194,0,8
+2020-12-14,Araucanía,Angol,56058,1509,1384,0,125
+2020-12-14,Araucanía,Carahue,25486,736,714,0,22
+2020-12-14,Araucanía,Cholchol,12341,310,292,0,18
+2020-12-14,Araucanía,Collipulli,26148,652,640,0,12
+2020-12-14,Araucanía,Cunco,18055,311,302,0,9
+2020-12-14,Araucanía,Curacautin,18178,146,140,0,6
+2020-12-14,Araucanía,Curarrehue,7802,122,105,0,17
+2020-12-14,Araucanía,Ercilla,8458,309,301,0,8
+2020-12-14,Araucanía,Freire,25446,480,469,0,11
+2020-12-14,Araucanía,Galvarino,12633,498,468,0,30
+2020-12-14,Araucanía,Gorbea,15148,234,210,0,24
+2020-12-14,Araucanía,Lautaro,40746,966,887,0,79
+2020-12-14,Araucanía,Loncoche,24739,358,342,0,16
+2020-12-14,Araucanía,Lonquimay,11049,206,195,0,11
+2020-12-14,Araucanía,Los Sauces,7517,216,202,0,14
+2020-12-14,Araucanía,Lumaco,10050,185,167,0,18
+2020-12-14,Araucanía,Melipeuco,6265,82,81,0,1
+2020-12-14,Araucanía,Nueva Imperial,33777,523,510,0,13
+2020-12-14,Araucanía,Padre Las Casas,82110,1741,1647,0,94
+2020-12-14,Araucanía,Perquenco,7223,263,248,0,15
+2020-12-14,Araucanía,Pitrufquen,26096,344,324,0,20
+2020-12-14,Araucanía,Pucon,29782,340,315,0,25
+2020-12-14,Araucanía,Puren,12188,140,129,0,11
+2020-12-14,Araucanía,Renaico,10833,253,242,0,11
+2020-12-14,Araucanía,Saavedra,12793,328,321,0,7
+2020-12-14,Araucanía,Temuco,302931,6636,6366,0,270
+2020-12-14,Araucanía,Teodoro Schmidt,15786,286,286,0,0
+2020-12-14,Araucanía,Tolten,10055,132,127,0,5
+2020-12-14,Araucanía,Traiguen,19314,229,214,0,15
+2020-12-14,Araucanía,Victoria,35467,571,546,0,25
+2020-12-14,Araucanía,Vilcun,30766,527,493,0,34
+2020-12-14,Araucanía,Villarrica,59103,976,934,0,42
+2020-12-14,Araucanía,Desconocido Araucania,0,10,5,0,5
+2020-12-14,Los Ríos,Corral,5447,95,95,0,0
+2020-12-14,Los Ríos,Futrono,15261,276,270,0,6
+2020-12-14,Los Ríos,La Union,39538,835,781,0,54
+2020-12-14,Los Ríos,Lago Ranco,10292,205,198,0,7
+2020-12-14,Los Ríos,Lanco,17652,361,310,0,51
+2020-12-14,Los Ríos,Los Lagos,20518,351,340,0,11
+2020-12-14,Los Ríos,Mafil,7389,95,90,0,5
+2020-12-14,Los Ríos,Mariquina,23250,254,201,0,53
+2020-12-14,Los Ríos,Paillaco,20798,331,311,0,20
+2020-12-14,Los Ríos,Panguipulli,35991,539,529,0,10
+2020-12-14,Los Ríos,Rio Bueno,32925,540,497,0,43
+2020-12-14,Los Ríos,Valdivia,176774,3826,3446,0,380
+2020-12-14,Los Ríos,Desconocido Los Rios,0,10,9,0,1
+2020-12-14,Los Lagos,Ancud,42458,736,675,0,61
+2020-12-14,Los Lagos,Calbuco,36744,1329,1264,0,65
+2020-12-14,Los Lagos,Castro,47607,671,619,0,52
+2020-12-14,Los Lagos,Chaiten,5020,17,17,0,0
+2020-12-14,Los Lagos,Chonchi,16013,482,457,0,25
+2020-12-14,Los Lagos,Cochamo,4006,65,65,0,0
+2020-12-14,Los Lagos,Curaco de Velez,4066,57,44,0,13
+2020-12-14,Los Lagos,Dalcahue,15069,246,214,0,32
+2020-12-14,Los Lagos,Fresia,12656,344,313,0,31
+2020-12-14,Los Lagos,Frutillar,20223,690,663,0,27
+2020-12-14,Los Lagos,Futaleufu,2806,5,5,0,0
+2020-12-14,Los Lagos,Hualaihue,9525,331,331,0,0
+2020-12-14,Los Lagos,Llanquihue,18621,515,495,0,20
+2020-12-14,Los Lagos,Los Muermos,17817,602,582,0,20
+2020-12-14,Los Lagos,Maullin,14894,876,840,0,36
+2020-12-14,Los Lagos,Osorno,173410,4611,4461,0,150
+2020-12-14,Los Lagos,Palena,1827,2,1,0,1
+2020-12-14,Los Lagos,Puerto Montt,269398,8716,8329,0,387
+2020-12-14,Los Lagos,Puerto Octay,9192,259,256,0,3
+2020-12-14,Los Lagos,Puerto Varas,48620,975,920,0,55
+2020-12-14,Los Lagos,Puqueldon,4201,99,95,0,4
+2020-12-14,Los Lagos,Purranque,21080,687,648,0,39
+2020-12-14,Los Lagos,Puyehue,11787,222,217,0,5
+2020-12-14,Los Lagos,Queilen,5543,129,125,0,4
+2020-12-14,Los Lagos,Quellon,29309,197,164,0,33
+2020-12-14,Los Lagos,Quemchi,8783,190,181,0,9
+2020-12-14,Los Lagos,Quinchao,8298,122,103,0,19
+2020-12-14,Los Lagos,Rio Negro,14275,406,397,0,9
+2020-12-14,Los Lagos,San Juan de la Costa,7639,451,444,0,7
+2020-12-14,Los Lagos,San Pablo,10553,208,197,0,11
+2020-12-14,Los Lagos,Desconocido Los Lagos,0,69,66,0,3
+2020-12-14,Aysén,Aysen,25002,162,158,0,4
+2020-12-14,Aysén,Chile Chico,5121,42,42,0,0
+2020-12-14,Aysén,Cisnes,5828,73,64,0,9
+2020-12-14,Aysén,Cochrane,3685,5,5,0,0
+2020-12-14,Aysén,Coyhaique,61210,1161,1127,0,34
+2020-12-14,Aysén,Guaitecas,1599,3,3,0,0
+2020-12-14,Aysén,Lago Verde,920,0,0,0,0
+2020-12-14,Aysén,OHiggins,661,4,3,0,1
+2020-12-14,Aysén,Rio Ibanez,2699,8,8,0,0
+2020-12-14,Aysén,Tortel,572,0,0,0,0
+2020-12-14,Aysén,Desconocido Aysen,0,1,1,0,0
+2020-12-14,Magallanes,Antartica,137,0,0,0,0
+2020-12-14,Magallanes,Cabo de Hornos,1983,200,144,0,56
+2020-12-14,Magallanes,Laguna Blanca,264,9,9,0,0
+2020-12-14,Magallanes,Natales,23782,2494,2357,0,137
+2020-12-14,Magallanes,Porvenir,7323,578,564,0,14
+2020-12-14,Magallanes,Primavera,694,28,24,0,4
+2020-12-14,Magallanes,Punta Arenas,141984,13763,13340,0,423
+2020-12-14,Magallanes,Rio Verde,211,3,3,0,0
+2020-12-14,Magallanes,San Gregorio,681,30,29,0,1
+2020-12-14,Magallanes,Timaukel,282,20,20,0,0
+2020-12-14,Magallanes,Torres del Paine,1021,4,3,0,1
+2020-12-14,Magallanes,Desconocido Magallanes,0,36,35,0,1
