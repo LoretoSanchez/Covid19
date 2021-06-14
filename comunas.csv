@@ -45973,3 +45973,365 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2021-06-07,Magallanes,Timaukel,282,42,42,0,0
 2021-06-07,Magallanes,Torres del Paine,1021,19,18,0,1
 2021-06-07,Magallanes,Desconocido Magallanes,0,64,58,0,6
+2021-06-11,Arica y Parinacota,Arica,247552,26258,25452,0,806
+2021-06-11,Arica y Parinacota,Camarones,1233,61,60,0,1
+2021-06-11,Arica y Parinacota,General Lagos,810,79,79,0,0
+2021-06-11,Arica y Parinacota,Putre,2515,176,175,0,1
+2021-06-11,Arica y Parinacota,Desconocido Arica y Parinacota,0,193,173,0,20
+2021-06-11,Tarapacá,Alto Hospicio,129999,14180,13904,0,276
+2021-06-11,Tarapacá,Camina,1375,194,187,0,7
+2021-06-11,Tarapacá,Colchane,1583,141,139,0,2
+2021-06-11,Tarapacá,Huara,3000,416,402,0,14
+2021-06-11,Tarapacá,Iquique,223463,27022,26578,0,444
+2021-06-11,Tarapacá,Pica,5958,936,909,0,27
+2021-06-11,Tarapacá,Pozo Almonte,17395,2135,2095,0,40
+2021-06-11,Tarapacá,Desconocido Tarapaca,0,979,963,0,16
+2021-06-11,Antofagasta,Antofagasta,425725,36437,35786,0,651
+2021-06-11,Antofagasta,Calama,190336,16418,15957,0,461
+2021-06-11,Antofagasta,Maria Elena,6814,631,627,0,4
+2021-06-11,Antofagasta,Mejillones,14776,1833,1811,0,22
+2021-06-11,Antofagasta,Ollague,287,32,32,0,0
+2021-06-11,Antofagasta,San Pedro de Atacama,10434,877,857,0,20
+2021-06-11,Antofagasta,Sierra Gorda,1746,156,153,0,3
+2021-06-11,Antofagasta,Taltal,13657,815,792,0,23
+2021-06-11,Antofagasta,Tocopilla,28079,1824,1779,0,45
+2021-06-11,Antofagasta,Desconocido Antofagasta,0,694,656,0,38
+2021-06-11,Atacama,Alto del Carmen,5729,220,217,0,3
+2021-06-11,Atacama,Caldera,19426,1334,1296,0,38
+2021-06-11,Atacama,Chanaral,13164,803,783,0,20
+2021-06-11,Atacama,Copiapo,171766,13376,12944,0,432
+2021-06-11,Atacama,Diego de Almagro,14358,1095,1048,0,47
+2021-06-11,Atacama,Freirina,7681,592,579,0,13
+2021-06-11,Atacama,Huasco,11264,713,692,0,21
+2021-06-11,Atacama,Tierra Amarilla,14312,1217,1174,0,43
+2021-06-11,Atacama,Vallenar,57009,4357,4177,0,180
+2021-06-11,Atacama,Desconocido Atacama,0,90,85,0,5
+2021-06-11,Coquimbo,Andacollo,11791,482,473,0,9
+2021-06-11,Coquimbo,Canela,9546,415,407,0,8
+2021-06-11,Coquimbo,Combarbala,13884,591,544,0,47
+2021-06-11,Coquimbo,Coquimbo,256735,14406,13870,0,536
+2021-06-11,Coquimbo,Illapel,32801,1851,1756,0,95
+2021-06-11,Coquimbo,La Higuera,4450,324,306,0,18
+2021-06-11,Coquimbo,La Serena,249656,14281,13735,0,546
+2021-06-11,Coquimbo,Los Vilos,23374,1645,1552,0,93
+2021-06-11,Coquimbo,Monte Patria,32527,1629,1560,0,69
+2021-06-11,Coquimbo,Ovalle,121269,8055,7710,0,345
+2021-06-11,Coquimbo,Paiguano,4675,239,218,0,21
+2021-06-11,Coquimbo,Punitaqui,12165,817,747,0,70
+2021-06-11,Coquimbo,Rio Hurtado,4372,201,193,0,8
+2021-06-11,Coquimbo,Salamanca,29110,1524,1427,0,97
+2021-06-11,Coquimbo,Vicuna,29741,1472,1330,0,142
+2021-06-11,Coquimbo,Desconocido Coquimbo,0,267,260,0,7
+2021-06-11,Valparaíso,Algarrobo,15174,978,935,0,43
+2021-06-11,Valparaíso,Cabildo,20663,1280,1229,0,51
+2021-06-11,Valparaíso,Calera,53591,4411,4226,0,185
+2021-06-11,Valparaíso,Calle Larga,16482,1122,1052,0,70
+2021-06-11,Valparaíso,Cartagena,25357,1811,1677,0,134
+2021-06-11,Valparaíso,Casablanca,29170,2078,1996,0,82
+2021-06-11,Valparaíso,Catemu,15213,950,928,0,22
+2021-06-11,Valparaíso,Concon,45889,3057,2949,0,108
+2021-06-11,Valparaíso,El Quisco,17742,1102,1019,0,83
+2021-06-11,Valparaíso,El Tabo,14338,1054,989,0,65
+2021-06-11,Valparaíso,Hijuelas,19099,1245,1217,0,28
+2021-06-11,Valparaíso,Isla de Pascua,8277,10,10,0,0
+2021-06-11,Valparaíso,Juan Fernandez,1033,1,1,0,0
+2021-06-11,Valparaíso,La Cruz,25321,1616,1552,0,64
+2021-06-11,Valparaíso,La Ligua,37739,2649,2565,0,84
+2021-06-11,Valparaíso,Limache,49931,3625,3483,0,142
+2021-06-11,Valparaíso,Llaillay,26533,1636,1565,0,71
+2021-06-11,Valparaíso,Los Andes,68093,4879,4530,0,349
+2021-06-11,Valparaíso,Nogales,23490,1609,1533,0,76
+2021-06-11,Valparaíso,Olmue,19266,1205,1151,0,54
+2021-06-11,Valparaíso,Panquehue,7633,462,433,0,29
+2021-06-11,Valparaíso,Papudo,6201,450,442,0,8
+2021-06-11,Valparaíso,Petorca,10558,537,506,0,31
+2021-06-11,Valparaíso,Puchuncavi,20071,1215,1153,0,62
+2021-06-11,Valparaíso,Putaendo,17645,961,907,0,54
+2021-06-11,Valparaíso,Quillota,97572,7306,7050,0,256
+2021-06-11,Valparaíso,Quilpue,167085,11481,11120,0,361
+2021-06-11,Valparaíso,Quintero,36135,2468,2375,0,93
+2021-06-11,Valparaíso,Rinconada,11263,613,560,0,53
+2021-06-11,Valparaíso,San Antonio,96761,7107,6751,0,356
+2021-06-11,Valparaíso,San Esteban,20643,1149,1053,0,96
+2021-06-11,Valparaíso,San Felipe,83494,5537,5230,0,307
+2021-06-11,Valparaíso,Santa Maria,16367,1102,1050,0,52
+2021-06-11,Valparaíso,Santo Domingo,11934,715,674,0,41
+2021-06-11,Valparaíso,Valparaiso,315732,29875,29104,0,771
+2021-06-11,Valparaíso,Villa Alemana,139310,10077,9783,0,294
+2021-06-11,Valparaíso,Vina del Mar,361371,28485,27761,0,724
+2021-06-11,Valparaíso,Zapallar,7994,496,465,0,31
+2021-06-11,Valparaíso,Desconocido Valparaiso,0,1352,1109,0,243
+2021-06-11,Metropolitana,Alhue,7405,710,682,0,28
+2021-06-11,Metropolitana,Buin,109641,9074,8498,0,576
+2021-06-11,Metropolitana,Calera de Tango,28525,2062,1964,0,98
+2021-06-11,Metropolitana,Cerrillos,88956,7467,7136,0,331
+2021-06-11,Metropolitana,Cerro Navia,142465,16258,15643,0,615
+2021-06-11,Metropolitana,Colina,180353,13077,12275,0,802
+2021-06-11,Metropolitana,Conchali,139195,13256,12873,0,383
+2021-06-11,Metropolitana,Curacavi,36430,3226,3021,0,205
+2021-06-11,Metropolitana,El Bosque,172000,19037,18212,0,825
+2021-06-11,Metropolitana,El Monte,40014,3587,3379,0,208
+2021-06-11,Metropolitana,Estacion Central,206792,16357,15705,0,652
+2021-06-11,Metropolitana,Huechuraba,112528,8855,8514,0,341
+2021-06-11,Metropolitana,Independencia,142065,13390,12950,0,440
+2021-06-11,Metropolitana,Isla de Maipo,40171,3675,3488,0,187
+2021-06-11,Metropolitana,La Cisterna,100434,9134,8755,0,379
+2021-06-11,Metropolitana,La Florida,402433,38058,36739,0,1319
+2021-06-11,Metropolitana,La Granja,122557,15415,14851,0,564
+2021-06-11,Metropolitana,La Pintana,189335,23781,22941,0,840
+2021-06-11,Metropolitana,La Reina,100252,6232,5951,0,281
+2021-06-11,Metropolitana,Lampa,126898,9373,8973,0,400
+2021-06-11,Metropolitana,Las Condes,330759,16963,16324,0,639
+2021-06-11,Metropolitana,Lo Barnechea,124076,8515,8190,0,325
+2021-06-11,Metropolitana,Lo Espejo,103865,10006,9675,0,331
+2021-06-11,Metropolitana,Lo Prado,104403,12509,11891,0,618
+2021-06-11,Metropolitana,Macul,134635,12348,11893,0,455
+2021-06-11,Metropolitana,Maipu,578605,41595,39807,0,1788
+2021-06-11,Metropolitana,Maria Pinto,14926,1360,1269,0,91
+2021-06-11,Metropolitana,Melipilla,141612,11048,10606,0,442
+2021-06-11,Metropolitana,Nunoa,250192,15161,14607,0,554
+2021-06-11,Metropolitana,Padre Hurtado,74188,6915,6578,0,337
+2021-06-11,Metropolitana,Paine,82766,6526,6153,0,373
+2021-06-11,Metropolitana,Pedro Aguirre Cerda,107803,11399,10909,0,490
+2021-06-11,Metropolitana,Penaflor,101058,7965,7605,0,360
+2021-06-11,Metropolitana,Penalolen,266798,28487,27210,0,1277
+2021-06-11,Metropolitana,Pirque,30433,2963,2828,0,135
+2021-06-11,Metropolitana,Providencia,157749,8727,8436,0,291
+2021-06-11,Metropolitana,Pudahuel,253139,25583,24615,0,968
+2021-06-11,Metropolitana,Puente Alto,645909,65663,63381,0,2282
+2021-06-11,Metropolitana,Quilicura,254694,20099,19395,0,704
+2021-06-11,Metropolitana,Quinta Normal,136368,14449,13916,0,533
+2021-06-11,Metropolitana,Recoleta,190075,17350,16822,0,528
+2021-06-11,Metropolitana,Renca,160847,21825,20932,0,893
+2021-06-11,Metropolitana,San Bernardo,334836,31685,30565,0,1120
+2021-06-11,Metropolitana,San Joaquin,103485,12026,11553,0,473
+2021-06-11,Metropolitana,San Jose de Maipo,18644,1641,1575,0,66
+2021-06-11,Metropolitana,San Miguel,133059,13984,13454,0,530
+2021-06-11,Metropolitana,San Pedro,11953,908,872,0,36
+2021-06-11,Metropolitana,San Ramon,86510,10122,9769,0,353
+2021-06-11,Metropolitana,Santiago,503147,39392,37833,0,1559
+2021-06-11,Metropolitana,Talagante,81838,4813,4626,0,187
+2021-06-11,Metropolitana,Tiltil,21477,1577,1512,0,65
+2021-06-11,Metropolitana,Vitacura,96774,4679,4488,0,191
+2021-06-11,Metropolitana,Desconocido Metropolitana,0,15324,14186,0,1138
+2021-06-11,O’Higgins,Chepica,15925,1038,992,0,46
+2021-06-11,O’Higgins,Chimbarongo,37696,2038,1958,0,80
+2021-06-11,O’Higgins,Codegua,14096,1011,957,0,54
+2021-06-11,O’Higgins,Coinco,7831,513,492,0,21
+2021-06-11,O’Higgins,Coltauco,21263,1399,1356,0,43
+2021-06-11,O’Higgins,Donihue,22700,1679,1616,0,63
+2021-06-11,O’Higgins,Graneros,36504,2885,2765,0,120
+2021-06-11,O’Higgins,La Estrella,3114,166,166,0,0
+2021-06-11,O’Higgins,Las Cabras,26749,2299,2223,0,76
+2021-06-11,O’Higgins,Litueche,6765,502,470,0,32
+2021-06-11,O’Higgins,Lolol,7289,266,252,0,14
+2021-06-11,O’Higgins,Machali,59913,3522,3342,0,180
+2021-06-11,O’Higgins,Malloa,14163,1053,995,0,58
+2021-06-11,O’Higgins,Marchihue,7632,474,450,0,24
+2021-06-11,O’Higgins,Mostazal,27462,1774,1647,0,127
+2021-06-11,O’Higgins,Nancagua,19141,1357,1322,0,35
+2021-06-11,O’Higgins,Navidad,6904,395,362,0,33
+2021-06-11,O’Higgins,Olivar,14624,1348,1295,0,53
+2021-06-11,O’Higgins,Palmilla,13299,853,842,0,11
+2021-06-11,O’Higgins,Paredones,6349,434,418,0,16
+2021-06-11,O’Higgins,Peralillo,11848,853,823,0,30
+2021-06-11,O’Higgins,Peumo,14952,1127,1067,0,60
+2021-06-11,O’Higgins,Pichidegua,20743,1656,1605,0,51
+2021-06-11,O’Higgins,Pichilemu,17882,1040,996,0,44
+2021-06-11,O’Higgins,Placilla,9164,699,673,0,26
+2021-06-11,O’Higgins,Pumanque,3531,218,202,0,16
+2021-06-11,O’Higgins,Quinta de Tilcoco,13877,784,758,0,26
+2021-06-11,O’Higgins,Rancagua,265211,22498,21435,0,1063
+2021-06-11,O’Higgins,Rengo,63710,5239,5014,0,225
+2021-06-11,O’Higgins,Requinoa,30371,2205,2140,0,65
+2021-06-11,O’Higgins,San Fernando,78642,6479,6331,0,148
+2021-06-11,O’Higgins,San Vicente,50617,3872,3775,0,97
+2021-06-11,O’Higgins,Santa Cruz,41096,2365,2292,0,73
+2021-06-11,O’Higgins,Desconocido O’Higgins,0,355,326,0,29
+2021-06-11,Maule,Cauquenes,44143,2238,2144,0,94
+2021-06-11,Maule,Chanco,9331,478,467,0,11
+2021-06-11,Maule,Colbun,22565,2026,1935,0,91
+2021-06-11,Maule,Constitucion,50348,4399,4290,0,109
+2021-06-11,Maule,Curepto,9426,589,546,0,43
+2021-06-11,Maule,Curico,163626,18610,18121,0,489
+2021-06-11,Maule,Empedrado,4206,311,305,0,6
+2021-06-11,Maule,Hualane,10222,732,696,0,36
+2021-06-11,Maule,Licanten,6989,594,584,0,10
+2021-06-11,Maule,Linares,101073,8330,7933,0,397
+2021-06-11,Maule,Longavi,32810,3206,3031,0,175
+2021-06-11,Maule,Maule,60000,4678,4489,0,189
+2021-06-11,Maule,Molina,49800,4614,4517,0,97
+2021-06-11,Maule,Parral,44544,3567,3344,0,223
+2021-06-11,Maule,Pelarco,9083,770,730,0,40
+2021-06-11,Maule,Pelluhue,8092,549,494,0,55
+2021-06-11,Maule,Pencahue,8601,711,680,0,31
+2021-06-11,Maule,Rauco,11248,1247,1217,0,30
+2021-06-11,Maule,Retiro,21071,1462,1378,0,84
+2021-06-11,Maule,Rio Claro,14753,1332,1288,0,44
+2021-06-11,Maule,Romeral,16170,1802,1742,0,60
+2021-06-11,Maule,Sagrada Familia,19469,1361,1318,0,43
+2021-06-11,Maule,San Clemente,46292,4024,3861,0,163
+2021-06-11,Maule,San Javier,49451,4628,4514,0,114
+2021-06-11,Maule,San Rafael,9959,1008,956,0,52
+2021-06-11,Maule,Talca,236724,18978,18196,0,782
+2021-06-11,Maule,Teno,30850,2844,2775,0,69
+2021-06-11,Maule,Vichuquen,4381,355,344,0,11
+2021-06-11,Maule,Villa Alegre,17512,1220,1142,0,78
+2021-06-11,Maule,Yerbas Buenas,19200,1664,1593,0,71
+2021-06-11,Maule,Desconocido Maule,0,95,87,0,8
+2021-06-11,Ñuble,Bulnes,22607,1970,1917,0,53
+2021-06-11,Ñuble,Chillan,198624,17695,17223,0,472
+2021-06-11,Ñuble,Chillan Viejo,33827,2549,2476,0,73
+2021-06-11,Ñuble,Cobquecura,5275,225,224,0,1
+2021-06-11,Ñuble,Coelemu,16845,1029,1009,0,20
+2021-06-11,Ñuble,Coihueco,28375,2240,2137,0,103
+2021-06-11,Ñuble,El Carmen,12334,662,640,0,22
+2021-06-11,Ñuble,Ninhue,5414,392,374,0,18
+2021-06-11,Ñuble,Niquen,11567,1064,1019,0,45
+2021-06-11,Ñuble,Pemuco,8639,628,609,0,19
+2021-06-11,Ñuble,Pinto,11880,682,663,0,19
+2021-06-11,Ñuble,Portezuelo,4940,276,263,0,13
+2021-06-11,Ñuble,Quillon,18777,1319,1255,0,64
+2021-06-11,Ñuble,Quirihue,12192,789,774,0,15
+2021-06-11,Ñuble,Ranquil,6261,429,406,0,23
+2021-06-11,Ñuble,San Carlos,56252,5063,4857,0,206
+2021-06-11,Ñuble,San Fabian,4654,305,299,0,6
+2021-06-11,Ñuble,San Ignacio,16624,1120,1070,0,50
+2021-06-11,Ñuble,San Nicolas,12172,1101,1069,0,32
+2021-06-11,Ñuble,Treguaco,5696,461,433,0,28
+2021-06-11,Ñuble,Yungay,18596,1158,1111,0,47
+2021-06-11,Ñuble,Desconocido Nuble,0,37,35,0,2
+2021-06-11,Biobío,Alto Biobio,6775,931,894,0,37
+2021-06-11,Biobío,Antuco,4306,338,332,0,6
+2021-06-11,Biobío,Arauco,38679,4538,4408,0,130
+2021-06-11,Biobío,Cabrero,30725,2751,2652,0,99
+2021-06-11,Biobío,Canete,37003,3368,3229,0,139
+2021-06-11,Biobío,Chiguayante,91180,8874,8641,0,233
+2021-06-11,Biobío,Concepcion,238092,22414,21830,0,584
+2021-06-11,Biobío,Contulmo,6330,493,475,0,18
+2021-06-11,Biobío,Coronel,125829,14413,14122,0,291
+2021-06-11,Biobío,Curanilahue,33892,3715,3634,0,81
+2021-06-11,Biobío,Florida,11841,927,899,0,28
+2021-06-11,Biobío,Hualpen,97273,10323,10086,0,237
+2021-06-11,Biobío,Hualqui,26201,2596,2534,0,62
+2021-06-11,Biobío,Laja,23873,2291,2192,0,99
+2021-06-11,Biobío,Lebu,27100,1942,1809,0,133
+2021-06-11,Biobío,Los Alamos,22524,2085,2022,0,63
+2021-06-11,Biobío,Los Angeles,218515,22867,21842,0,1025
+2021-06-11,Biobío,Lota,45750,5654,5517,0,137
+2021-06-11,Biobío,Mulchen,31041,3590,3505,0,85
+2021-06-11,Biobío,Nacimiento,27944,2593,2509,0,84
+2021-06-11,Biobío,Negrete,10429,1289,1252,0,37
+2021-06-11,Biobío,Penco,49865,5435,5291,0,144
+2021-06-11,Biobío,Quilaco,4179,363,344,0,19
+2021-06-11,Biobío,Quilleco,10032,973,948,0,25
+2021-06-11,Biobío,San Pedro de la Paz,145906,13117,12791,0,326
+2021-06-11,Biobío,San Rosendo,3611,289,284,0,5
+2021-06-11,Biobío,Santa Barbara,14592,1413,1318,0,95
+2021-06-11,Biobío,Santa Juana,14779,1344,1292,0,52
+2021-06-11,Biobío,Talcahuano,158345,16063,15717,0,346
+2021-06-11,Biobío,Tirua,11019,1050,1009,0,41
+2021-06-11,Biobío,Tome,58729,5146,4993,0,153
+2021-06-11,Biobío,Tucapel,15205,993,970,0,23
+2021-06-11,Biobío,Yumbel,22132,1804,1726,0,78
+2021-06-11,Biobío,Desconocido Biobio,0,385,372,0,13
+2021-06-11,Araucanía,Angol,56058,5607,5441,0,166
+2021-06-11,Araucanía,Carahue,25486,2385,2332,0,53
+2021-06-11,Araucanía,Cholchol,12341,1024,1005,0,19
+2021-06-11,Araucanía,Collipulli,26148,3043,2901,0,142
+2021-06-11,Araucanía,Cunco,18055,1521,1480,0,41
+2021-06-11,Araucanía,Curacautin,18178,1134,1084,0,50
+2021-06-11,Araucanía,Curarrehue,7802,757,704,0,53
+2021-06-11,Araucanía,Ercilla,8458,1193,1149,0,44
+2021-06-11,Araucanía,Freire,25446,2291,2202,0,89
+2021-06-11,Araucanía,Galvarino,12633,2086,2015,0,71
+2021-06-11,Araucanía,Gorbea,15148,1233,1191,0,42
+2021-06-11,Araucanía,Lautaro,40746,4113,4009,0,104
+2021-06-11,Araucanía,Loncoche,24739,1951,1874,0,77
+2021-06-11,Araucanía,Lonquimay,11049,715,661,0,54
+2021-06-11,Araucanía,Los Sauces,7517,789,738,0,51
+2021-06-11,Araucanía,Lumaco,10050,1064,1049,0,15
+2021-06-11,Araucanía,Melipeuco,6265,469,445,0,24
+2021-06-11,Araucanía,Nueva Imperial,33777,2978,2922,0,56
+2021-06-11,Araucanía,Padre Las Casas,82110,8700,8498,0,202
+2021-06-11,Araucanía,Perquenco,7223,1002,966,0,36
+2021-06-11,Araucanía,Pitrufquen,26096,2406,2328,0,78
+2021-06-11,Araucanía,Pucon,29782,2516,2339,0,177
+2021-06-11,Araucanía,Puren,12188,953,941,0,12
+2021-06-11,Araucanía,Renaico,10833,1653,1613,0,40
+2021-06-11,Araucanía,Saavedra,12793,1423,1367,0,56
+2021-06-11,Araucanía,Temuco,302931,29272,28705,0,567
+2021-06-11,Araucanía,Teodoro Schmidt,15786,1097,1030,0,67
+2021-06-11,Araucanía,Tolten,10055,1022,971,0,51
+2021-06-11,Araucanía,Traiguen,19314,1765,1740,0,25
+2021-06-11,Araucanía,Victoria,35467,3282,3233,0,49
+2021-06-11,Araucanía,Vilcun,30766,3151,3077,0,74
+2021-06-11,Araucanía,Villarrica,59103,4723,4495,0,228
+2021-06-11,Araucanía,Desconocido Araucania,0,51,42,0,9
+2021-06-11,Los Ríos,Corral,5447,653,626,0,27
+2021-06-11,Los Ríos,Futrono,15261,2146,1985,0,161
+2021-06-11,Los Ríos,La Union,39538,4643,4512,0,131
+2021-06-11,Los Ríos,Lago Ranco,10292,1288,1223,0,65
+2021-06-11,Los Ríos,Lanco,17652,2047,1945,0,102
+2021-06-11,Los Ríos,Los Lagos,20518,3019,2847,0,172
+2021-06-11,Los Ríos,Mafil,7389,1008,981,0,27
+2021-06-11,Los Ríos,Mariquina,23250,3051,2953,0,98
+2021-06-11,Los Ríos,Paillaco,20798,2172,2060,0,112
+2021-06-11,Los Ríos,Panguipulli,35991,4006,3732,0,274
+2021-06-11,Los Ríos,Rio Bueno,32925,3204,3117,0,87
+2021-06-11,Los Ríos,Valdivia,176774,19231,18596,0,635
+2021-06-11,Los Ríos,Desconocido Los Rios,0,82,71,0,11
+2021-06-11,Los Lagos,Ancud,42458,4164,4005,0,159
+2021-06-11,Los Lagos,Calbuco,36744,4470,4348,0,122
+2021-06-11,Los Lagos,Castro,47607,4285,4107,0,178
+2021-06-11,Los Lagos,Chaiten,5020,166,160,0,6
+2021-06-11,Los Lagos,Chonchi,16013,1733,1689,0,44
+2021-06-11,Los Lagos,Cochamo,4006,406,400,0,6
+2021-06-11,Los Lagos,Curaco de Velez,4066,387,364,0,23
+2021-06-11,Los Lagos,Dalcahue,15069,1695,1614,0,81
+2021-06-11,Los Lagos,Fresia,12656,1378,1351,0,27
+2021-06-11,Los Lagos,Frutillar,20223,2514,2444,0,70
+2021-06-11,Los Lagos,Futaleufu,2806,79,78,0,1
+2021-06-11,Los Lagos,Hualaihue,9525,1150,1138,0,12
+2021-06-11,Los Lagos,Llanquihue,18621,2283,2191,0,92
+2021-06-11,Los Lagos,Los Muermos,17817,2040,2024,0,16
+2021-06-11,Los Lagos,Maullin,14894,2266,2243,0,23
+2021-06-11,Los Lagos,Osorno,173410,18278,17934,0,344
+2021-06-11,Los Lagos,Palena,1827,132,129,0,3
+2021-06-11,Los Lagos,Puerto Montt,269398,28559,27900,0,659
+2021-06-11,Los Lagos,Puerto Octay,9192,871,849,0,22
+2021-06-11,Los Lagos,Puerto Varas,48620,4257,4137,0,120
+2021-06-11,Los Lagos,Puqueldon,4201,485,445,0,40
+2021-06-11,Los Lagos,Purranque,21080,2408,2345,0,63
+2021-06-11,Los Lagos,Puyehue,11787,1170,1119,0,51
+2021-06-11,Los Lagos,Queilen,5543,422,398,0,24
+2021-06-11,Los Lagos,Quellon,29309,2422,2378,0,44
+2021-06-11,Los Lagos,Quemchi,8783,902,867,0,35
+2021-06-11,Los Lagos,Quinchao,8298,852,842,0,10
+2021-06-11,Los Lagos,Rio Negro,14275,1639,1555,0,84
+2021-06-11,Los Lagos,San Juan de la Costa,7639,1246,1217,0,29
+2021-06-11,Los Lagos,San Pablo,10553,1126,1095,0,31
+2021-06-11,Los Lagos,Desconocido Los Lagos,0,149,136,0,13
+2021-06-11,Aysén,Aysen,25002,1468,1255,0,213
+2021-06-11,Aysén,Chile Chico,5121,368,332,0,36
+2021-06-11,Aysén,Cisnes,5828,495,466,0,29
+2021-06-11,Aysén,Cochrane,3685,201,179,0,22
+2021-06-11,Aysén,Coyhaique,61210,5164,4895,0,269
+2021-06-11,Aysén,Guaitecas,1599,185,183,0,2
+2021-06-11,Aysén,Lago Verde,920,38,36,0,2
+2021-06-11,Aysén,OHiggins,661,10,10,0,0
+2021-06-11,Aysén,Rio Ibanez,2699,154,117,0,37
+2021-06-11,Aysén,Tortel,572,19,18,0,1
+2021-06-11,Aysén,Desconocido Aysen,0,8,7,0,1
+2021-06-11,Magallanes,Antartica,137,59,59,0,0
+2021-06-11,Magallanes,Cabo de Hornos,1983,364,364,0,0
+2021-06-11,Magallanes,Laguna Blanca,264,24,24,0,0
+2021-06-11,Magallanes,Natales,23782,5372,5282,0,90
+2021-06-11,Magallanes,Porvenir,7323,1167,1132,0,35
+2021-06-11,Magallanes,Primavera,694,61,60,0,1
+2021-06-11,Magallanes,Punta Arenas,141984,24289,24080,0,209
+2021-06-11,Magallanes,Rio Verde,211,13,13,0,0
+2021-06-11,Magallanes,San Gregorio,681,70,70,0,0
+2021-06-11,Magallanes,Timaukel,282,42,42,0,0
+2021-06-11,Magallanes,Torres del Paine,1021,19,18,0,1
+2021-06-11,Magallanes,Desconocido Magallanes,0,65,59,0,6
