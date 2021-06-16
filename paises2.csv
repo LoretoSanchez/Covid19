@@ -509,6 +509,7 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,China,91480.0,4636.0
 2021-06-13,China,91503.0,4636.0
 2021-06-14,China,91523.0,4636.0
+2021-06-15,China,91544.0,4636.0
 2020-01-22,United States,1.0,
 2020-01-23,United States,1.0,
 2020-01-24,United States,2.0,
@@ -1015,10 +1016,11 @@ Fecha,Pais,Contagios,Muertos
 2021-06-08,United States,33391107.0,597877.0
 2021-06-09,United States,33409753.0,598314.0
 2021-06-10,United States,33424296.0,598739.0
-2021-06-11,United States,33449200.0,599385.0
-2021-06-12,United States,33457407.0,599664.0
+2021-06-11,United States,33449000.0,599385.0
+2021-06-12,United States,33457207.0,599664.0
 2021-06-13,United States,33461982.0,599775.0
-2021-06-14,United States,33474692.0,599945.0
+2021-06-14,United States,33474734.0,599946.0
+2021-06-15,United States,33486038.0,600285.0
 2020-02-01,Spain,1.0,
 2020-02-02,Spain,1.0,
 2020-02-03,Spain,1.0,
@@ -1519,6 +1521,7 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,Spain,3733600.0,80501.0
 2021-06-13,Spain,3733600.0,80501.0
 2021-06-14,Spain,3741767.0,80517.0
+2021-06-15,Spain,3745199.0,80579.0
 2020-01-31,Italy,2.0,
 2020-02-01,Italy,2.0,
 2020-02-02,Italy,2.0,
@@ -2020,6 +2023,7 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,Italy,4243482.0,126976.0
 2021-06-13,Italy,4244872.0,127002.0
 2021-06-14,Italy,4245779.0,127038.0
+2021-06-15,Italy,4247032.0,127101.0
 2020-01-31,United Kingdom,2.0,
 2020-02-01,United Kingdom,2.0,
 2020-02-02,United Kingdom,2.0,
@@ -2521,6 +2525,7 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,United Kingdom,4574445.0,128160.0
 2021-06-13,United Kingdom,4581779.0,128168.0
 2021-06-14,United Kingdom,4589400.0,128171.0
+2021-06-15,United Kingdom,4596994.0,128181.0
 2020-02-26,Brazil,1.0,
 2020-02-27,Brazil,1.0,
 2020-02-28,Brazil,1.0,
@@ -2996,6 +3001,7 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,Brazil,17374818.0,486272.0
 2021-06-13,Brazil,17412766.0,487401.0
 2021-06-14,Brazil,17452612.0,488228.0
+2021-06-15,Brazil,17533221.0,490696.0
 2020-01-01,Argentina,,
 2020-01-02,Argentina,,
 2020-01-03,Argentina,,
@@ -3527,6 +3533,7 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,Argentina,4111147.0,85075.0
 2021-06-13,Argentina,4124190.0,85343.0
 2021-06-14,Argentina,4145482.0,86029.0
+2021-06-15,Argentina,4172742.0,86615.0
 2020-01-06,Peru,,
 2020-01-07,Peru,,
 2020-01-08,Peru,,
@@ -4053,6 +4060,7 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,Peru,1998056.0,188100.0
 2021-06-13,Peru,2003625.0,188708.0
 2021-06-14,Peru,2003625.0,188708.0
+2021-06-15,Peru,2007477.0,189261.0
 2020-03-01,Ecuador,6.0,
 2020-03-02,Ecuador,6.0,
 2020-03-03,Ecuador,7.0,
@@ -4524,6 +4532,7 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,Ecuador,438108.0,21018.0
 2021-06-13,Ecuador,438934.0,21048.0
 2021-06-14,Ecuador,439139.0,21051.0
+2021-06-15,Ecuador,439374.0,21061.0
 2020-01-21,South Korea,,
 2020-01-22,South Korea,1.0,
 2020-01-23,South Korea,1.0,
@@ -5035,6 +5044,7 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,South Korea,147874.0,1985.0
 2021-06-13,South Korea,148273.0,1988.0
 2021-06-14,South Korea,148647.0,1992.0
+2021-06-15,South Korea,149191.0,1993.0
 2020-01-06,Germany,,
 2020-01-18,Germany,,
 2020-01-24,Germany,,
@@ -5543,6 +5553,7 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,Germany,3722295.0,89841.0
 2021-06-13,Germany,3723295.0,89849.0
 2021-06-14,Germany,3724168.0,89944.0
+2021-06-15,Germany,3725328.0,90079.0
 2020-02-28,New Zealand,1.0,
 2020-02-29,New Zealand,1.0,
 2020-03-01,New Zealand,1.0,
@@ -6016,6 +6027,7 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,New Zealand,2708.0,26.0
 2021-06-13,New Zealand,2709.0,26.0
 2021-06-14,New Zealand,2709.0,26.0
+2021-06-15,New Zealand,2711.0,26.0
 2020-01-26,Australia,4.0,
 2020-01-27,Australia,5.0,
 2020-01-28,Australia,5.0,
@@ -6522,3 +6534,4 @@ Fecha,Pais,Contagios,Muertos
 2021-06-12,Australia,30248.0,910.0
 2021-06-13,Australia,30262.0,910.0
 2021-06-14,Australia,30273.0,910.0
+2021-06-15,Australia,30286.0,910.0
