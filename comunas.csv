@@ -52127,3 +52127,365 @@ Fecha,Region,Comuna,Poblacion,Contagios,Recuperados,Muertos,Activos
 2021-08-06,Magallanes,Timaukel,282,42,42,0,0
 2021-08-06,Magallanes,Torres del Paine,1021,19,19,0,0
 2021-08-06,Magallanes,Desconocido Magallanes,0,61,61,0,0
+2021-08-09,Arica y Parinacota,Arica,247552,29408,29266,0,142
+2021-08-09,Arica y Parinacota,Camarones,1233,69,66,0,3
+2021-08-09,Arica y Parinacota,General Lagos,810,87,87,0,0
+2021-08-09,Arica y Parinacota,Putre,2515,198,198,0,0
+2021-08-09,Arica y Parinacota,Desconocido Arica y Parinacota,0,232,230,0,2
+2021-08-09,Tarapacá,Alto Hospicio,129999,15462,15329,0,133
+2021-08-09,Tarapacá,Camina,1375,221,221,0,0
+2021-08-09,Tarapacá,Colchane,1583,145,145,0,0
+2021-08-09,Tarapacá,Huara,3000,455,454,0,1
+2021-08-09,Tarapacá,Iquique,223463,29073,28982,0,91
+2021-08-09,Tarapacá,Pica,5958,1004,1000,0,4
+2021-08-09,Tarapacá,Pozo Almonte,17395,2271,2254,0,17
+2021-08-09,Tarapacá,Desconocido Tarapaca,0,994,983,0,11
+2021-08-09,Antofagasta,Antofagasta,425725,39408,39188,0,220
+2021-08-09,Antofagasta,Calama,190336,18272,18244,0,28
+2021-08-09,Antofagasta,Maria Elena,6814,702,701,0,1
+2021-08-09,Antofagasta,Mejillones,14776,1935,1931,0,4
+2021-08-09,Antofagasta,Ollague,287,38,38,0,0
+2021-08-09,Antofagasta,San Pedro de Atacama,10434,1136,1123,0,13
+2021-08-09,Antofagasta,Sierra Gorda,1746,166,166,0,0
+2021-08-09,Antofagasta,Taltal,13657,930,925,0,5
+2021-08-09,Antofagasta,Tocopilla,28079,2015,2008,0,7
+2021-08-09,Antofagasta,Desconocido Antofagasta,0,760,755,0,5
+2021-08-09,Atacama,Alto del Carmen,5729,266,265,0,1
+2021-08-09,Atacama,Caldera,19426,1574,1568,0,6
+2021-08-09,Atacama,Chanaral,13164,1033,1030,0,3
+2021-08-09,Atacama,Copiapo,171766,16065,15981,0,84
+2021-08-09,Atacama,Diego de Almagro,14358,1318,1317,0,1
+2021-08-09,Atacama,Freirina,7681,678,678,0,0
+2021-08-09,Atacama,Huasco,11264,847,840,0,7
+2021-08-09,Atacama,Tierra Amarilla,14312,1485,1480,0,5
+2021-08-09,Atacama,Vallenar,57009,5088,5063,0,25
+2021-08-09,Atacama,Desconocido Atacama,0,110,110,0,0
+2021-08-09,Coquimbo,Andacollo,11791,573,569,0,4
+2021-08-09,Coquimbo,Canela,9546,475,472,0,3
+2021-08-09,Coquimbo,Combarbala,13884,777,772,0,5
+2021-08-09,Coquimbo,Coquimbo,256735,16731,16651,0,80
+2021-08-09,Coquimbo,Illapel,32801,2352,2338,0,14
+2021-08-09,Coquimbo,La Higuera,4450,386,384,0,2
+2021-08-09,Coquimbo,La Serena,249656,16611,16529,0,82
+2021-08-09,Coquimbo,Los Vilos,23374,1819,1805,0,14
+2021-08-09,Coquimbo,Monte Patria,32527,1996,1987,0,9
+2021-08-09,Coquimbo,Ovalle,121269,9418,9379,0,39
+2021-08-09,Coquimbo,Paiguano,4675,343,341,0,2
+2021-08-09,Coquimbo,Punitaqui,12165,956,949,0,7
+2021-08-09,Coquimbo,Rio Hurtado,4372,235,235,0,0
+2021-08-09,Coquimbo,Salamanca,29110,1789,1777,0,12
+2021-08-09,Coquimbo,Vicuna,29741,2012,2006,0,6
+2021-08-09,Coquimbo,Desconocido Coquimbo,0,272,271,0,1
+2021-08-09,Valparaíso,Algarrobo,15174,1153,1135,0,18
+2021-08-09,Valparaíso,Cabildo,20663,1534,1527,0,7
+2021-08-09,Valparaíso,Calera,53591,5076,5052,0,24
+2021-08-09,Valparaíso,Calle Larga,16482,1296,1294,0,2
+2021-08-09,Valparaíso,Cartagena,25357,2316,2288,0,28
+2021-08-09,Valparaíso,Casablanca,29170,2353,2350,0,3
+2021-08-09,Valparaíso,Catemu,15213,1222,1209,0,13
+2021-08-09,Valparaíso,Concon,45889,3478,3456,0,22
+2021-08-09,Valparaíso,El Quisco,17742,1389,1377,0,12
+2021-08-09,Valparaíso,El Tabo,14338,1389,1376,0,13
+2021-08-09,Valparaíso,Hijuelas,19099,1388,1384,0,4
+2021-08-09,Valparaíso,Isla de Pascua,8277,9,9,0,0
+2021-08-09,Valparaíso,Juan Fernandez,1033,1,1,0,0
+2021-08-09,Valparaíso,La Cruz,25321,1919,1911,0,8
+2021-08-09,Valparaíso,La Ligua,37739,3190,3174,0,16
+2021-08-09,Valparaíso,Limache,49931,4165,4130,0,35
+2021-08-09,Valparaíso,Llaillay,26533,2277,2268,0,9
+2021-08-09,Valparaíso,Los Andes,68093,5870,5852,0,18
+2021-08-09,Valparaíso,Nogales,23490,1904,1895,0,9
+2021-08-09,Valparaíso,Olmue,19266,1438,1406,0,32
+2021-08-09,Valparaíso,Panquehue,7633,549,545,0,4
+2021-08-09,Valparaíso,Papudo,6201,520,513,0,7
+2021-08-09,Valparaíso,Petorca,10558,729,727,0,2
+2021-08-09,Valparaíso,Puchuncavi,20071,1460,1450,0,10
+2021-08-09,Valparaíso,Putaendo,17645,1203,1196,0,7
+2021-08-09,Valparaíso,Quillota,97572,8259,8223,0,36
+2021-08-09,Valparaíso,Quilpue,167085,13122,13078,0,44
+2021-08-09,Valparaíso,Quintero,36135,2816,2790,0,26
+2021-08-09,Valparaíso,Rinconada,11263,782,781,0,1
+2021-08-09,Valparaíso,San Antonio,96761,8577,8522,0,55
+2021-08-09,Valparaíso,San Esteban,20643,1401,1393,0,8
+2021-08-09,Valparaíso,San Felipe,83494,6741,6699,0,42
+2021-08-09,Valparaíso,Santa Maria,16367,1347,1343,0,4
+2021-08-09,Valparaíso,Santo Domingo,11934,899,881,0,18
+2021-08-09,Valparaíso,Valparaiso,315732,33266,33153,0,113
+2021-08-09,Valparaíso,Villa Alemana,139310,11592,11548,0,44
+2021-08-09,Valparaíso,Vina del Mar,361371,31713,31581,0,132
+2021-08-09,Valparaíso,Zapallar,7994,586,582,0,4
+2021-08-09,Valparaíso,Desconocido Valparaiso,0,1283,1272,0,11
+2021-08-09,Metropolitana,Alhue,7405,790,788,0,2
+2021-08-09,Metropolitana,Buin,109641,10651,10589,0,62
+2021-08-09,Metropolitana,Calera de Tango,28525,2400,2373,0,27
+2021-08-09,Metropolitana,Cerrillos,88956,8350,8319,0,31
+2021-08-09,Metropolitana,Cerro Navia,142465,18011,17939,0,72
+2021-08-09,Metropolitana,Colina,180353,15243,15175,0,68
+2021-08-09,Metropolitana,Conchali,139195,14594,14542,0,52
+2021-08-09,Metropolitana,Curacavi,36430,3785,3745,0,40
+2021-08-09,Metropolitana,El Bosque,172000,21238,21186,0,52
+2021-08-09,Metropolitana,El Monte,40014,4007,3994,0,13
+2021-08-09,Metropolitana,Estacion Central,206792,18185,18106,0,79
+2021-08-09,Metropolitana,Huechuraba,112528,9951,9910,0,41
+2021-08-09,Metropolitana,Independencia,142065,14542,14509,0,33
+2021-08-09,Metropolitana,Isla de Maipo,40171,4038,4024,0,14
+2021-08-09,Metropolitana,La Cisterna,100434,10202,10158,0,44
+2021-08-09,Metropolitana,La Florida,402433,42618,42438,0,180
+2021-08-09,Metropolitana,La Granja,122557,16935,16871,0,64
+2021-08-09,Metropolitana,La Pintana,189335,26138,26064,0,74
+2021-08-09,Metropolitana,La Reina,100252,7244,7172,0,72
+2021-08-09,Metropolitana,Lampa,126898,10615,10569,0,46
+2021-08-09,Metropolitana,Las Condes,330759,19107,18985,0,122
+2021-08-09,Metropolitana,Lo Barnechea,124076,9710,9641,0,69
+2021-08-09,Metropolitana,Lo Espejo,103865,10979,10953,0,26
+2021-08-09,Metropolitana,Lo Prado,104403,13985,13930,0,55
+2021-08-09,Metropolitana,Macul,134635,13758,13690,0,68
+2021-08-09,Metropolitana,Maipu,578605,47077,46859,0,218
+2021-08-09,Metropolitana,Maria Pinto,14926,1555,1539,0,16
+2021-08-09,Metropolitana,Melipilla,141612,12523,12443,0,80
+2021-08-09,Metropolitana,Nunoa,250192,16976,16885,0,91
+2021-08-09,Metropolitana,Padre Hurtado,74188,8030,7982,0,48
+2021-08-09,Metropolitana,Paine,82766,7548,7491,0,57
+2021-08-09,Metropolitana,Pedro Aguirre Cerda,107803,12837,12802,0,35
+2021-08-09,Metropolitana,Penaflor,101058,9226,9172,0,54
+2021-08-09,Metropolitana,Penalolen,266798,32015,31871,0,144
+2021-08-09,Metropolitana,Pirque,30433,3341,3310,0,31
+2021-08-09,Metropolitana,Providencia,157749,9835,9779,0,56
+2021-08-09,Metropolitana,Pudahuel,253139,28319,28228,0,91
+2021-08-09,Metropolitana,Puente Alto,645909,73137,72854,0,283
+2021-08-09,Metropolitana,Quilicura,254694,22203,22086,0,117
+2021-08-09,Metropolitana,Quinta Normal,136368,16194,16086,0,108
+2021-08-09,Metropolitana,Recoleta,190075,18944,18888,0,56
+2021-08-09,Metropolitana,Renca,160847,24422,24321,0,101
+2021-08-09,Metropolitana,San Bernardo,334836,35615,35492,0,123
+2021-08-09,Metropolitana,San Joaquin,103485,13392,13344,0,48
+2021-08-09,Metropolitana,San Jose de Maipo,18644,1867,1860,0,7
+2021-08-09,Metropolitana,San Miguel,133059,15544,15459,0,85
+2021-08-09,Metropolitana,San Pedro,11953,982,982,0,0
+2021-08-09,Metropolitana,San Ramon,86510,10947,10907,0,40
+2021-08-09,Metropolitana,Santiago,503147,43733,43534,0,199
+2021-08-09,Metropolitana,Talagante,81838,5393,5369,0,24
+2021-08-09,Metropolitana,Tiltil,21477,1817,1801,0,16
+2021-08-09,Metropolitana,Vitacura,96774,5236,5178,0,58
+2021-08-09,Metropolitana,Desconocido Metropolitana,0,14459,14331,0,128
+2021-08-09,O’Higgins,Chepica,15925,1184,1182,0,2
+2021-08-09,O’Higgins,Chimbarongo,37696,2327,2320,0,7
+2021-08-09,O’Higgins,Codegua,14096,1119,1118,0,1
+2021-08-09,O’Higgins,Coinco,7831,596,592,0,4
+2021-08-09,O’Higgins,Coltauco,21263,1493,1491,0,2
+2021-08-09,O’Higgins,Donihue,22700,1859,1858,0,1
+2021-08-09,O’Higgins,Graneros,36504,3273,3263,0,10
+2021-08-09,O’Higgins,La Estrella,3114,205,205,0,0
+2021-08-09,O’Higgins,Las Cabras,26749,2577,2572,0,5
+2021-08-09,O’Higgins,Litueche,6765,600,599,0,1
+2021-08-09,O’Higgins,Lolol,7289,307,306,0,1
+2021-08-09,O’Higgins,Machali,59913,3963,3950,0,13
+2021-08-09,O’Higgins,Malloa,14163,1136,1134,0,2
+2021-08-09,O’Higgins,Marchihue,7632,527,527,0,0
+2021-08-09,O’Higgins,Mostazal,27462,2107,2101,0,6
+2021-08-09,O’Higgins,Nancagua,19141,1466,1459,0,7
+2021-08-09,O’Higgins,Navidad,6904,506,506,0,0
+2021-08-09,O’Higgins,Olivar,14624,1435,1435,0,0
+2021-08-09,O’Higgins,Palmilla,13299,910,910,0,0
+2021-08-09,O’Higgins,Paredones,6349,499,484,0,15
+2021-08-09,O’Higgins,Peralillo,11848,914,912,0,2
+2021-08-09,O’Higgins,Peumo,14952,1240,1240,0,0
+2021-08-09,O’Higgins,Pichidegua,20743,1832,1832,0,0
+2021-08-09,O’Higgins,Pichilemu,17882,1199,1196,0,3
+2021-08-09,O’Higgins,Placilla,9164,767,766,0,1
+2021-08-09,O’Higgins,Pumanque,3531,254,254,0,0
+2021-08-09,O’Higgins,Quinta de Tilcoco,13877,883,881,0,2
+2021-08-09,O’Higgins,Rancagua,265211,24942,24862,0,80
+2021-08-09,O’Higgins,Rengo,63710,5751,5733,0,18
+2021-08-09,O’Higgins,Requinoa,30371,2508,2486,0,22
+2021-08-09,O’Higgins,San Fernando,78642,6979,6958,0,21
+2021-08-09,O’Higgins,San Vicente,50617,4271,4266,0,5
+2021-08-09,O’Higgins,Santa Cruz,41096,2637,2636,0,1
+2021-08-09,O’Higgins,Desconocido O’Higgins,0,375,374,0,1
+2021-08-09,Maule,Cauquenes,44143,2835,2796,0,39
+2021-08-09,Maule,Chanco,9331,548,547,0,1
+2021-08-09,Maule,Colbun,22565,2365,2362,0,3
+2021-08-09,Maule,Constitucion,50348,5041,5025,0,16
+2021-08-09,Maule,Curepto,9426,667,661,0,6
+2021-08-09,Maule,Curico,163626,19778,19731,0,47
+2021-08-09,Maule,Empedrado,4206,351,348,0,3
+2021-08-09,Maule,Hualane,10222,854,844,0,10
+2021-08-09,Maule,Licanten,6989,679,661,0,18
+2021-08-09,Maule,Linares,101073,9644,9609,0,35
+2021-08-09,Maule,Longavi,32810,3553,3543,0,10
+2021-08-09,Maule,Maule,60000,5176,5162,0,14
+2021-08-09,Maule,Molina,49800,5052,5035,0,17
+2021-08-09,Maule,Parral,44544,4251,4239,0,12
+2021-08-09,Maule,Pelarco,9083,861,842,0,19
+2021-08-09,Maule,Pelluhue,8092,687,685,0,2
+2021-08-09,Maule,Pencahue,8601,778,778,0,0
+2021-08-09,Maule,Rauco,11248,1340,1337,0,3
+2021-08-09,Maule,Retiro,21071,1753,1751,0,2
+2021-08-09,Maule,Rio Claro,14753,1488,1476,0,12
+2021-08-09,Maule,Romeral,16170,1946,1942,0,4
+2021-08-09,Maule,Sagrada Familia,19469,1542,1536,0,6
+2021-08-09,Maule,San Clemente,46292,4598,4569,0,29
+2021-08-09,Maule,San Javier,49451,5063,5026,0,37
+2021-08-09,Maule,San Rafael,9959,1200,1197,0,3
+2021-08-09,Maule,Talca,236724,21305,21181,0,124
+2021-08-09,Maule,Teno,30850,3231,3223,0,8
+2021-08-09,Maule,Vichuquen,4381,381,373,0,8
+2021-08-09,Maule,Villa Alegre,17512,1404,1398,0,6
+2021-08-09,Maule,Yerbas Buenas,19200,1891,1887,0,4
+2021-08-09,Maule,Desconocido Maule,0,99,99,0,0
+2021-08-09,Ñuble,Bulnes,22607,2128,2115,0,13
+2021-08-09,Ñuble,Chillan,198624,19227,19156,0,71
+2021-08-09,Ñuble,Chillan Viejo,33827,2777,2765,0,12
+2021-08-09,Ñuble,Cobquecura,5275,252,252,0,0
+2021-08-09,Ñuble,Coelemu,16845,1107,1106,0,1
+2021-08-09,Ñuble,Coihueco,28375,2508,2492,0,16
+2021-08-09,Ñuble,El Carmen,12334,753,751,0,2
+2021-08-09,Ñuble,Ninhue,5414,459,459,0,0
+2021-08-09,Ñuble,Niquen,11567,1156,1156,0,0
+2021-08-09,Ñuble,Pemuco,8639,735,732,0,3
+2021-08-09,Ñuble,Pinto,11880,784,782,0,2
+2021-08-09,Ñuble,Portezuelo,4940,330,329,0,1
+2021-08-09,Ñuble,Quillon,18777,1509,1496,0,13
+2021-08-09,Ñuble,Quirihue,12192,869,869,0,0
+2021-08-09,Ñuble,Ranquil,6261,461,460,0,1
+2021-08-09,Ñuble,San Carlos,56252,5851,5824,0,27
+2021-08-09,Ñuble,San Fabian,4654,365,364,0,1
+2021-08-09,Ñuble,San Ignacio,16624,1247,1239,0,8
+2021-08-09,Ñuble,San Nicolas,12172,1235,1234,0,1
+2021-08-09,Ñuble,Treguaco,5696,488,487,0,1
+2021-08-09,Ñuble,Yungay,18596,1292,1291,0,1
+2021-08-09,Ñuble,Desconocido Nuble,0,45,44,0,1
+2021-08-09,Biobío,Alto Biobio,6775,1016,1013,0,3
+2021-08-09,Biobío,Antuco,4306,373,373,0,0
+2021-08-09,Biobío,Arauco,38679,5045,5025,0,20
+2021-08-09,Biobío,Cabrero,30725,3017,3016,0,1
+2021-08-09,Biobío,Canete,37003,3732,3701,0,31
+2021-08-09,Biobío,Chiguayante,91180,9662,9631,0,31
+2021-08-09,Biobío,Concepcion,238092,24606,24467,0,139
+2021-08-09,Biobío,Contulmo,6330,639,622,0,17
+2021-08-09,Biobío,Coronel,125829,15840,15761,0,79
+2021-08-09,Biobío,Curanilahue,33892,4071,4059,0,12
+2021-08-09,Biobío,Florida,11841,1077,1070,0,7
+2021-08-09,Biobío,Hualpen,97273,11302,11255,0,47
+2021-08-09,Biobío,Hualqui,26201,2801,2793,0,8
+2021-08-09,Biobío,Laja,23873,2573,2563,0,10
+2021-08-09,Biobío,Lebu,27100,2425,2411,0,14
+2021-08-09,Biobío,Los Alamos,22524,2385,2369,0,16
+2021-08-09,Biobío,Los Angeles,218515,24923,24859,0,64
+2021-08-09,Biobío,Lota,45750,6024,6003,0,21
+2021-08-09,Biobío,Mulchen,31041,3882,3876,0,6
+2021-08-09,Biobío,Nacimiento,27944,2972,2958,0,14
+2021-08-09,Biobío,Negrete,10429,1394,1384,0,10
+2021-08-09,Biobío,Penco,49865,5876,5861,0,15
+2021-08-09,Biobío,Quilaco,4179,398,397,0,1
+2021-08-09,Biobío,Quilleco,10032,1053,1053,0,0
+2021-08-09,Biobío,San Pedro de la Paz,145906,14475,14431,0,44
+2021-08-09,Biobío,San Rosendo,3611,317,317,0,0
+2021-08-09,Biobío,Santa Barbara,14592,1506,1502,0,4
+2021-08-09,Biobío,Santa Juana,14779,1639,1639,0,0
+2021-08-09,Biobío,Talcahuano,158345,17411,17363,0,48
+2021-08-09,Biobío,Tirua,11019,1337,1323,0,14
+2021-08-09,Biobío,Tome,58729,5623,5607,0,16
+2021-08-09,Biobío,Tucapel,15205,1190,1164,0,26
+2021-08-09,Biobío,Yumbel,22132,2098,2087,0,11
+2021-08-09,Biobío,Desconocido Biobio,0,424,418,0,6
+2021-08-09,Araucanía,Angol,56058,5937,5919,0,18
+2021-08-09,Araucanía,Carahue,25486,2657,2648,0,9
+2021-08-09,Araucanía,Cholchol,12341,1164,1163,0,1
+2021-08-09,Araucanía,Collipulli,26148,3401,3395,0,6
+2021-08-09,Araucanía,Cunco,18055,1708,1674,0,34
+2021-08-09,Araucanía,Curacautin,18178,1345,1341,0,4
+2021-08-09,Araucanía,Curarrehue,7802,944,933,0,11
+2021-08-09,Araucanía,Ercilla,8458,1315,1311,0,4
+2021-08-09,Araucanía,Freire,25446,2590,2578,0,12
+2021-08-09,Araucanía,Galvarino,12633,2361,2357,0,4
+2021-08-09,Araucanía,Gorbea,15148,1448,1446,0,2
+2021-08-09,Araucanía,Lautaro,40746,4537,4519,0,18
+2021-08-09,Araucanía,Loncoche,24739,2273,2267,0,6
+2021-08-09,Araucanía,Lonquimay,11049,1042,1009,0,33
+2021-08-09,Araucanía,Los Sauces,7517,914,914,0,0
+2021-08-09,Araucanía,Lumaco,10050,1132,1131,0,1
+2021-08-09,Araucanía,Melipeuco,6265,529,526,0,3
+2021-08-09,Araucanía,Nueva Imperial,33777,3264,3257,0,7
+2021-08-09,Araucanía,Padre Las Casas,82110,9416,9386,0,30
+2021-08-09,Araucanía,Perquenco,7223,1080,1080,0,0
+2021-08-09,Araucanía,Pitrufquen,26096,2743,2741,0,2
+2021-08-09,Araucanía,Pucon,29782,3191,3172,0,19
+2021-08-09,Araucanía,Puren,12188,1041,1035,0,6
+2021-08-09,Araucanía,Renaico,10833,1732,1732,0,0
+2021-08-09,Araucanía,Saavedra,12793,1612,1612,0,0
+2021-08-09,Araucanía,Temuco,302931,31280,31183,0,97
+2021-08-09,Araucanía,Teodoro Schmidt,15786,1536,1519,0,17
+2021-08-09,Araucanía,Tolten,10055,1219,1214,0,5
+2021-08-09,Araucanía,Traiguen,19314,1960,1953,0,7
+2021-08-09,Araucanía,Victoria,35467,3488,3479,0,9
+2021-08-09,Araucanía,Vilcun,30766,3480,3459,0,21
+2021-08-09,Araucanía,Villarrica,59103,6029,5994,0,35
+2021-08-09,Araucanía,Desconocido Araucania,0,54,51,0,3
+2021-08-09,Los Ríos,Corral,5447,751,748,0,3
+2021-08-09,Los Ríos,Futrono,15261,2816,2792,0,24
+2021-08-09,Los Ríos,La Union,39538,5194,5181,0,13
+2021-08-09,Los Ríos,Lago Ranco,10292,1797,1787,0,10
+2021-08-09,Los Ríos,Lanco,17652,2476,2462,0,14
+2021-08-09,Los Ríos,Los Lagos,20518,3645,3635,0,10
+2021-08-09,Los Ríos,Mafil,7389,1136,1135,0,1
+2021-08-09,Los Ríos,Mariquina,23250,3264,3257,0,7
+2021-08-09,Los Ríos,Paillaco,20798,2624,2616,0,8
+2021-08-09,Los Ríos,Panguipulli,35991,5810,5734,0,76
+2021-08-09,Los Ríos,Rio Bueno,32925,3653,3642,0,11
+2021-08-09,Los Ríos,Valdivia,176774,21622,21525,0,97
+2021-08-09,Los Ríos,Desconocido Los Rios,0,84,82,0,2
+2021-08-09,Los Lagos,Ancud,42458,4444,4430,0,14
+2021-08-09,Los Lagos,Calbuco,36744,4758,4740,0,18
+2021-08-09,Los Lagos,Castro,47607,4845,4824,0,21
+2021-08-09,Los Lagos,Chaiten,5020,211,211,0,0
+2021-08-09,Los Lagos,Chonchi,16013,1881,1878,0,3
+2021-08-09,Los Lagos,Cochamo,4006,410,410,0,0
+2021-08-09,Los Lagos,Curaco de Velez,4066,429,429,0,0
+2021-08-09,Los Lagos,Dalcahue,15069,1842,1838,0,4
+2021-08-09,Los Lagos,Fresia,12656,1490,1480,0,10
+2021-08-09,Los Lagos,Frutillar,20223,2718,2708,0,10
+2021-08-09,Los Lagos,Futaleufu,2806,87,87,0,0
+2021-08-09,Los Lagos,Hualaihue,9525,1202,1193,0,9
+2021-08-09,Los Lagos,Llanquihue,18621,2518,2499,0,19
+2021-08-09,Los Lagos,Los Muermos,17817,2199,2191,0,8
+2021-08-09,Los Lagos,Maullin,14894,2359,2353,0,6
+2021-08-09,Los Lagos,Osorno,173410,20033,19991,0,42
+2021-08-09,Los Lagos,Palena,1827,171,164,0,7
+2021-08-09,Los Lagos,Puerto Montt,269398,30808,30725,0,83
+2021-08-09,Los Lagos,Puerto Octay,9192,958,951,0,7
+2021-08-09,Los Lagos,Puerto Varas,48620,4752,4721,0,31
+2021-08-09,Los Lagos,Puqueldon,4201,607,600,0,7
+2021-08-09,Los Lagos,Purranque,21080,2610,2601,0,9
+2021-08-09,Los Lagos,Puyehue,11787,1334,1334,0,0
+2021-08-09,Los Lagos,Queilen,5543,527,522,0,5
+2021-08-09,Los Lagos,Quellon,29309,2658,2654,0,4
+2021-08-09,Los Lagos,Quemchi,8783,944,943,0,1
+2021-08-09,Los Lagos,Quinchao,8298,884,884,0,0
+2021-08-09,Los Lagos,Rio Negro,14275,1962,1953,0,9
+2021-08-09,Los Lagos,San Juan de la Costa,7639,1337,1333,0,4
+2021-08-09,Los Lagos,San Pablo,10553,1238,1235,0,3
+2021-08-09,Los Lagos,Desconocido Los Lagos,0,155,152,0,3
+2021-08-09,Aysén,Aysen,25002,1920,1909,0,11
+2021-08-09,Aysén,Chile Chico,5121,417,417,0,0
+2021-08-09,Aysén,Cisnes,5828,598,597,0,1
+2021-08-09,Aysén,Cochrane,3685,260,260,0,0
+2021-08-09,Aysén,Coyhaique,61210,5910,5902,0,8
+2021-08-09,Aysén,Guaitecas,1599,197,197,0,0
+2021-08-09,Aysén,Lago Verde,920,44,44,0,0
+2021-08-09,Aysén,OHiggins,661,10,10,0,0
+2021-08-09,Aysén,Rio Ibanez,2699,211,211,0,0
+2021-08-09,Aysén,Tortel,572,27,27,0,0
+2021-08-09,Aysén,Desconocido Aysen,0,8,8,0,0
+2021-08-09,Magallanes,Antartica,137,59,59,0,0
+2021-08-09,Magallanes,Cabo de Hornos,1983,368,367,0,1
+2021-08-09,Magallanes,Laguna Blanca,264,24,24,0,0
+2021-08-09,Magallanes,Natales,23782,5577,5564,0,13
+2021-08-09,Magallanes,Porvenir,7323,1267,1267,0,0
+2021-08-09,Magallanes,Primavera,694,65,65,0,0
+2021-08-09,Magallanes,Punta Arenas,141984,24995,24969,0,26
+2021-08-09,Magallanes,Rio Verde,211,17,17,0,0
+2021-08-09,Magallanes,San Gregorio,681,74,74,0,0
+2021-08-09,Magallanes,Timaukel,282,42,42,0,0
+2021-08-09,Magallanes,Torres del Paine,1021,19,19,0,0
+2021-08-09,Magallanes,Desconocido Magallanes,0,61,61,0,0
